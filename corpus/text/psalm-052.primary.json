@@ -1,0 +1,447 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-052.primary",
+  "psalm_number": 52,
+  "title": "Psalm 52",
+  "version": "primary",
+  "opening_line": "Why dost thou boast, O mighty man,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 52 · p. 74–75",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-052-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      74,
+      75
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-052.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-052.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Why dost thou boast, O mighty man,",
+            "normalized": "Why dost thou boast, O mighty man,",
+            "reading": "Why dost thou boast, O mighty man,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of mischief and of ill?",
+            "normalized": "Of mischief and of ill?",
+            "reading": "of mischief and of ill?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The goodness of Almighty God",
+            "normalized": "The goodness of Almighty God",
+            "reading": "The goodness of Almighty God"
+          }
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "endureth ever still.",
+            "normalized": "Endureth ever still.",
+            "reading": "endureth ever still."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-052.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-052.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy tongue mischievous calumnies",
+            "normalized": "Thy tongue mischievous calumnies",
+            "reading": "Thy tongue mischievous calumnies"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "deviseth subtilely,",
+            "normalized": "Deviseth subtilely,",
+            "reading": "deviseth subtilely,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Like to a razor sharp to cut,",
+            "normalized": "Like to a razor sharp to cut,",
+            "reading": "Like to a razor sharp to cut,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "working deceitfully.",
+            "normalized": "Working deceitfully.",
+            "reading": "working deceitfully."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-052.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-052.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ill more than good, and more than truth",
+            "normalized": "Ill more than good, and more than truth",
+            "reading": "Ill more than good, and more than truth"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou lovest to speak wrong:",
+            "normalized": "Thou lovest to speak wrong:",
+            "reading": "thou lovest to speak wrong:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou lovest all-devouring words,",
+            "normalized": "Thou lovest all-devouring words,",
+            "reading": "Thou lovest all-devouring words,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O thou deceitful tongue.",
+            "normalized": "O thou deceitful tongue.",
+            "reading": "O thou deceitful tongue."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-052.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-052.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "So God shall thee destroy for aye,",
+            "normalized": "So God shall thee destroy for aye,",
+            "reading": "So God shall thee destroy for aye,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "remove thee, pluck thee out",
+            "normalized": "Remove thee, pluck thee out",
+            "reading": "remove thee, pluck thee out"
+          }
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Quite from thy house, out of the land",
+            "normalized": "Quite from thy house, out of the land",
+            "reading": "Quite from thy house, out of the land"
+          }
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of life he shall thee root.",
+            "normalized": "Of life he shall thee root.",
+            "reading": "of life he shall thee root."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-052.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6,
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-052.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The righteous shall it see, and fear,",
+            "normalized": "The righteous shall it see, and fear,",
+            "reading": "The righteous shall it see, and fear,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and laugh at him they shall:",
+            "normalized": "And laugh at him they shall:",
+            "reading": "and laugh at him they shall:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Lo, this the man is that did not",
+            "normalized": "Lo, this the man is that did not",
+            "reading": "Lo, this the man is that did not"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "make God his strength at all:",
+            "normalized": "Make God his strength at all:",
+            "reading": "make God his strength at all:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-052.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-052.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But he in his abundant wealth",
+            "normalized": "But he in his abundant wealth",
+            "reading": "But he in his abundant wealth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his confidence did place;",
+            "normalized": "His confidence did place;",
+            "reading": "his confidence did place;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And he took strength unto himself",
+            "normalized": "And he took strength unto himself",
+            "reading": "And he took strength unto himself"
+          }
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from his own wickedness.",
+            "normalized": "From his own wickedness.",
+            "reading": "from his own wickedness."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-052.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-052.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But I am in the house of God",
+            "normalized": "But I am in the house of God",
+            "reading": "But I am in the house of God"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "like to an olive green:",
+            "normalized": "Like to an olive green:",
+            "reading": "like to an olive green:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My confidence for ever hath",
+            "normalized": "My confidence for ever hath",
+            "reading": "My confidence for ever hath"
+          }
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "upon God’s mercy been.",
+            "normalized": "Upon God’s mercy been.",
+            "reading": "upon God’s mercy been."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-052.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-052.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And I for ever will thee praise,",
+            "normalized": "And I for ever will thee praise,",
+            "reading": "And I for ever will thee praise,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "because thou hast done this:",
+            "normalized": "Because thou hast done this:",
+            "reading": "because thou hast done this:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I on thy name will wait; for good",
+            "normalized": "I on thy name will wait; for good",
+            "reading": "I on thy name will wait; for good"
+          }
+        },
+        {
+          "id": "ps1650.psalm-052.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "before thy saints it is.",
+            "normalized": "Before thy saints it is.",
+            "reading": "before thy saints it is."
+          }
+        }
+      ]
+    }
+  ]
+}

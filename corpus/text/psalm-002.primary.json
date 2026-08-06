@@ -1,0 +1,511 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-002.primary",
+  "psalm_number": 2,
+  "title": "Psalm 2",
+  "version": "primary",
+  "opening_line": "Why rage the heathen? and vain things",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 2 · p. 7–8",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-002-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      7,
+      8
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-002.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-002.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Why rage the heathen? and vain things",
+            "normalized": "Why rage the heathen? and vain things",
+            "reading": "Why rage the heathen? and vain things"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "why do the people mind?",
+            "normalized": "Why do the people mind?",
+            "reading": "why do the people mind?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Kings of the earth do set themselves,",
+            "normalized": "Kings of the earth do set themselves,",
+            "reading": "Kings of the earth do set themselves,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and princes are combined,",
+            "normalized": "And princes are combined,",
+            "reading": "and princes are combined,"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-002.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-002.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To plot against the LORD, and his",
+            "normalized": "To plot against the LORD, and his",
+            "reading": "To plot against the LORD, and his"
+          }
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Anointed, saying thus,",
+            "normalized": "Anointed, saying thus,",
+            "reading": "Anointed, saying thus,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let us asunder break their bands,",
+            "normalized": "Let us asunder break their bands,",
+            "reading": "Let us asunder break their bands,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and cast their cords from us.",
+            "normalized": "And cast their cords from us.",
+            "reading": "and cast their cords from us."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-002.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4,
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-002.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He that in heaven sits shall laugh;",
+            "normalized": "He that in heaven sits shall laugh;",
+            "reading": "He that in heaven sits shall laugh;"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the Lord shall scorn them all.",
+            "normalized": "The Lord shall scorn them all.",
+            "reading": "the Lord shall scorn them all."
+          }
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then shall he speak to them in wrath,",
+            "normalized": "Then shall he speak to them in wrath,",
+            "reading": "Then shall he speak to them in wrath,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in rage he vex them shall.",
+            "normalized": "In rage he vex them shall.",
+            "reading": "in rage he vex them shall."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-002.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-002.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yet, notwithstanding, I have him",
+            "normalized": "Yet, notwithstanding, I have him",
+            "reading": "Yet, notwithstanding, I have him"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to be my King appointed;",
+            "normalized": "To be my King appointed;",
+            "reading": "to be my King appointed;"
+          },
+          "source_underlining": [
+            "pointed"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And over Zion, my holy hill,",
+            "normalized": "And over Zion, my holy hill,",
+            "reading": "And over Zion, my holy hill,"
+          },
+          "source_underlining": [
+            "Zion"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I have him King anointed.",
+            "normalized": "I have him King anointed.",
+            "reading": "I have him King anointed."
+          },
+          "source_underlining": [
+            "ointed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-002.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-002.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The sure decree I will declare;",
+            "normalized": "The sure decree I will declare;",
+            "reading": "The sure decree I will declare;"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the LORD hath said to me,",
+            "normalized": "The LORD hath said to me,",
+            "reading": "the LORD hath said to me,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou art mine only Son; this day",
+            "normalized": "Thou art mine only Son; this day",
+            "reading": "Thou art mine only Son; this day"
+          }
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I have begotten thee.",
+            "normalized": "I have begotten thee.",
+            "reading": "I have begotten thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-002.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-002.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ask of me, and for heritage",
+            "normalized": "Ask of me, and for heritage",
+            "reading": "Ask of me, and for heritage"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the heathen I’ll make thine;",
+            "normalized": "The heathen I’ll make thine;",
+            "reading": "the heathen I’ll make thine;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And, for possession, I to thee",
+            "normalized": "And, for possession, I to thee",
+            "reading": "And, for possession, I to thee"
+          }
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "will give earth’s utmost line.",
+            "normalized": "Will give earth’s utmost line.",
+            "reading": "will give earth’s utmost line."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-002.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-002.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou shalt, as with a weighty rod",
+            "normalized": "Thou shalt, as with a weighty rod",
+            "reading": "Thou shalt, as with a weighty rod"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of iron, break them all;",
+            "normalized": "Of iron, break them all;",
+            "reading": "of iron, break them all;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And, as a potter’s sherd, thou shalt",
+            "normalized": "And, as a potter’s sherd, thou shalt",
+            "reading": "And, as a potter’s sherd, thou shalt"
+          }
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "them dash in pieces small.",
+            "normalized": "Them dash in pieces small.",
+            "reading": "them dash in pieces small."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-002.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        10,
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-002.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Now, therefore, kings, be wise; be taught,",
+            "normalized": "Now, therefore, kings, be wise; be taught,",
+            "reading": "Now, therefore, kings, be wise; be taught,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ye judges of the earth:",
+            "normalized": "Ye judges of the earth:",
+            "reading": "ye judges of the earth:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Serve GOD in fear, and see that ye",
+            "normalized": "Serve GOD in fear, and see that ye",
+            "reading": "Serve GOD in fear, and see that ye"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "join trembling with your mirth.",
+            "normalized": "Join trembling with your mirth.",
+            "reading": "join trembling with your mirth."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-002.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-002.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Kiss ye the Son, lest in his ire",
+            "normalized": "Kiss ye the Son, lest in his ire",
+            "reading": "Kiss ye the Son, lest in his ire"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ye perish from the way,",
+            "normalized": "Ye perish from the way,",
+            "reading": "ye perish from the way,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "If once his wrath begin to burn:",
+            "normalized": "If once his wrath begin to burn:",
+            "reading": "If once his wrath begin to burn:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-002.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "bless’d all that on him stay.",
+            "normalized": "Bless’d all that on him stay.",
+            "reading": "bless’d all that on him stay."
+          }
+        }
+      ]
+    }
+  ]
+}

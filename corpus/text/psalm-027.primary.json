@@ -1,0 +1,844 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-027.primary",
+  "psalm_number": 27,
+  "title": "Psalm 27",
+  "version": "primary",
+  "opening_line": "The LORD’s my light and saving health,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 27 · p. 36–38",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-027-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      36,
+      37,
+      38
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-027.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-027.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD’s my light and saving health,",
+            "normalized": "The LORD’s my light and saving health,",
+            "reading": "The LORD’s my light and saving health,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who shall make me dismayed?",
+            "normalized": "Who shall make me dismayed?",
+            "reading": "who shall make me dismayed?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My life’s strength is the LORD, of whom",
+            "normalized": "My life’s strength is the LORD, of whom",
+            "reading": "My life’s strength is the LORD, of whom"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "then shall I be afraid?",
+            "normalized": "Then shall I be afraid?",
+            "reading": "then shall I be afraid?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-027.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-027.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When as mine enemies and foes,",
+            "normalized": "When as mine enemies and foes,",
+            "reading": "When as mine enemies and foes,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "most wicked persons all,",
+            "normalized": "Most wicked persons all,",
+            "reading": "most wicked persons all,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To eat my flesh against me rose,",
+            "normalized": "To eat my flesh against me rose,",
+            "reading": "To eat my flesh against me rose,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they stumbled and did fall.",
+            "normalized": "They stumbled and did fall.",
+            "reading": "they stumbled and did fall."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-027.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-027.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Against me though an host encamp,",
+            "normalized": "Against me though an host encamp,",
+            "reading": "Against me though an host encamp,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my heart yet fearless is:",
+            "normalized": "My heart yet fearless is:",
+            "reading": "my heart yet fearless is:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Though war against me rise, I will",
+            "normalized": "Though war against me rise, I will",
+            "reading": "Though war against me rise, I will"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "be confident in this.",
+            "normalized": "Be confident in this.",
+            "reading": "be confident in this."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-027.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-027.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "One thing I of the LORD desired,",
+            "normalized": "One thing I of the LORD desired,",
+            "reading": "One thing I of the LORD desired,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and will seek to obtain,",
+            "normalized": "And will seek to obtain,",
+            "reading": "and will seek to obtain,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That all days of my life I may",
+            "normalized": "That all days of my life I may",
+            "reading": "That all days of my life I may"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "within GOD’s house remain;",
+            "normalized": "Within GOD’s house remain;",
+            "reading": "within GOD’s house remain;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-027.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-027.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That I the beauty of the LORD",
+            "normalized": "That I the beauty of the LORD",
+            "reading": "That I the beauty of the LORD"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "behold may and admire,",
+            "normalized": "Behold may and admire,",
+            "reading": "behold may and admire,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And that I in his holy place",
+            "normalized": "And that I in his holy place",
+            "reading": "And that I in his holy place"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "may rev’rently enquire.",
+            "normalized": "May rev’rently enquire.",
+            "reading": "may rev’rently enquire."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-027.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-027.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For he in his pavilion shall",
+            "normalized": "For he in his pavilion shall",
+            "reading": "For he in his pavilion shall"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "me hide in evil days;",
+            "normalized": "Me hide in evil days;",
+            "reading": "me hide in evil days;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In secret of his tent me hide,",
+            "normalized": "In secret of his tent me hide,",
+            "reading": "In secret of his tent me hide,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and on a rock me raise.",
+            "normalized": "And on a rock me raise.",
+            "reading": "and on a rock me raise."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-027.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-027.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And now, ev’n at this present time,",
+            "normalized": "And now, ev’n at this present time,",
+            "reading": "And now, ev’n at this present time,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "mine head shall lifted be",
+            "normalized": "Mine head shall lifted be",
+            "reading": "mine head shall lifted be"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Above all those that are my foes,",
+            "normalized": "Above all those that are my foes,",
+            "reading": "Above all those that are my foes,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and round encompass me:",
+            "normalized": "And round encompass me:",
+            "reading": "and round encompass me:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-027.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-027.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Therefore unto his tabernacle",
+            "normalized": "Therefore unto his tabernacle",
+            "reading": "Therefore unto his tabernacle"
+          },
+          "source_underlining": [
+            "nacle"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I’ll sacrifices bring",
+            "normalized": "I’ll sacrifices bring",
+            "reading": "I’ll sacrifices bring"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of joyfulness; I’ll sing, yea, I",
+            "normalized": "Of joyfulness; I’ll sing, yea, I",
+            "reading": "Of joyfulness; I’ll sing, yea, I"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to GOD will praises sing.",
+            "normalized": "To GOD will praises sing.",
+            "reading": "to GOD will praises sing."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-027.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-027.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O LORD, give ear unto my voice,",
+            "normalized": "O LORD, give ear unto my voice,",
+            "reading": "O LORD, give ear unto my voice,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when I do cry to thee;",
+            "normalized": "When I do cry to thee;",
+            "reading": "when I do cry to thee;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Upon me also mercy have,",
+            "normalized": "Upon me also mercy have,",
+            "reading": "Upon me also mercy have,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and do thou answer me.",
+            "normalized": "And do thou answer me.",
+            "reading": "and do thou answer me."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-027.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-027.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When thou didst say, Seek ye my face,",
+            "normalized": "When thou didst say, Seek ye my face,",
+            "reading": "When thou didst say, Seek ye my face,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "then unto thee reply",
+            "normalized": "Then unto thee reply",
+            "reading": "then unto thee reply"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thus did my heart, Above all things",
+            "normalized": "Thus did my heart, Above all things",
+            "reading": "Thus did my heart, Above all things"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy face, LORD, seek will I.",
+            "normalized": "Thy face, LORD, seek will I.",
+            "reading": "thy face, LORD, seek will I."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-027.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-027.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Far from me hide not thou thy face;",
+            "normalized": "Far from me hide not thou thy face;",
+            "reading": "Far from me hide not thou thy face;"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "put not away from thee",
+            "normalized": "Put not away from thee",
+            "reading": "put not away from thee"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy servant in thy wrath: thou hast",
+            "normalized": "Thy servant in thy wrath: thou hast",
+            "reading": "Thy servant in thy wrath: thou hast"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "an helper been to me.",
+            "normalized": "An helper been to me.",
+            "reading": "an helper been to me."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-027.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-027.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O God of my salvätion,",
+            "normalized": "O God of my salvätion,",
+            "reading": "O God of my salvätion,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "leave me not, nor forsake:",
+            "normalized": "Leave me not, nor forsake:",
+            "reading": "leave me not, nor forsake:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Though me my parents both should leave,",
+            "normalized": "Though me my parents both should leave,",
+            "reading": "Though me my parents both should leave,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the LORD will me up take.",
+            "normalized": "The LORD will me up take.",
+            "reading": "the LORD will me up take."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-027.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-027.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O LORD, instruct me in thy way,",
+            "normalized": "O LORD, instruct me in thy way,",
+            "reading": "O LORD, instruct me in thy way,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to me a leader be",
+            "normalized": "To me a leader be",
+            "reading": "to me a leader be"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In a plain path, because of those",
+            "normalized": "In a plain path, because of those",
+            "reading": "In a plain path, because of those"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that hatred bear to me.",
+            "normalized": "That hatred bear to me.",
+            "reading": "that hatred bear to me."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-027.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-027.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Give me not to mine en’mies’ will;",
+            "normalized": "Give me not to mine en’mies’ will;",
+            "reading": "Give me not to mine en’mies’ will;"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for witnesses that lie",
+            "normalized": "For witnesses that lie",
+            "reading": "for witnesses that lie"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Against me risen are, and such",
+            "normalized": "Against me risen are, and such",
+            "reading": "Against me risen are, and such"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "as breathe out cruelty.",
+            "normalized": "As breathe out cruelty.",
+            "reading": "as breathe out cruelty."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-027.primary.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-027.primary.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I fainted had, unless that I",
+            "normalized": "I fainted had, unless that I",
+            "reading": "I fainted had, unless that I"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "believèd had to see",
+            "normalized": "Believèd had to see",
+            "reading": "believèd had to see"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD’s own goodness in the land",
+            "normalized": "The LORD’s own goodness in the land",
+            "reading": "The LORD’s own goodness in the land"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of them that living be.",
+            "normalized": "Of them that living be.",
+            "reading": "of them that living be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-027.primary.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-027.primary.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Wait on the LORD, and be thou strong,",
+            "normalized": "Wait on the LORD, and be thou strong,",
+            "reading": "Wait on the LORD, and be thou strong,"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and he shall strength afford",
+            "normalized": "And he shall strength afford",
+            "reading": "and he shall strength afford"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto thine heart; yea, do thou wait,",
+            "normalized": "Unto thine heart; yea, do thou wait,",
+            "reading": "Unto thine heart; yea, do thou wait,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-027.primary.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I say, upon the LORD.",
+            "normalized": "I say, upon the LORD.",
+            "reading": "I say, upon the LORD."
+          }
+        }
+      ]
+    }
+  ]
+}

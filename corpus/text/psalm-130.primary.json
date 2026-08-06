@@ -1,0 +1,301 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-130.primary",
+  "psalm_number": 130,
+  "title": "Psalm 130",
+  "version": "primary",
+  "opening_line": "LORD, from the depths to thee I cried.",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 130 · p. 188",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-130-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      188
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-130.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-130.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "LORD, from the depths to thee I cried.",
+            "normalized": "LORD, from the depths to thee I cried.",
+            "reading": "LORD, from the depths to thee I cried."
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-130.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "My voice, Lord, do thou hear:",
+            "normalized": "My voice, Lord, do thou hear:",
+            "reading": "My voice, Lord, do thou hear:"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-130.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto my supplications’ voice",
+            "normalized": "Unto my supplications’ voice",
+            "reading": "Unto my supplications’ voice"
+          }
+        },
+        {
+          "id": "ps1650.psalm-130.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "give an attentive ear.",
+            "normalized": "Give an attentive ear.",
+            "reading": "give an attentive ear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-130.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-130.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Lord, who shall stand, if thou, O LORD,",
+            "normalized": "Lord, who shall stand, if thou, O LORD,",
+            "reading": "Lord, who shall stand, if thou, O LORD,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-130.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "should’st mark iniquity?",
+            "normalized": "Should’st mark iniquity?",
+            "reading": "should’st mark iniquity?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-130.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But yet with thee forgiveness is,",
+            "normalized": "But yet with thee forgiveness is,",
+            "reading": "But yet with thee forgiveness is,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-130.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that fear’d thou mayest be.",
+            "normalized": "That fear’d thou mayest be.",
+            "reading": "that fear’d thou mayest be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-130.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5,
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-130.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I wait for GOD, my soul doth wait,",
+            "normalized": "I wait for GOD, my soul doth wait,",
+            "reading": "I wait for GOD, my soul doth wait,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-130.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my hope is in his word.",
+            "normalized": "My hope is in his word.",
+            "reading": "my hope is in his word."
+          }
+        },
+        {
+          "id": "ps1650.psalm-130.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "More than they that for morning watch,",
+            "normalized": "More than they that for morning watch,",
+            "reading": "More than they that for morning watch,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-130.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my soul waits for the Lord;",
+            "normalized": "My soul waits for the Lord;",
+            "reading": "my soul waits for the Lord;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-130.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-130.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I say, more than they that do watch",
+            "normalized": "I say, more than they that do watch",
+            "reading": "I say, more than they that do watch"
+          }
+        },
+        {
+          "id": "ps1650.psalm-130.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the morning light to see.",
+            "normalized": "The morning light to see.",
+            "reading": "the morning light to see."
+          }
+        },
+        {
+          "id": "ps1650.psalm-130.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let Israèl hope in the LORD,",
+            "normalized": "Let Israèl hope in the LORD,",
+            "reading": "Let Israèl hope in the LORD,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-130.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for with him mercies be;",
+            "normalized": "For with him mercies be;",
+            "reading": "for with him mercies be;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-130.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-130.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And plenteous redëmption",
+            "normalized": "And plenteous redëmption",
+            "reading": "And plenteous redëmption"
+          }
+        },
+        {
+          "id": "ps1650.psalm-130.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is ever found with him.",
+            "normalized": "Is ever found with him.",
+            "reading": "is ever found with him."
+          }
+        },
+        {
+          "id": "ps1650.psalm-130.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And from all his iniquities",
+            "normalized": "And from all his iniquities",
+            "reading": "And from all his iniquities"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-130.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he Isr’el shall redeem.",
+            "normalized": "He Isr’el shall redeem.",
+            "reading": "he Isr’el shall redeem."
+          }
+        }
+      ]
+    }
+  ]
+}

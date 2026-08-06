@@ -1,0 +1,398 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-004.primary",
+  "psalm_number": 4,
+  "title": "Psalm 4",
+  "version": "primary",
+  "opening_line": "Give ear unto me when I call,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 4 · p. 8–9",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-004-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      8,
+      9
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-004.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-004.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Give ear unto me when I call,",
+            "normalized": "Give ear unto me when I call,",
+            "reading": "Give ear unto me when I call,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "God of my righteousness:",
+            "normalized": "God of my righteousness:",
+            "reading": "God of my righteousness:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Have mercy, hear my prayer; thou hast",
+            "normalized": "Have mercy, hear my prayer; thou hast",
+            "reading": "Have mercy, hear my prayer; thou hast"
+          }
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "enlarged me in distress.",
+            "normalized": "Enlarged me in distress.",
+            "reading": "enlarged me in distress."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-004.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-004.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O ye the sons of men! how long",
+            "normalized": "O ye the sons of men! how long",
+            "reading": "O ye the sons of men! how long"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "will ye love vanities?",
+            "normalized": "Will ye love vanities?",
+            "reading": "will ye love vanities?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "How long my glory turn to shame,",
+            "normalized": "How long my glory turn to shame,",
+            "reading": "How long my glory turn to shame,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and will ye follow lies?",
+            "normalized": "And will ye follow lies?",
+            "reading": "and will ye follow lies?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-004.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-004.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But know, that for himself the LORD",
+            "normalized": "But know, that for himself the LORD",
+            "reading": "But know, that for himself the LORD"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the godly man doth choose:",
+            "normalized": "The godly man doth choose:",
+            "reading": "the godly man doth choose:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD, when I on him do call,",
+            "normalized": "The LORD, when I on him do call,",
+            "reading": "The LORD, when I on him do call,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to hear will not refuse.",
+            "normalized": "To hear will not refuse.",
+            "reading": "to hear will not refuse."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-004.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4,
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-004.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Fear, and sin not; talk with your heart",
+            "normalized": "Fear, and sin not; talk with your heart",
+            "reading": "Fear, and sin not; talk with your heart"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "on bed, and silent be.",
+            "normalized": "On bed, and silent be.",
+            "reading": "on bed, and silent be."
+          }
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Off’rings present of righteousness,",
+            "normalized": "Off’rings present of righteousness,",
+            "reading": "Off’rings present of righteousness,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and in the LORD trust ye.",
+            "normalized": "And in the LORD trust ye.",
+            "reading": "and in the LORD trust ye."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-004.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-004.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O who will show us any good?",
+            "normalized": "O who will show us any good?",
+            "reading": "O who will show us any good?"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is that which many say:",
+            "normalized": "Is that which many say:",
+            "reading": "is that which many say:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But of thy countenance the light,",
+            "normalized": "But of thy countenance the light,",
+            "reading": "But of thy countenance the light,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "LORD, lift on us alway.",
+            "normalized": "LORD, lift on us alway.",
+            "reading": "LORD, lift on us alway."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-004.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-004.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Upon my heart, bestowed by thee,",
+            "normalized": "Upon my heart, bestowed by thee,",
+            "reading": "Upon my heart, bestowed by thee,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "more gladness I have found",
+            "normalized": "More gladness I have found",
+            "reading": "more gladness I have found"
+          }
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Than they, ev’n then, when corn and wine",
+            "normalized": "Than they, ev’n then, when corn and wine",
+            "reading": "Than they, ev’n then, when corn and wine"
+          }
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "did most with them abound.",
+            "normalized": "Did most with them abound.",
+            "reading": "did most with them abound."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-004.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-004.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I will both lay me down in peace,",
+            "normalized": "I will both lay me down in peace,",
+            "reading": "I will both lay me down in peace,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and quiet sleep will take;",
+            "normalized": "And quiet sleep will take;",
+            "reading": "and quiet sleep will take;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because thou only me to dwell",
+            "normalized": "Because thou only me to dwell",
+            "reading": "Because thou only me to dwell"
+          }
+        },
+        {
+          "id": "ps1650.psalm-004.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in safety, LORD, dost make.",
+            "normalized": "In safety, LORD, dost make.",
+            "reading": "in safety, LORD, dost make."
+          }
+        }
+      ]
+    }
+  ]
+}

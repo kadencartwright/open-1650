@@ -1,0 +1,351 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-001.primary",
+  "psalm_number": 1,
+  "title": "Psalm 1",
+  "version": "primary",
+  "opening_line": "That man hath perfect blessedness",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 1 · p. 7",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-001-(a)-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      7
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-001.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-001.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That man hath perfect blessedness",
+            "normalized": "That man hath perfect blessedness",
+            "reading": "That man hath perfect blessedness"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who walketh not astray",
+            "normalized": "Who walketh not astray",
+            "reading": "who walketh not astray"
+          }
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In counsel of ungodly men,",
+            "normalized": "In counsel of ungodly men,",
+            "reading": "In counsel of ungodly men,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor stands in sinners’ way,",
+            "normalized": "Nor stands in sinners’ way,",
+            "reading": "nor stands in sinners’ way,"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-001.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-001.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor sitteth in the scorner’s chair:",
+            "normalized": "Nor sitteth in the scorner’s chair:",
+            "reading": "Nor sitteth in the scorner’s chair:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "But placeth his delight",
+            "normalized": "But placeth his delight",
+            "reading": "But placeth his delight"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Upon GOD’s law, and meditates",
+            "normalized": "Upon GOD’s law, and meditates",
+            "reading": "Upon GOD’s law, and meditates"
+          }
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "on his law day and night.",
+            "normalized": "On his law day and night.",
+            "reading": "on his law day and night."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-001.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-001.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He shall be like a tree that grows",
+            "normalized": "He shall be like a tree that grows",
+            "reading": "He shall be like a tree that grows"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "near planted by a river,",
+            "normalized": "Near planted by a river,",
+            "reading": "near planted by a river,"
+          },
+          "source_underlining": [
+            "river"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Which in his season yields his fruit,",
+            "normalized": "Which in his season yields his fruit,",
+            "reading": "Which in his season yields his fruit,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and his leaf fadeth never:",
+            "normalized": "And his leaf fadeth never:",
+            "reading": "and his leaf fadeth never:"
+          },
+          "source_underlining": [
+            "never"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-001.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-001.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And all he doth shall prosper well.",
+            "normalized": "And all he doth shall prosper well.",
+            "reading": "And all he doth shall prosper well."
+          }
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "The wicked are not so;",
+            "normalized": "The wicked are not so;",
+            "reading": "The wicked are not so;"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But like they are unto the chaff,",
+            "normalized": "But like they are unto the chaff,",
+            "reading": "But like they are unto the chaff,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "which wind drives to and fro.",
+            "normalized": "Which wind drives to and fro.",
+            "reading": "which wind drives to and fro."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-001.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-001.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In judgment therefore shall not stand",
+            "normalized": "In judgment therefore shall not stand",
+            "reading": "In judgment therefore shall not stand"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "such as ungodly are;",
+            "normalized": "Such as ungodly are;",
+            "reading": "such as ungodly are;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor in th’ assembly of the just",
+            "normalized": "Nor in th’ assembly of the just",
+            "reading": "Nor in th’ assembly of the just"
+          }
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall wicked men appear.",
+            "normalized": "Shall wicked men appear.",
+            "reading": "shall wicked men appear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-001.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-001.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For why? the way of godly men",
+            "normalized": "For why? the way of godly men",
+            "reading": "For why? the way of godly men"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto the LORD is known:",
+            "normalized": "Unto the LORD is known:",
+            "reading": "unto the LORD is known:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Whereas the way of wicked men",
+            "normalized": "Whereas the way of wicked men",
+            "reading": "Whereas the way of wicked men"
+          }
+        },
+        {
+          "id": "ps1650.psalm-001.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall quite be overthrown.",
+            "normalized": "Shall quite be overthrown.",
+            "reading": "shall quite be overthrown."
+          }
+        }
+      ]
+    }
+  ]
+}

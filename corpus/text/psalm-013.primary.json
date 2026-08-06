@@ -1,0 +1,345 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-013.primary",
+  "psalm_number": 13,
+  "title": "Psalm 13",
+  "version": "primary",
+  "opening_line": "How long wilt thou forget me, LORD?",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 13 · p. 18",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-013-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      18
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-013.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-013.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "How long wilt thou forget me, LORD?",
+            "normalized": "How long wilt thou forget me, LORD?",
+            "reading": "How long wilt thou forget me, LORD?"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall it for ever be?",
+            "normalized": "Shall it for ever be?",
+            "reading": "shall it for ever be?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O how long shall it be that thou",
+            "normalized": "O how long shall it be that thou",
+            "reading": "O how long shall it be that thou"
+          }
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "wilt hide thy face from me?",
+            "normalized": "Wilt hide thy face from me?",
+            "reading": "wilt hide thy face from me?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-013.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-013.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "How long take counsel in my soul,",
+            "normalized": "How long take counsel in my soul,",
+            "reading": "How long take counsel in my soul,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "still sad in heart, shall I?",
+            "normalized": "Still sad in heart, shall I?",
+            "reading": "still sad in heart, shall I?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "How long exalted over me",
+            "normalized": "How long exalted over me",
+            "reading": "How long exalted over me"
+          }
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall be mine enemy?",
+            "normalized": "Shall be mine enemy?",
+            "reading": "shall be mine enemy?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-013.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-013.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O LORD my God, consider well,",
+            "normalized": "O LORD my God, consider well,",
+            "reading": "O LORD my God, consider well,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and answer to me make:",
+            "normalized": "And answer to me make:",
+            "reading": "and answer to me make:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Mine eyes enlighten, lest the sleep",
+            "normalized": "Mine eyes enlighten, lest the sleep",
+            "reading": "Mine eyes enlighten, lest the sleep"
+          }
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of death me overtake:",
+            "normalized": "Of death me overtake:",
+            "reading": "of death me overtake:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-013.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-013.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Lest that mine enemy should say,",
+            "normalized": "Lest that mine enemy should say,",
+            "reading": "Lest that mine enemy should say,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Against him I prevailed;",
+            "normalized": "Against him I prevailed;",
+            "reading": "Against him I prevailed;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And those that trouble me rejoice,",
+            "normalized": "And those that trouble me rejoice,",
+            "reading": "And those that trouble me rejoice,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when I am moved and failed.",
+            "normalized": "When I am moved and failed.",
+            "reading": "when I am moved and failed."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-013.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-013.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But I have all my confidence",
+            "normalized": "But I have all my confidence",
+            "reading": "But I have all my confidence"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy mercy set upon;",
+            "normalized": "Thy mercy set upon;",
+            "reading": "thy mercy set upon;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My heart within me shall rejoice",
+            "normalized": "My heart within me shall rejoice",
+            "reading": "My heart within me shall rejoice"
+          }
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in thy salvätion.",
+            "normalized": "In thy salvätion.",
+            "reading": "in thy salvätion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-013.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-013.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I will unto the LORD my God",
+            "normalized": "I will unto the LORD my God",
+            "reading": "I will unto the LORD my God"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "sing praises cheerfully,",
+            "normalized": "Sing praises cheerfully,",
+            "reading": "sing praises cheerfully,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because he hath his bounty shown",
+            "normalized": "Because he hath his bounty shown",
+            "reading": "Because he hath his bounty shown"
+          }
+        },
+        {
+          "id": "ps1650.psalm-013.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to me abundantly.",
+            "normalized": "To me abundantly.",
+            "reading": "to me abundantly."
+          }
+        }
+      ]
+    }
+  ]
+}

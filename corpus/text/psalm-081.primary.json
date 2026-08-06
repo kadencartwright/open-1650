@@ -1,0 +1,701 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-081.primary",
+  "psalm_number": 81,
+  "title": "Psalm 81",
+  "version": "primary",
+  "opening_line": "Sing loud to God our strength; with joy",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 81 · p. 117–118",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-081-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      117,
+      118
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-081.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-081.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Sing loud to God our strength; with joy",
+            "normalized": "Sing loud to God our strength; with joy",
+            "reading": "Sing loud to God our strength; with joy"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to Jacob’s God do sing.",
+            "normalized": "To Jacob’s God do sing.",
+            "reading": "to Jacob’s God do sing."
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Take up a psalm, the pleasant harp,",
+            "normalized": "Take up a psalm, the pleasant harp,",
+            "reading": "Take up a psalm, the pleasant harp,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "timbrel and psalt’ry bring.",
+            "normalized": "Timbrel and psalt’ry bring.",
+            "reading": "timbrel and psalt’ry bring."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-081.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-081.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Blow trumpets at new-moon, what day",
+            "normalized": "Blow trumpets at new-moon, what day",
+            "reading": "Blow trumpets at new-moon, what day"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our feast appointed is:",
+            "normalized": "Our feast appointed is:",
+            "reading": "our feast appointed is:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For charge to Isr’el, and a law",
+            "normalized": "For charge to Isr’el, and a law",
+            "reading": "For charge to Isr’el, and a law"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of Jacob’s God was this.",
+            "normalized": "Of Jacob’s God was this.",
+            "reading": "of Jacob’s God was this."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-081.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-081.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To Joseph this a test’mony",
+            "normalized": "To Joseph this a test’mony",
+            "reading": "To Joseph this a test’mony"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he made, when Egypt land",
+            "normalized": "He made, when Egypt land",
+            "reading": "he made, when Egypt land"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He travelled through, where speech I heard",
+            "normalized": "He travelled through, where speech I heard",
+            "reading": "He travelled through, where speech I heard"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I did not understand.",
+            "normalized": "I did not understand.",
+            "reading": "I did not understand."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-081.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6,
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-081.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His shoulder I from burdens took,",
+            "normalized": "His shoulder I from burdens took,",
+            "reading": "His shoulder I from burdens took,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his hands from pots did free.",
+            "normalized": "His hands from pots did free.",
+            "reading": "his hands from pots did free."
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou didst in trouble on me call,",
+            "normalized": "Thou didst in trouble on me call,",
+            "reading": "Thou didst in trouble on me call,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and I delivered thee:",
+            "normalized": "And I delivered thee:",
+            "reading": "and I delivered thee:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-081.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-081.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In secret place of thundering",
+            "normalized": "In secret place of thundering",
+            "reading": "In secret place of thundering"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I did thee answer make;",
+            "normalized": "I did thee answer make;",
+            "reading": "I did thee answer make;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And at the streams of Meribah",
+            "normalized": "And at the streams of Meribah",
+            "reading": "And at the streams of Meribah"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of thee a proof did take.",
+            "normalized": "Of thee a proof did take.",
+            "reading": "of thee a proof did take."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-081.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-081.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O thou, my people, give an ear,",
+            "normalized": "O thou, my people, give an ear,",
+            "reading": "O thou, my people, give an ear,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I’ll testify to thee;",
+            "normalized": "I’ll testify to thee;",
+            "reading": "I’ll testify to thee;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To thee, O Isr’el, if thou wilt",
+            "normalized": "To thee, O Isr’el, if thou wilt",
+            "reading": "To thee, O Isr’el, if thou wilt"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "but hearken unto me.",
+            "normalized": "But hearken unto me.",
+            "reading": "but hearken unto me."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-081.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-081.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In midst of thee there shall not be",
+            "normalized": "In midst of thee there shall not be",
+            "reading": "In midst of thee there shall not be"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "any strange god at all;",
+            "normalized": "Any strange god at all;",
+            "reading": "any strange god at all;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor unto any god unknown",
+            "normalized": "Nor unto any god unknown",
+            "reading": "Nor unto any god unknown"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou bowing down shalt fall.",
+            "normalized": "Thou bowing down shalt fall.",
+            "reading": "thou bowing down shalt fall."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-081.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-081.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I am the LORD thy God, which did",
+            "normalized": "I am the LORD thy God, which did",
+            "reading": "I am the LORD thy God, which did"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from Egypt land thee guide;",
+            "normalized": "From Egypt land thee guide;",
+            "reading": "from Egypt land thee guide;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I’ll fill thy mouth abundantly,",
+            "normalized": "I’ll fill thy mouth abundantly,",
+            "reading": "I’ll fill thy mouth abundantly,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do thou it open wide.",
+            "normalized": "Do thou it open wide.",
+            "reading": "do thou it open wide."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-081.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-081.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But yet my people to my voice",
+            "normalized": "But yet my people to my voice",
+            "reading": "But yet my people to my voice"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "would not attentive be;",
+            "normalized": "Would not attentive be;",
+            "reading": "would not attentive be;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And ev’n my chosen Israel",
+            "normalized": "And ev’n my chosen Israel",
+            "reading": "And ev’n my chosen Israel"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he would have none of me.",
+            "normalized": "He would have none of me.",
+            "reading": "he would have none of me."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-081.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-081.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "So to the lust of their own hearts",
+            "normalized": "So to the lust of their own hearts",
+            "reading": "So to the lust of their own hearts"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I them deliverèd;",
+            "normalized": "I them deliverèd;",
+            "reading": "I them deliverèd;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And then in counsels of their own",
+            "normalized": "And then in counsels of their own",
+            "reading": "And then in counsels of their own"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they vainly wanderèd.",
+            "normalized": "They vainly wanderèd.",
+            "reading": "they vainly wanderèd."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-081.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        13,
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-081.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O that my people had me heard,",
+            "normalized": "O that my people had me heard,",
+            "reading": "O that my people had me heard,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Isr’el my ways had chose!",
+            "normalized": "Isr’el my ways had chose!",
+            "reading": "Isr’el my ways had chose!"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I had their en’mies soon subdued,",
+            "normalized": "I had their en’mies soon subdued,",
+            "reading": "I had their en’mies soon subdued,"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my hand turned on their foes.",
+            "normalized": "My hand turned on their foes.",
+            "reading": "my hand turned on their foes."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-081.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-081.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The haters of the LORD to him",
+            "normalized": "The haters of the LORD to him",
+            "reading": "The haters of the LORD to him"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "submission should have feigned;",
+            "normalized": "Submission should have feigned;",
+            "reading": "submission should have feigned;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But as for them, their time should have",
+            "normalized": "But as for them, their time should have",
+            "reading": "But as for them, their time should have"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for evermore remained.",
+            "normalized": "For evermore remained.",
+            "reading": "for evermore remained."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-081.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-081.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He should have also fed them with",
+            "normalized": "He should have also fed them with",
+            "reading": "He should have also fed them with"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the finest of the wheat;",
+            "normalized": "The finest of the wheat;",
+            "reading": "the finest of the wheat;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of honey from the rock thy fill",
+            "normalized": "Of honey from the rock thy fill",
+            "reading": "Of honey from the rock thy fill"
+          }
+        },
+        {
+          "id": "ps1650.psalm-081.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I should have made thee eat.",
+            "normalized": "I should have made thee eat.",
+            "reading": "I should have made thee eat."
+          }
+        }
+      ]
+    }
+  ]
+}

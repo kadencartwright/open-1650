@@ -1,0 +1,61 @@
+{
+  "name": "open-1650",
+  "private": true,
+  "version": "0.1.0",
+  "license": "MIT",
+  "type": "module",
+  "description": "A synchronized Web Audio sing-along for the 1650 Scottish Psalter.",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "mkdir -p .tmp && TMPDIR=$PWD/.tmp vitest run",
+    "test:watch": "mkdir -p .tmp && TMPDIR=$PWD/.tmp vitest",
+    "seed:singable-library": "node scripts/seed-singable-library.mjs",
+    "seed:psalm-expansion": "node scripts/seed-psalm-expansion.mjs",
+    "seed:full-psalter": "node scripts/seed-full-psalter.mjs",
+    "seed:tune-expansion": "node scripts/import-sourced-tunes.mjs",
+    "seed:expansion-settings": "node scripts/seed-expansion-settings.mjs",
+    "seed:full-settings": "node scripts/seed-full-settings.mjs",
+    "seed:library": "npm run seed:full-psalter && npm run seed:tune-expansion && npm run seed:full-settings",
+    "import:tune-recommendations": "node scripts/import-tune-recommendations.mjs",
+    "audit:syllables": "node scripts/audit-full-syllables.mjs",
+    "validate:corpus": "node scripts/validate-corpus.mjs",
+    "check": "npm run validate:corpus && npm run audit:syllables && npm run test && npm run build",
+    "deploy:login": "ALCHEMY_PROFILE=patristic-personal alchemy login --profile patristic-personal --configure",
+    "deploy:bootstrap": "ALCHEMY_PROFILE=patristic-personal alchemy cloudflare bootstrap --profile patristic-personal",
+    "deploy:plan": "ALCHEMY_PROFILE=patristic-personal alchemy plan --profile patristic-personal --stage dev_k",
+    "deploy": "ALCHEMY_PROFILE=patristic-personal alchemy deploy --profile patristic-personal --stage dev_k",
+    "destroy": "ALCHEMY_PROFILE=patristic-personal alchemy destroy --profile patristic-personal --stage dev_k"
+  },
+  "dependencies": {
+    "@effect/platform-node": "4.0.0-beta.93",
+    "lucide-react": "^1.25.0",
+    "alchemy": "2.0.0-beta.61",
+    "effect": "4.0.0-beta.93",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "5.20260711.1",
+    "@tailwindcss/vite": "^4.3.3",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.2",
+    "@testing-library/user-event": "^14.6.1",
+    "@types/node": "^26.1.1",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.3",
+    "hyphenation.en-us": "^0.2.1",
+    "hypher": "^0.2.5",
+    "jsdom": "^29.1.1",
+    "syllable": "^5.0.1",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^7.0.2",
+    "vite": "^8.1.5",
+    "vitest": "^4.1.10"
+  }
+}

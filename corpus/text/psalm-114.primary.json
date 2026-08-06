@@ -1,0 +1,353 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-114.primary",
+  "psalm_number": 114,
+  "title": "Psalm 114",
+  "version": "primary",
+  "opening_line": "When Isr’el out of Egypt went,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 114 · p. 165–166",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-114-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      165,
+      166
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-114.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-114.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When Isr’el out of Egypt went,",
+            "normalized": "When Isr’el out of Egypt went,",
+            "reading": "When Isr’el out of Egypt went,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and did his dwelling change,",
+            "normalized": "And did his dwelling change,",
+            "reading": "and did his dwelling change,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When Jacob’s house went out from those",
+            "normalized": "When Jacob’s house went out from those",
+            "reading": "When Jacob’s house went out from those"
+          }
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that were of language strange,",
+            "normalized": "That were of language strange,",
+            "reading": "that were of language strange,"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-114.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2,
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-114.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He Judah did his sanctuary,",
+            "normalized": "He Judah did his sanctuary,",
+            "reading": "He Judah did his sanctuary,"
+          },
+          "biblical_verse_start": 2,
+          "source_underlining": [
+            "tua"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his kingdom Isr’el make:",
+            "normalized": "His kingdom Isr’el make:",
+            "reading": "his kingdom Isr’el make:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The sea it saw, and quickly fled,",
+            "normalized": "The sea it saw, and quickly fled,",
+            "reading": "The sea it saw, and quickly fled,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Jordan was driven back.",
+            "normalized": "Jordan was driven back.",
+            "reading": "Jordan was driven back."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-114.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4,
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-114.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Like rams the mountains, and like lambs",
+            "normalized": "Like rams the mountains, and like lambs",
+            "reading": "Like rams the mountains, and like lambs"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the hills skipped to and fro.",
+            "normalized": "The hills skipped to and fro.",
+            "reading": "the hills skipped to and fro."
+          }
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O sea, why fledd’st thou? Jordan, back",
+            "normalized": "O sea, why fledd’st thou? Jordan, back",
+            "reading": "O sea, why fledd’st thou? Jordan, back"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "why wast thou driven so?",
+            "normalized": "Why wast thou driven so?",
+            "reading": "why wast thou driven so?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-114.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-114.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ye mountains great, wherefore was it",
+            "normalized": "Ye mountains great, wherefore was it",
+            "reading": "Ye mountains great, wherefore was it"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that ye did skip like rams?",
+            "normalized": "That ye did skip like rams?",
+            "reading": "that ye did skip like rams?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And wherefore was it, little hills,",
+            "normalized": "And wherefore was it, little hills,",
+            "reading": "And wherefore was it, little hills,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that ye did leap like lambs?",
+            "normalized": "That ye did leap like lambs?",
+            "reading": "that ye did leap like lambs?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-114.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-114.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O at the presence of the Lord,",
+            "normalized": "O at the presence of the Lord,",
+            "reading": "O at the presence of the Lord,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "earth, tremble thou for fear,",
+            "normalized": "Earth, tremble thou for fear,",
+            "reading": "earth, tremble thou for fear,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "While as the presence of the God",
+            "normalized": "While as the presence of the God",
+            "reading": "While as the presence of the God"
+          }
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of Jacob doth appear:",
+            "normalized": "Of Jacob doth appear:",
+            "reading": "of Jacob doth appear:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-114.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-114.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who from the hard and stony rock",
+            "normalized": "Who from the hard and stony rock",
+            "reading": "Who from the hard and stony rock"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "did standing water bring;",
+            "normalized": "Did standing water bring;",
+            "reading": "did standing water bring;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And by his pow’r did turn the flint",
+            "normalized": "And by his pow’r did turn the flint",
+            "reading": "And by his pow’r did turn the flint"
+          }
+        },
+        {
+          "id": "ps1650.psalm-114.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "into a water-spring.",
+            "normalized": "Into a water-spring.",
+            "reading": "into a water-spring."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-029.primary",
+  "psalm_number": 29,
+  "title": "Psalm 29",
+  "version": "primary",
+  "opening_line": "Give ye unto the LORD, ye sons",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 29 · p. 38–39",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-029-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      38,
+      39
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-029.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-029.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Give ye unto the LORD, ye sons",
+            "normalized": "Give ye unto the LORD, ye sons",
+            "reading": "Give ye unto the LORD, ye sons"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that of the mighty be,",
+            "normalized": "That of the mighty be,",
+            "reading": "that of the mighty be,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All strength and glory to the LORD",
+            "normalized": "All strength and glory to the LORD",
+            "reading": "All strength and glory to the LORD"
+          }
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with cheerfulness give ye.",
+            "normalized": "With cheerfulness give ye.",
+            "reading": "with cheerfulness give ye."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-029.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-029.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto the LORD the glory give",
+            "normalized": "Unto the LORD the glory give",
+            "reading": "Unto the LORD the glory give"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that to his name is due;",
+            "normalized": "That to his name is due;",
+            "reading": "that to his name is due;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in the beauty of holiness",
+            "normalized": "And in the beauty of holiness",
+            "reading": "And in the beauty of holiness"
+          },
+          "source_underlining": [
+            "ty of"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto JEHOVAH bow.",
+            "normalized": "Unto JEHOVAH bow.",
+            "reading": "unto JEHOVAH bow."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-029.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-029.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD’s voice on the waters is;",
+            "normalized": "The LORD’s voice on the waters is;",
+            "reading": "The LORD’s voice on the waters is;"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the God of majesty",
+            "normalized": "The God of majesty",
+            "reading": "the God of majesty"
+          }
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Doth thunder, and on multitudes",
+            "normalized": "Doth thunder, and on multitudes",
+            "reading": "Doth thunder, and on multitudes"
+          }
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of waters sitteth he.",
+            "normalized": "Of waters sitteth he.",
+            "reading": "of waters sitteth he."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-029.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-029.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A pow’rful voice it is that comes",
+            "normalized": "A pow’rful voice it is that comes",
+            "reading": "A pow’rful voice it is that comes"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "out from the LORD most high;",
+            "normalized": "Out from the LORD most high;",
+            "reading": "out from the LORD most high;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The voice of that great LORD is full",
+            "normalized": "The voice of that great LORD is full",
+            "reading": "The voice of that great LORD is full"
+          }
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of glorious majesty.",
+            "normalized": "Of glorious majesty.",
+            "reading": "of glorious majesty."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-029.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-029.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The voice of the ETERNAL doth",
+            "normalized": "The voice of the ETERNAL doth",
+            "reading": "The voice of the ETERNAL doth"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "asunder cedars tear;",
+            "normalized": "Asunder cedars tear;",
+            "reading": "asunder cedars tear;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, God the LORD doth cedars break",
+            "normalized": "Yea, God the LORD doth cedars break",
+            "reading": "Yea, God the LORD doth cedars break"
+          }
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that Lebanon doth bear.",
+            "normalized": "That Lebanon doth bear.",
+            "reading": "that Lebanon doth bear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-029.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-029.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He makes them like a calf to skip,",
+            "normalized": "He makes them like a calf to skip,",
+            "reading": "He makes them like a calf to skip,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ev’n that great Lebanon,",
+            "normalized": "Ev’n that great Lebanon,",
+            "reading": "ev’n that great Lebanon,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And, like to a young unicorn,",
+            "normalized": "And, like to a young unicorn,",
+            "reading": "And, like to a young unicorn,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the mountain Sirion.",
+            "normalized": "The mountain Sirion.",
+            "reading": "the mountain Sirion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-029.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-029.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "God’s voice divides the flames of fire;",
+            "normalized": "God’s voice divides the flames of fire;",
+            "reading": "God’s voice divides the flames of fire;"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the desert it doth shake:",
+            "normalized": "The desert it doth shake:",
+            "reading": "the desert it doth shake:"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD doth make the wilderness",
+            "normalized": "The LORD doth make the wilderness",
+            "reading": "The LORD doth make the wilderness"
+          }
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of Kadesh all to quake.",
+            "normalized": "Of Kadesh all to quake.",
+            "reading": "of Kadesh all to quake."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-029.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-029.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD’s voice doth make the hinds to calve,",
+            "normalized": "GOD’s voice doth make the hinds to calve,",
+            "reading": "GOD’s voice doth make the hinds to calve,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "it makes the forest bare:",
+            "normalized": "It makes the forest bare:",
+            "reading": "it makes the forest bare:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in his temple everyone",
+            "normalized": "And in his temple everyone",
+            "reading": "And in his temple everyone"
+          }
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his glory doth declare.",
+            "normalized": "His glory doth declare.",
+            "reading": "his glory doth declare."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-029.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        10,
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-029.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD sits on the floods; the LORD",
+            "normalized": "The LORD sits on the floods; the LORD",
+            "reading": "The LORD sits on the floods; the LORD"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "sits King, and ever shall.",
+            "normalized": "Sits King, and ever shall.",
+            "reading": "sits King, and ever shall."
+          }
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD will give his people strength,",
+            "normalized": "The LORD will give his people strength,",
+            "reading": "The LORD will give his people strength,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-029.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and with peace bless them all.",
+            "normalized": "And with peace bless them all.",
+            "reading": "and with peace bless them all."
+          }
+        }
+      ]
+    }
+  ]
+}

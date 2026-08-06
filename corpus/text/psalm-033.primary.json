@@ -1,0 +1,906 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-033.primary",
+  "psalm_number": 33,
+  "title": "Psalm 33",
+  "version": "primary",
+  "opening_line": "Ye righteous, in the LORD rejoice;",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 33 · p. 44–45",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-033-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      44,
+      45
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-033.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-033.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ye righteous, in the LORD rejoice;",
+            "normalized": "Ye righteous, in the LORD rejoice;",
+            "reading": "Ye righteous, in the LORD rejoice;"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "it comely is and right,",
+            "normalized": "It comely is and right,",
+            "reading": "it comely is and right,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That upright men, with thankful voice,",
+            "normalized": "That upright men, with thankful voice,",
+            "reading": "That upright men, with thankful voice,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "should praise the Lord of might.",
+            "normalized": "Should praise the Lord of might.",
+            "reading": "should praise the Lord of might."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-033.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-033.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Praise GOD with harp, and unto him",
+            "normalized": "Praise GOD with harp, and unto him",
+            "reading": "Praise GOD with harp, and unto him"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "sing with the psaltery;",
+            "normalized": "Sing with the psaltery;",
+            "reading": "sing with the psaltery;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Upon a ten-stringed instrument",
+            "normalized": "Upon a ten-stringed instrument",
+            "reading": "Upon a ten-stringed instrument"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "make ye sweet melody.",
+            "normalized": "Make ye sweet melody.",
+            "reading": "make ye sweet melody."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-033.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-033.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A new song to him sing, and play",
+            "normalized": "A new song to him sing, and play",
+            "reading": "A new song to him sing, and play"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with loud noise skilfully;",
+            "normalized": "With loud noise skilfully;",
+            "reading": "with loud noise skilfully;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For right is GOD’s word, all his works",
+            "normalized": "For right is GOD’s word, all his works",
+            "reading": "For right is GOD’s word, all his works"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "are done in verity.",
+            "normalized": "Are done in verity.",
+            "reading": "are done in verity."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-033.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-033.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To judgment and to righteousness",
+            "normalized": "To judgment and to righteousness",
+            "reading": "To judgment and to righteousness"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a love he beareth still;",
+            "normalized": "A love he beareth still;",
+            "reading": "a love he beareth still;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The loving-kindness of the LORD",
+            "normalized": "The loving-kindness of the LORD",
+            "reading": "The loving-kindness of the LORD"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the earth throughout doth fill.",
+            "normalized": "The earth throughout doth fill.",
+            "reading": "the earth throughout doth fill."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-033.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-033.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The heavens by the word of GOD",
+            "normalized": "The heavens by the word of GOD",
+            "reading": "The heavens by the word of GOD"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "did their beginning take;",
+            "normalized": "Did their beginning take;",
+            "reading": "did their beginning take;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And by the breathing of his mouth",
+            "normalized": "And by the breathing of his mouth",
+            "reading": "And by the breathing of his mouth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he all their hosts did make.",
+            "normalized": "He all their hosts did make.",
+            "reading": "he all their hosts did make."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-033.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-033.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The waters of the seas he brings",
+            "normalized": "The waters of the seas he brings",
+            "reading": "The waters of the seas he brings"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "together as an heap;",
+            "normalized": "Together as an heap;",
+            "reading": "together as an heap;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in storehouses, as it were,",
+            "normalized": "And in storehouses, as it were,",
+            "reading": "And in storehouses, as it were,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he layeth up the deep.",
+            "normalized": "He layeth up the deep.",
+            "reading": "he layeth up the deep."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-033.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-033.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let earth, and all that live therein,",
+            "normalized": "Let earth, and all that live therein,",
+            "reading": "Let earth, and all that live therein,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with rev’rence fear the LORD;",
+            "normalized": "With rev’rence fear the LORD;",
+            "reading": "with rev’rence fear the LORD;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let all the world’s inhabitants",
+            "normalized": "Let all the world’s inhabitants",
+            "reading": "Let all the world’s inhabitants"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "dread him with one accord.",
+            "normalized": "Dread him with one accord.",
+            "reading": "dread him with one accord."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-033.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-033.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For he did speak the word, and done",
+            "normalized": "For he did speak the word, and done",
+            "reading": "For he did speak the word, and done"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "it was without delay;",
+            "normalized": "It was without delay;",
+            "reading": "it was without delay;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Establishèd it firmly stood,",
+            "normalized": "Establishèd it firmly stood,",
+            "reading": "Establishèd it firmly stood,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "whatever he did say.",
+            "normalized": "Whatever he did say.",
+            "reading": "whatever he did say."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-033.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-033.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD doth the counsel bring to nought",
+            "normalized": "GOD doth the counsel bring to nought",
+            "reading": "GOD doth the counsel bring to nought"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "which heathen folk do take;",
+            "normalized": "Which heathen folk do take;",
+            "reading": "which heathen folk do take;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And what the people do devise",
+            "normalized": "And what the people do devise",
+            "reading": "And what the people do devise"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of none effect doth make.",
+            "normalized": "Of none effect doth make.",
+            "reading": "of none effect doth make."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-033.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-033.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O but the counsel of the LORD",
+            "normalized": "O but the counsel of the LORD",
+            "reading": "O but the counsel of the LORD"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth stand for ever sure;",
+            "normalized": "Doth stand for ever sure;",
+            "reading": "doth stand for ever sure;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And of his heart the purposes",
+            "normalized": "And of his heart the purposes",
+            "reading": "And of his heart the purposes"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from age to age endure.",
+            "normalized": "From age to age endure.",
+            "reading": "from age to age endure."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-033.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-033.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That nation blessèd is, whose God",
+            "normalized": "That nation blessèd is, whose God",
+            "reading": "That nation blessèd is, whose God"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "JEHOVAH is, and those",
+            "normalized": "JEHOVAH is, and those",
+            "reading": "JEHOVAH is, and those"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A blessèd people are, whom for",
+            "normalized": "A blessèd people are, whom for",
+            "reading": "A blessèd people are, whom for"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his heritage he chose.",
+            "normalized": "His heritage he chose.",
+            "reading": "his heritage he chose."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-033.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        13,
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-033.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD from heav’n sees and beholds",
+            "normalized": "The LORD from heav’n sees and beholds",
+            "reading": "The LORD from heav’n sees and beholds"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all sons of men full well:",
+            "normalized": "All sons of men full well:",
+            "reading": "all sons of men full well:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He views all from his dwelling-place",
+            "normalized": "He views all from his dwelling-place",
+            "reading": "He views all from his dwelling-place"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that in the earth do dwell.",
+            "normalized": "That in the earth do dwell.",
+            "reading": "that in the earth do dwell."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-033.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        15,
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-033.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He forms their hearts alike, and all",
+            "normalized": "He forms their hearts alike, and all",
+            "reading": "He forms their hearts alike, and all"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their doings he observes.",
+            "normalized": "Their doings he observes.",
+            "reading": "their doings he observes."
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Great hosts save not a king, much strength",
+            "normalized": "Great hosts save not a king, much strength",
+            "reading": "Great hosts save not a king, much strength"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "no mighty man preserves.",
+            "normalized": "No mighty man preserves.",
+            "reading": "no mighty man preserves."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-033.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        17
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-033.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "An horse for preservätion",
+            "normalized": "An horse for preservätion",
+            "reading": "An horse for preservätion"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is a deceitful thing;",
+            "normalized": "Is a deceitful thing;",
+            "reading": "is a deceitful thing;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And by the greatness of his strength",
+            "normalized": "And by the greatness of his strength",
+            "reading": "And by the greatness of his strength"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "can no deliv’rance bring.",
+            "normalized": "Can no deliv’rance bring.",
+            "reading": "can no deliv’rance bring."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-033.primary.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-033.primary.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Behold, on those that do him fear",
+            "normalized": "Behold, on those that do him fear",
+            "reading": "Behold, on those that do him fear"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the LORD doth set his eye;",
+            "normalized": "The LORD doth set his eye;",
+            "reading": "the LORD doth set his eye;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n those who on his mercy do",
+            "normalized": "Ev’n those who on his mercy do",
+            "reading": "Ev’n those who on his mercy do"
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with confidence rely.",
+            "normalized": "With confidence rely.",
+            "reading": "with confidence rely."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-033.primary.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        19,
+        20
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-033.primary.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From death to free their soul, in dearth",
+            "normalized": "From death to free their soul, in dearth",
+            "reading": "From death to free their soul, in dearth"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "life unto them to yield.",
+            "normalized": "Life unto them to yield.",
+            "reading": "life unto them to yield."
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Our soul doth wait upon the LORD;",
+            "normalized": "Our soul doth wait upon the LORD;",
+            "reading": "Our soul doth wait upon the LORD;"
+          },
+          "biblical_verse_start": 20
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he is our help and shield.",
+            "normalized": "He is our help and shield.",
+            "reading": "he is our help and shield."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-033.primary.stanza-17",
+      "number": 17,
+      "biblical_verses": [
+        21,
+        22
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-033.primary.stanza-17.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Sith in his holy name we trust,",
+            "normalized": "Sith in his holy name we trust,",
+            "reading": "Sith in his holy name we trust,"
+          },
+          "biblical_verse_start": 21
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-17.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our heart shall joyful be.",
+            "normalized": "Our heart shall joyful be.",
+            "reading": "our heart shall joyful be."
+          }
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-17.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "LORD, let thy mercy be on us,",
+            "normalized": "LORD, let thy mercy be on us,",
+            "reading": "LORD, let thy mercy be on us,"
+          },
+          "biblical_verse_start": 22
+        },
+        {
+          "id": "ps1650.psalm-033.primary.stanza-17.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "as we do hope in thee.",
+            "normalized": "As we do hope in thee.",
+            "reading": "as we do hope in thee."
+          }
+        }
+      ]
+    }
+  ]
+}

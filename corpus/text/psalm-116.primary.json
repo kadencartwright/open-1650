@@ -1,0 +1,660 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-116.primary",
+  "psalm_number": 116,
+  "title": "Psalm 116",
+  "version": "primary",
+  "opening_line": "I love the LORD, because my voice",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 116 · p. 167–168",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-116-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      167,
+      168
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-116.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-116.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I love the LORD, because my voice",
+            "normalized": "I love the LORD, because my voice",
+            "reading": "I love the LORD, because my voice"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and prayers he did hear.",
+            "normalized": "And prayers he did hear.",
+            "reading": "and prayers he did hear."
+          }
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I, while I live, will call on him,",
+            "normalized": "I, while I live, will call on him,",
+            "reading": "I, while I live, will call on him,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who bowed to me his ear.",
+            "normalized": "Who bowed to me his ear.",
+            "reading": "who bowed to me his ear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-116.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-116.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of death the cords and sorrows did",
+            "normalized": "Of death the cords and sorrows did",
+            "reading": "Of death the cords and sorrows did"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "about me compass round;",
+            "normalized": "About me compass round;",
+            "reading": "about me compass round;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The pains of hell took hold on me,",
+            "normalized": "The pains of hell took hold on me,",
+            "reading": "The pains of hell took hold on me,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I grief and trouble found.",
+            "normalized": "I grief and trouble found.",
+            "reading": "I grief and trouble found."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-116.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-116.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Upon the name of God the LORD",
+            "normalized": "Upon the name of God the LORD",
+            "reading": "Upon the name of God the LORD"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "then did I call, and say,",
+            "normalized": "Then did I call, and say,",
+            "reading": "then did I call, and say,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Deliver thou my soul, O LORD,",
+            "normalized": "Deliver thou my soul, O LORD,",
+            "reading": "Deliver thou my soul, O LORD,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I do thee humbly pray.",
+            "normalized": "I do thee humbly pray.",
+            "reading": "I do thee humbly pray."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-116.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5,
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-116.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD merciful and righteous is,",
+            "normalized": "GOD merciful and righteous is,",
+            "reading": "GOD merciful and righteous is,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "yea, gracious is our LORD.",
+            "normalized": "Yea, gracious is our LORD.",
+            "reading": "yea, gracious is our LORD."
+          }
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD saves the meek: I was brought low,",
+            "normalized": "GOD saves the meek: I was brought low,",
+            "reading": "GOD saves the meek: I was brought low,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he did me help afford.",
+            "normalized": "He did me help afford.",
+            "reading": "he did me help afford."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-116.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-116.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O thou my soul, do thou return",
+            "normalized": "O thou my soul, do thou return",
+            "reading": "O thou my soul, do thou return"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto thy quiet rest;",
+            "normalized": "Unto thy quiet rest;",
+            "reading": "unto thy quiet rest;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For largely, lo, the LORD to thee",
+            "normalized": "For largely, lo, the LORD to thee",
+            "reading": "For largely, lo, the LORD to thee"
+          }
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his bounty hath expressed.",
+            "normalized": "His bounty hath expressed.",
+            "reading": "his bounty hath expressed."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-116.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-116.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For my distressèd soul from death",
+            "normalized": "For my distressèd soul from death",
+            "reading": "For my distressèd soul from death"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "delivered was by thee:",
+            "normalized": "Delivered was by thee:",
+            "reading": "delivered was by thee:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou didst my mourning eyes from tears,",
+            "normalized": "Thou didst my mourning eyes from tears,",
+            "reading": "Thou didst my mourning eyes from tears,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my feet from falling, free.",
+            "normalized": "My feet from falling, free.",
+            "reading": "my feet from falling, free."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-116.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9,
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-116.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I in the land of those that live",
+            "normalized": "I in the land of those that live",
+            "reading": "I in the land of those that live"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "will walk the LORD before.",
+            "normalized": "Will walk the LORD before.",
+            "reading": "will walk the LORD before."
+          }
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I did believe, therefore I spake:",
+            "normalized": "I did believe, therefore I spake:",
+            "reading": "I did believe, therefore I spake:"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I was afflicted sore.",
+            "normalized": "I was afflicted sore.",
+            "reading": "I was afflicted sore."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-116.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        11,
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-116.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I said, when I was in my haste,",
+            "normalized": "I said, when I was in my haste,",
+            "reading": "I said, when I was in my haste,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that all men liars be.",
+            "normalized": "That all men liars be.",
+            "reading": "that all men liars be."
+          }
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "What shall I render to the LORD",
+            "normalized": "What shall I render to the LORD",
+            "reading": "What shall I render to the LORD"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for all his gifts to me?",
+            "normalized": "For all his gifts to me?",
+            "reading": "for all his gifts to me?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-116.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        13,
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-116.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I’ll of salvation take the cup,",
+            "normalized": "I’ll of salvation take the cup,",
+            "reading": "I’ll of salvation take the cup,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "on GOD’s name will I call:",
+            "normalized": "On GOD’s name will I call:",
+            "reading": "on GOD’s name will I call:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I’ll pay my vows now to the LORD",
+            "normalized": "I’ll pay my vows now to the LORD",
+            "reading": "I’ll pay my vows now to the LORD"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "before his people all.",
+            "normalized": "Before his people all.",
+            "reading": "before his people all."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-116.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        15,
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-116.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Dear in GOD’s sight is his saints’ death.",
+            "normalized": "Dear in GOD’s sight is his saints’ death.",
+            "reading": "Dear in GOD’s sight is his saints’ death."
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Thy servant, LORD, am I;",
+            "normalized": "Thy servant, LORD, am I;",
+            "reading": "Thy servant, LORD, am I;"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy servant sure, thine handmaid’s son:",
+            "normalized": "Thy servant sure, thine handmaid’s son:",
+            "reading": "Thy servant sure, thine handmaid’s son:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my bands thou didst untie.",
+            "normalized": "My bands thou didst untie.",
+            "reading": "my bands thou didst untie."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-116.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        17,
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-116.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thank-off’rings I to thee will give,",
+            "normalized": "Thank-off’rings I to thee will give,",
+            "reading": "Thank-off’rings I to thee will give,"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and on GOD’s name will call.",
+            "normalized": "And on GOD’s name will call.",
+            "reading": "and on GOD’s name will call."
+          }
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I’ll pay my vows now to the LORD",
+            "normalized": "I’ll pay my vows now to the LORD",
+            "reading": "I’ll pay my vows now to the LORD"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "before his people all;",
+            "normalized": "Before his people all;",
+            "reading": "before his people all;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-116.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        19
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-116.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Within the courts of GOD’s own house,",
+            "normalized": "Within the courts of GOD’s own house,",
+            "reading": "Within the courts of GOD’s own house,"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "within the midst of thee,",
+            "normalized": "Within the midst of thee,",
+            "reading": "within the midst of thee,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O city of Jerusalem.",
+            "normalized": "O city of Jerusalem.",
+            "reading": "O city of Jerusalem."
+          }
+        },
+        {
+          "id": "ps1650.psalm-116.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Praise to the LORD give ye.",
+            "normalized": "Praise to the LORD give ye.",
+            "reading": "Praise to the LORD give ye."
+          }
+        }
+      ]
+    }
+  ]
+}

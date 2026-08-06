@@ -1,0 +1,199 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-131.primary",
+  "psalm_number": 131,
+  "title": "Psalm 131",
+  "version": "primary",
+  "opening_line": "My heart not haughty is, O LORD,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 131 · p. 188–189",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-131-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      188,
+      189
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-131.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-131.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My heart not haughty is, O LORD,",
+            "normalized": "My heart not haughty is, O LORD,",
+            "reading": "My heart not haughty is, O LORD,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-131.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "mine eyes not lofty be;",
+            "normalized": "Mine eyes not lofty be;",
+            "reading": "mine eyes not lofty be;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-131.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor do I deal in matters great,",
+            "normalized": "Nor do I deal in matters great,",
+            "reading": "Nor do I deal in matters great,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-131.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "or things too high for me.",
+            "normalized": "Or things too high for me.",
+            "reading": "or things too high for me."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-131.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-131.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I surely have myself behaved",
+            "normalized": "I surely have myself behaved",
+            "reading": "I surely have myself behaved"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-131.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with quiet spirit and mild,",
+            "normalized": "With quiet spirit and mild,",
+            "reading": "with quiet spirit and mild,"
+          },
+          "source_underlining": [
+            "spirit"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-131.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "As child of mother weaned: my soul",
+            "normalized": "As child of mother weaned: my soul",
+            "reading": "As child of mother weaned: my soul"
+          }
+        },
+        {
+          "id": "ps1650.psalm-131.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is like a weaned child.",
+            "normalized": "Is like a weaned child.",
+            "reading": "is like a weaned child."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-131.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-131.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Upon the LORD let all the hope",
+            "normalized": "Upon the LORD let all the hope",
+            "reading": "Upon the LORD let all the hope"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-131.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of Israèl rely,",
+            "normalized": "Of Israèl rely,",
+            "reading": "of Israèl rely,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-131.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n from the time that present is",
+            "normalized": "Ev’n from the time that present is",
+            "reading": "Ev’n from the time that present is"
+          }
+        },
+        {
+          "id": "ps1650.psalm-131.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto eternity.",
+            "normalized": "Unto eternity.",
+            "reading": "unto eternity."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-011.primary",
+  "psalm_number": 11,
+  "title": "Psalm 11",
+  "version": "primary",
+  "opening_line": "I in the LORD do put my trust:",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 11 · p. 17",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-011-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      17
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-011.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-011.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I in the LORD do put my trust:",
+            "normalized": "I in the LORD do put my trust:",
+            "reading": "I in the LORD do put my trust:"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "how is it then that ye",
+            "normalized": "How is it then that ye",
+            "reading": "how is it then that ye"
+          }
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Say to my soul, Flee, as a bird,",
+            "normalized": "Say to my soul, Flee, as a bird,",
+            "reading": "Say to my soul, Flee, as a bird,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto your mountain high?",
+            "normalized": "Unto your mountain high?",
+            "reading": "unto your mountain high?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-011.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-011.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For, lo, the wicked bend their bow,",
+            "normalized": "For, lo, the wicked bend their bow,",
+            "reading": "For, lo, the wicked bend their bow,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their shafts on string they fit,",
+            "normalized": "Their shafts on string they fit,",
+            "reading": "their shafts on string they fit,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That those who upright are in heart",
+            "normalized": "That those who upright are in heart",
+            "reading": "That those who upright are in heart"
+          }
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they privily may hit.",
+            "normalized": "They privily may hit.",
+            "reading": "they privily may hit."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-011.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-011.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "If the foundations be destroyed,",
+            "normalized": "If the foundations be destroyed,",
+            "reading": "If the foundations be destroyed,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "what hath the righteous done?",
+            "normalized": "What hath the righteous done?",
+            "reading": "what hath the righteous done?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD in his holy temple is,",
+            "normalized": "GOD in his holy temple is,",
+            "reading": "GOD in his holy temple is,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in heaven is his throne:",
+            "normalized": "In heaven is his throne:",
+            "reading": "in heaven is his throne:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-011.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-011.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His eyes do see, his eyelids try",
+            "normalized": "His eyes do see, his eyelids try",
+            "reading": "His eyes do see, his eyelids try"
+          }
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "men’s sons. The just he proves:",
+            "normalized": "Men’s sons. The just he proves:",
+            "reading": "men’s sons. The just he proves:"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But his soul hates the wicked man,",
+            "normalized": "But his soul hates the wicked man,",
+            "reading": "But his soul hates the wicked man,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and him that vi’lence loves.",
+            "normalized": "And him that vi’lence loves.",
+            "reading": "and him that vi’lence loves."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-011.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-011.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Snares, fire and brimstone, furious storms,",
+            "normalized": "Snares, fire and brimstone, furious storms,",
+            "reading": "Snares, fire and brimstone, furious storms,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "on sinners he shall rain:",
+            "normalized": "On sinners he shall rain:",
+            "reading": "on sinners he shall rain:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "This, as the portion of their cup,",
+            "normalized": "This, as the portion of their cup,",
+            "reading": "This, as the portion of their cup,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth unto them pertain.",
+            "normalized": "Doth unto them pertain.",
+            "reading": "doth unto them pertain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-011.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-011.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because the LORD most righteous doth",
+            "normalized": "Because the LORD most righteous doth",
+            "reading": "Because the LORD most righteous doth"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in righteousness delight;",
+            "normalized": "In righteousness delight;",
+            "reading": "in righteousness delight;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And with a pleasant countenance",
+            "normalized": "And with a pleasant countenance",
+            "reading": "And with a pleasant countenance"
+          }
+        },
+        {
+          "id": "ps1650.psalm-011.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "beholdeth the upright.",
+            "normalized": "Beholdeth the upright.",
+            "reading": "beholdeth the upright."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-137.primary",
+  "psalm_number": 137,
+  "title": "Psalm 137",
+  "version": "primary",
+  "opening_line": "By Babel’s streams we sat and wept,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 137 · p. 195–196",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-137-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      195,
+      196
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-137.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-137.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "By Babel’s streams we sat and wept,",
+            "normalized": "By Babel’s streams we sat and wept,",
+            "reading": "By Babel’s streams we sat and wept,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when Zion we thought on.",
+            "normalized": "When Zion we thought on.",
+            "reading": "when Zion we thought on."
+          }
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In midst thereof we hanged our harps",
+            "normalized": "In midst thereof we hanged our harps",
+            "reading": "In midst thereof we hanged our harps"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the willow-trees upon.",
+            "normalized": "The willow-trees upon.",
+            "reading": "the willow-trees upon."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-137.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-137.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For there a song requirèd they,",
+            "normalized": "For there a song requirèd they,",
+            "reading": "For there a song requirèd they,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who did us captive bring:",
+            "normalized": "Who did us captive bring:",
+            "reading": "who did us captive bring:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Our spoilers called for mirth, and said,",
+            "normalized": "Our spoilers called for mirth, and said,",
+            "reading": "Our spoilers called for mirth, and said,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "A song of Zion sing.",
+            "normalized": "A song of Zion sing.",
+            "reading": "A song of Zion sing."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-137.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4,
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-137.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O how the LORD’s song shall we sing",
+            "normalized": "O how the LORD’s song shall we sing",
+            "reading": "O how the LORD’s song shall we sing"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "within a foreign land?",
+            "normalized": "Within a foreign land?",
+            "reading": "within a foreign land?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "If thee, Jerus’lem, I forget,",
+            "normalized": "If thee, Jerus’lem, I forget,",
+            "reading": "If thee, Jerus’lem, I forget,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "skill part from my right hand.",
+            "normalized": "Skill part from my right hand.",
+            "reading": "skill part from my right hand."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-137.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-137.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My tongue to my mouth’s roof let cleave,",
+            "normalized": "My tongue to my mouth’s roof let cleave,",
+            "reading": "My tongue to my mouth’s roof let cleave,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "if I do thee forget,",
+            "normalized": "If I do thee forget,",
+            "reading": "if I do thee forget,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Jerusalem, and thee above",
+            "normalized": "Jerusalem, and thee above",
+            "reading": "Jerusalem, and thee above"
+          }
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my chief joy do not set.",
+            "normalized": "My chief joy do not set.",
+            "reading": "my chief joy do not set."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-137.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-137.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Remember Edom’s children, LORD,",
+            "normalized": "Remember Edom’s children, LORD,",
+            "reading": "Remember Edom’s children, LORD,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who in Jerus’lem’s day,",
+            "normalized": "Who in Jerus’lem’s day,",
+            "reading": "who in Jerus’lem’s day,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n unto its foundätion,",
+            "normalized": "Ev’n unto its foundätion,",
+            "reading": "Ev’n unto its foundätion,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Raze, raze it quite, did say.",
+            "normalized": "Raze, raze it quite, did say.",
+            "reading": "Raze, raze it quite, did say."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-137.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-137.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O daughter thou of Babylon,",
+            "normalized": "O daughter thou of Babylon,",
+            "reading": "O daughter thou of Babylon,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "near to destrüction;",
+            "normalized": "Near to destrüction;",
+            "reading": "near to destrüction;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Bless’d shall he be that thee rewards,",
+            "normalized": "Bless’d shall he be that thee rewards,",
+            "reading": "Bless’d shall he be that thee rewards,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "as thou to us hast done.",
+            "normalized": "As thou to us hast done.",
+            "reading": "as thou to us hast done."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-137.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-137.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, happy surely shall he be",
+            "normalized": "Yea, happy surely shall he be",
+            "reading": "Yea, happy surely shall he be"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy tender little ones",
+            "normalized": "Thy tender little ones",
+            "reading": "thy tender little ones"
+          }
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who shall lay hold upon, and them",
+            "normalized": "Who shall lay hold upon, and them",
+            "reading": "Who shall lay hold upon, and them"
+          }
+        },
+        {
+          "id": "ps1650.psalm-137.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall dash against the stones.",
+            "normalized": "Shall dash against the stones.",
+            "reading": "shall dash against the stones."
+          }
+        }
+      ]
+    }
+  ]
+}

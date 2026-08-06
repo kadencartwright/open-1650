@@ -1,0 +1,299 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-067.alternate",
+  "psalm_number": 67,
+  "title": "Psalm 67 · second version",
+  "version": "alternate",
+  "opening_line": "Lord, unto us be merciful,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 67 · p. 90",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "second version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-067,-second-version-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      90
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-067.alternate.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Lord, unto us be merciful,",
+            "normalized": "Lord, unto us be merciful,",
+            "reading": "Lord, unto us be merciful,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do thou us also bless;",
+            "normalized": "Do thou us also bless;",
+            "reading": "do thou us also bless;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And graciously cause shine on us",
+            "normalized": "And graciously cause shine on us",
+            "reading": "And graciously cause shine on us"
+          }
+        },
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the brightness of thy face:",
+            "normalized": "The brightness of thy face:",
+            "reading": "the brightness of thy face:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-067.alternate.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That so thy way upon the earth",
+            "normalized": "That so thy way upon the earth",
+            "reading": "That so thy way upon the earth"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to all men may be known;",
+            "normalized": "To all men may be known;",
+            "reading": "to all men may be known;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Also among the nations all",
+            "normalized": "Also among the nations all",
+            "reading": "Also among the nations all"
+          }
+        },
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy saving health be shown.",
+            "normalized": "Thy saving health be shown.",
+            "reading": "thy saving health be shown."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-067.alternate.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O let the people praise thee, Lord;",
+            "normalized": "O let the people praise thee, Lord;",
+            "reading": "O let the people praise thee, Lord;"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let people all thee praise.",
+            "normalized": "Let people all thee praise.",
+            "reading": "let people all thee praise."
+          }
+        },
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O let the nätions be glad,",
+            "normalized": "O let the nätions be glad,",
+            "reading": "O let the nätions be glad,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and sing for joy always:",
+            "normalized": "And sing for joy always:",
+            "reading": "and sing for joy always:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-067.alternate.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For rightly thou shalt people judge,",
+            "normalized": "For rightly thou shalt people judge,",
+            "reading": "For rightly thou shalt people judge,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and nations rule on earth.",
+            "normalized": "And nations rule on earth.",
+            "reading": "and nations rule on earth."
+          }
+        },
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let people praise thee, Lord; let all",
+            "normalized": "Let people praise thee, Lord; let all",
+            "reading": "Let people praise thee, Lord; let all"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the folk praise thee with mirth.",
+            "normalized": "The folk praise thee with mirth.",
+            "reading": "the folk praise thee with mirth."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-067.alternate.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6,
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then shall the earth yield her increase;",
+            "normalized": "Then shall the earth yield her increase;",
+            "reading": "Then shall the earth yield her increase;"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "God, our God, bless us shall.",
+            "normalized": "God, our God, bless us shall.",
+            "reading": "God, our God, bless us shall."
+          }
+        },
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "God shall us bless; and of the earth",
+            "normalized": "God shall us bless; and of the earth",
+            "reading": "God shall us bless; and of the earth"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-067.alternate.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the ends shall fear him all.",
+            "normalized": "The ends shall fear him all.",
+            "reading": "the ends shall fear him all."
+          }
+        }
+      ]
+    }
+  ]
+}

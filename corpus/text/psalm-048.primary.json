@@ -1,0 +1,602 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-048.primary",
+  "psalm_number": 48,
+  "title": "Psalm 48",
+  "version": "primary",
+  "opening_line": "Great is the LORD, and greatly he",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 48 · p. 67–68",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-048-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      67,
+      68
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-048.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-048.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Great is the LORD, and greatly he",
+            "normalized": "Great is the LORD, and greatly he",
+            "reading": "Great is the LORD, and greatly he"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is to be praisèd still,",
+            "normalized": "Is to be praisèd still,",
+            "reading": "is to be praisèd still,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Within the city of our God,",
+            "normalized": "Within the city of our God,",
+            "reading": "Within the city of our God,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "upon his holy hill.",
+            "normalized": "Upon his holy hill.",
+            "reading": "upon his holy hill."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-048.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-048.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Mount Zion stands most beautiful,",
+            "normalized": "Mount Zion stands most beautiful,",
+            "reading": "Mount Zion stands most beautiful,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the joy of all the land;",
+            "normalized": "The joy of all the land;",
+            "reading": "the joy of all the land;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The city of the mighty King",
+            "normalized": "The city of the mighty King",
+            "reading": "The city of the mighty King"
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "on her north side doth stand.",
+            "normalized": "On her north side doth stand.",
+            "reading": "on her north side doth stand."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-048.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-048.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The Lord within her palaces",
+            "normalized": "The Lord within her palaces",
+            "reading": "The Lord within her palaces"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is for a refuge known.",
+            "normalized": "Is for a refuge known.",
+            "reading": "is for a refuge known."
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For, lo, the kings that gathered were",
+            "normalized": "For, lo, the kings that gathered were",
+            "reading": "For, lo, the kings that gathered were"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "together, by have gone.",
+            "normalized": "Together, by have gone.",
+            "reading": "together, by have gone."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-048.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-048.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But when they did behold the same,",
+            "normalized": "But when they did behold the same,",
+            "reading": "But when they did behold the same,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they, wond’ring, would not stay;",
+            "normalized": "They, wond’ring, would not stay;",
+            "reading": "they, wond’ring, would not stay;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But, being troubled at the sight,",
+            "normalized": "But, being troubled at the sight,",
+            "reading": "But, being troubled at the sight,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they thence did haste away.",
+            "normalized": "They thence did haste away.",
+            "reading": "they thence did haste away."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-048.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-048.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Great terror there took hold on them;",
+            "normalized": "Great terror there took hold on them;",
+            "reading": "Great terror there took hold on them;"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they were possessed with fear;",
+            "normalized": "They were possessed with fear;",
+            "reading": "they were possessed with fear;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their grief came like a woman’s pain,",
+            "normalized": "Their grief came like a woman’s pain,",
+            "reading": "Their grief came like a woman’s pain,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when she a child doth bear.",
+            "normalized": "When she a child doth bear.",
+            "reading": "when she a child doth bear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-048.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-048.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou Tarshish ships with east wind break’st:",
+            "normalized": "Thou Tarshish ships with east wind break’st:",
+            "reading": "Thou Tarshish ships with east wind break’st:"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "As we have heard it told,",
+            "normalized": "As we have heard it told,",
+            "reading": "As we have heard it told,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "So, in the city of the LORD,",
+            "normalized": "So, in the city of the LORD,",
+            "reading": "So, in the city of the LORD,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our eyes did it behold;",
+            "normalized": "Our eyes did it behold;",
+            "reading": "our eyes did it behold;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-048.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-048.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In our God’s city, which his hand",
+            "normalized": "In our God’s city, which his hand",
+            "reading": "In our God’s city, which his hand"
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for ever stablish will.",
+            "normalized": "For ever stablish will.",
+            "reading": "for ever stablish will."
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "We of thy loving-kindness thought,",
+            "normalized": "We of thy loving-kindness thought,",
+            "reading": "We of thy loving-kindness thought,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Lord, in thy temple still.",
+            "normalized": "Lord, in thy temple still.",
+            "reading": "Lord, in thy temple still."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-048.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-048.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O Lord, according to thy name,",
+            "normalized": "O Lord, according to thy name,",
+            "reading": "O Lord, according to thy name,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "through all the earth’s thy praise;",
+            "normalized": "Through all the earth’s thy praise;",
+            "reading": "through all the earth’s thy praise;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And thy right hand, O Lord, is full",
+            "normalized": "And thy right hand, O Lord, is full",
+            "reading": "And thy right hand, O Lord, is full"
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of righteousness always.",
+            "normalized": "Of righteousness always.",
+            "reading": "of righteousness always."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-048.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-048.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because thy judgments are made known,",
+            "normalized": "Because thy judgments are made known,",
+            "reading": "Because thy judgments are made known,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let Zion mount rejoice;",
+            "normalized": "Let Zion mount rejoice;",
+            "reading": "let Zion mount rejoice;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of Judah let the daughters all",
+            "normalized": "Of Judah let the daughters all",
+            "reading": "Of Judah let the daughters all"
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "send forth a cheerful voice.",
+            "normalized": "Send forth a cheerful voice.",
+            "reading": "send forth a cheerful voice."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-048.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        12,
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-048.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Walk about Zion, and go round;",
+            "normalized": "Walk about Zion, and go round;",
+            "reading": "Walk about Zion, and go round;"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the high tow’rs thereof tell:",
+            "normalized": "The high tow’rs thereof tell:",
+            "reading": "the high tow’rs thereof tell:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Consider ye her palaces,",
+            "normalized": "Consider ye her palaces,",
+            "reading": "Consider ye her palaces,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and mark her bulwarks well;",
+            "normalized": "And mark her bulwarks well;",
+            "reading": "and mark her bulwarks well;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-048.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-048.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That ye may tell posterity.",
+            "normalized": "That ye may tell posterity.",
+            "reading": "That ye may tell posterity."
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": " For this God doth abide",
+            "normalized": "For this God doth abide",
+            "reading": "For this God doth abide"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Our God for evermore; he will",
+            "normalized": "Our God for evermore; he will",
+            "reading": "Our God for evermore; he will"
+          }
+        },
+        {
+          "id": "ps1650.psalm-048.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ev’n unto death us guide.",
+            "normalized": "Ev’n unto death us guide.",
+            "reading": "ev’n unto death us guide."
+          }
+        }
+      ]
+    }
+  ]
+}

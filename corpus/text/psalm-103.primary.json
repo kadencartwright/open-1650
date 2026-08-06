@@ -1,0 +1,1006 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-103.primary",
+  "psalm_number": 103,
+  "title": "Psalm 103",
+  "version": "primary",
+  "opening_line": "O thou my soul, bless God the LORD;",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 103 · p. 145–147",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-103-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      145,
+      146,
+      147
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-103.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O thou my soul, bless God the LORD;",
+            "normalized": "O thou my soul, bless God the LORD;",
+            "reading": "O thou my soul, bless God the LORD;"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and all that in me is",
+            "normalized": "And all that in me is",
+            "reading": "and all that in me is"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Be stirrèd up his holy name",
+            "normalized": "Be stirrèd up his holy name",
+            "reading": "Be stirrèd up his holy name"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to magnify and bless.",
+            "normalized": "To magnify and bless.",
+            "reading": "to magnify and bless."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Bless, O my soul, the LORD thy God,",
+            "normalized": "Bless, O my soul, the LORD thy God,",
+            "reading": "Bless, O my soul, the LORD thy God,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and not forgetful be",
+            "normalized": "And not forgetful be",
+            "reading": "and not forgetful be"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of all his gracious benefits",
+            "normalized": "Of all his gracious benefits",
+            "reading": "Of all his gracious benefits"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he hath bestowed on thee.",
+            "normalized": "He hath bestowed on thee.",
+            "reading": "he hath bestowed on thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All thine iniquities who doth",
+            "normalized": "All thine iniquities who doth",
+            "reading": "All thine iniquities who doth"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "most graciously forgive:",
+            "normalized": "Most graciously forgive:",
+            "reading": "most graciously forgive:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who thy diseases all and pains",
+            "normalized": "Who thy diseases all and pains",
+            "reading": "Who thy diseases all and pains"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth heal, and thee relieve.",
+            "normalized": "Doth heal, and thee relieve.",
+            "reading": "doth heal, and thee relieve."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who doth redeem thy life, that thou",
+            "normalized": "Who doth redeem thy life, that thou",
+            "reading": "Who doth redeem thy life, that thou"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to death may’st not go down;",
+            "normalized": "To death may’st not go down;",
+            "reading": "to death may’st not go down;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who thee with loving-kindness doth",
+            "normalized": "Who thee with loving-kindness doth",
+            "reading": "Who thee with loving-kindness doth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and tender mercies crown:",
+            "normalized": "And tender mercies crown:",
+            "reading": "and tender mercies crown:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who with abundance of good things",
+            "normalized": "Who with abundance of good things",
+            "reading": "Who with abundance of good things"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth satisfy thy mouth;",
+            "normalized": "Doth satisfy thy mouth;",
+            "reading": "doth satisfy thy mouth;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "So that, ev’n as the eagle’s age,",
+            "normalized": "So that, ev’n as the eagle’s age,",
+            "reading": "So that, ev’n as the eagle’s age,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "renewèd is thy youth.",
+            "normalized": "Renewèd is thy youth.",
+            "reading": "renewèd is thy youth."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6,
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD righteous judgment executes",
+            "normalized": "GOD righteous judgment executes",
+            "reading": "GOD righteous judgment executes"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for all oppressèd ones.",
+            "normalized": "For all oppressèd ones.",
+            "reading": "for all oppressèd ones."
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His ways to Moses, he his acts",
+            "normalized": "His ways to Moses, he his acts",
+            "reading": "His ways to Moses, he his acts"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "made known to Isr’el’s sons.",
+            "normalized": "Made known to Isr’el’s sons.",
+            "reading": "made known to Isr’el’s sons."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD our God is merciful,",
+            "normalized": "The LORD our God is merciful,",
+            "reading": "The LORD our God is merciful,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and he is gräcious,",
+            "normalized": "And he is gräcious,",
+            "reading": "and he is gräcious,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Long-suffering, and slow to wrath,",
+            "normalized": "Long-suffering, and slow to wrath,",
+            "reading": "Long-suffering, and slow to wrath,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in mercy plenteous.",
+            "normalized": "In mercy plenteous.",
+            "reading": "in mercy plenteous."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9,
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He will not chide continually,",
+            "normalized": "He will not chide continually,",
+            "reading": "He will not chide continually,"
+          },
+          "biblical_verse_start": 9,
+          "source_underlining": [
+            "ual"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor keep his anger still.",
+            "normalized": "Nor keep his anger still.",
+            "reading": "nor keep his anger still."
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With us he dealt not as we sinned,",
+            "normalized": "With us he dealt not as we sinned,",
+            "reading": "With us he dealt not as we sinned,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor did requite our ill.",
+            "normalized": "Nor did requite our ill.",
+            "reading": "nor did requite our ill."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For as the heaven in its height",
+            "normalized": "For as the heaven in its height",
+            "reading": "For as the heaven in its height"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the earth surmounteth far;",
+            "normalized": "The earth surmounteth far;",
+            "reading": "the earth surmounteth far;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "So great to those that do him fear",
+            "normalized": "So great to those that do him fear",
+            "reading": "So great to those that do him fear"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his tender mercies are:",
+            "normalized": "His tender mercies are:",
+            "reading": "his tender mercies are:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "As far as east is distant from",
+            "normalized": "As far as east is distant from",
+            "reading": "As far as east is distant from"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the west, so far hath he",
+            "normalized": "The west, so far hath he",
+            "reading": "the west, so far hath he"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From us removèd, in his love,",
+            "normalized": "From us removèd, in his love,",
+            "reading": "From us removèd, in his love,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all our iniquity.",
+            "normalized": "All our iniquity.",
+            "reading": "all our iniquity."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Such pity as a father hath",
+            "normalized": "Such pity as a father hath",
+            "reading": "Such pity as a father hath"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto his children dear;",
+            "normalized": "Unto his children dear;",
+            "reading": "unto his children dear;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Like pity shows the LORD to such",
+            "normalized": "Like pity shows the LORD to such",
+            "reading": "Like pity shows the LORD to such"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "as worship him in fear.",
+            "normalized": "As worship him in fear.",
+            "reading": "as worship him in fear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        14,
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For he remembers we are dust,",
+            "normalized": "For he remembers we are dust,",
+            "reading": "For he remembers we are dust,"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and he our frame well knows.",
+            "normalized": "And he our frame well knows.",
+            "reading": "and he our frame well knows."
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Frail man, his days are like the grass,",
+            "normalized": "Frail man, his days are like the grass,",
+            "reading": "Frail man, his days are like the grass,"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "as flow’r in field he grows:",
+            "normalized": "As flow’r in field he grows:",
+            "reading": "as flow’r in field he grows:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For over it the wind doth pass,",
+            "normalized": "For over it the wind doth pass,",
+            "reading": "For over it the wind doth pass,"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and it away is gone;",
+            "normalized": "And it away is gone;",
+            "reading": "and it away is gone;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And of the place where once it was",
+            "normalized": "And of the place where once it was",
+            "reading": "And of the place where once it was"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "it shall no more be known.",
+            "normalized": "It shall no more be known.",
+            "reading": "it shall no more be known."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        17
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But unto them that do him fear",
+            "normalized": "But unto them that do him fear",
+            "reading": "But unto them that do him fear"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "GOD’s mercy never ends;",
+            "normalized": "GOD’s mercy never ends;",
+            "reading": "GOD’s mercy never ends;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And to their children’s children still",
+            "normalized": "And to their children’s children still",
+            "reading": "And to their children’s children still"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his righteousness extends:",
+            "normalized": "His righteousness extends:",
+            "reading": "his righteousness extends:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To such as keep his covenant,",
+            "normalized": "To such as keep his covenant,",
+            "reading": "To such as keep his covenant,"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and mindful are alway",
+            "normalized": "And mindful are alway",
+            "reading": "and mindful are alway"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of his most just commändments,",
+            "normalized": "Of his most just commändments,",
+            "reading": "Of his most just commändments,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that they may them obey.",
+            "normalized": "That they may them obey.",
+            "reading": "that they may them obey."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        19
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD preparèd hath his throne",
+            "normalized": "The LORD preparèd hath his throne",
+            "reading": "The LORD preparèd hath his throne"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in heavens firm to stand;",
+            "normalized": "In heavens firm to stand;",
+            "reading": "in heavens firm to stand;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And everything that being hath",
+            "normalized": "And everything that being hath",
+            "reading": "And everything that being hath"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his kingdom doth command.",
+            "normalized": "His kingdom doth command.",
+            "reading": "his kingdom doth command."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-17",
+      "number": 17,
+      "biblical_verses": [
+        20
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-17.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O ye his angels, that excel",
+            "normalized": "O ye his angels, that excel",
+            "reading": "O ye his angels, that excel"
+          },
+          "biblical_verse_start": 20
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-17.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in strength, bless ye the LORD;",
+            "normalized": "In strength, bless ye the LORD;",
+            "reading": "in strength, bless ye the LORD;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-17.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ye who obey what he commands,",
+            "normalized": "Ye who obey what he commands,",
+            "reading": "Ye who obey what he commands,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-17.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and hearken to his word.",
+            "normalized": "And hearken to his word.",
+            "reading": "and hearken to his word."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-18",
+      "number": 18,
+      "biblical_verses": [
+        21
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-18.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O bless and magnify the LORD,",
+            "normalized": "O bless and magnify the LORD,",
+            "reading": "O bless and magnify the LORD,"
+          },
+          "biblical_verse_start": 21
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-18.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ye glorious hosts of his;",
+            "normalized": "Ye glorious hosts of his;",
+            "reading": "ye glorious hosts of his;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-18.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ye ministers, that do fulfil",
+            "normalized": "Ye ministers, that do fulfil",
+            "reading": "Ye ministers, that do fulfil"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-18.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "whate’er his pleasure is.",
+            "normalized": "Whate’er his pleasure is.",
+            "reading": "whate’er his pleasure is."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-103.primary.stanza-19",
+      "number": 19,
+      "biblical_verses": [
+        22
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-103.primary.stanza-19.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O bless the LORD, all ye his works,",
+            "normalized": "O bless the LORD, all ye his works,",
+            "reading": "O bless the LORD, all ye his works,"
+          },
+          "biblical_verse_start": 22
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-19.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "wherewith the world is stored",
+            "normalized": "Wherewith the world is stored",
+            "reading": "wherewith the world is stored"
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-19.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In his dominions everywhere.",
+            "normalized": "In his dominions everywhere.",
+            "reading": "In his dominions everywhere."
+          }
+        },
+        {
+          "id": "ps1650.psalm-103.primary.stanza-19.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "My soul, bless thou the LORD.",
+            "normalized": "My soul, bless thou the LORD.",
+            "reading": "My soul, bless thou the LORD."
+          }
+        }
+      ]
+    }
+  ]
+}

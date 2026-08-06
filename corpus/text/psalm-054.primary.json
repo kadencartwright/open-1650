@@ -1,0 +1,347 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-054.primary",
+  "psalm_number": 54,
+  "title": "Psalm 54",
+  "version": "primary",
+  "opening_line": "Save me, O God, by thy great name,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 54 · p. 76",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-054-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      76
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-054.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-054.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Save me, O God, by thy great name,",
+            "normalized": "Save me, O God, by thy great name,",
+            "reading": "Save me, O God, by thy great name,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and judge me by thy strength:",
+            "normalized": "And judge me by thy strength:",
+            "reading": "and judge me by thy strength:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My prayer hear, O God; give ear",
+            "normalized": "My prayer hear, O God; give ear",
+            "reading": "My prayer hear, O God; give ear"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto my words at length.",
+            "normalized": "Unto my words at length.",
+            "reading": "unto my words at length."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-054.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-054.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For they that strangers are to me",
+            "normalized": "For they that strangers are to me",
+            "reading": "For they that strangers are to me"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do up against me rise;",
+            "normalized": "Do up against me rise;",
+            "reading": "do up against me rise;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Oppressors seek my soul, and God",
+            "normalized": "Oppressors seek my soul, and God",
+            "reading": "Oppressors seek my soul, and God"
+          }
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "set not before their eyes.",
+            "normalized": "Set not before their eyes.",
+            "reading": "set not before their eyes."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-054.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-054.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The Lord my God my helper is,",
+            "normalized": "The Lord my God my helper is,",
+            "reading": "The Lord my God my helper is,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "lo, therefore I am bold:",
+            "normalized": "Lo, therefore I am bold:",
+            "reading": "lo, therefore I am bold:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He taketh part with everyone",
+            "normalized": "He taketh part with everyone",
+            "reading": "He taketh part with everyone"
+          }
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that doth my soul uphold.",
+            "normalized": "That doth my soul uphold.",
+            "reading": "that doth my soul uphold."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-054.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-054.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto mine enemies he shall",
+            "normalized": "Unto mine enemies he shall",
+            "reading": "Unto mine enemies he shall"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "mischief and ill repay:",
+            "normalized": "Mischief and ill repay:",
+            "reading": "mischief and ill repay:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O for thy truth’s sake cut them off,",
+            "normalized": "O for thy truth’s sake cut them off,",
+            "reading": "O for thy truth’s sake cut them off,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and sweep them clean away.",
+            "normalized": "And sweep them clean away.",
+            "reading": "and sweep them clean away."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-054.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-054.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I will a sacrifice to thee",
+            "normalized": "I will a sacrifice to thee",
+            "reading": "I will a sacrifice to thee"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "give with free willingness;",
+            "normalized": "Give with free willingness;",
+            "reading": "give with free willingness;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy name, O LORD, because ’tis good,",
+            "normalized": "Thy name, O LORD, because ’tis good,",
+            "reading": "Thy name, O LORD, because ’tis good,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with praise I will confess.",
+            "normalized": "With praise I will confess.",
+            "reading": "with praise I will confess."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-054.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-054.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For he hath me delivered",
+            "normalized": "For he hath me delivered",
+            "reading": "For he hath me delivered"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from all adversities;",
+            "normalized": "From all adversities;",
+            "reading": "from all adversities;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And his desire mine eye hath seen",
+            "normalized": "And his desire mine eye hath seen",
+            "reading": "And his desire mine eye hath seen"
+          }
+        },
+        {
+          "id": "ps1650.psalm-054.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "upon mine enemies.",
+            "normalized": "Upon mine enemies.",
+            "reading": "upon mine enemies."
+          }
+        }
+      ]
+    }
+  ]
+}

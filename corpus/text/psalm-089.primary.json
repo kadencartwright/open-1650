@@ -1,0 +1,2264 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-089.primary",
+  "psalm_number": 89,
+  "title": "Psalm 89",
+  "version": "primary",
+  "opening_line": "GOD’s mercies I will ever sing;",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 89 · p. 125–128",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-089-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      125,
+      126,
+      127,
+      128
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-089.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD’s mercies I will ever sing;",
+            "normalized": "GOD’s mercies I will ever sing;",
+            "reading": "GOD’s mercies I will ever sing;"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and with my mouth I shall",
+            "normalized": "And with my mouth I shall",
+            "reading": "and with my mouth I shall"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy faithfulness make to be known",
+            "normalized": "Thy faithfulness make to be known",
+            "reading": "Thy faithfulness make to be known"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to generations all.",
+            "normalized": "To generations all.",
+            "reading": "to generations all."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For mercy shall be built, said I,",
+            "normalized": "For mercy shall be built, said I,",
+            "reading": "For mercy shall be built, said I,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for ever to endure;",
+            "normalized": "For ever to endure;",
+            "reading": "for ever to endure;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy faithfulness, ev’n in the heav’ns,",
+            "normalized": "Thy faithfulness, ev’n in the heav’ns,",
+            "reading": "Thy faithfulness, ev’n in the heav’ns,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou wilt establish sure.",
+            "normalized": "Thou wilt establish sure.",
+            "reading": "thou wilt establish sure."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I with my chosen One have made",
+            "normalized": "I with my chosen One have made",
+            "reading": "I with my chosen One have made"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a cov’nant graciously;",
+            "normalized": "A cov’nant graciously;",
+            "reading": "a cov’nant graciously;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And to my servant, whom I loved,",
+            "normalized": "And to my servant, whom I loved,",
+            "reading": "And to my servant, whom I loved,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to David sworn have I;",
+            "normalized": "To David sworn have I;",
+            "reading": "to David sworn have I;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That I thy seed establish shall",
+            "normalized": "That I thy seed establish shall",
+            "reading": "That I thy seed establish shall"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for ever to remain,",
+            "normalized": "For ever to remain,",
+            "reading": "for ever to remain,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And will to generations all",
+            "normalized": "And will to generations all",
+            "reading": "And will to generations all"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy throne build and maintain.",
+            "normalized": "Thy throne build and maintain.",
+            "reading": "thy throne build and maintain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The praises of thy wonders, LORD,",
+            "normalized": "The praises of thy wonders, LORD,",
+            "reading": "The praises of thy wonders, LORD,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the heavens shall express;",
+            "normalized": "The heavens shall express;",
+            "reading": "the heavens shall express;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in the congregätion",
+            "normalized": "And in the congregätion",
+            "reading": "And in the congregätion"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of saints thy faithfulness.",
+            "normalized": "Of saints thy faithfulness.",
+            "reading": "of saints thy faithfulness."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For who in heaven with the LORD",
+            "normalized": "For who in heaven with the LORD",
+            "reading": "For who in heaven with the LORD"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "may once himself compare?",
+            "normalized": "May once himself compare?",
+            "reading": "may once himself compare?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who is like GOD among the sons",
+            "normalized": "Who is like GOD among the sons",
+            "reading": "Who is like GOD among the sons"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of those that mighty are?",
+            "normalized": "Of those that mighty are?",
+            "reading": "of those that mighty are?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Great fear in meeting of the saints",
+            "normalized": "Great fear in meeting of the saints",
+            "reading": "Great fear in meeting of the saints"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is due unto the Lord;",
+            "normalized": "Is due unto the Lord;",
+            "reading": "is due unto the Lord;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And he of all about him should",
+            "normalized": "And he of all about him should",
+            "reading": "And he of all about him should"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with rev’rence be adored.",
+            "normalized": "With rev’rence be adored.",
+            "reading": "with rev’rence be adored."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O thou that art the LORD of hosts,",
+            "normalized": "O thou that art the LORD of hosts,",
+            "reading": "O thou that art the LORD of hosts,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "what Lord in mightiness",
+            "normalized": "What Lord in mightiness",
+            "reading": "what Lord in mightiness"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Is like to thee? who compassed round",
+            "normalized": "Is like to thee? who compassed round",
+            "reading": "Is like to thee? who compassed round"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "art with thy faithfulness.",
+            "normalized": "Art with thy faithfulness.",
+            "reading": "art with thy faithfulness."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n in the raging of the sea",
+            "normalized": "Ev’n in the raging of the sea",
+            "reading": "Ev’n in the raging of the sea"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou over it dost reign;",
+            "normalized": "Thou over it dost reign;",
+            "reading": "thou over it dost reign;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And when the waves thereof do swell,",
+            "normalized": "And when the waves thereof do swell,",
+            "reading": "And when the waves thereof do swell,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou stillest them again.",
+            "normalized": "Thou stillest them again.",
+            "reading": "thou stillest them again."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Rahab in pieces thou didst break,",
+            "normalized": "Rahab in pieces thou didst break,",
+            "reading": "Rahab in pieces thou didst break,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "like one that slaughtered is;",
+            "normalized": "Like one that slaughtered is;",
+            "reading": "like one that slaughtered is;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And with thy mighty arm thou hast",
+            "normalized": "And with thy mighty arm thou hast",
+            "reading": "And with thy mighty arm thou hast"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "dispersed thine enemies.",
+            "normalized": "Dispersed thine enemies.",
+            "reading": "dispersed thine enemies."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The heav’ns are thine, thou for thine own",
+            "normalized": "The heav’ns are thine, thou for thine own",
+            "reading": "The heav’ns are thine, thou for thine own"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the earth dost also take;",
+            "normalized": "The earth dost also take;",
+            "reading": "the earth dost also take;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The world, and fulness of the same,",
+            "normalized": "The world, and fulness of the same,",
+            "reading": "The world, and fulness of the same,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy pow’r did found and make.",
+            "normalized": "Thy pow’r did found and make.",
+            "reading": "thy pow’r did found and make."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The north and south from thee alone",
+            "normalized": "The north and south from thee alone",
+            "reading": "The north and south from thee alone"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their first beginning had;",
+            "normalized": "Their first beginning had;",
+            "reading": "their first beginning had;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Both Tabor mount and Hermon hill",
+            "normalized": "Both Tabor mount and Hermon hill",
+            "reading": "Both Tabor mount and Hermon hill"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall in thy name be glad.",
+            "normalized": "Shall in thy name be glad.",
+            "reading": "shall in thy name be glad."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou hast an arm that’s full of power,",
+            "normalized": "Thou hast an arm that’s full of power,",
+            "reading": "Thou hast an arm that’s full of power,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy hand is great in might;",
+            "normalized": "Thy hand is great in might;",
+            "reading": "thy hand is great in might;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And thy right hand exceedingly",
+            "normalized": "And thy right hand exceedingly",
+            "reading": "And thy right hand exceedingly"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "exalted is in height.",
+            "normalized": "Exalted is in height.",
+            "reading": "exalted is in height."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Justice and judgment of thy throne",
+            "normalized": "Justice and judgment of thy throne",
+            "reading": "Justice and judgment of thy throne"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "are made the dwelling-place;",
+            "normalized": "Are made the dwelling-place;",
+            "reading": "are made the dwelling-place;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Mercy, accompanied with truth,",
+            "normalized": "Mercy, accompanied with truth,",
+            "reading": "Mercy, accompanied with truth,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall go before thy face.",
+            "normalized": "Shall go before thy face.",
+            "reading": "shall go before thy face."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O greatly blessed the people are",
+            "normalized": "O greatly blessed the people are",
+            "reading": "O greatly blessed the people are"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the joyful sound that know;",
+            "normalized": "The joyful sound that know;",
+            "reading": "the joyful sound that know;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In brightness of thy face, O LORD,",
+            "normalized": "In brightness of thy face, O LORD,",
+            "reading": "In brightness of thy face, O LORD,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they ever on shall go.",
+            "normalized": "They ever on shall go.",
+            "reading": "they ever on shall go."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They in thy name shall all the day",
+            "normalized": "They in thy name shall all the day",
+            "reading": "They in thy name shall all the day"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "rejoice exceedingly;",
+            "normalized": "Rejoice exceedingly;",
+            "reading": "rejoice exceedingly;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in thy righteousness shall they",
+            "normalized": "And in thy righteousness shall they",
+            "reading": "And in thy righteousness shall they"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "exalted be on high.",
+            "normalized": "Exalted be on high.",
+            "reading": "exalted be on high."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-17",
+      "number": 17,
+      "biblical_verses": [
+        17
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-17.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because the glory of their strength",
+            "normalized": "Because the glory of their strength",
+            "reading": "Because the glory of their strength"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-17.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth only stand in thee;",
+            "normalized": "Doth only stand in thee;",
+            "reading": "doth only stand in thee;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-17.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in thy favour shall our horn",
+            "normalized": "And in thy favour shall our horn",
+            "reading": "And in thy favour shall our horn"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-17.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and pow’r exalted be.",
+            "normalized": "And pow’r exalted be.",
+            "reading": "and pow’r exalted be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-18",
+      "number": 18,
+      "biblical_verses": [
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-18.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For GOD is our defence; and he",
+            "normalized": "For GOD is our defence; and he",
+            "reading": "For GOD is our defence; and he"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-18.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to us doth safety bring:",
+            "normalized": "To us doth safety bring:",
+            "reading": "to us doth safety bring:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-18.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The Holy One of Israel",
+            "normalized": "The Holy One of Israel",
+            "reading": "The Holy One of Israel"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-18.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is our almighty King.",
+            "normalized": "Is our almighty King.",
+            "reading": "is our almighty King."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-19",
+      "number": 19,
+      "biblical_verses": [
+        19
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-19.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In vision to thy Holy One",
+            "normalized": "In vision to thy Holy One",
+            "reading": "In vision to thy Holy One"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-19.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou saidst, I help upon",
+            "normalized": "Thou saidst, I help upon",
+            "reading": "thou saidst, I help upon"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-19.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A strong one laid; out of the folk",
+            "normalized": "A strong one laid; out of the folk",
+            "reading": "A strong one laid; out of the folk"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-19.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I raised a chosen one;",
+            "normalized": "I raised a chosen one;",
+            "reading": "I raised a chosen one;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-20",
+      "number": 20,
+      "biblical_verses": [
+        20
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-20.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n David, I have found him out",
+            "normalized": "Ev’n David, I have found him out",
+            "reading": "Ev’n David, I have found him out"
+          },
+          "biblical_verse_start": 20
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-20.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a servant unto me;",
+            "normalized": "A servant unto me;",
+            "reading": "a servant unto me;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-20.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And with my holy oil my King",
+            "normalized": "And with my holy oil my King",
+            "reading": "And with my holy oil my King"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-20.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "anointed him to be.",
+            "normalized": "Anointed him to be.",
+            "reading": "anointed him to be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-21",
+      "number": 21,
+      "biblical_verses": [
+        21,
+        22
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-21.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With whom my hand shall stablished be;",
+            "normalized": "With whom my hand shall stablished be;",
+            "reading": "With whom my hand shall stablished be;"
+          },
+          "biblical_verse_start": 21
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-21.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "mine arm shall make him strong.",
+            "normalized": "Mine arm shall make him strong.",
+            "reading": "mine arm shall make him strong."
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-21.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "On him the foe shall not exact,",
+            "normalized": "On him the foe shall not exact,",
+            "reading": "On him the foe shall not exact,"
+          },
+          "biblical_verse_start": 22
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-21.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor son of mischief wrong.",
+            "normalized": "Nor son of mischief wrong.",
+            "reading": "nor son of mischief wrong."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-22",
+      "number": 22,
+      "biblical_verses": [
+        23
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-22.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I will beat down before his face",
+            "normalized": "I will beat down before his face",
+            "reading": "I will beat down before his face"
+          },
+          "biblical_verse_start": 23
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-22.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all his malicious foes;",
+            "normalized": "All his malicious foes;",
+            "reading": "all his malicious foes;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-22.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I will them greatly plague who do",
+            "normalized": "I will them greatly plague who do",
+            "reading": "I will them greatly plague who do"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-22.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with hatred him oppose.",
+            "normalized": "With hatred him oppose.",
+            "reading": "with hatred him oppose."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-23",
+      "number": 23,
+      "biblical_verses": [
+        24
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-23.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My mercy and my faithfulness",
+            "normalized": "My mercy and my faithfulness",
+            "reading": "My mercy and my faithfulness"
+          },
+          "biblical_verse_start": 24
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-23.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with him yet still shall be;",
+            "normalized": "With him yet still shall be;",
+            "reading": "with him yet still shall be;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-23.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in my name his horn and pow’r",
+            "normalized": "And in my name his horn and pow’r",
+            "reading": "And in my name his horn and pow’r"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-23.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "men shall exalted see.",
+            "normalized": "Men shall exalted see.",
+            "reading": "men shall exalted see."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-24",
+      "number": 24,
+      "biblical_verses": [
+        25
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-24.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His hand and pow’r shall reach afar;",
+            "normalized": "His hand and pow’r shall reach afar;",
+            "reading": "His hand and pow’r shall reach afar;"
+          },
+          "biblical_verse_start": 25
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-24.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I’ll set it in the sea;",
+            "normalized": "I’ll set it in the sea;",
+            "reading": "I’ll set it in the sea;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-24.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And his right hand establishèd",
+            "normalized": "And his right hand establishèd",
+            "reading": "And his right hand establishèd"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-24.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall in the rivers be.",
+            "normalized": "Shall in the rivers be.",
+            "reading": "shall in the rivers be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-25",
+      "number": 25,
+      "biblical_verses": [
+        26
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-25.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou art my Father, he shall cry,",
+            "normalized": "Thou art my Father, he shall cry,",
+            "reading": "Thou art my Father, he shall cry,"
+          },
+          "biblical_verse_start": 26
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-25.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou art my God alone;",
+            "normalized": "Thou art my God alone;",
+            "reading": "thou art my God alone;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-25.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And he shall say, Thou art the Rock",
+            "normalized": "And he shall say, Thou art the Rock",
+            "reading": "And he shall say, Thou art the Rock"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-25.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of my salvätion.",
+            "normalized": "Of my salvätion.",
+            "reading": "of my salvätion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-26",
+      "number": 26,
+      "biblical_verses": [
+        27,
+        28
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-26.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I’ll make him my first-born, more high",
+            "normalized": "I’ll make him my first-born, more high",
+            "reading": "I’ll make him my first-born, more high"
+          },
+          "biblical_verse_start": 27
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-26.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "than kings of any land.",
+            "normalized": "Than kings of any land.",
+            "reading": "than kings of any land."
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-26.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My love I’ll ever keep for him,",
+            "normalized": "My love I’ll ever keep for him,",
+            "reading": "My love I’ll ever keep for him,"
+          },
+          "biblical_verse_start": 28
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-26.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my cov’nant fast shall stand.",
+            "normalized": "My cov’nant fast shall stand.",
+            "reading": "my cov’nant fast shall stand."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-27",
+      "number": 27,
+      "biblical_verses": [
+        29
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-27.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His seed I by my pow’r will make",
+            "normalized": "His seed I by my pow’r will make",
+            "reading": "His seed I by my pow’r will make"
+          },
+          "biblical_verse_start": 29
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-27.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for ever to endure;",
+            "normalized": "For ever to endure;",
+            "reading": "for ever to endure;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-27.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And, as the days of heav’n, his throne",
+            "normalized": "And, as the days of heav’n, his throne",
+            "reading": "And, as the days of heav’n, his throne"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-27.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall stable be, and sure.",
+            "normalized": "Shall stable be, and sure.",
+            "reading": "shall stable be, and sure."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-28",
+      "number": 28,
+      "biblical_verses": [
+        30
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-28.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But if his children shall forsake",
+            "normalized": "But if his children shall forsake",
+            "reading": "But if his children shall forsake"
+          },
+          "biblical_verse_start": 30
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-28.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my laws, and go astray,",
+            "normalized": "My laws, and go astray,",
+            "reading": "my laws, and go astray,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-28.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in my judgments shall not walk,",
+            "normalized": "And in my judgments shall not walk,",
+            "reading": "And in my judgments shall not walk,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-28.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "but wander from my way:",
+            "normalized": "But wander from my way:",
+            "reading": "but wander from my way:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-29",
+      "number": 29,
+      "biblical_verses": [
+        31,
+        32
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-29.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "If they my laws break, and do not",
+            "normalized": "If they my laws break, and do not",
+            "reading": "If they my laws break, and do not"
+          },
+          "biblical_verse_start": 31
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-29.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "keep my commändments;",
+            "normalized": "Keep my commändments;",
+            "reading": "keep my commändments;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-29.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I’ll visit then their faults with rods,",
+            "normalized": "I’ll visit then their faults with rods,",
+            "reading": "I’ll visit then their faults with rods,"
+          },
+          "biblical_verse_start": 32
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-29.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their sins with chastisements.",
+            "normalized": "Their sins with chastisements.",
+            "reading": "their sins with chastisements."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-30",
+      "number": 30,
+      "biblical_verses": [
+        33,
+        34
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-30.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yet I’ll not take my love from him,",
+            "normalized": "Yet I’ll not take my love from him,",
+            "reading": "Yet I’ll not take my love from him,"
+          },
+          "biblical_verse_start": 33
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-30.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor false my promise make.",
+            "normalized": "Nor false my promise make.",
+            "reading": "nor false my promise make."
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-30.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My cov’nant I’ll not break, nor change",
+            "normalized": "My cov’nant I’ll not break, nor change",
+            "reading": "My cov’nant I’ll not break, nor change"
+          },
+          "biblical_verse_start": 34
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-30.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "what with my mouth I spake.",
+            "normalized": "What with my mouth I spake.",
+            "reading": "what with my mouth I spake."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-31",
+      "number": 31,
+      "biblical_verses": [
+        35,
+        36
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-31.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Once by my holiness I sware,",
+            "normalized": "Once by my holiness I sware,",
+            "reading": "Once by my holiness I sware,"
+          },
+          "biblical_verse_start": 35
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-31.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to David I’ll not lie;",
+            "normalized": "To David I’ll not lie;",
+            "reading": "to David I’ll not lie;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-31.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His seed and throne shall, as the sun,",
+            "normalized": "His seed and throne shall, as the sun,",
+            "reading": "His seed and throne shall, as the sun,"
+          },
+          "biblical_verse_start": 36
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-31.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "before me last for aye.",
+            "normalized": "Before me last for aye.",
+            "reading": "before me last for aye."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-32",
+      "number": 32,
+      "biblical_verses": [
+        37
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-32.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "It, like the moon, shall ever be",
+            "normalized": "It, like the moon, shall ever be",
+            "reading": "It, like the moon, shall ever be"
+          },
+          "biblical_verse_start": 37
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-32.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "established stedfastly;",
+            "normalized": "Established stedfastly;",
+            "reading": "established stedfastly;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-32.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And like to that which in the heav’n",
+            "normalized": "And like to that which in the heav’n",
+            "reading": "And like to that which in the heav’n"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-32.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth witness faithfully.",
+            "normalized": "Doth witness faithfully.",
+            "reading": "doth witness faithfully."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-33",
+      "number": 33,
+      "biblical_verses": [
+        38
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-33.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But thou, displeasèd, hast cast off,",
+            "normalized": "But thou, displeasèd, hast cast off,",
+            "reading": "But thou, displeasèd, hast cast off,"
+          },
+          "biblical_verse_start": 38
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-33.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou didst abhor and loathe;",
+            "normalized": "Thou didst abhor and loathe;",
+            "reading": "thou didst abhor and loathe;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-33.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With him that thine anointed is",
+            "normalized": "With him that thine anointed is",
+            "reading": "With him that thine anointed is"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-33.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou hast been very wroth.",
+            "normalized": "Thou hast been very wroth.",
+            "reading": "thou hast been very wroth."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-34",
+      "number": 34,
+      "biblical_verses": [
+        39
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-34.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou hast thy servant’s covenant",
+            "normalized": "Thou hast thy servant’s covenant",
+            "reading": "Thou hast thy servant’s covenant"
+          },
+          "biblical_verse_start": 39
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-34.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "made void, and quite cast by;",
+            "normalized": "Made void, and quite cast by;",
+            "reading": "made void, and quite cast by;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-34.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou hast profaned his crown, while it",
+            "normalized": "Thou hast profaned his crown, while it",
+            "reading": "Thou hast profaned his crown, while it"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-34.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "cast on the ground doth lie.",
+            "normalized": "Cast on the ground doth lie.",
+            "reading": "cast on the ground doth lie."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-35",
+      "number": 35,
+      "biblical_verses": [
+        40,
+        41
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-35.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou all his hedges hast broke down,",
+            "normalized": "Thou all his hedges hast broke down,",
+            "reading": "Thou all his hedges hast broke down,"
+          },
+          "biblical_verse_start": 40
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-35.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his strongholds down hast torn.",
+            "normalized": "His strongholds down hast torn.",
+            "reading": "his strongholds down hast torn."
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-35.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He to all passers-by a spoil,",
+            "normalized": "He to all passers-by a spoil,",
+            "reading": "He to all passers-by a spoil,"
+          },
+          "biblical_verse_start": 41
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-35.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to neighbours is a scorn.",
+            "normalized": "To neighbours is a scorn.",
+            "reading": "to neighbours is a scorn."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-36",
+      "number": 36,
+      "biblical_verses": [
+        42,
+        43
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-36.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou hast set up his foes’ right hand;",
+            "normalized": "Thou hast set up his foes’ right hand;",
+            "reading": "Thou hast set up his foes’ right hand;"
+          },
+          "biblical_verse_start": 42
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-36.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "mad’st all his en’mies glad:",
+            "normalized": "Mad’st all his en’mies glad:",
+            "reading": "mad’st all his en’mies glad:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-36.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Turned his sword’s edge, and him to stand",
+            "normalized": "Turned his sword’s edge, and him to stand",
+            "reading": "Turned his sword’s edge, and him to stand"
+          },
+          "biblical_verse_start": 43
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-36.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in battle hast not made.",
+            "normalized": "In battle hast not made.",
+            "reading": "in battle hast not made."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-37",
+      "number": 37,
+      "biblical_verses": [
+        44,
+        45
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-37.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His glory thou hast made to cease,",
+            "normalized": "His glory thou hast made to cease,",
+            "reading": "His glory thou hast made to cease,"
+          },
+          "biblical_verse_start": 44
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-37.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his throne to ground down cast;",
+            "normalized": "His throne to ground down cast;",
+            "reading": "his throne to ground down cast;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-37.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Shortened his days of youth, and him",
+            "normalized": "Shortened his days of youth, and him",
+            "reading": "Shortened his days of youth, and him"
+          },
+          "biblical_verse_start": 45
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-37.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with shame thou covered hast.",
+            "normalized": "With shame thou covered hast.",
+            "reading": "with shame thou covered hast."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-38",
+      "number": 38,
+      "biblical_verses": [
+        46
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-38.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "How long, LORD, wilt thou hide thyself?",
+            "normalized": "How long, LORD, wilt thou hide thyself?",
+            "reading": "How long, LORD, wilt thou hide thyself?"
+          },
+          "biblical_verse_start": 46
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-38.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for ever, in thine ire?",
+            "normalized": "For ever, in thine ire?",
+            "reading": "for ever, in thine ire?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-38.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And shall thine indignätion",
+            "normalized": "And shall thine indignätion",
+            "reading": "And shall thine indignätion"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-38.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "burn like unto a fire?",
+            "normalized": "Burn like unto a fire?",
+            "reading": "burn like unto a fire?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-39",
+      "number": 39,
+      "biblical_verses": [
+        47
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-39.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Remember, Lord, how short a time",
+            "normalized": "Remember, Lord, how short a time",
+            "reading": "Remember, Lord, how short a time"
+          },
+          "biblical_verse_start": 47
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-39.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I shall on earth remain:",
+            "normalized": "I shall on earth remain:",
+            "reading": "I shall on earth remain:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-39.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O wherefore is it so that thou",
+            "normalized": "O wherefore is it so that thou",
+            "reading": "O wherefore is it so that thou"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-39.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "hast made all men in vain?",
+            "normalized": "Hast made all men in vain?",
+            "reading": "hast made all men in vain?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-40",
+      "number": 40,
+      "biblical_verses": [
+        48
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-40.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "What man is he that liveth here,",
+            "normalized": "What man is he that liveth here,",
+            "reading": "What man is he that liveth here,"
+          },
+          "biblical_verse_start": 48
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-40.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and death shall never see?",
+            "normalized": "And death shall never see?",
+            "reading": "and death shall never see?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-40.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Or from the powèr of the grave",
+            "normalized": "Or from the powèr of the grave",
+            "reading": "Or from the powèr of the grave"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-40.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "what man his soul shall free?",
+            "normalized": "What man his soul shall free?",
+            "reading": "what man his soul shall free?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-41",
+      "number": 41,
+      "biblical_verses": [
+        49
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-41.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy former loving-kindnesses,",
+            "normalized": "Thy former loving-kindnesses,",
+            "reading": "Thy former loving-kindnesses,"
+          },
+          "biblical_verse_start": 49
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-41.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O Lord, where be they now?",
+            "normalized": "O Lord, where be they now?",
+            "reading": "O Lord, where be they now?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-41.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Those which in truth and faithfulness",
+            "normalized": "Those which in truth and faithfulness",
+            "reading": "Those which in truth and faithfulness"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-41.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to David sworn hast thou?",
+            "normalized": "To David sworn hast thou?",
+            "reading": "to David sworn hast thou?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-42",
+      "number": 42,
+      "biblical_verses": [
+        50
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-42.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Mind, Lord, thy servant’s sad reproach;",
+            "normalized": "Mind, Lord, thy servant’s sad reproach;",
+            "reading": "Mind, Lord, thy servant’s sad reproach;"
+          },
+          "biblical_verse_start": 50
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-42.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "how I in bosom bear",
+            "normalized": "How I in bosom bear",
+            "reading": "how I in bosom bear"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-42.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The scornings of the people all,",
+            "normalized": "The scornings of the people all,",
+            "reading": "The scornings of the people all,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-42.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who strong and mighty are.",
+            "normalized": "Who strong and mighty are.",
+            "reading": "who strong and mighty are."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-43",
+      "number": 43,
+      "biblical_verses": [
+        51
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-43.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Wherewith thy raging enemies",
+            "normalized": "Wherewith thy raging enemies",
+            "reading": "Wherewith thy raging enemies"
+          },
+          "biblical_verse_start": 51
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-43.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "reproached, O LORD, think on;",
+            "normalized": "Reproached, O LORD, think on;",
+            "reading": "reproached, O LORD, think on;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-43.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Wherewith they have reproached the steps",
+            "normalized": "Wherewith they have reproached the steps",
+            "reading": "Wherewith they have reproached the steps"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-43.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of thine anointed one.",
+            "normalized": "Of thine anointed one.",
+            "reading": "of thine anointed one."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-089.primary.stanza-44",
+      "number": 44,
+      "biblical_verses": [
+        52
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-089.primary.stanza-44.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All blessing to the LORD our God",
+            "normalized": "All blessing to the LORD our God",
+            "reading": "All blessing to the LORD our God"
+          },
+          "biblical_verse_start": 52
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-44.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let be ascribèd then:",
+            "normalized": "Let be ascribèd then:",
+            "reading": "let be ascribèd then:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-44.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For evermore so let it be.",
+            "normalized": "For evermore so let it be.",
+            "reading": "For evermore so let it be."
+          }
+        },
+        {
+          "id": "ps1650.psalm-089.primary.stanza-44.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Amen, yea, and amen.",
+            "normalized": "Amen, yea, and amen.",
+            "reading": "Amen, yea, and amen."
+          }
+        }
+      ]
+    }
+  ]
+}

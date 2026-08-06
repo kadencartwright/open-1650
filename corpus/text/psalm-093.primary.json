@@ -1,0 +1,295 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-093.primary",
+  "psalm_number": 93,
+  "title": "Psalm 93",
+  "version": "primary",
+  "opening_line": "The LORD doth reign, and clothed is he",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 93 · p. 133",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-093-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      133
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-093.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-093.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD doth reign, and clothed is he",
+            "normalized": "The LORD doth reign, and clothed is he",
+            "reading": "The LORD doth reign, and clothed is he"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-093.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with majesty most bright;",
+            "normalized": "With majesty most bright;",
+            "reading": "with majesty most bright;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-093.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His works do show him clothed to be,",
+            "normalized": "His works do show him clothed to be,",
+            "reading": "His works do show him clothed to be,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-093.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and girt about with might.",
+            "normalized": "And girt about with might.",
+            "reading": "and girt about with might."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-093.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-093.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The world is also stablishèd,",
+            "normalized": "The world is also stablishèd,",
+            "reading": "The world is also stablishèd,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-093.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that it cannot depart.",
+            "normalized": "That it cannot depart.",
+            "reading": "that it cannot depart."
+          }
+        },
+        {
+          "id": "ps1650.psalm-093.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy throne is fixed of old, and thou",
+            "normalized": "Thy throne is fixed of old, and thou",
+            "reading": "Thy throne is fixed of old, and thou"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-093.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from everlasting art.",
+            "normalized": "From everlasting art.",
+            "reading": "from everlasting art."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-093.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-093.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The floods, O LORD, have lifted up,",
+            "normalized": "The floods, O LORD, have lifted up,",
+            "reading": "The floods, O LORD, have lifted up,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-093.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they lifted up their voice;",
+            "normalized": "They lifted up their voice;",
+            "reading": "they lifted up their voice;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-093.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The floods have lifted up their waves,",
+            "normalized": "The floods have lifted up their waves,",
+            "reading": "The floods have lifted up their waves,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-093.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and made a mighty noise.",
+            "normalized": "And made a mighty noise.",
+            "reading": "and made a mighty noise."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-093.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-093.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But yet the LORD, that is on high,",
+            "normalized": "But yet the LORD, that is on high,",
+            "reading": "But yet the LORD, that is on high,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-093.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is more of might by far",
+            "normalized": "Is more of might by far",
+            "reading": "is more of might by far"
+          }
+        },
+        {
+          "id": "ps1650.psalm-093.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Than noise of many waters is,",
+            "normalized": "Than noise of many waters is,",
+            "reading": "Than noise of many waters is,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-093.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "or great sea-billows are.",
+            "normalized": "Or great sea-billows are.",
+            "reading": "or great sea-billows are."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-093.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-093.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy testimonies every one",
+            "normalized": "Thy testimonies every one",
+            "reading": "Thy testimonies every one"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-093.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in faithfulness excel;",
+            "normalized": "In faithfulness excel;",
+            "reading": "in faithfulness excel;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-093.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And holiness for ever, LORD,",
+            "normalized": "And holiness for ever, LORD,",
+            "reading": "And holiness for ever, LORD,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-093.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thine house becometh well.",
+            "normalized": "Thine house becometh well.",
+            "reading": "thine house becometh well."
+          }
+        }
+      ]
+    }
+  ]
+}

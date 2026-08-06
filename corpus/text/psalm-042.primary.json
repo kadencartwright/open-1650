@@ -1,0 +1,690 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-042.primary",
+  "psalm_number": 42,
+  "title": "Psalm 42",
+  "version": "primary",
+  "opening_line": "Like as the hart for water-brooks",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 42 · p. 58–59",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-042-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      58,
+      59
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-042.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-042.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Like as the hart for water-brooks",
+            "normalized": "Like as the hart for water-brooks",
+            "reading": "Like as the hart for water-brooks"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in thirst doth pant and bray;",
+            "normalized": "In thirst doth pant and bray;",
+            "reading": "in thirst doth pant and bray;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "So pants my longing soul, O God,",
+            "normalized": "So pants my longing soul, O God,",
+            "reading": "So pants my longing soul, O God,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that come to thee I may.",
+            "normalized": "That come to thee I may.",
+            "reading": "that come to thee I may."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-042.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-042.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My soul for God, the living God,",
+            "normalized": "My soul for God, the living God,",
+            "reading": "My soul for God, the living God,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth thirst: when shall I near",
+            "normalized": "Doth thirst: when shall I near",
+            "reading": "doth thirst: when shall I near"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto thy countenance approach,",
+            "normalized": "Unto thy countenance approach,",
+            "reading": "Unto thy countenance approach,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and in God’s sight appear?",
+            "normalized": "And in God’s sight appear?",
+            "reading": "and in God’s sight appear?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-042.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-042.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My tears have unto me been meat,",
+            "normalized": "My tears have unto me been meat,",
+            "reading": "My tears have unto me been meat,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "both in the night and day,",
+            "normalized": "Both in the night and day,",
+            "reading": "both in the night and day,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "While unto me continually,",
+            "normalized": "While unto me continually,",
+            "reading": "While unto me continually,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Where is thy God? they say.",
+            "normalized": "Where is thy God? they say.",
+            "reading": "Where is thy God? they say."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-042.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-042.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My soul is pourèd out in me,",
+            "normalized": "My soul is pourèd out in me,",
+            "reading": "My soul is pourèd out in me,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when this I think upon;",
+            "normalized": "When this I think upon;",
+            "reading": "when this I think upon;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because that with the multitude",
+            "normalized": "Because that with the multitude",
+            "reading": "Because that with the multitude"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I heretofore had gone:",
+            "normalized": "I heretofore had gone:",
+            "reading": "I heretofore had gone:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-042.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-042.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With them into God’s house I went,",
+            "normalized": "With them into God’s house I went,",
+            "reading": "With them into God’s house I went,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with voice of joy and praise;",
+            "normalized": "With voice of joy and praise;",
+            "reading": "with voice of joy and praise;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, with the multitude that kept",
+            "normalized": "Yea, with the multitude that kept",
+            "reading": "Yea, with the multitude that kept"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the solemn holy days.",
+            "normalized": "The solemn holy days.",
+            "reading": "the solemn holy days."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-042.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-042.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O why art thou cast down, my soul?",
+            "normalized": "O why art thou cast down, my soul?",
+            "reading": "O why art thou cast down, my soul?"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "why in me so dismayed?",
+            "normalized": "Why in me so dismayed?",
+            "reading": "why in me so dismayed?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Trust God, for I shall praise him yet,",
+            "normalized": "Trust God, for I shall praise him yet,",
+            "reading": "Trust God, for I shall praise him yet,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his count’nance is mine aid.",
+            "normalized": "His count’nance is mine aid.",
+            "reading": "his count’nance is mine aid."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-042.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-042.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My God, my soul’s cast down in me;",
+            "normalized": "My God, my soul’s cast down in me;",
+            "reading": "My God, my soul’s cast down in me;"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thee therefore mind I will",
+            "normalized": "Thee therefore mind I will",
+            "reading": "thee therefore mind I will"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From Jordan’s land, the Hermonites,",
+            "normalized": "From Jordan’s land, the Hermonites,",
+            "reading": "From Jordan’s land, the Hermonites,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and ev’n from Mizar hill.",
+            "normalized": "And ev’n from Mizar hill.",
+            "reading": "and ev’n from Mizar hill."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-042.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-042.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "At the noise of thy water-spouts",
+            "normalized": "At the noise of thy water-spouts",
+            "reading": "At the noise of thy water-spouts"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "deep unto deep doth call;",
+            "normalized": "Deep unto deep doth call;",
+            "reading": "deep unto deep doth call;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy breaking waves pass over me,",
+            "normalized": "Thy breaking waves pass over me,",
+            "reading": "Thy breaking waves pass over me,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "yea, and thy billows all.",
+            "normalized": "Yea, and thy billows all.",
+            "reading": "yea, and thy billows all."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-042.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-042.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His loving-kindness yet the LORD",
+            "normalized": "His loving-kindness yet the LORD",
+            "reading": "His loving-kindness yet the LORD"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "command will in the day,",
+            "normalized": "Command will in the day,",
+            "reading": "command will in the day,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His song’s with me by night; to God,",
+            "normalized": "His song’s with me by night; to God,",
+            "reading": "His song’s with me by night; to God,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "by whom I live, I’ll pray:",
+            "normalized": "By whom I live, I’ll pray:",
+            "reading": "by whom I live, I’ll pray:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-042.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-042.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And I will say to God my rock,",
+            "normalized": "And I will say to God my rock,",
+            "reading": "And I will say to God my rock,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Why me forgett’st thou so?",
+            "normalized": "Why me forgett’st thou so?",
+            "reading": "Why me forgett’st thou so?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Why, for my foes’ opprëssion,",
+            "normalized": "Why, for my foes’ opprëssion,",
+            "reading": "Why, for my foes’ opprëssion,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thus mourning do I go?",
+            "normalized": "Thus mourning do I go?",
+            "reading": "thus mourning do I go?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-042.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-042.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "’Tis as a sword within my bones,",
+            "normalized": "’Tis as a sword within my bones,",
+            "reading": "’Tis as a sword within my bones,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when my foes me upbraid;",
+            "normalized": "When my foes me upbraid;",
+            "reading": "when my foes me upbraid;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n when by them, Where is thy God?",
+            "normalized": "Ev’n when by them, Where is thy God?",
+            "reading": "Ev’n when by them, Where is thy God?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "’tis daily to me said.",
+            "normalized": "’Tis daily to me said.",
+            "reading": "’tis daily to me said."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-042.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-042.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O why art thou cast down, my soul?",
+            "normalized": "O why art thou cast down, my soul?",
+            "reading": "O why art thou cast down, my soul?"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "why, thus with grief oppressed,",
+            "normalized": "Why, thus with grief oppressed,",
+            "reading": "why, thus with grief oppressed,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Art thou disquieted in me?",
+            "normalized": "Art thou disquieted in me?",
+            "reading": "Art thou disquieted in me?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in God still hope and rest:",
+            "normalized": "In God still hope and rest:",
+            "reading": "in God still hope and rest:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-042.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-042.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For yet I know I shall him praise,",
+            "normalized": "For yet I know I shall him praise,",
+            "reading": "For yet I know I shall him praise,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who graciously to me",
+            "normalized": "Who graciously to me",
+            "reading": "who graciously to me"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The health is of my countenance,",
+            "normalized": "The health is of my countenance,",
+            "reading": "The health is of my countenance,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-042.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "yea, mine own God is he.",
+            "normalized": "Yea, mine own God is he.",
+            "reading": "yea, mine own God is he."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,597 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-084.primary",
+  "psalm_number": 84,
+  "title": "Psalm 84",
+  "version": "primary",
+  "opening_line": "How lovely is thy dwelling-place,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 84 · p. 120–121",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-084-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      120,
+      121
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-084.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-084.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "How lovely is thy dwelling-place,",
+            "normalized": "How lovely is thy dwelling-place,",
+            "reading": "How lovely is thy dwelling-place,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O LORD of hosts, to me!",
+            "normalized": "O LORD of hosts, to me!",
+            "reading": "O LORD of hosts, to me!"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The tabernacles of thy grace",
+            "normalized": "The tabernacles of thy grace",
+            "reading": "The tabernacles of thy grace"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "how pleasant, LORD, they be!",
+            "normalized": "How pleasant, LORD, they be!",
+            "reading": "how pleasant, LORD, they be!"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-084.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-084.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My thirsty soul longs veh’mently,",
+            "normalized": "My thirsty soul longs veh’mently,",
+            "reading": "My thirsty soul longs veh’mently,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "yea faints, thy courts to see:",
+            "normalized": "Yea faints, thy courts to see:",
+            "reading": "yea faints, thy courts to see:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My very heart and flesh cry out,",
+            "normalized": "My very heart and flesh cry out,",
+            "reading": "My very heart and flesh cry out,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O living God, for thee.",
+            "normalized": "O living God, for thee.",
+            "reading": "O living God, for thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-084.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-084.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Behold, the sparrow findeth out",
+            "normalized": "Behold, the sparrow findeth out",
+            "reading": "Behold, the sparrow findeth out"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "an house wherein to rest;",
+            "normalized": "An house wherein to rest;",
+            "reading": "an house wherein to rest;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The swallow also for herself",
+            "normalized": "The swallow also for herself",
+            "reading": "The swallow also for herself"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "hath purchasèd a nest;",
+            "normalized": "Hath purchasèd a nest;",
+            "reading": "hath purchasèd a nest;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-084.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-084.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n thine own altars, where she safe",
+            "normalized": "Ev’n thine own altars, where she safe",
+            "reading": "Ev’n thine own altars, where she safe"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "her young ones forth may bring,",
+            "normalized": "Her young ones forth may bring,",
+            "reading": "her young ones forth may bring,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O thou almighty LORD of hosts,",
+            "normalized": "O thou almighty LORD of hosts,",
+            "reading": "O thou almighty LORD of hosts,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who art my God and King.",
+            "normalized": "Who art my God and King.",
+            "reading": "who art my God and King."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-084.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        4,
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-084.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Bless’d are they in thy house that dwell,",
+            "normalized": "Bless’d are they in thy house that dwell,",
+            "reading": "Bless’d are they in thy house that dwell,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they ever give thee praise.",
+            "normalized": "They ever give thee praise.",
+            "reading": "they ever give thee praise."
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Bless’d is the man whose strength thou art,",
+            "normalized": "Bless’d is the man whose strength thou art,",
+            "reading": "Bless’d is the man whose strength thou art,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in whose heart are thy ways:",
+            "normalized": "In whose heart are thy ways:",
+            "reading": "in whose heart are thy ways:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-084.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-084.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who passing thorough Baca’s vale,",
+            "normalized": "Who passing thorough Baca’s vale,",
+            "reading": "Who passing thorough Baca’s vale,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "therein do dig up wells;",
+            "normalized": "Therein do dig up wells;",
+            "reading": "therein do dig up wells;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Also the rain that falleth down",
+            "normalized": "Also the rain that falleth down",
+            "reading": "Also the rain that falleth down"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the pools with water fills.",
+            "normalized": "The pools with water fills.",
+            "reading": "the pools with water fills."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-084.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-084.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "So they from strength unwearied go",
+            "normalized": "So they from strength unwearied go",
+            "reading": "So they from strength unwearied go"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "still forward unto strength,",
+            "normalized": "Still forward unto strength,",
+            "reading": "still forward unto strength,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Until in Zion they appear",
+            "normalized": "Until in Zion they appear",
+            "reading": "Until in Zion they appear"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "before the Lord at length.",
+            "normalized": "Before the Lord at length.",
+            "reading": "before the Lord at length."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-084.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8,
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-084.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "LORD God of hosts, my prayèr hear;",
+            "normalized": "LORD God of hosts, my prayèr hear;",
+            "reading": "LORD God of hosts, my prayèr hear;"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O Jacob’s God, give ear.",
+            "normalized": "O Jacob’s God, give ear.",
+            "reading": "O Jacob’s God, give ear."
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "See God our shield, look on the face",
+            "normalized": "See God our shield, look on the face",
+            "reading": "See God our shield, look on the face"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of thine anointed dear.",
+            "normalized": "Of thine anointed dear.",
+            "reading": "of thine anointed dear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-084.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-084.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For in thy courts one day excels",
+            "normalized": "For in thy courts one day excels",
+            "reading": "For in thy courts one day excels"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a thousand; rather in",
+            "normalized": "A thousand; rather in",
+            "reading": "a thousand; rather in"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My God’s house will I keep a door,",
+            "normalized": "My God’s house will I keep a door,",
+            "reading": "My God’s house will I keep a door,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "than dwell in tents of sin.",
+            "normalized": "Than dwell in tents of sin.",
+            "reading": "than dwell in tents of sin."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-084.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-084.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For God the LORD’s a sun and shield:",
+            "normalized": "For God the LORD’s a sun and shield:",
+            "reading": "For God the LORD’s a sun and shield:"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he’ll grace and glory give;",
+            "normalized": "He’ll grace and glory give;",
+            "reading": "he’ll grace and glory give;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And will withhold no good from them",
+            "normalized": "And will withhold no good from them",
+            "reading": "And will withhold no good from them"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that uprightly do live.",
+            "normalized": "That uprightly do live.",
+            "reading": "that uprightly do live."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-084.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-084.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O thou that art the LORD of hosts,",
+            "normalized": "O thou that art the LORD of hosts,",
+            "reading": "O thou that art the LORD of hosts,"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that man is truly blessed,",
+            "normalized": "That man is truly blessed,",
+            "reading": "that man is truly blessed,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who by assured confidence",
+            "normalized": "Who by assured confidence",
+            "reading": "Who by assured confidence"
+          }
+        },
+        {
+          "id": "ps1650.psalm-084.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "on thee alone doth rest.",
+            "normalized": "On thee alone doth rest.",
+            "reading": "on thee alone doth rest."
+          }
+        }
+      ]
+    }
+  ]
+}

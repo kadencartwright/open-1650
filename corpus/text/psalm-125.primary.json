@@ -1,0 +1,295 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-125.primary",
+  "psalm_number": 125,
+  "title": "Psalm 125",
+  "version": "primary",
+  "opening_line": "They in the LORD that firmly trust",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 125 · p. 186",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-125-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      186
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-125.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-125.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They in the LORD that firmly trust",
+            "normalized": "They in the LORD that firmly trust",
+            "reading": "They in the LORD that firmly trust"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-125.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall be like Zion hill,",
+            "normalized": "Shall be like Zion hill,",
+            "reading": "shall be like Zion hill,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-125.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Which at no time can be removed,",
+            "normalized": "Which at no time can be removed,",
+            "reading": "Which at no time can be removed,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-125.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "but standeth ever still.",
+            "normalized": "But standeth ever still.",
+            "reading": "but standeth ever still."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-125.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-125.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "As round about Jerusalem",
+            "normalized": "As round about Jerusalem",
+            "reading": "As round about Jerusalem"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-125.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the mountains stand alway,",
+            "normalized": "The mountains stand alway,",
+            "reading": "the mountains stand alway,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-125.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD his folk doth compass so,",
+            "normalized": "The LORD his folk doth compass so,",
+            "reading": "The LORD his folk doth compass so,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-125.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from henceforth and for aye.",
+            "normalized": "From henceforth and for aye.",
+            "reading": "from henceforth and for aye."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-125.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-125.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For ill men’s rod upon the lot",
+            "normalized": "For ill men’s rod upon the lot",
+            "reading": "For ill men’s rod upon the lot"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-125.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of just men shall not lie;",
+            "normalized": "Of just men shall not lie;",
+            "reading": "of just men shall not lie;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-125.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Lest righteous men stretch forth their hands",
+            "normalized": "Lest righteous men stretch forth their hands",
+            "reading": "Lest righteous men stretch forth their hands"
+          }
+        },
+        {
+          "id": "ps1650.psalm-125.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto iniquity.",
+            "normalized": "Unto iniquity.",
+            "reading": "unto iniquity."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-125.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-125.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Do thou to all those that be good",
+            "normalized": "Do thou to all those that be good",
+            "reading": "Do thou to all those that be good"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-125.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy goodness, LORD, impart;",
+            "normalized": "Thy goodness, LORD, impart;",
+            "reading": "thy goodness, LORD, impart;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-125.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And do thou good to those that are",
+            "normalized": "And do thou good to those that are",
+            "reading": "And do thou good to those that are"
+          }
+        },
+        {
+          "id": "ps1650.psalm-125.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "upright within their heart.",
+            "normalized": "Upright within their heart.",
+            "reading": "upright within their heart."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-125.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-125.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But as for such as turn aside",
+            "normalized": "But as for such as turn aside",
+            "reading": "But as for such as turn aside"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-125.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "after their crooked way,",
+            "normalized": "After their crooked way,",
+            "reading": "after their crooked way,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-125.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD shall lead forth with wicked men:",
+            "normalized": "GOD shall lead forth with wicked men:",
+            "reading": "GOD shall lead forth with wicked men:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-125.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "on Isr’el peace shall stay.",
+            "normalized": "On Isr’el peace shall stay.",
+            "reading": "on Isr’el peace shall stay."
+          }
+        }
+      ]
+    }
+  ]
+}

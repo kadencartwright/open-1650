@@ -1,0 +1,592 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-141.primary",
+  "psalm_number": 141,
+  "title": "Psalm 141",
+  "version": "primary",
+  "opening_line": "O LORD, I unto thee do cry,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 141 · p. 199–200",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-141-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      199,
+      200
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-141.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-141.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O LORD, I unto thee do cry,",
+            "normalized": "O LORD, I unto thee do cry,",
+            "reading": "O LORD, I unto thee do cry,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do thou make haste to me,",
+            "normalized": "Do thou make haste to me,",
+            "reading": "do thou make haste to me,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And give an ear unto my voice,",
+            "normalized": "And give an ear unto my voice,",
+            "reading": "And give an ear unto my voice,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when I cry unto thee.",
+            "normalized": "When I cry unto thee.",
+            "reading": "when I cry unto thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-141.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-141.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "As incense let my prayer be",
+            "normalized": "As incense let my prayer be",
+            "reading": "As incense let my prayer be"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "directed in thine eyes;",
+            "normalized": "Directed in thine eyes;",
+            "reading": "directed in thine eyes;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And the uplifting of my hands",
+            "normalized": "And the uplifting of my hands",
+            "reading": "And the uplifting of my hands"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "as th’ ev’ning sacrifice.",
+            "normalized": "As th’ ev’ning sacrifice.",
+            "reading": "as th’ ev’ning sacrifice."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-141.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-141.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Set, LORD, a watch before my mouth,",
+            "normalized": "Set, LORD, a watch before my mouth,",
+            "reading": "Set, LORD, a watch before my mouth,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "keep of my lips the door.",
+            "normalized": "Keep of my lips the door.",
+            "reading": "keep of my lips the door."
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My heart incline thou not unto",
+            "normalized": "My heart incline thou not unto",
+            "reading": "My heart incline thou not unto"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the ills I should abhor,",
+            "normalized": "The ills I should abhor,",
+            "reading": "the ills I should abhor,"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-141.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-141.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To practise wicked works with men",
+            "normalized": "To practise wicked works with men",
+            "reading": "To practise wicked works with men"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that work iniquity;",
+            "normalized": "That work iniquity;",
+            "reading": "that work iniquity;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And with their delicates my taste",
+            "normalized": "And with their delicates my taste",
+            "reading": "And with their delicates my taste"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let me not satisfy.",
+            "normalized": "Let me not satisfy.",
+            "reading": "let me not satisfy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-141.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-141.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let him that righteous is me smite,",
+            "normalized": "Let him that righteous is me smite,",
+            "reading": "Let him that righteous is me smite,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "it shall a kindness be;",
+            "normalized": "It shall a kindness be;",
+            "reading": "it shall a kindness be;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let him reprove, I shall it count",
+            "normalized": "Let him reprove, I shall it count",
+            "reading": "Let him reprove, I shall it count"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a precious oil to me:",
+            "normalized": "A precious oil to me:",
+            "reading": "a precious oil to me:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-141.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-141.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Such smiting shall not break my head;",
+            "normalized": "Such smiting shall not break my head;",
+            "reading": "Such smiting shall not break my head;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for yet the time shall fall,",
+            "normalized": "For yet the time shall fall,",
+            "reading": "for yet the time shall fall,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When I in their calamities",
+            "normalized": "When I in their calamities",
+            "reading": "When I in their calamities"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to God pray for them shall.",
+            "normalized": "To God pray for them shall.",
+            "reading": "to God pray for them shall."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-141.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-141.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When as their judges down shall be",
+            "normalized": "When as their judges down shall be",
+            "reading": "When as their judges down shall be"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in stony places cast,",
+            "normalized": "In stony places cast,",
+            "reading": "in stony places cast,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then shall they hear my words; for they",
+            "normalized": "Then shall they hear my words; for they",
+            "reading": "Then shall they hear my words; for they"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall sweet be to their taste.",
+            "normalized": "Shall sweet be to their taste.",
+            "reading": "shall sweet be to their taste."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-141.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-141.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "About the grave’s devouring mouth",
+            "normalized": "About the grave’s devouring mouth",
+            "reading": "About the grave’s devouring mouth"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our bones are scattered round,",
+            "normalized": "Our bones are scattered round,",
+            "reading": "our bones are scattered round,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "As wood which men do cut and cleave",
+            "normalized": "As wood which men do cut and cleave",
+            "reading": "As wood which men do cut and cleave"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "lies scattered on the ground.",
+            "normalized": "Lies scattered on the ground.",
+            "reading": "lies scattered on the ground."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-141.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-141.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But unto thee, O GOD the Lord,",
+            "normalized": "But unto thee, O GOD the Lord,",
+            "reading": "But unto thee, O GOD the Lord,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "mine eyes uplifted be:",
+            "normalized": "Mine eyes uplifted be:",
+            "reading": "mine eyes uplifted be:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My soul do not leave destitute;",
+            "normalized": "My soul do not leave destitute;",
+            "reading": "My soul do not leave destitute;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my trust is set on thee.",
+            "normalized": "My trust is set on thee.",
+            "reading": "my trust is set on thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-141.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-141.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Lord, keep me safely from the snares",
+            "normalized": "Lord, keep me safely from the snares",
+            "reading": "Lord, keep me safely from the snares"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "which they for me prepare;",
+            "normalized": "Which they for me prepare;",
+            "reading": "which they for me prepare;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And from the subtle gins of them",
+            "normalized": "And from the subtle gins of them",
+            "reading": "And from the subtle gins of them"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that wicked workers are.",
+            "normalized": "That wicked workers are.",
+            "reading": "that wicked workers are."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-141.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-141.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let workers of iniquity",
+            "normalized": "Let workers of iniquity",
+            "reading": "Let workers of iniquity"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "into their own nets fall,",
+            "normalized": "Into their own nets fall,",
+            "reading": "into their own nets fall,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Whilst I do, by thine help, escape",
+            "normalized": "Whilst I do, by thine help, escape",
+            "reading": "Whilst I do, by thine help, escape"
+          }
+        },
+        {
+          "id": "ps1650.psalm-141.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the danger of them all.",
+            "normalized": "The danger of them all.",
+            "reading": "the danger of them all."
+          }
+        }
+      ]
+    }
+  ]
+}

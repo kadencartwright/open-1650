@@ -1,0 +1,798 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-091.primary",
+  "psalm_number": 91,
+  "title": "Psalm 91",
+  "version": "primary",
+  "opening_line": "He that doth in the secret place",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 91 · p. 130–131",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-091-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      130,
+      131
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-091.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-091.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He that doth in the secret place",
+            "normalized": "He that doth in the secret place",
+            "reading": "He that doth in the secret place"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of the most High reside,",
+            "normalized": "Of the most High reside,",
+            "reading": "of the most High reside,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Under the shade of him that is",
+            "normalized": "Under the shade of him that is",
+            "reading": "Under the shade of him that is"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "th’ Almighty shall abide.",
+            "normalized": "Th’ Almighty shall abide.",
+            "reading": "th’ Almighty shall abide."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-091.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-091.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I of the LORD my God will say,",
+            "normalized": "I of the LORD my God will say,",
+            "reading": "I of the LORD my God will say,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "He is my refuge still,",
+            "normalized": "He is my refuge still,",
+            "reading": "He is my refuge still,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He is my fortress, and my God,",
+            "normalized": "He is my fortress, and my God,",
+            "reading": "He is my fortress, and my God,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and in him trust I will.",
+            "normalized": "And in him trust I will.",
+            "reading": "and in him trust I will."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-091.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-091.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Assuredly he shall thee save,",
+            "normalized": "Assuredly he shall thee save,",
+            "reading": "Assuredly he shall thee save,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and give deliverance",
+            "normalized": "And give deliverance",
+            "reading": "and give deliverance"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From subtle fowler’s snare, and from",
+            "normalized": "From subtle fowler’s snare, and from",
+            "reading": "From subtle fowler’s snare, and from"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the noisome pestilence.",
+            "normalized": "The noisome pestilence.",
+            "reading": "the noisome pestilence."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-091.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-091.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His feathers shall thee hide; thy trust",
+            "normalized": "His feathers shall thee hide; thy trust",
+            "reading": "His feathers shall thee hide; thy trust"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "under his wings shall be:",
+            "normalized": "Under his wings shall be:",
+            "reading": "under his wings shall be:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His faithfulness shall be a shield",
+            "normalized": "His faithfulness shall be a shield",
+            "reading": "His faithfulness shall be a shield"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and buckler unto thee.",
+            "normalized": "And buckler unto thee.",
+            "reading": "and buckler unto thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-091.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-091.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou shalt not need to be afraid",
+            "normalized": "Thou shalt not need to be afraid",
+            "reading": "Thou shalt not need to be afraid"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for terrors of the night;",
+            "normalized": "For terrors of the night;",
+            "reading": "for terrors of the night;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor for the arrow that doth fly",
+            "normalized": "Nor for the arrow that doth fly",
+            "reading": "Nor for the arrow that doth fly"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "by day, while it is light;",
+            "normalized": "By day, while it is light;",
+            "reading": "by day, while it is light;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-091.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-091.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor for the pestilence, that walks",
+            "normalized": "Nor for the pestilence, that walks",
+            "reading": "Nor for the pestilence, that walks"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in darkness secretly;",
+            "normalized": "In darkness secretly;",
+            "reading": "in darkness secretly;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor for destruction, that doth waste",
+            "normalized": "Nor for destruction, that doth waste",
+            "reading": "Nor for destruction, that doth waste"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "at noon-day openly.",
+            "normalized": "At noon-day openly.",
+            "reading": "at noon-day openly."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-091.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-091.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A thousand at thy side shall fall,",
+            "normalized": "A thousand at thy side shall fall,",
+            "reading": "A thousand at thy side shall fall,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "on thy right hand shall lie",
+            "normalized": "On thy right hand shall lie",
+            "reading": "on thy right hand shall lie"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ten thousand dead; yet unto thee",
+            "normalized": "Ten thousand dead; yet unto thee",
+            "reading": "Ten thousand dead; yet unto thee"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "it shall not once come nigh.",
+            "normalized": "It shall not once come nigh.",
+            "reading": "it shall not once come nigh."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-091.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-091.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Only thou with thine eyes shalt look,",
+            "normalized": "Only thou with thine eyes shalt look,",
+            "reading": "Only thou with thine eyes shalt look,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and a beholder be;",
+            "normalized": "And a beholder be;",
+            "reading": "and a beholder be;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And thou therein the just reward",
+            "normalized": "And thou therein the just reward",
+            "reading": "And thou therein the just reward"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of wicked men shalt see.",
+            "normalized": "Of wicked men shalt see.",
+            "reading": "of wicked men shalt see."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-091.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-091.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because the LORD, who constantly",
+            "normalized": "Because the LORD, who constantly",
+            "reading": "Because the LORD, who constantly"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my refuge is alone,",
+            "normalized": "My refuge is alone,",
+            "reading": "my refuge is alone,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n the Most High, is made by thee",
+            "normalized": "Ev’n the Most High, is made by thee",
+            "reading": "Ev’n the Most High, is made by thee"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy habitätion;",
+            "normalized": "Thy habitätion;",
+            "reading": "thy habitätion;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-091.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        10,
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-091.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "No plague shall near thy dwelling come;",
+            "normalized": "No plague shall near thy dwelling come;",
+            "reading": "No plague shall near thy dwelling come;"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "no ill shall thee befall:",
+            "normalized": "No ill shall thee befall:",
+            "reading": "no ill shall thee befall:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thee to keep in all thy ways",
+            "normalized": "For thee to keep in all thy ways",
+            "reading": "For thee to keep in all thy ways"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his angels charge he shall.",
+            "normalized": "His angels charge he shall.",
+            "reading": "his angels charge he shall."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-091.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-091.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They in their hands shall bear thee up,",
+            "normalized": "They in their hands shall bear thee up,",
+            "reading": "They in their hands shall bear thee up,"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "still waiting thee upon;",
+            "normalized": "Still waiting thee upon;",
+            "reading": "still waiting thee upon;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Lest thou at any time should’st dash",
+            "normalized": "Lest thou at any time should’st dash",
+            "reading": "Lest thou at any time should’st dash"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy foot against a stone.",
+            "normalized": "Thy foot against a stone.",
+            "reading": "thy foot against a stone."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-091.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-091.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Upon the adder thou shalt tread,",
+            "normalized": "Upon the adder thou shalt tread,",
+            "reading": "Upon the adder thou shalt tread,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and on the lion strong;",
+            "normalized": "And on the lion strong;",
+            "reading": "and on the lion strong;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy feet on dragons trample shall,",
+            "normalized": "Thy feet on dragons trample shall,",
+            "reading": "Thy feet on dragons trample shall,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and on the lions young.",
+            "normalized": "And on the lions young.",
+            "reading": "and on the lions young."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-091.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-091.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because on me he set his love,",
+            "normalized": "Because on me he set his love,",
+            "reading": "Because on me he set his love,"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I’ll save and set him free;",
+            "normalized": "I’ll save and set him free;",
+            "reading": "I’ll save and set him free;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because my great name he hath known,",
+            "normalized": "Because my great name he hath known,",
+            "reading": "Because my great name he hath known,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I will him set on high.",
+            "normalized": "I will him set on high.",
+            "reading": "I will him set on high."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-091.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-091.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He’ll call on me, I’ll answer him;",
+            "normalized": "He’ll call on me, I’ll answer him;",
+            "reading": "He’ll call on me, I’ll answer him;"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I will be with him still",
+            "normalized": "I will be with him still",
+            "reading": "I will be with him still"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In trouble, to deliver him,",
+            "normalized": "In trouble, to deliver him,",
+            "reading": "In trouble, to deliver him,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and honour him I will.",
+            "normalized": "And honour him I will.",
+            "reading": "and honour him I will."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-091.primary.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-091.primary.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With length of days unto his mind",
+            "normalized": "With length of days unto his mind",
+            "reading": "With length of days unto his mind"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I will him satisfy;",
+            "normalized": "I will him satisfy;",
+            "reading": "I will him satisfy;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I also my salvätion",
+            "normalized": "I also my salvätion",
+            "reading": "I also my salvätion"
+          }
+        },
+        {
+          "id": "ps1650.psalm-091.primary.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "will cause his eyes to see.",
+            "normalized": "Will cause his eyes to see.",
+            "reading": "will cause his eyes to see."
+          }
+        }
+      ]
+    }
+  ]
+}

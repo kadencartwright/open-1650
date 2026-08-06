@@ -1,0 +1,547 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-057.primary",
+  "psalm_number": 57,
+  "title": "Psalm 57",
+  "version": "primary",
+  "opening_line": "Be merciful to me, O God;",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 57 · p. 79–80",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-057-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      79,
+      80
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-057.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-057.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Be merciful to me, O God;",
+            "normalized": "Be merciful to me, O God;",
+            "reading": "Be merciful to me, O God;"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy mercy unto me",
+            "normalized": "Thy mercy unto me",
+            "reading": "thy mercy unto me"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Do thou extend; because my soul",
+            "normalized": "Do thou extend; because my soul",
+            "reading": "Do thou extend; because my soul"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth put her trust in thee:",
+            "normalized": "Doth put her trust in thee:",
+            "reading": "doth put her trust in thee:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-057.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-057.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, in the shadow of thy wings",
+            "normalized": "Yea, in the shadow of thy wings",
+            "reading": "Yea, in the shadow of thy wings"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my refuge I will place,",
+            "normalized": "My refuge I will place,",
+            "reading": "my refuge I will place,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Until these sad calamities",
+            "normalized": "Until these sad calamities",
+            "reading": "Until these sad calamities"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do wholly overpass.",
+            "normalized": "Do wholly overpass.",
+            "reading": "do wholly overpass."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-057.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-057.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My cry I will cause to ascend",
+            "normalized": "My cry I will cause to ascend",
+            "reading": "My cry I will cause to ascend"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto the Lord most high;",
+            "normalized": "Unto the Lord most high;",
+            "reading": "unto the Lord most high;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To God, who doth all things for me",
+            "normalized": "To God, who doth all things for me",
+            "reading": "To God, who doth all things for me"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "perform most perfectly.",
+            "normalized": "Perform most perfectly.",
+            "reading": "perform most perfectly."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-057.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-057.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From heav’n he shall send down, and me",
+            "normalized": "From heav’n he shall send down, and me",
+            "reading": "From heav’n he shall send down, and me"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from his reproach defend",
+            "normalized": "From his reproach defend",
+            "reading": "from his reproach defend"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That would devour me: God his truth",
+            "normalized": "That would devour me: God his truth",
+            "reading": "That would devour me: God his truth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and mercy forth shall send.",
+            "normalized": "And mercy forth shall send.",
+            "reading": "and mercy forth shall send."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-057.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-057.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My soul among fierce lions is,",
+            "normalized": "My soul among fierce lions is,",
+            "reading": "My soul among fierce lions is,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I firebrands live among,",
+            "normalized": "I firebrands live among,",
+            "reading": "I firebrands live among,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Men’s sons, whose teeth are spears and darts,",
+            "normalized": "Men’s sons, whose teeth are spears and darts,",
+            "reading": "Men’s sons, whose teeth are spears and darts,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a sharp sword is their tongue.",
+            "normalized": "A sharp sword is their tongue.",
+            "reading": "a sharp sword is their tongue."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-057.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-057.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Be thou exalted very high",
+            "normalized": "Be thou exalted very high",
+            "reading": "Be thou exalted very high"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "above the heav’ns, O God;",
+            "normalized": "Above the heav’ns, O God;",
+            "reading": "above the heav’ns, O God;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let thou thy glory be advanced",
+            "normalized": "Let thou thy glory be advanced",
+            "reading": "Let thou thy glory be advanced"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "o’er all the earth abroad.",
+            "normalized": "O’er all the earth abroad.",
+            "reading": "o’er all the earth abroad."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-057.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-057.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My soul ’s bowed down; for they a net",
+            "normalized": "My soul ’s bowed down; for they a net",
+            "reading": "My soul ’s bowed down; for they a net"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "have laid, my steps to snare:",
+            "normalized": "Have laid, my steps to snare:",
+            "reading": "have laid, my steps to snare:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Into the pit which they have digged",
+            "normalized": "Into the pit which they have digged",
+            "reading": "Into the pit which they have digged"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for me, they fallen are.",
+            "normalized": "For me, they fallen are.",
+            "reading": "for me, they fallen are."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-057.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-057.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My heart is fixed, my heart is fixed,",
+            "normalized": "My heart is fixed, my heart is fixed,",
+            "reading": "My heart is fixed, my heart is fixed,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O God; I’ll sing and praise.",
+            "normalized": "O God; I’ll sing and praise.",
+            "reading": "O God; I’ll sing and praise."
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My glory wake; wake psalt’ry, harp;",
+            "normalized": "My glory wake; wake psalt’ry, harp;",
+            "reading": "My glory wake; wake psalt’ry, harp;"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "myself I’ll early raise.",
+            "normalized": "Myself I’ll early raise.",
+            "reading": "myself I’ll early raise."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-057.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        9,
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-057.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I’ll praise thee ’mong the people, Lord;",
+            "normalized": "I’ll praise thee ’mong the people, Lord;",
+            "reading": "I’ll praise thee ’mong the people, Lord;"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "’mong nations sing will I:",
+            "normalized": "’Mong nations sing will I:",
+            "reading": "’mong nations sing will I:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For great to heav’n thy mercy is,",
+            "normalized": "For great to heav’n thy mercy is,",
+            "reading": "For great to heav’n thy mercy is,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy truth is to the sky.",
+            "normalized": "Thy truth is to the sky.",
+            "reading": "thy truth is to the sky."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-057.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-057.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O Lord, exalted be thy name",
+            "normalized": "O Lord, exalted be thy name",
+            "reading": "O Lord, exalted be thy name"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "above the heav’ns to stand:",
+            "normalized": "Above the heav’ns to stand:",
+            "reading": "above the heav’ns to stand:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Do thou thy glory far advance",
+            "normalized": "Do thou thy glory far advance",
+            "reading": "Do thou thy glory far advance"
+          }
+        },
+        {
+          "id": "ps1650.psalm-057.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "above both sea and land.",
+            "normalized": "Above both sea and land.",
+            "reading": "above both sea and land."
+          }
+        }
+      ]
+    }
+  ]
+}

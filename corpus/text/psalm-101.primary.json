@@ -1,0 +1,445 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-101.primary",
+  "psalm_number": 101,
+  "title": "Psalm 101",
+  "version": "primary",
+  "opening_line": "I mercy will and judgment sing,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 101 · p. 140–141",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-101-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      140,
+      141
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-101.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-101.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I mercy will and judgment sing,",
+            "normalized": "I mercy will and judgment sing,",
+            "reading": "I mercy will and judgment sing,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "LORD, I will sing to thee.",
+            "normalized": "LORD, I will sing to thee.",
+            "reading": "LORD, I will sing to thee."
+          }
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With wisdom in a perfect way",
+            "normalized": "With wisdom in a perfect way",
+            "reading": "With wisdom in a perfect way"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall my behaviour be.",
+            "normalized": "Shall my behaviour be.",
+            "reading": "shall my behaviour be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-101.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-101.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O when, in kindness unto me,",
+            "normalized": "O when, in kindness unto me,",
+            "reading": "O when, in kindness unto me,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "wilt thou be pleased to come?",
+            "normalized": "Wilt thou be pleased to come?",
+            "reading": "wilt thou be pleased to come?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I with a perfect heart will walk",
+            "normalized": "I with a perfect heart will walk",
+            "reading": "I with a perfect heart will walk"
+          }
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "within my house at home.",
+            "normalized": "Within my house at home.",
+            "reading": "within my house at home."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-101.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-101.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I will endure no wicked thing",
+            "normalized": "I will endure no wicked thing",
+            "reading": "I will endure no wicked thing"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "before mine eyes to be:",
+            "normalized": "Before mine eyes to be:",
+            "reading": "before mine eyes to be:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I hate their work that turn aside,",
+            "normalized": "I hate their work that turn aside,",
+            "reading": "I hate their work that turn aside,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "it shall not cleave to me.",
+            "normalized": "It shall not cleave to me.",
+            "reading": "it shall not cleave to me."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-101.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-101.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A stubborn and a froward heart",
+            "normalized": "A stubborn and a froward heart",
+            "reading": "A stubborn and a froward heart"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "depart quite from me shall;",
+            "normalized": "Depart quite from me shall;",
+            "reading": "depart quite from me shall;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A person giv’n to wickedness",
+            "normalized": "A person giv’n to wickedness",
+            "reading": "A person giv’n to wickedness"
+          }
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I will not know at all.",
+            "normalized": "I will not know at all.",
+            "reading": "I will not know at all."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-101.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-101.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I’ll cut him off that slandereth",
+            "normalized": "I’ll cut him off that slandereth",
+            "reading": "I’ll cut him off that slandereth"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his neighbour privily:",
+            "normalized": "His neighbour privily:",
+            "reading": "his neighbour privily:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The haughty heart I will not bear,",
+            "normalized": "The haughty heart I will not bear,",
+            "reading": "The haughty heart I will not bear,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor him that looketh high.",
+            "normalized": "Nor him that looketh high.",
+            "reading": "nor him that looketh high."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-101.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-101.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Upon the faithful of the land",
+            "normalized": "Upon the faithful of the land",
+            "reading": "Upon the faithful of the land"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "mine eyes shall be, that they",
+            "normalized": "Mine eyes shall be, that they",
+            "reading": "mine eyes shall be, that they"
+          }
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "May dwell with me: he shall me serve",
+            "normalized": "May dwell with me: he shall me serve",
+            "reading": "May dwell with me: he shall me serve"
+          }
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that walks in perfect way.",
+            "normalized": "That walks in perfect way.",
+            "reading": "that walks in perfect way."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-101.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-101.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who of deceit a worker is",
+            "normalized": "Who of deceit a worker is",
+            "reading": "Who of deceit a worker is"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in my house shall not dwell;",
+            "normalized": "In my house shall not dwell;",
+            "reading": "in my house shall not dwell;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in my presence shall he not",
+            "normalized": "And in my presence shall he not",
+            "reading": "And in my presence shall he not"
+          }
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "remain that lies doth tell.",
+            "normalized": "Remain that lies doth tell.",
+            "reading": "remain that lies doth tell."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-101.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-101.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, all the wicked of the land",
+            "normalized": "Yea, all the wicked of the land",
+            "reading": "Yea, all the wicked of the land"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "early destroy will I;",
+            "normalized": "Early destroy will I;",
+            "reading": "early destroy will I;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All from GOD’s city to cut off",
+            "normalized": "All from GOD’s city to cut off",
+            "reading": "All from GOD’s city to cut off"
+          }
+        },
+        {
+          "id": "ps1650.psalm-101.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that work iniquity.",
+            "normalized": "That work iniquity.",
+            "reading": "that work iniquity."
+          }
+        }
+      ]
+    }
+  ]
+}

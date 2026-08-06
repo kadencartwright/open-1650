@@ -1,0 +1,1083 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-118.primary",
+  "psalm_number": 118,
+  "title": "Psalm 118",
+  "version": "primary",
+  "opening_line": "O praise the LORD, for he is good;",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 118 · p. 168–170",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-118-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      168,
+      169,
+      170
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-118.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O praise the LORD, for he is good;",
+            "normalized": "O praise the LORD, for he is good;",
+            "reading": "O praise the LORD, for he is good;"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his mercy lasteth ever.",
+            "normalized": "His mercy lasteth ever.",
+            "reading": "his mercy lasteth ever."
+          },
+          "source_underlining": [
+            "ever"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let those of Israèl now say,",
+            "normalized": "Let those of Israèl now say,",
+            "reading": "Let those of Israèl now say,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "His mercy faileth never.",
+            "normalized": "His mercy faileth never.",
+            "reading": "His mercy faileth never."
+          },
+          "source_underlining": [
+            "never"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Now let the house of Aaron say,",
+            "normalized": "Now let the house of Aaron say,",
+            "reading": "Now let the house of Aaron say,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "His mercy lasteth ever.",
+            "normalized": "His mercy lasteth ever.",
+            "reading": "His mercy lasteth ever."
+          },
+          "source_underlining": [
+            "ever"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let those that fear the LORD now say,",
+            "normalized": "Let those that fear the LORD now say,",
+            "reading": "Let those that fear the LORD now say,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "His mercy faileth never.",
+            "normalized": "His mercy faileth never.",
+            "reading": "His mercy faileth never."
+          },
+          "source_underlining": [
+            "never"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I in distress called on the LORD;",
+            "normalized": "I in distress called on the LORD;",
+            "reading": "I in distress called on the LORD;"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the LORD did answer me:",
+            "normalized": "The LORD did answer me:",
+            "reading": "the LORD did answer me:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He in a large place did me set,",
+            "normalized": "He in a large place did me set,",
+            "reading": "He in a large place did me set,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from trouble made me free.",
+            "normalized": "From trouble made me free.",
+            "reading": "from trouble made me free."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The mighty LORD is on my side,",
+            "normalized": "The mighty LORD is on my side,",
+            "reading": "The mighty LORD is on my side,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I will not be afraid;",
+            "normalized": "I will not be afraid;",
+            "reading": "I will not be afraid;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For anything that man can do",
+            "normalized": "For anything that man can do",
+            "reading": "For anything that man can do"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I shall not be dismayed.",
+            "normalized": "I shall not be dismayed.",
+            "reading": "I shall not be dismayed."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD doth take my part with them",
+            "normalized": "The LORD doth take my part with them",
+            "reading": "The LORD doth take my part with them"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that help to succour me:",
+            "normalized": "That help to succour me:",
+            "reading": "that help to succour me:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Therefore on those that do me hate",
+            "normalized": "Therefore on those that do me hate",
+            "reading": "Therefore on those that do me hate"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I my desire shall see.",
+            "normalized": "I my desire shall see.",
+            "reading": "I my desire shall see."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8,
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Better it is to trust in GOD",
+            "normalized": "Better it is to trust in GOD",
+            "reading": "Better it is to trust in GOD"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "than trust in man’s defence;",
+            "normalized": "Than trust in man’s defence;",
+            "reading": "than trust in man’s defence;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Better to trust in GOD than make",
+            "normalized": "Better to trust in GOD than make",
+            "reading": "Better to trust in GOD than make"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "princes our confidence.",
+            "normalized": "Princes our confidence.",
+            "reading": "princes our confidence."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The nations, joining all in one,",
+            "normalized": "The nations, joining all in one,",
+            "reading": "The nations, joining all in one,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "did compass me about:",
+            "normalized": "Did compass me about:",
+            "reading": "did compass me about:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But in the LORD’s most holy name",
+            "normalized": "But in the LORD’s most holy name",
+            "reading": "But in the LORD’s most holy name"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I shall them all root out.",
+            "normalized": "I shall them all root out.",
+            "reading": "I shall them all root out."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They compassed me about; I say,",
+            "normalized": "They compassed me about; I say,",
+            "reading": "They compassed me about; I say,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they compassed me about:",
+            "normalized": "They compassed me about:",
+            "reading": "they compassed me about:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But in the LORD’s most holy name",
+            "normalized": "But in the LORD’s most holy name",
+            "reading": "But in the LORD’s most holy name"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I shall them all root out.",
+            "normalized": "I shall them all root out.",
+            "reading": "I shall them all root out."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Like bees they compassed me about;",
+            "normalized": "Like bees they compassed me about;",
+            "reading": "Like bees they compassed me about;"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "like unto thorns that flame",
+            "normalized": "Like unto thorns that flame",
+            "reading": "like unto thorns that flame"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They quenchèd are: for them shall I",
+            "normalized": "They quenchèd are: for them shall I",
+            "reading": "They quenchèd are: for them shall I"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "destroy in GOD’s own name.",
+            "normalized": "Destroy in GOD’s own name.",
+            "reading": "destroy in GOD’s own name."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        13,
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou sore hast thrust, that I might fall,",
+            "normalized": "Thou sore hast thrust, that I might fall,",
+            "reading": "Thou sore hast thrust, that I might fall,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "but my LORD helpèd me.",
+            "normalized": "But my LORD helpèd me.",
+            "reading": "but my LORD helpèd me."
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD my salvation is become,",
+            "normalized": "GOD my salvation is become,",
+            "reading": "GOD my salvation is become,"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my strength and song is he.",
+            "normalized": "My strength and song is he.",
+            "reading": "my strength and song is he."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In dwellings of the rïghteous",
+            "normalized": "In dwellings of the rïghteous",
+            "reading": "In dwellings of the rïghteous"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is heard the melody",
+            "normalized": "Is heard the melody",
+            "reading": "is heard the melody"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of joy and health: the LORD’s right hand",
+            "normalized": "Of joy and health: the LORD’s right hand",
+            "reading": "Of joy and health: the LORD’s right hand"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth ever valiantly.",
+            "normalized": "Doth ever valiantly.",
+            "reading": "doth ever valiantly."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The right hand of the mighty LORD",
+            "normalized": "The right hand of the mighty LORD",
+            "reading": "The right hand of the mighty LORD"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "exalted is on high;",
+            "normalized": "Exalted is on high;",
+            "reading": "exalted is on high;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The right hand of the mighty LORD",
+            "normalized": "The right hand of the mighty LORD",
+            "reading": "The right hand of the mighty LORD"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth ever valiantly.",
+            "normalized": "Doth ever valiantly.",
+            "reading": "doth ever valiantly."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        17,
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I shall not die, but live, and shall",
+            "normalized": "I shall not die, but live, and shall",
+            "reading": "I shall not die, but live, and shall"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the works of GOD discover.",
+            "normalized": "The works of GOD discover.",
+            "reading": "the works of GOD discover."
+          },
+          "source_underlining": [
+            "cover"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD hath me chastisèd sore,",
+            "normalized": "The LORD hath me chastisèd sore,",
+            "reading": "The LORD hath me chastisèd sore,"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "but not to death given over.",
+            "normalized": "But not to death given over.",
+            "reading": "but not to death given over."
+          },
+          "source_underlining": [
+            "over"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        19
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O set ye open unto me",
+            "normalized": "O set ye open unto me",
+            "reading": "O set ye open unto me"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the gates of righteousness;",
+            "normalized": "The gates of righteousness;",
+            "reading": "the gates of righteousness;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then will I enter into them,",
+            "normalized": "Then will I enter into them,",
+            "reading": "Then will I enter into them,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and I the LORD will bless.",
+            "normalized": "And I the LORD will bless.",
+            "reading": "and I the LORD will bless."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        20,
+        21
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "This is the gate of GOD, by it",
+            "normalized": "This is the gate of GOD, by it",
+            "reading": "This is the gate of GOD, by it"
+          },
+          "biblical_verse_start": 20
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the just shall enter in.",
+            "normalized": "The just shall enter in.",
+            "reading": "the just shall enter in."
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thee will I praise, for thou me heard’st,",
+            "normalized": "Thee will I praise, for thou me heard’st,",
+            "reading": "Thee will I praise, for thou me heard’st,"
+          },
+          "biblical_verse_start": 21
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and hast my safety been.",
+            "normalized": "And hast my safety been.",
+            "reading": "and hast my safety been."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        22,
+        23
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That stone is made head cornerstone,",
+            "normalized": "That stone is made head cornerstone,",
+            "reading": "That stone is made head cornerstone,"
+          },
+          "biblical_verse_start": 22
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "which builders did despise:",
+            "normalized": "Which builders did despise:",
+            "reading": "which builders did despise:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "This is the doing of the LORD,",
+            "normalized": "This is the doing of the LORD,",
+            "reading": "This is the doing of the LORD,"
+          },
+          "biblical_verse_start": 23
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and wondrous in our eyes.",
+            "normalized": "And wondrous in our eyes.",
+            "reading": "and wondrous in our eyes."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-17",
+      "number": 17,
+      "biblical_verses": [
+        24,
+        25
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-17.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "This is the day GOD made, in it",
+            "normalized": "This is the day GOD made, in it",
+            "reading": "This is the day GOD made, in it"
+          },
+          "biblical_verse_start": 24
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-17.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "we’ll joy triumphantly.",
+            "normalized": "We’ll joy triumphantly.",
+            "reading": "we’ll joy triumphantly."
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-17.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Save now, I pray thee, LORD; I pray,",
+            "normalized": "Save now, I pray thee, LORD; I pray,",
+            "reading": "Save now, I pray thee, LORD; I pray,"
+          },
+          "biblical_verse_start": 25
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-17.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "send now prosperity.",
+            "normalized": "Send now prosperity.",
+            "reading": "send now prosperity."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-18",
+      "number": 18,
+      "biblical_verses": [
+        26
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-18.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Blessèd is he in GOD’s great name",
+            "normalized": "Blessèd is he in GOD’s great name",
+            "reading": "Blessèd is he in GOD’s great name"
+          },
+          "biblical_verse_start": 26
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-18.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that cometh us to save:",
+            "normalized": "That cometh us to save:",
+            "reading": "that cometh us to save:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-18.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "We, from the house which to the LORD",
+            "normalized": "We, from the house which to the LORD",
+            "reading": "We, from the house which to the LORD"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-18.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "pertains, you blessèd have.",
+            "normalized": "Pertains, you blessèd have.",
+            "reading": "pertains, you blessèd have."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-19",
+      "number": 19,
+      "biblical_verses": [
+        27
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-19.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "God is the LORD, who unto us",
+            "normalized": "God is the LORD, who unto us",
+            "reading": "God is the LORD, who unto us"
+          },
+          "biblical_verse_start": 27
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-19.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "hath made light to arise:",
+            "normalized": "Hath made light to arise:",
+            "reading": "hath made light to arise:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-19.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Bind ye unto the altar’s horns",
+            "normalized": "Bind ye unto the altar’s horns",
+            "reading": "Bind ye unto the altar’s horns"
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-19.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with cords the sacrifice.",
+            "normalized": "With cords the sacrifice.",
+            "reading": "with cords the sacrifice."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-118.primary.stanza-20",
+      "number": 20,
+      "biblical_verses": [
+        28,
+        29
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-118.primary.stanza-20.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou art my God, I’ll thee exalt;",
+            "normalized": "Thou art my God, I’ll thee exalt;",
+            "reading": "Thou art my God, I’ll thee exalt;"
+          },
+          "biblical_verse_start": 28
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-20.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my God, I will thee praise.",
+            "normalized": "My God, I will thee praise.",
+            "reading": "my God, I will thee praise."
+          }
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-20.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Give thanks to GOD, for he is good:",
+            "normalized": "Give thanks to GOD, for he is good:",
+            "reading": "Give thanks to GOD, for he is good:"
+          },
+          "biblical_verse_start": 29
+        },
+        {
+          "id": "ps1650.psalm-118.primary.stanza-20.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his mercy lasts always.",
+            "normalized": "His mercy lasts always.",
+            "reading": "his mercy lasts always."
+          }
+        }
+      ]
+    }
+  ]
+}

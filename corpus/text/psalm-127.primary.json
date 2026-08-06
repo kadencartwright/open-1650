@@ -1,0 +1,248 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-127.primary",
+  "psalm_number": 127,
+  "title": "Psalm 127",
+  "version": "primary",
+  "opening_line": "Except the LORD do build the house,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 127 · p. 186–187",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-127-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      186,
+      187
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-127.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-127.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Except the LORD do build the house,",
+            "normalized": "Except the LORD do build the house,",
+            "reading": "Except the LORD do build the house,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-127.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the builders lose their pain:",
+            "normalized": "The builders lose their pain:",
+            "reading": "the builders lose their pain:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-127.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Except the LORD the city keep,",
+            "normalized": "Except the LORD the city keep,",
+            "reading": "Except the LORD the city keep,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-127.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the watchmen watch in vain.",
+            "normalized": "The watchmen watch in vain.",
+            "reading": "the watchmen watch in vain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-127.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-127.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "’Tis vain for you to rise betimes,",
+            "normalized": "’Tis vain for you to rise betimes,",
+            "reading": "’Tis vain for you to rise betimes,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-127.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "or late from rest to keep,",
+            "normalized": "Or late from rest to keep,",
+            "reading": "or late from rest to keep,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-127.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To feed on sorrows’ bread; so gives",
+            "normalized": "To feed on sorrows’ bread; so gives",
+            "reading": "To feed on sorrows’ bread; so gives"
+          }
+        },
+        {
+          "id": "ps1650.psalm-127.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he his belovèd sleep.",
+            "normalized": "He his belovèd sleep.",
+            "reading": "he his belovèd sleep."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-127.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-127.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Lo, children are GOD’s heritage,",
+            "normalized": "Lo, children are GOD’s heritage,",
+            "reading": "Lo, children are GOD’s heritage,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-127.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the womb’s fruit his reward.",
+            "normalized": "The womb’s fruit his reward.",
+            "reading": "the womb’s fruit his reward."
+          }
+        },
+        {
+          "id": "ps1650.psalm-127.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The sons of youth as arrows are,",
+            "normalized": "The sons of youth as arrows are,",
+            "reading": "The sons of youth as arrows are,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-127.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for strong men’s hands prepared.",
+            "normalized": "For strong men’s hands prepared.",
+            "reading": "for strong men’s hands prepared."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-127.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-127.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O happy is the man that hath",
+            "normalized": "O happy is the man that hath",
+            "reading": "O happy is the man that hath"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-127.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his quiver filled with those;",
+            "normalized": "His quiver filled with those;",
+            "reading": "his quiver filled with those;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-127.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They unashamèd in the gate",
+            "normalized": "They unashamèd in the gate",
+            "reading": "They unashamèd in the gate"
+          }
+        },
+        {
+          "id": "ps1650.psalm-127.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall speak unto their foes.",
+            "normalized": "Shall speak unto their foes.",
+            "reading": "shall speak unto their foes."
+          }
+        }
+      ]
+    }
+  ]
+}

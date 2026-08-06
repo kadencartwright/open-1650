@@ -1,0 +1,648 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-021.primary",
+  "psalm_number": 21,
+  "title": "Psalm 21",
+  "version": "primary",
+  "opening_line": "The king in thy great strength, O LORD,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 21 · p. 27–28",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-021-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      27,
+      28
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-021.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-021.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The king in thy great strength, O LORD,",
+            "normalized": "The king in thy great strength, O LORD,",
+            "reading": "The king in thy great strength, O LORD,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall very joyful be:",
+            "normalized": "Shall very joyful be:",
+            "reading": "shall very joyful be:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In thy salvätion rejoice",
+            "normalized": "In thy salvätion rejoice",
+            "reading": "In thy salvätion rejoice"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "how veh’mently shall he!",
+            "normalized": "How veh’mently shall he!",
+            "reading": "how veh’mently shall he!"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-021.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-021.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou hast bestowèd upon him",
+            "normalized": "Thou hast bestowèd upon him",
+            "reading": "Thou hast bestowèd upon him"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all that his heart would have;",
+            "normalized": "All that his heart would have;",
+            "reading": "all that his heart would have;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And thou from him didst not withhold",
+            "normalized": "And thou from him didst not withhold",
+            "reading": "And thou from him didst not withhold"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "whate’er his lips did crave.",
+            "normalized": "Whate’er his lips did crave.",
+            "reading": "whate’er his lips did crave."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-021.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-021.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thou with blessings him prevent’st",
+            "normalized": "For thou with blessings him prevent’st",
+            "reading": "For thou with blessings him prevent’st"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of goodness manifold;",
+            "normalized": "Of goodness manifold;",
+            "reading": "of goodness manifold;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And thou hast set upon his head",
+            "normalized": "And thou hast set upon his head",
+            "reading": "And thou hast set upon his head"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a crown of purest gold.",
+            "normalized": "A crown of purest gold.",
+            "reading": "a crown of purest gold."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-021.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-021.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When he desirèd life of thee,",
+            "normalized": "When he desirèd life of thee,",
+            "reading": "When he desirèd life of thee,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou life to him didst give;",
+            "normalized": "Thou life to him didst give;",
+            "reading": "thou life to him didst give;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n such a length of days, that he",
+            "normalized": "Ev’n such a length of days, that he",
+            "reading": "Ev’n such a length of days, that he"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for evermore should live.",
+            "normalized": "For evermore should live.",
+            "reading": "for evermore should live."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-021.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-021.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In that salvation wrought by thee",
+            "normalized": "In that salvation wrought by thee",
+            "reading": "In that salvation wrought by thee"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his glory is made great;",
+            "normalized": "His glory is made great;",
+            "reading": "his glory is made great;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Honour and comely majesty",
+            "normalized": "Honour and comely majesty",
+            "reading": "Honour and comely majesty"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou hast upon him set.",
+            "normalized": "Thou hast upon him set.",
+            "reading": "thou hast upon him set."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-021.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-021.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because that thou for evermore",
+            "normalized": "Because that thou for evermore",
+            "reading": "Because that thou for evermore"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "most blessèd hast him made;",
+            "normalized": "Most blessèd hast him made;",
+            "reading": "most blessèd hast him made;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And thou hast with thy countenance",
+            "normalized": "And thou hast with thy countenance",
+            "reading": "And thou hast with thy countenance"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "made him exceeding glad.",
+            "normalized": "Made him exceeding glad.",
+            "reading": "made him exceeding glad."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-021.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-021.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because the king upon the LORD",
+            "normalized": "Because the king upon the LORD",
+            "reading": "Because the king upon the LORD"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his confidence doth lay;",
+            "normalized": "His confidence doth lay;",
+            "reading": "his confidence doth lay;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And through the grace of the Most High",
+            "normalized": "And through the grace of the Most High",
+            "reading": "And through the grace of the Most High"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall not be moved away.",
+            "normalized": "Shall not be moved away.",
+            "reading": "shall not be moved away."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-021.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-021.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thine hand shall all those men find out",
+            "normalized": "Thine hand shall all those men find out",
+            "reading": "Thine hand shall all those men find out"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that en’mies are to thee;",
+            "normalized": "That en’mies are to thee;",
+            "reading": "that en’mies are to thee;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n thy right hand shall find out those",
+            "normalized": "Ev’n thy right hand shall find out those",
+            "reading": "Ev’n thy right hand shall find out those"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of thee that haters be.",
+            "normalized": "Of thee that haters be.",
+            "reading": "of thee that haters be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-021.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-021.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Like fiery ov’n thou shalt them make,",
+            "normalized": "Like fiery ov’n thou shalt them make,",
+            "reading": "Like fiery ov’n thou shalt them make,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when kindled is thine ire;",
+            "normalized": "When kindled is thine ire;",
+            "reading": "when kindled is thine ire;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD shall them swallow in his wrath,",
+            "normalized": "GOD shall them swallow in his wrath,",
+            "reading": "GOD shall them swallow in his wrath,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "devour them shall the fire.",
+            "normalized": "Devour them shall the fire.",
+            "reading": "devour them shall the fire."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-021.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        10,
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-021.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their fruit from earth thou shalt destroy,",
+            "normalized": "Their fruit from earth thou shalt destroy,",
+            "reading": "Their fruit from earth thou shalt destroy,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their seed men from among:",
+            "normalized": "Their seed men from among:",
+            "reading": "their seed men from among:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For they beyond their might ’gainst thee",
+            "normalized": "For they beyond their might ’gainst thee",
+            "reading": "For they beyond their might ’gainst thee"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "did plot mischief and wrong.",
+            "normalized": "Did plot mischief and wrong.",
+            "reading": "did plot mischief and wrong."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-021.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-021.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou therefore shalt make them turn back,",
+            "normalized": "Thou therefore shalt make them turn back,",
+            "reading": "Thou therefore shalt make them turn back,"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when thou thy shafts shalt place",
+            "normalized": "When thou thy shafts shalt place",
+            "reading": "when thou thy shafts shalt place"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Upon thy strings, made ready all",
+            "normalized": "Upon thy strings, made ready all",
+            "reading": "Upon thy strings, made ready all"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to fly against their face.",
+            "normalized": "To fly against their face.",
+            "reading": "to fly against their face."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-021.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-021.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In thy great pow’r and strength, O LORD,",
+            "normalized": "In thy great pow’r and strength, O LORD,",
+            "reading": "In thy great pow’r and strength, O LORD,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "be thou exalted high;",
+            "normalized": "Be thou exalted high;",
+            "reading": "be thou exalted high;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "So shall we sing with joyful hearts,",
+            "normalized": "So shall we sing with joyful hearts,",
+            "reading": "So shall we sing with joyful hearts,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-021.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy power praise shall we.",
+            "normalized": "Thy power praise shall we.",
+            "reading": "thy power praise shall we."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,722 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-136.primary",
+  "psalm_number": 136,
+  "title": "Psalm 136",
+  "version": "primary",
+  "opening_line": "Give thanks to GOD, for good is he:",
+  "meter": {
+    "pattern": "8.7.8.7",
+    "name": "8.7.8.7 iambic"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 136 · p. 192–193",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "first version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-136,-first-version-(T) [8 7 8 7 iambic].txt"
+    ],
+    "pdf_pages": [
+      192,
+      193
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-136.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Give thanks to GOD, for good is he:",
+            "normalized": "Give thanks to GOD, for good is he:",
+            "reading": "Give thanks to GOD, for good is he:"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for mercy hath he ever.",
+            "normalized": "For mercy hath he ever.",
+            "reading": "for mercy hath he ever."
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thanks to the God of gods give ye:",
+            "normalized": "Thanks to the God of gods give ye:",
+            "reading": "Thanks to the God of gods give ye:"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for his grace faileth never.",
+            "normalized": "For his grace faileth never.",
+            "reading": "for his grace faileth never."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thanks give the Lord of lords unto:",
+            "normalized": "Thanks give the Lord of lords unto:",
+            "reading": "Thanks give the Lord of lords unto:"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for mercy hath he ever.",
+            "normalized": "For mercy hath he ever.",
+            "reading": "for mercy hath he ever."
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who only wonders great can do:",
+            "normalized": "Who only wonders great can do:",
+            "reading": "Who only wonders great can do:"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for his grace faileth never.",
+            "normalized": "For his grace faileth never.",
+            "reading": "for his grace faileth never."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5,
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who by his wisdom made heav’ns high:",
+            "normalized": "Who by his wisdom made heav’ns high:",
+            "reading": "Who by his wisdom made heav’ns high:"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for mercy hath he ever.",
+            "normalized": "For mercy hath he ever.",
+            "reading": "for mercy hath he ever."
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who stretched the earth above the sea:",
+            "normalized": "Who stretched the earth above the sea:",
+            "reading": "Who stretched the earth above the sea:"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for his grace faileth never.",
+            "normalized": "For his grace faileth never.",
+            "reading": "for his grace faileth never."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To him that made the great lights shine:",
+            "normalized": "To him that made the great lights shine:",
+            "reading": "To him that made the great lights shine:"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for mercy hath he ever.",
+            "normalized": "For mercy hath he ever.",
+            "reading": "for mercy hath he ever."
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The sun to rule till day decline:",
+            "normalized": "The sun to rule till day decline:",
+            "reading": "The sun to rule till day decline:"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for his grace faileth never.",
+            "normalized": "For his grace faileth never.",
+            "reading": "for his grace faileth never."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        9,
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The moon and stars to rule by night:",
+            "normalized": "The moon and stars to rule by night:",
+            "reading": "The moon and stars to rule by night:"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for mercy hath he ever.",
+            "normalized": "For mercy hath he ever.",
+            "reading": "for mercy hath he ever."
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who Egypt’s first-born killed outright:",
+            "normalized": "Who Egypt’s first-born killed outright:",
+            "reading": "Who Egypt’s first-born killed outright:"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for his grace faileth never.",
+            "normalized": "For his grace faileth never.",
+            "reading": "for his grace faileth never."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        11,
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And Isr’el brought from Egypt land:",
+            "normalized": "And Isr’el brought from Egypt land:",
+            "reading": "And Isr’el brought from Egypt land:"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for mercy hath he ever.",
+            "normalized": "For mercy hath he ever.",
+            "reading": "for mercy hath he ever."
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With stretched-out arm, and with strong hand:",
+            "normalized": "With stretched-out arm, and with strong hand:",
+            "reading": "With stretched-out arm, and with strong hand:"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for his grace faileth never.",
+            "normalized": "For his grace faileth never.",
+            "reading": "for his grace faileth never."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        13,
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "By whom the Red Sea parted was:",
+            "normalized": "By whom the Red Sea parted was:",
+            "reading": "By whom the Red Sea parted was:"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for mercy hath he ever.",
+            "normalized": "For mercy hath he ever.",
+            "reading": "for mercy hath he ever."
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And through its midst made Isr’el pass:",
+            "normalized": "And through its midst made Isr’el pass:",
+            "reading": "And through its midst made Isr’el pass:"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for his grace faileth never.",
+            "normalized": "For his grace faileth never.",
+            "reading": "for his grace faileth never."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        15,
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But Pharaoh and his host did drown:",
+            "normalized": "But Pharaoh and his host did drown:",
+            "reading": "But Pharaoh and his host did drown:"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for mercy hath he ever.",
+            "normalized": "For mercy hath he ever.",
+            "reading": "for mercy hath he ever."
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who through the desert led his own:",
+            "normalized": "Who through the desert led his own:",
+            "reading": "Who through the desert led his own:"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for his grace faileth never.",
+            "normalized": "For his grace faileth never.",
+            "reading": "for his grace faileth never."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        17,
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To him great kings who overthrew:",
+            "normalized": "To him great kings who overthrew:",
+            "reading": "To him great kings who overthrew:"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for he hath mercy ever.",
+            "normalized": "For he hath mercy ever.",
+            "reading": "for he hath mercy ever."
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, famous kings in battle slew:",
+            "normalized": "Yea, famous kings in battle slew:",
+            "reading": "Yea, famous kings in battle slew:"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for his grace faileth never.",
+            "normalized": "For his grace faileth never.",
+            "reading": "for his grace faileth never."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        19,
+        20
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n Sihon king of Amorites:",
+            "normalized": "Ev’n Sihon king of Amorites:",
+            "reading": "Ev’n Sihon king of Amorites:"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for he hath mercy ever.",
+            "normalized": "For he hath mercy ever.",
+            "reading": "for he hath mercy ever."
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And Og the king of Bashanites:",
+            "normalized": "And Og the king of Bashanites:",
+            "reading": "And Og the king of Bashanites:"
+          },
+          "biblical_verse_start": 20
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for his grace faileth never.",
+            "normalized": "For his grace faileth never.",
+            "reading": "for his grace faileth never."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        21,
+        22
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their land in heritage to have:",
+            "normalized": "Their land in heritage to have:",
+            "reading": "Their land in heritage to have:"
+          },
+          "biblical_verse_start": 21
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "(for mercy hath he ever).",
+            "normalized": "(For mercy hath he ever).",
+            "reading": "(for mercy hath he ever)."
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His servant Isr’el right he gave:",
+            "normalized": "His servant Isr’el right he gave:",
+            "reading": "His servant Isr’el right he gave:"
+          },
+          "biblical_verse_start": 22
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for his grace faileth never.",
+            "normalized": "For his grace faileth never.",
+            "reading": "for his grace faileth never."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        23,
+        24
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In our low state who on us thought:",
+            "normalized": "In our low state who on us thought:",
+            "reading": "In our low state who on us thought:"
+          },
+          "biblical_verse_start": 23
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for he hath mercy ever.",
+            "normalized": "For he hath mercy ever.",
+            "reading": "for he hath mercy ever."
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And from our foes our freedom wrought:",
+            "normalized": "And from our foes our freedom wrought:",
+            "reading": "And from our foes our freedom wrought:"
+          },
+          "biblical_verse_start": 24
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for his grace faileth never.",
+            "normalized": "For his grace faileth never.",
+            "reading": "for his grace faileth never."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        25,
+        26
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who doth all flesh with food relieve:",
+            "normalized": "Who doth all flesh with food relieve:",
+            "reading": "Who doth all flesh with food relieve:"
+          },
+          "biblical_verse_start": 25
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for he hath mercy ever.",
+            "normalized": "For he hath mercy ever.",
+            "reading": "for he hath mercy ever."
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thanks to the God of heaven give:",
+            "normalized": "Thanks to the God of heaven give:",
+            "reading": "Thanks to the God of heaven give:"
+          },
+          "biblical_verse_start": 26
+        },
+        {
+          "id": "ps1650.psalm-136.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 7,
+          "text": {
+            "diplomatic": "for his grace faileth never.",
+            "normalized": "For his grace faileth never.",
+            "reading": "for his grace faileth never."
+          }
+        }
+      ]
+    }
+  ]
+}

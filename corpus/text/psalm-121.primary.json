@@ -1,0 +1,253 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-121.primary",
+  "psalm_number": 121,
+  "title": "Psalm 121",
+  "version": "primary",
+  "opening_line": "I to the hills will lift mine eyes,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 121 · p. 183",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-121-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      183
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-121.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-121.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I to the hills will lift mine eyes,",
+            "normalized": "I to the hills will lift mine eyes,",
+            "reading": "I to the hills will lift mine eyes,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-121.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from whence doth come mine aid.",
+            "normalized": "From whence doth come mine aid.",
+            "reading": "from whence doth come mine aid."
+          }
+        },
+        {
+          "id": "ps1650.psalm-121.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My safety cometh from the LORD,",
+            "normalized": "My safety cometh from the LORD,",
+            "reading": "My safety cometh from the LORD,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-121.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who heav’n and earth hath made.",
+            "normalized": "Who heav’n and earth hath made.",
+            "reading": "who heav’n and earth hath made."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-121.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-121.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy foot he’ll not let slide, nor will",
+            "normalized": "Thy foot he’ll not let slide, nor will",
+            "reading": "Thy foot he’ll not let slide, nor will"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-121.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he slumber that thee keeps.",
+            "normalized": "He slumber that thee keeps.",
+            "reading": "he slumber that thee keeps."
+          }
+        },
+        {
+          "id": "ps1650.psalm-121.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Behold, he that keeps Israel,",
+            "normalized": "Behold, he that keeps Israel,",
+            "reading": "Behold, he that keeps Israel,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-121.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he slumbers not, nor sleeps.",
+            "normalized": "He slumbers not, nor sleeps.",
+            "reading": "he slumbers not, nor sleeps."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-121.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5,
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-121.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD thee keeps, the LORD thy shade",
+            "normalized": "The LORD thee keeps, the LORD thy shade",
+            "reading": "The LORD thee keeps, the LORD thy shade"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-121.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "on thy right hand doth stay:",
+            "normalized": "On thy right hand doth stay:",
+            "reading": "on thy right hand doth stay:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-121.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The moon by night thee shall not smite,",
+            "normalized": "The moon by night thee shall not smite,",
+            "reading": "The moon by night thee shall not smite,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-121.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor yet the sun by day.",
+            "normalized": "Nor yet the sun by day.",
+            "reading": "nor yet the sun by day."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-121.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-121.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD shall keep thy soul; he shall",
+            "normalized": "The LORD shall keep thy soul; he shall",
+            "reading": "The LORD shall keep thy soul; he shall"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-121.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "preserve thee from all ill.",
+            "normalized": "Preserve thee from all ill.",
+            "reading": "preserve thee from all ill."
+          }
+        },
+        {
+          "id": "ps1650.psalm-121.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Henceforth thy going out and in",
+            "normalized": "Henceforth thy going out and in",
+            "reading": "Henceforth thy going out and in"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-121.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "GOD keep for ever will.",
+            "normalized": "GOD keep for ever will.",
+            "reading": "GOD keep for ever will."
+          }
+        }
+      ]
+    }
+  ]
+}

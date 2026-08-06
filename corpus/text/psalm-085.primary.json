@@ -1,0 +1,507 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-085.primary",
+  "psalm_number": 85,
+  "title": "Psalm 85",
+  "version": "primary",
+  "opening_line": "O LORD, thou hast been fav’rable",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 85 · p. 121–122",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-085-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      121,
+      122
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-085.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-085.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O LORD, thou hast been fav’rable",
+            "normalized": "O LORD, thou hast been fav’rable",
+            "reading": "O LORD, thou hast been fav’rable"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to thy belovèd land:",
+            "normalized": "To thy belovèd land:",
+            "reading": "to thy belovèd land:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Jacob’s captivity thou hast",
+            "normalized": "Jacob’s captivity thou hast",
+            "reading": "Jacob’s captivity thou hast"
+          }
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "recalled with mighty hand.",
+            "normalized": "Recalled with mighty hand.",
+            "reading": "recalled with mighty hand."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-085.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-085.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou pardonèd thy people hast",
+            "normalized": "Thou pardonèd thy people hast",
+            "reading": "Thou pardonèd thy people hast"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all their iniquities;",
+            "normalized": "All their iniquities;",
+            "reading": "all their iniquities;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou all their trespasses and sins",
+            "normalized": "Thou all their trespasses and sins",
+            "reading": "Thou all their trespasses and sins"
+          }
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "hast covered from thine eyes.",
+            "normalized": "Hast covered from thine eyes.",
+            "reading": "hast covered from thine eyes."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-085.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-085.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou took’st off all thine ire, and turn’dst",
+            "normalized": "Thou took’st off all thine ire, and turn’dst",
+            "reading": "Thou took’st off all thine ire, and turn’dst"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from thy wrath’s furiousness.",
+            "normalized": "From thy wrath’s furiousness.",
+            "reading": "from thy wrath’s furiousness."
+          }
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Turn us, God of our health, and cause",
+            "normalized": "Turn us, God of our health, and cause",
+            "reading": "Turn us, God of our health, and cause"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy wrath ’gainst us to cease.",
+            "normalized": "Thy wrath ’gainst us to cease.",
+            "reading": "thy wrath ’gainst us to cease."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-085.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-085.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Shall thy displeasure thus endure",
+            "normalized": "Shall thy displeasure thus endure",
+            "reading": "Shall thy displeasure thus endure"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "against us without end?",
+            "normalized": "Against us without end?",
+            "reading": "against us without end?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Wilt thou to generations all",
+            "normalized": "Wilt thou to generations all",
+            "reading": "Wilt thou to generations all"
+          }
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thine anger forth extend?",
+            "normalized": "Thine anger forth extend?",
+            "reading": "thine anger forth extend?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-085.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6,
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-085.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That in thee may thy people joy,",
+            "normalized": "That in thee may thy people joy,",
+            "reading": "That in thee may thy people joy,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "wilt thou not us revive?",
+            "normalized": "Wilt thou not us revive?",
+            "reading": "wilt thou not us revive?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Show us thy mercy, LORD, to us",
+            "normalized": "Show us thy mercy, LORD, to us",
+            "reading": "Show us thy mercy, LORD, to us"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do thy salvation give.",
+            "normalized": "Do thy salvation give.",
+            "reading": "do thy salvation give."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-085.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-085.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I’ll hear what God the LORD will speak:",
+            "normalized": "I’ll hear what God the LORD will speak:",
+            "reading": "I’ll hear what God the LORD will speak:"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to his folk he’ll speak peace,",
+            "normalized": "To his folk he’ll speak peace,",
+            "reading": "to his folk he’ll speak peace,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And to his saints; but let them not",
+            "normalized": "And to his saints; but let them not",
+            "reading": "And to his saints; but let them not"
+          }
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "return to foolishness.",
+            "normalized": "Return to foolishness.",
+            "reading": "return to foolishness."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-085.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-085.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To them that fear him surely near",
+            "normalized": "To them that fear him surely near",
+            "reading": "To them that fear him surely near"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is his salvätion;",
+            "normalized": "Is his salvätion;",
+            "reading": "is his salvätion;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That glory in our land may have",
+            "normalized": "That glory in our land may have",
+            "reading": "That glory in our land may have"
+          }
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "her habitätion.",
+            "normalized": "Her habitätion.",
+            "reading": "her habitätion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-085.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        10,
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-085.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Truth met with mercy, righteousness",
+            "normalized": "Truth met with mercy, righteousness",
+            "reading": "Truth met with mercy, righteousness"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and peace kissed mutually:",
+            "normalized": "And peace kissed mutually:",
+            "reading": "and peace kissed mutually:"
+          },
+          "source_underlining": [
+            "tual"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Truth springs from earth, and righteousness",
+            "normalized": "Truth springs from earth, and righteousness",
+            "reading": "Truth springs from earth, and righteousness"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "looks down from heaven high.",
+            "normalized": "Looks down from heaven high.",
+            "reading": "looks down from heaven high."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-085.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        12,
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-085.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, what is good the LORD shall give;",
+            "normalized": "Yea, what is good the LORD shall give;",
+            "reading": "Yea, what is good the LORD shall give;"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our land shall yield increase:",
+            "normalized": "Our land shall yield increase:",
+            "reading": "our land shall yield increase:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Justice, to set us in his steps,",
+            "normalized": "Justice, to set us in his steps,",
+            "reading": "Justice, to set us in his steps,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-085.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall go before his face.",
+            "normalized": "Shall go before his face.",
+            "reading": "shall go before his face."
+          }
+        }
+      ]
+    }
+  ]
+}

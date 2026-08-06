@@ -1,0 +1,661 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-083.primary",
+  "psalm_number": 83,
+  "title": "Psalm 83",
+  "version": "primary",
+  "opening_line": "Keep not, O God, we thee entreat,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 83 · p. 119–120",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-083-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      119,
+      120
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-083.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-083.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Keep not, O God, we thee entreat,",
+            "normalized": "Keep not, O God, we thee entreat,",
+            "reading": "Keep not, O God, we thee entreat,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O keep not silence now:",
+            "normalized": "O keep not silence now:",
+            "reading": "O keep not silence now:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Do thou not hold thy peace, O God,",
+            "normalized": "Do thou not hold thy peace, O God,",
+            "reading": "Do thou not hold thy peace, O God,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and still no more be thou.",
+            "normalized": "And still no more be thou.",
+            "reading": "and still no more be thou."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-083.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-083.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For, lo, thine enemies a noise",
+            "normalized": "For, lo, thine enemies a noise",
+            "reading": "For, lo, thine enemies a noise"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "tumultuously have made;",
+            "normalized": "Tumultuously have made;",
+            "reading": "tumultuously have made;"
+          },
+          "source_underlining": [
+            "uous"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And they that haters are of thee",
+            "normalized": "And they that haters are of thee",
+            "reading": "And they that haters are of thee"
+          }
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "have lifted up the head.",
+            "normalized": "Have lifted up the head.",
+            "reading": "have lifted up the head."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-083.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-083.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Against thy chosen people they",
+            "normalized": "Against thy chosen people they",
+            "reading": "Against thy chosen people they"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do crafty counsel take:",
+            "normalized": "Do crafty counsel take:",
+            "reading": "do crafty counsel take:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And they against thy hidden ones",
+            "normalized": "And they against thy hidden ones",
+            "reading": "And they against thy hidden ones"
+          }
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do consultations make.",
+            "normalized": "Do consultations make.",
+            "reading": "do consultations make."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-083.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-083.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Come, let us cut them off, said they,",
+            "normalized": "Come, let us cut them off, said they,",
+            "reading": "Come, let us cut them off, said they,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from being a nätion,",
+            "normalized": "From being a nätion,",
+            "reading": "from being a nätion,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That of the name of Isr’el may",
+            "normalized": "That of the name of Isr’el may",
+            "reading": "That of the name of Isr’el may"
+          }
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "no more be mëntion.",
+            "normalized": "No more be mëntion.",
+            "reading": "no more be mëntion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-083.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5,
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-083.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For with joint heart they plot, in league",
+            "normalized": "For with joint heart they plot, in league",
+            "reading": "For with joint heart they plot, in league"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "against thee they combine.",
+            "normalized": "Against thee they combine.",
+            "reading": "against thee they combine."
+          }
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The tents of Edom, Ishm’elites,",
+            "normalized": "The tents of Edom, Ishm’elites,",
+            "reading": "The tents of Edom, Ishm’elites,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Moab’s and Hagar’s line;",
+            "normalized": "Moab’s and Hagar’s line;",
+            "reading": "Moab’s and Hagar’s line;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-083.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-083.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Gebal, and Ammon, Amalek,",
+            "normalized": "Gebal, and Ammon, Amalek,",
+            "reading": "Gebal, and Ammon, Amalek,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Philistines, those of Tyre;",
+            "normalized": "Philistines, those of Tyre;",
+            "reading": "Philistines, those of Tyre;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And Assur joined with them, to help",
+            "normalized": "And Assur joined with them, to help",
+            "reading": "And Assur joined with them, to help"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Lot’s children they conspire.",
+            "normalized": "Lot’s children they conspire.",
+            "reading": "Lot’s children they conspire."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-083.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9,
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-083.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Do to them as to Midian,",
+            "normalized": "Do to them as to Midian,",
+            "reading": "Do to them as to Midian,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Jabin at Kison strand;",
+            "normalized": "Jabin at Kison strand;",
+            "reading": "Jabin at Kison strand;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And Sis’ra, which at En-dor fell,",
+            "normalized": "And Sis’ra, which at En-dor fell,",
+            "reading": "And Sis’ra, which at En-dor fell,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "as dung to fat the land.",
+            "normalized": "As dung to fat the land.",
+            "reading": "as dung to fat the land."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-083.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-083.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Like Oreb and like Zeèb make",
+            "normalized": "Like Oreb and like Zeèb make",
+            "reading": "Like Oreb and like Zeèb make"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their noble men to fall;",
+            "normalized": "Their noble men to fall;",
+            "reading": "their noble men to fall;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Like Zeba and Zalmunna like,",
+            "normalized": "Like Zeba and Zalmunna like,",
+            "reading": "Like Zeba and Zalmunna like,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "make thou their princes all;",
+            "normalized": "Make thou their princes all;",
+            "reading": "make thou their princes all;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-083.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        12,
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-083.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who said, For our possëssion",
+            "normalized": "Who said, For our possëssion",
+            "reading": "Who said, For our possëssion"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let us God’s houses take.",
+            "normalized": "Let us God’s houses take.",
+            "reading": "let us God’s houses take."
+          }
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My God, them like a wheel, as chaff",
+            "normalized": "My God, them like a wheel, as chaff",
+            "reading": "My God, them like a wheel, as chaff"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "before the wind, them make.",
+            "normalized": "Before the wind, them make.",
+            "reading": "before the wind, them make."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-083.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        14,
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-083.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "As fire consumes the wood, as flame",
+            "normalized": "As fire consumes the wood, as flame",
+            "reading": "As fire consumes the wood, as flame"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth mountains set on fire,",
+            "normalized": "Doth mountains set on fire,",
+            "reading": "doth mountains set on fire,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Chase and affright them with the storm",
+            "normalized": "Chase and affright them with the storm",
+            "reading": "Chase and affright them with the storm"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and tempest of thine ire.",
+            "normalized": "And tempest of thine ire.",
+            "reading": "and tempest of thine ire."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-083.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        16,
+        17
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-083.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their faces fill with shame, O LORD,",
+            "normalized": "Their faces fill with shame, O LORD,",
+            "reading": "Their faces fill with shame, O LORD,"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that they may seek thy name.",
+            "normalized": "That they may seek thy name.",
+            "reading": "that they may seek thy name."
+          }
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let them confounded be, and vexed,",
+            "normalized": "Let them confounded be, and vexed,",
+            "reading": "Let them confounded be, and vexed,"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and perish in their shame:",
+            "normalized": "And perish in their shame:",
+            "reading": "and perish in their shame:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-083.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-083.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That men may know that thou, to whom",
+            "normalized": "That men may know that thou, to whom",
+            "reading": "That men may know that thou, to whom"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "alone doth appertain",
+            "normalized": "Alone doth appertain",
+            "reading": "alone doth appertain"
+          }
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The name JEHOVAH, dost most high",
+            "normalized": "The name JEHOVAH, dost most high",
+            "reading": "The name JEHOVAH, dost most high"
+          }
+        },
+        {
+          "id": "ps1650.psalm-083.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "o’er all the earth remain.",
+            "normalized": "O’er all the earth remain.",
+            "reading": "o’er all the earth remain."
+          }
+        }
+      ]
+    }
+  ]
+}

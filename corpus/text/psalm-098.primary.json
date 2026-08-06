@@ -1,0 +1,399 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-098.primary",
+  "psalm_number": 98,
+  "title": "Psalm 98",
+  "version": "primary",
+  "opening_line": "O sing a new song to the LORD,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 98 · p. 138",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-098-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      138
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-098.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-098.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O sing a new song to the LORD,",
+            "normalized": "O sing a new song to the LORD,",
+            "reading": "O sing a new song to the LORD,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for wonders he hath done:",
+            "normalized": "For wonders he hath done:",
+            "reading": "for wonders he hath done:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His right hand and his holy arm",
+            "normalized": "His right hand and his holy arm",
+            "reading": "His right hand and his holy arm"
+          }
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "him victory hath won.",
+            "normalized": "Him victory hath won.",
+            "reading": "him victory hath won."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-098.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-098.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD God his salvätion",
+            "normalized": "The LORD God his salvätion",
+            "reading": "The LORD God his salvätion"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "hath causèd to be known;",
+            "normalized": "Hath causèd to be known;",
+            "reading": "hath causèd to be known;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His justice in the heathen’s sight",
+            "normalized": "His justice in the heathen’s sight",
+            "reading": "His justice in the heathen’s sight"
+          }
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he openly hath shown.",
+            "normalized": "He openly hath shown.",
+            "reading": "he openly hath shown."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-098.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-098.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He mindful of his grace and truth",
+            "normalized": "He mindful of his grace and truth",
+            "reading": "He mindful of his grace and truth"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to Isr’el’s house hath been;",
+            "normalized": "To Isr’el’s house hath been;",
+            "reading": "to Isr’el’s house hath been;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And the salvation of our God",
+            "normalized": "And the salvation of our God",
+            "reading": "And the salvation of our God"
+          }
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all ends of th’ earth have seen.",
+            "normalized": "All ends of th’ earth have seen.",
+            "reading": "all ends of th’ earth have seen."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-098.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-098.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let all the earth unto the LORD",
+            "normalized": "Let all the earth unto the LORD",
+            "reading": "Let all the earth unto the LORD"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "send forth a joyful noise;",
+            "normalized": "Send forth a joyful noise;",
+            "reading": "send forth a joyful noise;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Lift up your voice aloud to him,",
+            "normalized": "Lift up your voice aloud to him,",
+            "reading": "Lift up your voice aloud to him,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "sing praises, and rejoice.",
+            "normalized": "Sing praises, and rejoice.",
+            "reading": "sing praises, and rejoice."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-098.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5,
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-098.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With harp, with harp, and voice of psalms,",
+            "normalized": "With harp, with harp, and voice of psalms,",
+            "reading": "With harp, with harp, and voice of psalms,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto JEHOVAH sing:",
+            "normalized": "Unto JEHOVAH sing:",
+            "reading": "unto JEHOVAH sing:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With trumpets, cornets, gladly sound",
+            "normalized": "With trumpets, cornets, gladly sound",
+            "reading": "With trumpets, cornets, gladly sound"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "before the LORD the King.",
+            "normalized": "Before the LORD the King.",
+            "reading": "before the LORD the King."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-098.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-098.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let seas and all their fulness roar;",
+            "normalized": "Let seas and all their fulness roar;",
+            "reading": "Let seas and all their fulness roar;"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the world, and dwellers there;",
+            "normalized": "The world, and dwellers there;",
+            "reading": "the world, and dwellers there;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let floods clap hands, and let the hills",
+            "normalized": "Let floods clap hands, and let the hills",
+            "reading": "Let floods clap hands, and let the hills"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "together joy declare",
+            "normalized": "Together joy declare",
+            "reading": "together joy declare"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-098.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-098.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Before the LORD; because he comes,",
+            "normalized": "Before the LORD; because he comes,",
+            "reading": "Before the LORD; because he comes,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to judge the earth comes he:",
+            "normalized": "To judge the earth comes he:",
+            "reading": "to judge the earth comes he:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He’ll judge the world with righteousness,",
+            "normalized": "He’ll judge the world with righteousness,",
+            "reading": "He’ll judge the world with righteousness,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-098.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his folk with equity.",
+            "normalized": "His folk with equity.",
+            "reading": "his folk with equity."
+          }
+        }
+      ]
+    }
+  ]
+}

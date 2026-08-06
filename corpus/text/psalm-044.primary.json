@@ -1,0 +1,1017 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-044.primary",
+  "psalm_number": 44,
+  "title": "Psalm 44",
+  "version": "primary",
+  "opening_line": "O God, we with our ears have heard,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 44 · p. 60–62",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-044-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      60,
+      61,
+      62
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-044.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O God, we with our ears have heard,",
+            "normalized": "O God, we with our ears have heard,",
+            "reading": "O God, we with our ears have heard,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our fathers have us told,",
+            "normalized": "Our fathers have us told,",
+            "reading": "our fathers have us told,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "What works thou in their days hadst done,",
+            "normalized": "What works thou in their days hadst done,",
+            "reading": "What works thou in their days hadst done,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ev’n in the days of old.",
+            "normalized": "Ev’n in the days of old.",
+            "reading": "ev’n in the days of old."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy hand did drive the heathen out,",
+            "normalized": "Thy hand did drive the heathen out,",
+            "reading": "Thy hand did drive the heathen out,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and plant them in their place;",
+            "normalized": "And plant them in their place;",
+            "reading": "and plant them in their place;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou didst afflict the nätions,",
+            "normalized": "Thou didst afflict the nätions,",
+            "reading": "Thou didst afflict the nätions,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "but them thou didst increase.",
+            "normalized": "But them thou didst increase.",
+            "reading": "but them thou didst increase."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For neither got their sword the land,",
+            "normalized": "For neither got their sword the land,",
+            "reading": "For neither got their sword the land,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor did their arm them save;",
+            "normalized": "Nor did their arm them save;",
+            "reading": "nor did their arm them save;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But thy right hand, arm, countenance;",
+            "normalized": "But thy right hand, arm, countenance;",
+            "reading": "But thy right hand, arm, countenance;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for thou them favour gave.",
+            "normalized": "For thou them favour gave.",
+            "reading": "for thou them favour gave."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4,
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou art my King: for Jacob, Lord,",
+            "normalized": "Thou art my King: for Jacob, Lord,",
+            "reading": "Thou art my King: for Jacob, Lord,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "deliv’rances command.",
+            "normalized": "Deliv’rances command.",
+            "reading": "deliv’rances command."
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Through thee we shall push down our foes,",
+            "normalized": "Through thee we shall push down our foes,",
+            "reading": "Through thee we shall push down our foes,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that do against us stand:",
+            "normalized": "That do against us stand:",
+            "reading": "that do against us stand:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "We, through thy name, shall tread down those",
+            "normalized": "We, through thy name, shall tread down those",
+            "reading": "We, through thy name, shall tread down those"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that ris’n against us have.",
+            "normalized": "That ris’n against us have.",
+            "reading": "that ris’n against us have."
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For in my bow I shall not trust,",
+            "normalized": "For in my bow I shall not trust,",
+            "reading": "For in my bow I shall not trust,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor shall my sword me save.",
+            "normalized": "Nor shall my sword me save.",
+            "reading": "nor shall my sword me save."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But from our foes thou hast us saved,",
+            "normalized": "But from our foes thou hast us saved,",
+            "reading": "But from our foes thou hast us saved,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our haters put to shame.",
+            "normalized": "Our haters put to shame.",
+            "reading": "our haters put to shame."
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In God we all the day do boast,",
+            "normalized": "In God we all the day do boast,",
+            "reading": "In God we all the day do boast,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and ever praise thy name.",
+            "normalized": "And ever praise thy name.",
+            "reading": "and ever praise thy name."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But now we are cast off by thee,",
+            "normalized": "But now we are cast off by thee,",
+            "reading": "But now we are cast off by thee,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and us thou putt’st to shame;",
+            "normalized": "And us thou putt’st to shame;",
+            "reading": "and us thou putt’st to shame;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And when our armies do go forth,",
+            "normalized": "And when our armies do go forth,",
+            "reading": "And when our armies do go forth,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou goest not with the same.",
+            "normalized": "Thou goest not with the same.",
+            "reading": "thou goest not with the same."
+          },
+          "source_underlining": [
+            "goest"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou mak’st us from the enemy,",
+            "normalized": "Thou mak’st us from the enemy,",
+            "reading": "Thou mak’st us from the enemy,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "faint-hearted, to turn back;",
+            "normalized": "Faint-hearted, to turn back;",
+            "reading": "faint-hearted, to turn back;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And they who hate us for themselves",
+            "normalized": "And they who hate us for themselves",
+            "reading": "And they who hate us for themselves"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our spoils away do take.",
+            "normalized": "Our spoils away do take.",
+            "reading": "our spoils away do take."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        11,
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Like sheep for meat thou gavest us;",
+            "normalized": "Like sheep for meat thou gavest us;",
+            "reading": "Like sheep for meat thou gavest us;"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "’mong heathen cast we be.",
+            "normalized": "’Mong heathen cast we be.",
+            "reading": "’mong heathen cast we be."
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou didst for nought thy people sell;",
+            "normalized": "Thou didst for nought thy people sell;",
+            "reading": "Thou didst for nought thy people sell;"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their price enriched not thee.",
+            "normalized": "Their price enriched not thee.",
+            "reading": "their price enriched not thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou mak’st us a reproach to be",
+            "normalized": "Thou mak’st us a reproach to be",
+            "reading": "Thou mak’st us a reproach to be"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto our neighbours near;",
+            "normalized": "Unto our neighbours near;",
+            "reading": "unto our neighbours near;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Derision and a scorn to them",
+            "normalized": "Derision and a scorn to them",
+            "reading": "Derision and a scorn to them"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that round about us are.",
+            "normalized": "That round about us are.",
+            "reading": "that round about us are."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A by-word also thou dost us",
+            "normalized": "A by-word also thou dost us",
+            "reading": "A by-word also thou dost us"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "among the heathen make;",
+            "normalized": "Among the heathen make;",
+            "reading": "among the heathen make;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The people, in contempt and spite,",
+            "normalized": "The people, in contempt and spite,",
+            "reading": "The people, in contempt and spite,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "at us their heads do shake.",
+            "normalized": "At us their heads do shake.",
+            "reading": "at us their heads do shake."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Before me my confüsion",
+            "normalized": "Before me my confüsion",
+            "reading": "Before me my confüsion"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "continually abides;",
+            "normalized": "Continually abides;",
+            "reading": "continually abides;"
+          },
+          "source_underlining": [
+            "ual"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And of my bashful countenance",
+            "normalized": "And of my bashful countenance",
+            "reading": "And of my bashful countenance"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the shame me ever hides:",
+            "normalized": "The shame me ever hides:",
+            "reading": "the shame me ever hides:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For voice of him that doth reproach,",
+            "normalized": "For voice of him that doth reproach,",
+            "reading": "For voice of him that doth reproach,"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and speaketh blasphemy;",
+            "normalized": "And speaketh blasphemy;",
+            "reading": "and speaketh blasphemy;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "By reason of th’ avenging foe,",
+            "normalized": "By reason of th’ avenging foe,",
+            "reading": "By reason of th’ avenging foe,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and cruel enemy.",
+            "normalized": "And cruel enemy.",
+            "reading": "and cruel enemy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        17
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All this is come on us, yet we",
+            "normalized": "All this is come on us, yet we",
+            "reading": "All this is come on us, yet we"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "have not forgotten thee;",
+            "normalized": "Have not forgotten thee;",
+            "reading": "have not forgotten thee;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor falsely in thy covenant",
+            "normalized": "Nor falsely in thy covenant",
+            "reading": "Nor falsely in thy covenant"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "behaved ourselves have we.",
+            "normalized": "Behaved ourselves have we.",
+            "reading": "behaved ourselves have we."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        18,
+        19
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Back from thy way our heart not turned;",
+            "normalized": "Back from thy way our heart not turned;",
+            "reading": "Back from thy way our heart not turned;"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our steps no straying made;",
+            "normalized": "Our steps no straying made;",
+            "reading": "our steps no straying made;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Though us thou brak’st in dragons’ place,",
+            "normalized": "Though us thou brak’st in dragons’ place,",
+            "reading": "Though us thou brak’st in dragons’ place,"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and cover’dst with death’s shade.",
+            "normalized": "And cover’dst with death’s shade.",
+            "reading": "and cover’dst with death’s shade."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        20,
+        21
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "If we God’s name forgot, or stretched",
+            "normalized": "If we God’s name forgot, or stretched",
+            "reading": "If we God’s name forgot, or stretched"
+          },
+          "biblical_verse_start": 20
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to a strange god our hands,",
+            "normalized": "To a strange god our hands,",
+            "reading": "to a strange god our hands,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Shall not God search this out? for he",
+            "normalized": "Shall not God search this out? for he",
+            "reading": "Shall not God search this out? for he"
+          },
+          "biblical_verse_start": 21
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "heart’s secrets understands.",
+            "normalized": "Heart’s secrets understands.",
+            "reading": "heart’s secrets understands."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-17",
+      "number": 17,
+      "biblical_verses": [
+        22,
+        23
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-17.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, for thy sake we’re killed all day,",
+            "normalized": "Yea, for thy sake we’re killed all day,",
+            "reading": "Yea, for thy sake we’re killed all day,"
+          },
+          "biblical_verse_start": 22
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-17.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "counted as slaughter-sheep.",
+            "normalized": "Counted as slaughter-sheep.",
+            "reading": "counted as slaughter-sheep."
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-17.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Rise, Lord, cast us not ever off;",
+            "normalized": "Rise, Lord, cast us not ever off;",
+            "reading": "Rise, Lord, cast us not ever off;"
+          },
+          "biblical_verse_start": 23
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-17.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "awake, why dost thou sleep?",
+            "normalized": "Awake, why dost thou sleep?",
+            "reading": "awake, why dost thou sleep?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-18",
+      "number": 18,
+      "biblical_verses": [
+        24,
+        25
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-18.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O wherefore hidest thou thy face?",
+            "normalized": "O wherefore hidest thou thy face?",
+            "reading": "O wherefore hidest thou thy face?"
+          },
+          "biblical_verse_start": 24
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-18.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "forgett’st our cause distressed,",
+            "normalized": "Forgett’st our cause distressed,",
+            "reading": "forgett’st our cause distressed,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-18.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And our oppression? For our soul",
+            "normalized": "And our oppression? For our soul",
+            "reading": "And our oppression? For our soul"
+          },
+          "biblical_verse_start": 25
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-18.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is to the dust down pressed:",
+            "normalized": "Is to the dust down pressed:",
+            "reading": "is to the dust down pressed:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-044.primary.stanza-19",
+      "number": 19,
+      "biblical_verses": [
+        26
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-044.primary.stanza-19.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Our belly also on the earth",
+            "normalized": "Our belly also on the earth",
+            "reading": "Our belly also on the earth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-19.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "fast cleaving, hold doth take.",
+            "normalized": "Fast cleaving, hold doth take.",
+            "reading": "fast cleaving, hold doth take."
+          }
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-19.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Rise for our help, and us redeem,",
+            "normalized": "Rise for our help, and us redeem,",
+            "reading": "Rise for our help, and us redeem,"
+          },
+          "biblical_verse_start": 26
+        },
+        {
+          "id": "ps1650.psalm-044.primary.stanza-19.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ev’n for thy mercies’ sake.",
+            "normalized": "Ev’n for thy mercies’ sake.",
+            "reading": "ev’n for thy mercies’ sake."
+          }
+        }
+      ]
+    }
+  ]
+}

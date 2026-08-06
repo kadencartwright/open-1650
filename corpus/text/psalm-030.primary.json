@@ -1,0 +1,603 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-030.primary",
+  "psalm_number": 30,
+  "title": "Psalm 30",
+  "version": "primary",
+  "opening_line": "LORD, I will thee extol, for thou",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 30 · p. 39–40",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-030-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      39,
+      40
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-030.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-030.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "LORD, I will thee extol, for thou",
+            "normalized": "LORD, I will thee extol, for thou",
+            "reading": "LORD, I will thee extol, for thou"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "hast lifted me on high,",
+            "normalized": "Hast lifted me on high,",
+            "reading": "hast lifted me on high,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And over me thou to rejoice",
+            "normalized": "And over me thou to rejoice",
+            "reading": "And over me thou to rejoice"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "mad’st not mine enemy.",
+            "normalized": "Mad’st not mine enemy.",
+            "reading": "mad’st not mine enemy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-030.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-030.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O thou who art the LORD my God,",
+            "normalized": "O thou who art the LORD my God,",
+            "reading": "O thou who art the LORD my God,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I in distress to thee,",
+            "normalized": "I in distress to thee,",
+            "reading": "I in distress to thee,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With loud cries lifted up my voice,",
+            "normalized": "With loud cries lifted up my voice,",
+            "reading": "With loud cries lifted up my voice,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and thou hast healèd me.",
+            "normalized": "And thou hast healèd me.",
+            "reading": "and thou hast healèd me."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-030.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-030.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O LORD, my soul thou hast brought up,",
+            "normalized": "O LORD, my soul thou hast brought up,",
+            "reading": "O LORD, my soul thou hast brought up,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and rescued from the grave;",
+            "normalized": "And rescued from the grave;",
+            "reading": "and rescued from the grave;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That I to pit should not go down,",
+            "normalized": "That I to pit should not go down,",
+            "reading": "That I to pit should not go down,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "alive thou didst me save.",
+            "normalized": "Alive thou didst me save.",
+            "reading": "alive thou didst me save."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-030.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-030.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O ye that are his holy ones,",
+            "normalized": "O ye that are his holy ones,",
+            "reading": "O ye that are his holy ones,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "sing praise unto the LORD;",
+            "normalized": "Sing praise unto the LORD;",
+            "reading": "sing praise unto the LORD;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And give unto him thanks, when ye",
+            "normalized": "And give unto him thanks, when ye",
+            "reading": "And give unto him thanks, when ye"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his holiness record.",
+            "normalized": "His holiness record.",
+            "reading": "his holiness record."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-030.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-030.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For but a moment lasts his wrath;",
+            "normalized": "For but a moment lasts his wrath;",
+            "reading": "For but a moment lasts his wrath;"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "life in his favour lies:",
+            "normalized": "Life in his favour lies:",
+            "reading": "life in his favour lies:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Weeping may for a night endure,",
+            "normalized": "Weeping may for a night endure,",
+            "reading": "Weeping may for a night endure,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "at morn doth joy arise.",
+            "normalized": "At morn doth joy arise.",
+            "reading": "at morn doth joy arise."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-030.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6,
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-030.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In my prosperity I said,",
+            "normalized": "In my prosperity I said,",
+            "reading": "In my prosperity I said,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that nothing shall me move.",
+            "normalized": "That nothing shall me move.",
+            "reading": "that nothing shall me move."
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O LORD, thou hast my mountain made",
+            "normalized": "O LORD, thou hast my mountain made",
+            "reading": "O LORD, thou hast my mountain made"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to stand strong by thy love:",
+            "normalized": "To stand strong by thy love:",
+            "reading": "to stand strong by thy love:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-030.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-030.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But when that thou, O gracious God,",
+            "normalized": "But when that thou, O gracious God,",
+            "reading": "But when that thou, O gracious God,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "didst hide thy face from me,",
+            "normalized": "Didst hide thy face from me,",
+            "reading": "didst hide thy face from me,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then quickly was my prosp’rous state",
+            "normalized": "Then quickly was my prosp’rous state",
+            "reading": "Then quickly was my prosp’rous state"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "turned into misery.",
+            "normalized": "Turned into misery.",
+            "reading": "turned into misery."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-030.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-030.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Wherefore unto the LORD my cry",
+            "normalized": "Wherefore unto the LORD my cry",
+            "reading": "Wherefore unto the LORD my cry"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I causèd to ascend:",
+            "normalized": "I causèd to ascend:",
+            "reading": "I causèd to ascend:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My humble supplicätion",
+            "normalized": "My humble supplicätion",
+            "reading": "My humble supplicätion"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I to the LORD did send.",
+            "normalized": "I to the LORD did send.",
+            "reading": "I to the LORD did send."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-030.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-030.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "What profit is there in my blood,",
+            "normalized": "What profit is there in my blood,",
+            "reading": "What profit is there in my blood,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when I go down to pit?",
+            "normalized": "When I go down to pit?",
+            "reading": "when I go down to pit?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Shall unto thee the dust give praise?",
+            "normalized": "Shall unto thee the dust give praise?",
+            "reading": "Shall unto thee the dust give praise?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy truth declare shall it?",
+            "normalized": "Thy truth declare shall it?",
+            "reading": "thy truth declare shall it?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-030.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        10,
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-030.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Hear, LORD, have mercy; help me, LORD:",
+            "normalized": "Hear, LORD, have mercy; help me, LORD:",
+            "reading": "Hear, LORD, have mercy; help me, LORD:"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Thou turnèd hast my sadness",
+            "normalized": "Thou turnèd hast my sadness",
+            "reading": "Thou turnèd hast my sadness"
+          },
+          "biblical_verse_start": 11,
+          "source_underlining": [
+            "sadness"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To dancing; yea, my sackcloth loosed,",
+            "normalized": "To dancing; yea, my sackcloth loosed,",
+            "reading": "To dancing; yea, my sackcloth loosed,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and girded me with gladness;",
+            "normalized": "And girded me with gladness;",
+            "reading": "and girded me with gladness;"
+          },
+          "source_underlining": [
+            "gladness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-030.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-030.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That sing thy praise my glory may,",
+            "normalized": "That sing thy praise my glory may,",
+            "reading": "That sing thy praise my glory may,"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and never silent be.",
+            "normalized": "And never silent be.",
+            "reading": "and never silent be."
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O LORD my God, for evermore",
+            "normalized": "O LORD my God, for evermore",
+            "reading": "O LORD my God, for evermore"
+          }
+        },
+        {
+          "id": "ps1650.psalm-030.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I will give thanks to thee.",
+            "normalized": "I will give thanks to thee.",
+            "reading": "I will give thanks to thee."
+          }
+        }
+      ]
+    }
+  ]
+}

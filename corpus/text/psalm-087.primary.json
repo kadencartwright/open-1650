@@ -1,0 +1,298 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-087.primary",
+  "psalm_number": 87,
+  "title": "Psalm 87",
+  "version": "primary",
+  "opening_line": "Upon the hills of holiness",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 87 · p. 123",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-087-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      123
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-087.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-087.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Upon the hills of holiness",
+            "normalized": "Upon the hills of holiness",
+            "reading": "Upon the hills of holiness"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-087.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he his foundation sets.",
+            "normalized": "He his foundation sets.",
+            "reading": "he his foundation sets."
+          }
+        },
+        {
+          "id": "ps1650.psalm-087.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD, more than Jacob’s dwellings all,",
+            "normalized": "GOD, more than Jacob’s dwellings all,",
+            "reading": "GOD, more than Jacob’s dwellings all,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-087.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "delights in Zion’s gates.",
+            "normalized": "Delights in Zion’s gates.",
+            "reading": "delights in Zion’s gates."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-087.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-087.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Things glorious are said of thee,",
+            "normalized": "Things glorious are said of thee,",
+            "reading": "Things glorious are said of thee,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-087.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou city of the Lord.",
+            "normalized": "Thou city of the Lord.",
+            "reading": "thou city of the Lord."
+          }
+        },
+        {
+          "id": "ps1650.psalm-087.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Rahab and Babel I, to those",
+            "normalized": "Rahab and Babel I, to those",
+            "reading": "Rahab and Babel I, to those"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-087.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that know me, will record:",
+            "normalized": "That know me, will record:",
+            "reading": "that know me, will record:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-087.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-087.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Behold ev’n Tyrus, and with it",
+            "normalized": "Behold ev’n Tyrus, and with it",
+            "reading": "Behold ev’n Tyrus, and with it"
+          }
+        },
+        {
+          "id": "ps1650.psalm-087.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the land of Palestine,",
+            "normalized": "The land of Palestine,",
+            "reading": "the land of Palestine,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-087.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And likewise Ethiopia;",
+            "normalized": "And likewise Ethiopia;",
+            "reading": "And likewise Ethiopia;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-087.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "this man was born therein.",
+            "normalized": "This man was born therein.",
+            "reading": "this man was born therein."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-087.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-087.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And it of Zion shall be said,",
+            "normalized": "And it of Zion shall be said,",
+            "reading": "And it of Zion shall be said,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-087.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "This man and that man there",
+            "normalized": "This man and that man there",
+            "reading": "This man and that man there"
+          }
+        },
+        {
+          "id": "ps1650.psalm-087.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Was born; and he that is most High",
+            "normalized": "Was born; and he that is most High",
+            "reading": "Was born; and he that is most High"
+          }
+        },
+        {
+          "id": "ps1650.psalm-087.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "himself shall stablish her.",
+            "normalized": "Himself shall stablish her.",
+            "reading": "himself shall stablish her."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-087.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6,
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-087.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When GOD the people writes, he’ll count",
+            "normalized": "When GOD the people writes, he’ll count",
+            "reading": "When GOD the people writes, he’ll count"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-087.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that this man born was there.",
+            "normalized": "That this man born was there.",
+            "reading": "that this man born was there."
+          }
+        },
+        {
+          "id": "ps1650.psalm-087.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "There be that sing and play; and all",
+            "normalized": "There be that sing and play; and all",
+            "reading": "There be that sing and play; and all"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-087.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my well-springs in thee are.",
+            "normalized": "My well-springs in thee are.",
+            "reading": "my well-springs in thee are."
+          }
+        }
+      ]
+    }
+  ]
+}

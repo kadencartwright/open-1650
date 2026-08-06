@@ -1,0 +1,546 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-024.primary",
+  "psalm_number": 24,
+  "title": "Psalm 24",
+  "version": "primary",
+  "opening_line": "The earth belongs unto the LORD,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 24 · p. 31–32",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-024-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      31,
+      32
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-024.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-024.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The earth belongs unto the LORD,",
+            "normalized": "The earth belongs unto the LORD,",
+            "reading": "The earth belongs unto the LORD,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and all that it contains;",
+            "normalized": "And all that it contains;",
+            "reading": "and all that it contains;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The world that is inhabited,",
+            "normalized": "The world that is inhabited,",
+            "reading": "The world that is inhabited,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and all that there remains.",
+            "normalized": "And all that there remains.",
+            "reading": "and all that there remains."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-024.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-024.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For the foundätions thereof",
+            "normalized": "For the foundätions thereof",
+            "reading": "For the foundätions thereof"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he on the seas did lay,",
+            "normalized": "He on the seas did lay,",
+            "reading": "he on the seas did lay,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And he hath it establishèd",
+            "normalized": "And he hath it establishèd",
+            "reading": "And he hath it establishèd"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "upon the floods to stay.",
+            "normalized": "Upon the floods to stay.",
+            "reading": "upon the floods to stay."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-024.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-024.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who is the man that shall ascend",
+            "normalized": "Who is the man that shall ascend",
+            "reading": "Who is the man that shall ascend"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "into the hill of GOD?",
+            "normalized": "Into the hill of GOD?",
+            "reading": "into the hill of GOD?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Or who within his holy place",
+            "normalized": "Or who within his holy place",
+            "reading": "Or who within his holy place"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall have a firm abode?",
+            "normalized": "Shall have a firm abode?",
+            "reading": "shall have a firm abode?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-024.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-024.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Whose hands are clean, whose heart is pure,",
+            "normalized": "Whose hands are clean, whose heart is pure,",
+            "reading": "Whose hands are clean, whose heart is pure,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and unto vanity",
+            "normalized": "And unto vanity",
+            "reading": "and unto vanity"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who hath not lifted up his soul,",
+            "normalized": "Who hath not lifted up his soul,",
+            "reading": "Who hath not lifted up his soul,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor sworn deceitfully.",
+            "normalized": "Nor sworn deceitfully.",
+            "reading": "nor sworn deceitfully."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-024.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-024.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He from th’ ETERNAL shall receive",
+            "normalized": "He from th’ ETERNAL shall receive",
+            "reading": "He from th’ ETERNAL shall receive"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the blessing him upon,",
+            "normalized": "The blessing him upon,",
+            "reading": "the blessing him upon,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And righteousness, ev’n from the God",
+            "normalized": "And righteousness, ev’n from the God",
+            "reading": "And righteousness, ev’n from the God"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of his salvätion.",
+            "normalized": "Of his salvätion.",
+            "reading": "of his salvätion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-024.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-024.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "This is the generätion",
+            "normalized": "This is the generätion",
+            "reading": "This is the generätion"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that after him enquire,",
+            "normalized": "That after him enquire,",
+            "reading": "that after him enquire,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O Jacob, who do seek thy face",
+            "normalized": "O Jacob, who do seek thy face",
+            "reading": "O Jacob, who do seek thy face"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with their whole heart’s desire.",
+            "normalized": "With their whole heart’s desire.",
+            "reading": "with their whole heart’s desire."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-024.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-024.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ye gates, lift up your heads on high;",
+            "normalized": "Ye gates, lift up your heads on high;",
+            "reading": "Ye gates, lift up your heads on high;"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ye doors that last for aye,",
+            "normalized": "Ye doors that last for aye,",
+            "reading": "ye doors that last for aye,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Be lifted up, that so the King",
+            "normalized": "Be lifted up, that so the King",
+            "reading": "Be lifted up, that so the King"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of glory enter may.",
+            "normalized": "Of glory enter may.",
+            "reading": "of glory enter may."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-024.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-024.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But who of glory is the King?",
+            "normalized": "But who of glory is the King?",
+            "reading": "But who of glory is the King?"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "The mighty LORD is this;",
+            "normalized": "The mighty LORD is this;",
+            "reading": "The mighty LORD is this;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n that same LORD, that great in might",
+            "normalized": "Ev’n that same LORD, that great in might",
+            "reading": "Ev’n that same LORD, that great in might"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and strong in battle is.",
+            "normalized": "And strong in battle is.",
+            "reading": "and strong in battle is."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-024.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-024.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ye gates, lift up your heads; ye doors,",
+            "normalized": "Ye gates, lift up your heads; ye doors,",
+            "reading": "Ye gates, lift up your heads; ye doors,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doors that do last for aye,",
+            "normalized": "Doors that do last for aye,",
+            "reading": "doors that do last for aye,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Be lifted up, that so the King",
+            "normalized": "Be lifted up, that so the King",
+            "reading": "Be lifted up, that so the King"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of glory enter may.",
+            "normalized": "Of glory enter may.",
+            "reading": "of glory enter may."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-024.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-024.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But who is he that is the King",
+            "normalized": "But who is he that is the King",
+            "reading": "But who is he that is the King"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of glory? who is this?",
+            "normalized": "Of glory? who is this?",
+            "reading": "of glory? who is this?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD of hosts, and none but he,",
+            "normalized": "The LORD of hosts, and none but he,",
+            "reading": "The LORD of hosts, and none but he,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-024.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the King of glory is.",
+            "normalized": "The King of glory is.",
+            "reading": "the King of glory is."
+          }
+        }
+      ]
+    }
+  ]
+}

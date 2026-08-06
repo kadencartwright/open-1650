@@ -1,0 +1,604 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-143.primary",
+  "psalm_number": 143,
+  "title": "Psalm 143",
+  "version": "primary",
+  "opening_line": "LORD, hear my pray’r, attend my suits;",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 143 · p. 201–202",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "first version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-143,-first-version-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      201,
+      202
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-143.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-143.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "LORD, hear my pray’r, attend my suits;",
+            "normalized": "LORD, hear my pray’r, attend my suits;",
+            "reading": "LORD, hear my pray’r, attend my suits;"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and in thy faithfulness",
+            "normalized": "And in thy faithfulness",
+            "reading": "and in thy faithfulness"
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Give thou an answer unto me,",
+            "normalized": "Give thou an answer unto me,",
+            "reading": "Give thou an answer unto me,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and in thy righteousness.",
+            "normalized": "And in thy righteousness.",
+            "reading": "and in thy righteousness."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-143.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-143.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy servant also bring thou not",
+            "normalized": "Thy servant also bring thou not",
+            "reading": "Thy servant also bring thou not"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in judgment to be tried:",
+            "normalized": "In judgment to be tried:",
+            "reading": "in judgment to be tried:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because no living man can be",
+            "normalized": "Because no living man can be",
+            "reading": "Because no living man can be"
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in thy sight justified.",
+            "normalized": "In thy sight justified.",
+            "reading": "in thy sight justified."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-143.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-143.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For th’ en’my hath pursued my soul,",
+            "normalized": "For th’ en’my hath pursued my soul,",
+            "reading": "For th’ en’my hath pursued my soul,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my life to ground down tread:",
+            "normalized": "My life to ground down tread:",
+            "reading": "my life to ground down tread:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In darkness he hath made me dwell,",
+            "normalized": "In darkness he hath made me dwell,",
+            "reading": "In darkness he hath made me dwell,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "as who have long been dead.",
+            "normalized": "As who have long been dead.",
+            "reading": "as who have long been dead."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-143.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-143.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My spirit is therefore overwhelmed",
+            "normalized": "My spirit is therefore overwhelmed",
+            "reading": "My spirit is therefore overwhelmed"
+          },
+          "biblical_verse_start": 4,
+          "source_underlining": [
+            "spirit"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in me perplexedly;",
+            "normalized": "In me perplexedly;",
+            "reading": "in me perplexedly;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Within me is my very heart",
+            "normalized": "Within me is my very heart",
+            "reading": "Within me is my very heart"
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "amazèd wondrously.",
+            "normalized": "Amazèd wondrously.",
+            "reading": "amazèd wondrously."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-143.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-143.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I call to mind the days of old,",
+            "normalized": "I call to mind the days of old,",
+            "reading": "I call to mind the days of old,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to meditate I use",
+            "normalized": "To meditate I use",
+            "reading": "to meditate I use"
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "On all thy works; upon the deeds",
+            "normalized": "On all thy works; upon the deeds",
+            "reading": "On all thy works; upon the deeds"
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I of thy hands do muse.",
+            "normalized": "I of thy hands do muse.",
+            "reading": "I of thy hands do muse."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-143.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6,
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-143.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My hands to thee I stretch; my soul",
+            "normalized": "My hands to thee I stretch; my soul",
+            "reading": "My hands to thee I stretch; my soul"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thirsts, as dry land, for thee.",
+            "normalized": "Thirsts, as dry land, for thee.",
+            "reading": "thirsts, as dry land, for thee."
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Haste, Lord, to hear, my spirit fails:",
+            "normalized": "Haste, Lord, to hear, my spirit fails:",
+            "reading": "Haste, Lord, to hear, my spirit fails:"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "hide not thy face from me;",
+            "normalized": "Hide not thy face from me;",
+            "reading": "hide not thy face from me;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-143.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-143.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Lest like to them I do become",
+            "normalized": "Lest like to them I do become",
+            "reading": "Lest like to them I do become"
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that go down to the dust.",
+            "normalized": "That go down to the dust.",
+            "reading": "that go down to the dust."
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "At morn let me thy kindness hear;",
+            "normalized": "At morn let me thy kindness hear;",
+            "reading": "At morn let me thy kindness hear;"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for in thee do I trust.",
+            "normalized": "For in thee do I trust.",
+            "reading": "for in thee do I trust."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-143.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-143.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Teach me the way that I should walk:",
+            "normalized": "Teach me the way that I should walk:",
+            "reading": "Teach me the way that I should walk:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I lift my soul to thee.",
+            "normalized": "I lift my soul to thee.",
+            "reading": "I lift my soul to thee."
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "LORD, free me from my foes; I flee",
+            "normalized": "LORD, free me from my foes; I flee",
+            "reading": "LORD, free me from my foes; I flee"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to thee to cover me.",
+            "normalized": "To thee to cover me.",
+            "reading": "to thee to cover me."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-143.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-143.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because thou art my God, to do",
+            "normalized": "Because thou art my God, to do",
+            "reading": "Because thou art my God, to do"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy will do me instruct:",
+            "normalized": "Thy will do me instruct:",
+            "reading": "thy will do me instruct:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy Spirit is good, me to the land",
+            "normalized": "Thy Spirit is good, me to the land",
+            "reading": "Thy Spirit is good, me to the land"
+          },
+          "source_underlining": [
+            "Spirit"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of uprightness conduct.",
+            "normalized": "Of uprightness conduct.",
+            "reading": "of uprightness conduct."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-143.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-143.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Revive and quicken me, O LORD,",
+            "normalized": "Revive and quicken me, O LORD,",
+            "reading": "Revive and quicken me, O LORD,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ev’n for thine own name’s sake;",
+            "normalized": "Ev’n for thine own name’s sake;",
+            "reading": "ev’n for thine own name’s sake;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And do thou, for thy righteousness,",
+            "normalized": "And do thou, for thy righteousness,",
+            "reading": "And do thou, for thy righteousness,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my soul from trouble take.",
+            "normalized": "My soul from trouble take.",
+            "reading": "my soul from trouble take."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-143.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-143.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And of thy mercy slay my foes;",
+            "normalized": "And of thy mercy slay my foes;",
+            "reading": "And of thy mercy slay my foes;"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let all destroyèd be",
+            "normalized": "Let all destroyèd be",
+            "reading": "let all destroyèd be"
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That do afflict my soul: for I",
+            "normalized": "That do afflict my soul: for I",
+            "reading": "That do afflict my soul: for I"
+          }
+        },
+        {
+          "id": "ps1650.psalm-143.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a servant am to thee.",
+            "normalized": "A servant am to thee.",
+            "reading": "a servant am to thee."
+          }
+        }
+      ]
+    }
+  ]
+}

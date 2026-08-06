@@ -1,0 +1,648 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-096.primary",
+  "psalm_number": 96,
+  "title": "Psalm 96",
+  "version": "primary",
+  "opening_line": "O sing a new song to the LORD:",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 96 · p. 136–137",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-096-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      136,
+      137
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-096.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-096.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O sing a new song to the LORD:",
+            "normalized": "O sing a new song to the LORD:",
+            "reading": "O sing a new song to the LORD:"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "sing all the earth to GOD.",
+            "normalized": "Sing all the earth to GOD.",
+            "reading": "sing all the earth to GOD."
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To GOD sing, bless his name, show still",
+            "normalized": "To GOD sing, bless his name, show still",
+            "reading": "To GOD sing, bless his name, show still"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his saving health abroad.",
+            "normalized": "His saving health abroad.",
+            "reading": "his saving health abroad."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-096.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-096.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Among the heathen nätions",
+            "normalized": "Among the heathen nätions",
+            "reading": "Among the heathen nätions"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his glory do declare;",
+            "normalized": "His glory do declare;",
+            "reading": "his glory do declare;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And unto all the people show",
+            "normalized": "And unto all the people show",
+            "reading": "And unto all the people show"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his works that wondrous are.",
+            "normalized": "His works that wondrous are.",
+            "reading": "his works that wondrous are."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-096.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-096.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For great’s the LORD, and greatly he",
+            "normalized": "For great’s the LORD, and greatly he",
+            "reading": "For great’s the LORD, and greatly he"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is to be magnified;",
+            "normalized": "Is to be magnified;",
+            "reading": "is to be magnified;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, worthy to be feared is he",
+            "normalized": "Yea, worthy to be feared is he",
+            "reading": "Yea, worthy to be feared is he"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "above all gods beside.",
+            "normalized": "Above all gods beside.",
+            "reading": "above all gods beside."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-096.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-096.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For all the gods are idols dumb,",
+            "normalized": "For all the gods are idols dumb,",
+            "reading": "For all the gods are idols dumb,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "which blinded nations fear;",
+            "normalized": "Which blinded nations fear;",
+            "reading": "which blinded nations fear;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But our God is the LORD, by whom",
+            "normalized": "But our God is the LORD, by whom",
+            "reading": "But our God is the LORD, by whom"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the heav’ns created were.",
+            "normalized": "The heav’ns created were.",
+            "reading": "the heav’ns created were."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-096.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-096.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Great honour is before his face,",
+            "normalized": "Great honour is before his face,",
+            "reading": "Great honour is before his face,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and majesty divine;",
+            "normalized": "And majesty divine;",
+            "reading": "and majesty divine;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Strength is within his holy place,",
+            "normalized": "Strength is within his holy place,",
+            "reading": "Strength is within his holy place,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and there doth beauty shine.",
+            "normalized": "And there doth beauty shine.",
+            "reading": "and there doth beauty shine."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-096.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-096.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Do ye ascribe unto the LORD,",
+            "normalized": "Do ye ascribe unto the LORD,",
+            "reading": "Do ye ascribe unto the LORD,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of people ev’ry tribe,",
+            "normalized": "Of people ev’ry tribe,",
+            "reading": "of people ev’ry tribe,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Glory do ye unto the LORD,",
+            "normalized": "Glory do ye unto the LORD,",
+            "reading": "Glory do ye unto the LORD,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and mighty pow’r ascribe.",
+            "normalized": "And mighty pow’r ascribe.",
+            "reading": "and mighty pow’r ascribe."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-096.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-096.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Give ye the glory to the LORD",
+            "normalized": "Give ye the glory to the LORD",
+            "reading": "Give ye the glory to the LORD"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that to his name is due;",
+            "normalized": "That to his name is due;",
+            "reading": "that to his name is due;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Come ye into his courts, and bring",
+            "normalized": "Come ye into his courts, and bring",
+            "reading": "Come ye into his courts, and bring"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "an offering with you.",
+            "normalized": "An offering with you.",
+            "reading": "an offering with you."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-096.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-096.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In beauty of his holiness,",
+            "normalized": "In beauty of his holiness,",
+            "reading": "In beauty of his holiness,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O do the LORD adore;",
+            "normalized": "O do the LORD adore;",
+            "reading": "O do the LORD adore;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Likewise let all the earth throughout",
+            "normalized": "Likewise let all the earth throughout",
+            "reading": "Likewise let all the earth throughout"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "tremble his face before.",
+            "normalized": "Tremble his face before.",
+            "reading": "tremble his face before."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-096.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-096.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Among the heathen say, GOD reigns;",
+            "normalized": "Among the heathen say, GOD reigns;",
+            "reading": "Among the heathen say, GOD reigns;"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the world shall stedfastly",
+            "normalized": "The world shall stedfastly",
+            "reading": "the world shall stedfastly"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Be fixed from moving; he shall judge",
+            "normalized": "Be fixed from moving; he shall judge",
+            "reading": "Be fixed from moving; he shall judge"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the people righteously.",
+            "normalized": "The people righteously.",
+            "reading": "the people righteously."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-096.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-096.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let heav’ns be glad before the Lord,",
+            "normalized": "Let heav’ns be glad before the Lord,",
+            "reading": "Let heav’ns be glad before the Lord,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and let the earth rejoice;",
+            "normalized": "And let the earth rejoice;",
+            "reading": "and let the earth rejoice;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let seas, and all that is therein,",
+            "normalized": "Let seas, and all that is therein,",
+            "reading": "Let seas, and all that is therein,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "cry out, and make a noise.",
+            "normalized": "Cry out, and make a noise.",
+            "reading": "cry out, and make a noise."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-096.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-096.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let fields rejoice, and everything",
+            "normalized": "Let fields rejoice, and everything",
+            "reading": "Let fields rejoice, and everything"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that springeth of the earth:",
+            "normalized": "That springeth of the earth:",
+            "reading": "that springeth of the earth:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then woods and ev’ry tree shall sing",
+            "normalized": "Then woods and ev’ry tree shall sing",
+            "reading": "Then woods and ev’ry tree shall sing"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with gladness and with mirth",
+            "normalized": "With gladness and with mirth",
+            "reading": "with gladness and with mirth"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-096.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-096.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Before the LORD; because he comes,",
+            "normalized": "Before the LORD; because he comes,",
+            "reading": "Before the LORD; because he comes,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to judge the earth comes he:",
+            "normalized": "To judge the earth comes he:",
+            "reading": "to judge the earth comes he:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He’ll judge the world with righteousness,",
+            "normalized": "He’ll judge the world with righteousness,",
+            "reading": "He’ll judge the world with righteousness,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-096.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the people faithfully.",
+            "normalized": "The people faithfully.",
+            "reading": "the people faithfully."
+          }
+        }
+      ]
+    }
+  ]
+}

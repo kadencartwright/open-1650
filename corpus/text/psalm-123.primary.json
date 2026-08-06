@@ -1,0 +1,244 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-123.primary",
+  "psalm_number": 123,
+  "title": "Psalm 123",
+  "version": "primary",
+  "opening_line": "O thou that dwellest in the heav’ns,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 123 · p. 184",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-123-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      184
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-123.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-123.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O thou that dwellest in the heav’ns,",
+            "normalized": "O thou that dwellest in the heav’ns,",
+            "reading": "O thou that dwellest in the heav’ns,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-123.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I lift mine eyes to thee.",
+            "normalized": "I lift mine eyes to thee.",
+            "reading": "I lift mine eyes to thee."
+          }
+        },
+        {
+          "id": "ps1650.psalm-123.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Behold, as servants’ eyes do look",
+            "normalized": "Behold, as servants’ eyes do look",
+            "reading": "Behold, as servants’ eyes do look"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-123.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their masters’ hand to see,",
+            "normalized": "Their masters’ hand to see,",
+            "reading": "their masters’ hand to see,"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-123.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-123.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "As handmaid’s eyes her mistress’ hand;",
+            "normalized": "As handmaid’s eyes her mistress’ hand;",
+            "reading": "As handmaid’s eyes her mistress’ hand;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-123.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "so do our eyes attend",
+            "normalized": "So do our eyes attend",
+            "reading": "so do our eyes attend"
+          }
+        },
+        {
+          "id": "ps1650.psalm-123.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Upon the LORD our God, until",
+            "normalized": "Upon the LORD our God, until",
+            "reading": "Upon the LORD our God, until"
+          }
+        },
+        {
+          "id": "ps1650.psalm-123.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to us he mercy send.",
+            "normalized": "To us he mercy send.",
+            "reading": "to us he mercy send."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-123.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-123.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O LORD, be gräcious to us,",
+            "normalized": "O LORD, be gräcious to us,",
+            "reading": "O LORD, be gräcious to us,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-123.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto us gracious be;",
+            "normalized": "Unto us gracious be;",
+            "reading": "unto us gracious be;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-123.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because replenished with contempt",
+            "normalized": "Because replenished with contempt",
+            "reading": "Because replenished with contempt"
+          }
+        },
+        {
+          "id": "ps1650.psalm-123.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "exceedingly are we.",
+            "normalized": "Exceedingly are we.",
+            "reading": "exceedingly are we."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-123.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-123.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Our soul is filled with scorn of those",
+            "normalized": "Our soul is filled with scorn of those",
+            "reading": "Our soul is filled with scorn of those"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-123.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that at their ease abide,",
+            "normalized": "That at their ease abide,",
+            "reading": "that at their ease abide,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-123.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And with the insolent contempt",
+            "normalized": "And with the insolent contempt",
+            "reading": "And with the insolent contempt"
+          }
+        },
+        {
+          "id": "ps1650.psalm-123.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of those that swell in pride.",
+            "normalized": "Of those that swell in pride.",
+            "reading": "of those that swell in pride."
+          }
+        }
+      ]
+    }
+  ]
+}

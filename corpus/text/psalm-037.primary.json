@@ -1,0 +1,1721 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-037.primary",
+  "psalm_number": 37,
+  "title": "Psalm 37",
+  "version": "primary",
+  "opening_line": "For evildoers fret thou not",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 37 · p. 50–53",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-037-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-037.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For evildoers fret thou not",
+            "normalized": "For evildoers fret thou not",
+            "reading": "For evildoers fret thou not"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thyself unquietly;",
+            "normalized": "Thyself unquietly;",
+            "reading": "thyself unquietly;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor do thou envy bear to those",
+            "normalized": "Nor do thou envy bear to those",
+            "reading": "Nor do thou envy bear to those"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that work iniquity.",
+            "normalized": "That work iniquity.",
+            "reading": "that work iniquity."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For, even like unto the grass,",
+            "normalized": "For, even like unto the grass,",
+            "reading": "For, even like unto the grass,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "soon be cut down shall they;",
+            "normalized": "Soon be cut down shall they;",
+            "reading": "soon be cut down shall they;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And, like the green and tender herb,",
+            "normalized": "And, like the green and tender herb,",
+            "reading": "And, like the green and tender herb,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they wither shall away.",
+            "normalized": "They wither shall away.",
+            "reading": "they wither shall away."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Set thou thy trust upon the LORD,",
+            "normalized": "Set thou thy trust upon the LORD,",
+            "reading": "Set thou thy trust upon the LORD,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and be thou doing good;",
+            "normalized": "And be thou doing good;",
+            "reading": "and be thou doing good;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And so thou in the land shalt dwell,",
+            "normalized": "And so thou in the land shalt dwell,",
+            "reading": "And so thou in the land shalt dwell,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and verily have food.",
+            "normalized": "And verily have food.",
+            "reading": "and verily have food."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4,
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Delight thyself in GOD; he’ll give",
+            "normalized": "Delight thyself in GOD; he’ll give",
+            "reading": "Delight thyself in GOD; he’ll give"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thine heart’s desire to thee.",
+            "normalized": "Thine heart’s desire to thee.",
+            "reading": "thine heart’s desire to thee."
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy way to GOD commit, him trust,",
+            "normalized": "Thy way to GOD commit, him trust,",
+            "reading": "Thy way to GOD commit, him trust,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "it bring to pass shall he.",
+            "normalized": "It bring to pass shall he.",
+            "reading": "it bring to pass shall he."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And, like unto the light, he shall",
+            "normalized": "And, like unto the light, he shall",
+            "reading": "And, like unto the light, he shall"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy righteousness display;",
+            "normalized": "Thy righteousness display;",
+            "reading": "thy righteousness display;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And he thy judgment shall bring forth",
+            "normalized": "And he thy judgment shall bring forth",
+            "reading": "And he thy judgment shall bring forth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "like noon-tide of the day.",
+            "normalized": "Like noon-tide of the day.",
+            "reading": "like noon-tide of the day."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Rest in the LORD, and patiently",
+            "normalized": "Rest in the LORD, and patiently",
+            "reading": "Rest in the LORD, and patiently"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "wait for him: do not fret",
+            "normalized": "Wait for him: do not fret",
+            "reading": "wait for him: do not fret"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For him who, prosp’ring in his way,",
+            "normalized": "For him who, prosp’ring in his way,",
+            "reading": "For him who, prosp’ring in his way,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "success in sin doth get.",
+            "normalized": "Success in sin doth get.",
+            "reading": "success in sin doth get."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Do thou from anger cease, and wrath",
+            "normalized": "Do thou from anger cease, and wrath",
+            "reading": "Do thou from anger cease, and wrath"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "see thou forsake also:",
+            "normalized": "See thou forsake also:",
+            "reading": "see thou forsake also:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Fret not thyself in any wise,",
+            "normalized": "Fret not thyself in any wise,",
+            "reading": "Fret not thyself in any wise,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that evil thou should’st do.",
+            "normalized": "That evil thou should’st do.",
+            "reading": "that evil thou should’st do."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For those that evildoers are",
+            "normalized": "For those that evildoers are",
+            "reading": "For those that evildoers are"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall be cut off and fall:",
+            "normalized": "Shall be cut off and fall:",
+            "reading": "shall be cut off and fall:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But those that wait upon the LORD",
+            "normalized": "But those that wait upon the LORD",
+            "reading": "But those that wait upon the LORD"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the earth inherit shall.",
+            "normalized": "The earth inherit shall.",
+            "reading": "the earth inherit shall."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For yet a little while, and then",
+            "normalized": "For yet a little while, and then",
+            "reading": "For yet a little while, and then"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the wicked shall not be;",
+            "normalized": "The wicked shall not be;",
+            "reading": "the wicked shall not be;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His place thou shalt consider well,",
+            "normalized": "His place thou shalt consider well,",
+            "reading": "His place thou shalt consider well,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "but it thou shalt not see.",
+            "normalized": "But it thou shalt not see.",
+            "reading": "but it thou shalt not see."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But by inheritance the earth",
+            "normalized": "But by inheritance the earth",
+            "reading": "But by inheritance the earth"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the meek ones shall possess:",
+            "normalized": "The meek ones shall possess:",
+            "reading": "the meek ones shall possess:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They also shall delight themselves",
+            "normalized": "They also shall delight themselves",
+            "reading": "They also shall delight themselves"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in an abundant peace.",
+            "normalized": "In an abundant peace.",
+            "reading": "in an abundant peace."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        12,
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The wicked plots against the just,",
+            "normalized": "The wicked plots against the just,",
+            "reading": "The wicked plots against the just,"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and at him whets his teeth:",
+            "normalized": "And at him whets his teeth:",
+            "reading": "and at him whets his teeth:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The Lord shall laugh at him, because",
+            "normalized": "The Lord shall laugh at him, because",
+            "reading": "The Lord shall laugh at him, because"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his day he coming seeth.",
+            "normalized": "His day he coming seeth.",
+            "reading": "his day he coming seeth."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The wicked have drawn out the sword,",
+            "normalized": "The wicked have drawn out the sword,",
+            "reading": "The wicked have drawn out the sword,"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and bent their bow, to slay",
+            "normalized": "And bent their bow, to slay",
+            "reading": "and bent their bow, to slay"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The poor and needy, and to kill",
+            "normalized": "The poor and needy, and to kill",
+            "reading": "The poor and needy, and to kill"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "men of an upright way.",
+            "normalized": "Men of an upright way.",
+            "reading": "men of an upright way."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But their own sword, which they have drawn,",
+            "normalized": "But their own sword, which they have drawn,",
+            "reading": "But their own sword, which they have drawn,"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall enter their own heart:",
+            "normalized": "Shall enter their own heart:",
+            "reading": "shall enter their own heart:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their bows which they have bent shall break,",
+            "normalized": "Their bows which they have bent shall break,",
+            "reading": "Their bows which they have bent shall break,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and into pieces part.",
+            "normalized": "And into pieces part.",
+            "reading": "and into pieces part."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A little that a just man hath",
+            "normalized": "A little that a just man hath",
+            "reading": "A little that a just man hath"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is more and better far",
+            "normalized": "Is more and better far",
+            "reading": "is more and better far"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Than is the wealth of many such",
+            "normalized": "Than is the wealth of many such",
+            "reading": "Than is the wealth of many such"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "as lewd and wicked are.",
+            "normalized": "As lewd and wicked are.",
+            "reading": "as lewd and wicked are."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        17,
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For sinners’ arms shall broken be;",
+            "normalized": "For sinners’ arms shall broken be;",
+            "reading": "For sinners’ arms shall broken be;"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "but GOD the just sustains.",
+            "normalized": "But GOD the just sustains.",
+            "reading": "but GOD the just sustains."
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD knows the just man’s days, and still",
+            "normalized": "GOD knows the just man’s days, and still",
+            "reading": "GOD knows the just man’s days, and still"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their heritage remains.",
+            "normalized": "Their heritage remains.",
+            "reading": "their heritage remains."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        19
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They shall not be ashamed when they",
+            "normalized": "They shall not be ashamed when they",
+            "reading": "They shall not be ashamed when they"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the evil time do see;",
+            "normalized": "The evil time do see;",
+            "reading": "the evil time do see;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And when the days of famine are,",
+            "normalized": "And when the days of famine are,",
+            "reading": "And when the days of famine are,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they satisfied shall be.",
+            "normalized": "They satisfied shall be.",
+            "reading": "they satisfied shall be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-17",
+      "number": 17,
+      "biblical_verses": [
+        20
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-17.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But wicked men, and foes of GOD,",
+            "normalized": "But wicked men, and foes of GOD,",
+            "reading": "But wicked men, and foes of GOD,"
+          },
+          "biblical_verse_start": 20
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-17.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "as fat of lambs, decay;",
+            "normalized": "As fat of lambs, decay;",
+            "reading": "as fat of lambs, decay;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-17.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They shall consume, yea, into smoke",
+            "normalized": "They shall consume, yea, into smoke",
+            "reading": "They shall consume, yea, into smoke"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-17.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they shall consume away.",
+            "normalized": "They shall consume away.",
+            "reading": "they shall consume away."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-18",
+      "number": 18,
+      "biblical_verses": [
+        21
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-18.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The wicked borrows, but the same",
+            "normalized": "The wicked borrows, but the same",
+            "reading": "The wicked borrows, but the same"
+          },
+          "biblical_verse_start": 21
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-18.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "again he doth not pay;",
+            "normalized": "Again he doth not pay;",
+            "reading": "again he doth not pay;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-18.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Whereas the righteous mercy shows,",
+            "normalized": "Whereas the righteous mercy shows,",
+            "reading": "Whereas the righteous mercy shows,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-18.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and gives his own away.",
+            "normalized": "And gives his own away.",
+            "reading": "and gives his own away."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-19",
+      "number": 19,
+      "biblical_verses": [
+        22
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-19.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For such as blessèd be of him",
+            "normalized": "For such as blessèd be of him",
+            "reading": "For such as blessèd be of him"
+          },
+          "biblical_verse_start": 22
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-19.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the earth inherit shall;",
+            "normalized": "The earth inherit shall;",
+            "reading": "the earth inherit shall;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-19.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And they that cursèd are of him",
+            "normalized": "And they that cursèd are of him",
+            "reading": "And they that cursèd are of him"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-19.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall be destroyèd all.",
+            "normalized": "Shall be destroyèd all.",
+            "reading": "shall be destroyèd all."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-20",
+      "number": 20,
+      "biblical_verses": [
+        23
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-20.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A good man’s footsteps by the LORD",
+            "normalized": "A good man’s footsteps by the LORD",
+            "reading": "A good man’s footsteps by the LORD"
+          },
+          "biblical_verse_start": 23
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-20.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "are orderèd aright;",
+            "normalized": "Are orderèd aright;",
+            "reading": "are orderèd aright;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-20.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in the way wherein he walks",
+            "normalized": "And in the way wherein he walks",
+            "reading": "And in the way wherein he walks"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-20.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he greatly doth delight.",
+            "normalized": "He greatly doth delight.",
+            "reading": "he greatly doth delight."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-21",
+      "number": 21,
+      "biblical_verses": [
+        24
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-21.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Although he fall, yet shall he not",
+            "normalized": "Although he fall, yet shall he not",
+            "reading": "Although he fall, yet shall he not"
+          },
+          "biblical_verse_start": 24
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-21.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "be cast down utterly,",
+            "normalized": "Be cast down utterly,",
+            "reading": "be cast down utterly,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-21.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because the LORD with his own hand",
+            "normalized": "Because the LORD with his own hand",
+            "reading": "Because the LORD with his own hand"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-21.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "upholds him mightily.",
+            "normalized": "Upholds him mightily.",
+            "reading": "upholds him mightily."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-22",
+      "number": 22,
+      "biblical_verses": [
+        25
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-22.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I have been young, and now am old,",
+            "normalized": "I have been young, and now am old,",
+            "reading": "I have been young, and now am old,"
+          },
+          "biblical_verse_start": 25
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-22.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "yet have I never seen",
+            "normalized": "Yet have I never seen",
+            "reading": "yet have I never seen"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-22.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The just man left, nor that his seed",
+            "normalized": "The just man left, nor that his seed",
+            "reading": "The just man left, nor that his seed"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-22.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for bread have beggars been.",
+            "normalized": "For bread have beggars been.",
+            "reading": "for bread have beggars been."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-23",
+      "number": 23,
+      "biblical_verses": [
+        26,
+        27
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-23.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He’s ever merciful, and lends:",
+            "normalized": "He’s ever merciful, and lends:",
+            "reading": "He’s ever merciful, and lends:"
+          },
+          "biblical_verse_start": 26
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-23.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his seed is blessed therefore.",
+            "normalized": "His seed is blessed therefore.",
+            "reading": "his seed is blessed therefore."
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-23.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Depart from evil, and do good,",
+            "normalized": "Depart from evil, and do good,",
+            "reading": "Depart from evil, and do good,"
+          },
+          "biblical_verse_start": 27
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-23.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and dwell for evermore.",
+            "normalized": "And dwell for evermore.",
+            "reading": "and dwell for evermore."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-24",
+      "number": 24,
+      "biblical_verses": [
+        28
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-24.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For GOD loves judgment, and his saints",
+            "normalized": "For GOD loves judgment, and his saints",
+            "reading": "For GOD loves judgment, and his saints"
+          },
+          "biblical_verse_start": 28
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-24.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "leaves not in any case;",
+            "normalized": "Leaves not in any case;",
+            "reading": "leaves not in any case;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-24.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They are kept ever; but cut off",
+            "normalized": "They are kept ever; but cut off",
+            "reading": "They are kept ever; but cut off"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-24.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall be the sinner’s face.",
+            "normalized": "Shall be the sinner’s face.",
+            "reading": "shall be the sinner’s face."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-25",
+      "number": 25,
+      "biblical_verses": [
+        29,
+        30
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-25.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The just inherit shall the land,",
+            "normalized": "The just inherit shall the land,",
+            "reading": "The just inherit shall the land,"
+          },
+          "biblical_verse_start": 29
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-25.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and ever in it dwell:",
+            "normalized": "And ever in it dwell:",
+            "reading": "and ever in it dwell:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-25.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The just man’s mouth doth wisdom speak;",
+            "normalized": "The just man’s mouth doth wisdom speak;",
+            "reading": "The just man’s mouth doth wisdom speak;"
+          },
+          "biblical_verse_start": 30
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-25.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his tongue doth judgment tell.",
+            "normalized": "His tongue doth judgment tell.",
+            "reading": "his tongue doth judgment tell."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-26",
+      "number": 26,
+      "biblical_verses": [
+        31,
+        32
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-26.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In ’s heart the law is of his God,",
+            "normalized": "In ’s heart the law is of his God,",
+            "reading": "In ’s heart the law is of his God,"
+          },
+          "biblical_verse_start": 31
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-26.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his steps slide not away.",
+            "normalized": "His steps slide not away.",
+            "reading": "his steps slide not away."
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-26.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The wicked man doth watch the just,",
+            "normalized": "The wicked man doth watch the just,",
+            "reading": "The wicked man doth watch the just,"
+          },
+          "biblical_verse_start": 32
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-26.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and seeketh him to slay.",
+            "normalized": "And seeketh him to slay.",
+            "reading": "and seeketh him to slay."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-27",
+      "number": 27,
+      "biblical_verses": [
+        33
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-27.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yet him the LORD will not forsake,",
+            "normalized": "Yet him the LORD will not forsake,",
+            "reading": "Yet him the LORD will not forsake,"
+          },
+          "biblical_verse_start": 33
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-27.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor leave him in his hands:",
+            "normalized": "Nor leave him in his hands:",
+            "reading": "nor leave him in his hands:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-27.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The righteous will he not condemn,",
+            "normalized": "The righteous will he not condemn,",
+            "reading": "The righteous will he not condemn,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-27.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when he in judgment stands.",
+            "normalized": "When he in judgment stands.",
+            "reading": "when he in judgment stands."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-28",
+      "number": 28,
+      "biblical_verses": [
+        34
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-28.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Wait on the LORD, and keep his way,",
+            "normalized": "Wait on the LORD, and keep his way,",
+            "reading": "Wait on the LORD, and keep his way,"
+          },
+          "biblical_verse_start": 34
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-28.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and thee exalt shall he",
+            "normalized": "And thee exalt shall he",
+            "reading": "and thee exalt shall he"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-28.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Th’ earth to inherit; when cut off",
+            "normalized": "Th’ earth to inherit; when cut off",
+            "reading": "Th’ earth to inherit; when cut off"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-28.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the wicked thou shalt see.",
+            "normalized": "The wicked thou shalt see.",
+            "reading": "the wicked thou shalt see."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-29",
+      "number": 29,
+      "biblical_verses": [
+        35,
+        36
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-29.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I saw the wicked great in power,",
+            "normalized": "I saw the wicked great in power,",
+            "reading": "I saw the wicked great in power,"
+          },
+          "biblical_verse_start": 35
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-29.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "spread like a green bay-tree:",
+            "normalized": "Spread like a green bay-tree:",
+            "reading": "spread like a green bay-tree:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-29.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He passed, yea, was not; him I sought,",
+            "normalized": "He passed, yea, was not; him I sought,",
+            "reading": "He passed, yea, was not; him I sought,"
+          },
+          "biblical_verse_start": 36
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-29.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "but found he could not be.",
+            "normalized": "But found he could not be.",
+            "reading": "but found he could not be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-30",
+      "number": 30,
+      "biblical_verses": [
+        37
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-30.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Mark thou the perfect, and behold",
+            "normalized": "Mark thou the perfect, and behold",
+            "reading": "Mark thou the perfect, and behold"
+          },
+          "biblical_verse_start": 37
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-30.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the man of uprightness,",
+            "normalized": "The man of uprightness,",
+            "reading": "the man of uprightness,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-30.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because that surely of this man",
+            "normalized": "Because that surely of this man",
+            "reading": "Because that surely of this man"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-30.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the latter end is peace.",
+            "normalized": "The latter end is peace.",
+            "reading": "the latter end is peace."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-31",
+      "number": 31,
+      "biblical_verses": [
+        38
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-31.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But those men that transgressors are",
+            "normalized": "But those men that transgressors are",
+            "reading": "But those men that transgressors are"
+          },
+          "biblical_verse_start": 38
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-31.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall be destroyed together;",
+            "normalized": "Shall be destroyed together;",
+            "reading": "shall be destroyed together;"
+          },
+          "source_underlining": [
+            "gether"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-31.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The latter end of wicked men",
+            "normalized": "The latter end of wicked men",
+            "reading": "The latter end of wicked men"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-31.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall be cut off for ever.",
+            "normalized": "Shall be cut off for ever.",
+            "reading": "shall be cut off for ever."
+          },
+          "source_underlining": [
+            "ever"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-32",
+      "number": 32,
+      "biblical_verses": [
+        39
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-32.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But the salvation of the just",
+            "normalized": "But the salvation of the just",
+            "reading": "But the salvation of the just"
+          },
+          "biblical_verse_start": 39
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-32.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is from the LORD above;",
+            "normalized": "Is from the LORD above;",
+            "reading": "is from the LORD above;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-32.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He in the time of their distress",
+            "normalized": "He in the time of their distress",
+            "reading": "He in the time of their distress"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-32.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their stay and strength doth prove.",
+            "normalized": "Their stay and strength doth prove.",
+            "reading": "their stay and strength doth prove."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-037.primary.stanza-33",
+      "number": 33,
+      "biblical_verses": [
+        40
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-037.primary.stanza-33.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD shall help, and them deliver:",
+            "normalized": "The LORD shall help, and them deliver:",
+            "reading": "The LORD shall help, and them deliver:"
+          },
+          "biblical_verse_start": 40,
+          "source_underlining": [
+            "liver"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-33.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he shall them free and save",
+            "normalized": "He shall them free and save",
+            "reading": "he shall them free and save"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-33.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From wicked men, because in him",
+            "normalized": "From wicked men, because in him",
+            "reading": "From wicked men, because in him"
+          }
+        },
+        {
+          "id": "ps1650.psalm-037.primary.stanza-33.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their confidence they have.",
+            "normalized": "Their confidence they have.",
+            "reading": "their confidence they have."
+          }
+        }
+      ]
+    }
+  ]
+}

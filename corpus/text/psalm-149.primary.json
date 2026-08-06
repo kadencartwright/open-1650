@@ -1,0 +1,496 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-149.primary",
+  "psalm_number": 149,
+  "title": "Psalm 149",
+  "version": "primary",
+  "opening_line": "Praise ye the LORD: unto him sing",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 149 · p. 211–212",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-149-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      211,
+      212
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-149.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-149.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Praise ye the LORD: unto him sing",
+            "normalized": "Praise ye the LORD: unto him sing",
+            "reading": "Praise ye the LORD: unto him sing"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a new song, and his praise",
+            "normalized": "A new song, and his praise",
+            "reading": "a new song, and his praise"
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In the assembly of his saints",
+            "normalized": "In the assembly of his saints",
+            "reading": "In the assembly of his saints"
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in sweet psalms do ye raise.",
+            "normalized": "In sweet psalms do ye raise.",
+            "reading": "in sweet psalms do ye raise."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-149.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-149.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let Isr’el in his Maker joy,",
+            "normalized": "Let Isr’el in his Maker joy,",
+            "reading": "Let Isr’el in his Maker joy,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and to him praises sing:",
+            "normalized": "And to him praises sing:",
+            "reading": "and to him praises sing:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let all that Zion’s children are",
+            "normalized": "Let all that Zion’s children are",
+            "reading": "Let all that Zion’s children are"
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "be joyful in their King.",
+            "normalized": "Be joyful in their King.",
+            "reading": "be joyful in their King."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-149.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-149.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O let them unto his great name",
+            "normalized": "O let them unto his great name",
+            "reading": "O let them unto his great name"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "give praises in the dance;",
+            "normalized": "Give praises in the dance;",
+            "reading": "give praises in the dance;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let them with timbrel and with harp",
+            "normalized": "Let them with timbrel and with harp",
+            "reading": "Let them with timbrel and with harp"
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in songs his praise advance.",
+            "normalized": "In songs his praise advance.",
+            "reading": "in songs his praise advance."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-149.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-149.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For GOD doth pleasure take in those",
+            "normalized": "For GOD doth pleasure take in those",
+            "reading": "For GOD doth pleasure take in those"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that his own people be;",
+            "normalized": "That his own people be;",
+            "reading": "that his own people be;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And he with his salvätion",
+            "normalized": "And he with his salvätion",
+            "reading": "And he with his salvätion"
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the meek will beautify.",
+            "normalized": "The meek will beautify.",
+            "reading": "the meek will beautify."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-149.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-149.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in his glory excellent",
+            "normalized": "And in his glory excellent",
+            "reading": "And in his glory excellent"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let all his saints rejoice:",
+            "normalized": "Let all his saints rejoice:",
+            "reading": "let all his saints rejoice:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let them to him upon their beds",
+            "normalized": "Let them to him upon their beds",
+            "reading": "Let them to him upon their beds"
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "aloud lift up their voice.",
+            "normalized": "Aloud lift up their voice.",
+            "reading": "aloud lift up their voice."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-149.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-149.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let in their mouth aloft be raised",
+            "normalized": "Let in their mouth aloft be raised",
+            "reading": "Let in their mouth aloft be raised"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the high praise of the Lord,",
+            "normalized": "The high praise of the Lord,",
+            "reading": "the high praise of the Lord,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And let them have in their right hand",
+            "normalized": "And let them have in their right hand",
+            "reading": "And let them have in their right hand"
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a sharp two-edgèd sword;",
+            "normalized": "A sharp two-edgèd sword;",
+            "reading": "a sharp two-edgèd sword;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-149.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-149.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To execute the vengeance due",
+            "normalized": "To execute the vengeance due",
+            "reading": "To execute the vengeance due"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "upon the heathen all,",
+            "normalized": "Upon the heathen all,",
+            "reading": "upon the heathen all,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And make deservèd punishment",
+            "normalized": "And make deservèd punishment",
+            "reading": "And make deservèd punishment"
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "upon the people fall.",
+            "normalized": "Upon the people fall.",
+            "reading": "upon the people fall."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-149.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-149.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And ev’n with chains, as pris’ners, bind",
+            "normalized": "And ev’n with chains, as pris’ners, bind",
+            "reading": "And ev’n with chains, as pris’ners, bind"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their kings that them command;",
+            "normalized": "Their kings that them command;",
+            "reading": "their kings that them command;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, and with iron fetters strong,",
+            "normalized": "Yea, and with iron fetters strong,",
+            "reading": "Yea, and with iron fetters strong,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the nobles of their land.",
+            "normalized": "The nobles of their land.",
+            "reading": "the nobles of their land."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-149.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-149.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "On them the judgment to perform",
+            "normalized": "On them the judgment to perform",
+            "reading": "On them the judgment to perform"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "found written in his word:",
+            "normalized": "Found written in his word:",
+            "reading": "found written in his word:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "This honour is to all his saints.",
+            "normalized": "This honour is to all his saints.",
+            "reading": "This honour is to all his saints."
+          }
+        },
+        {
+          "id": "ps1650.psalm-149.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O do ye praise the LORD.",
+            "normalized": "O do ye praise the LORD.",
+            "reading": "O do ye praise the LORD."
+          }
+        }
+      ]
+    }
+  ]
+}

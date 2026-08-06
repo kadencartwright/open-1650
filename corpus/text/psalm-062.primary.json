@@ -1,0 +1,649 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-062.primary",
+  "psalm_number": 62,
+  "title": "Psalm 62",
+  "version": "primary",
+  "opening_line": "My soul with expectätion",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 62 · p. 84–85",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-062-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      84,
+      85
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-062.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-062.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My soul with expectätion",
+            "normalized": "My soul with expectätion",
+            "reading": "My soul with expectätion"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "depends on God indeed;",
+            "normalized": "Depends on God indeed;",
+            "reading": "depends on God indeed;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My strength and my salvation doth",
+            "normalized": "My strength and my salvation doth",
+            "reading": "My strength and my salvation doth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from him alone proceed.",
+            "normalized": "From him alone proceed.",
+            "reading": "from him alone proceed."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-062.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-062.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He only my salvation is,",
+            "normalized": "He only my salvation is,",
+            "reading": "He only my salvation is,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and my strong rock is he:",
+            "normalized": "And my strong rock is he:",
+            "reading": "and my strong rock is he:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He only is my sure defence;",
+            "normalized": "He only is my sure defence;",
+            "reading": "He only is my sure defence;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "much moved I shall not be.",
+            "normalized": "Much moved I shall not be.",
+            "reading": "much moved I shall not be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-062.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-062.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "How long will ye against a man",
+            "normalized": "How long will ye against a man",
+            "reading": "How long will ye against a man"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "plot mischief? ye shall all",
+            "normalized": "Plot mischief? ye shall all",
+            "reading": "plot mischief? ye shall all"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Be slain; ye as a tott’ring fence",
+            "normalized": "Be slain; ye as a tott’ring fence",
+            "reading": "Be slain; ye as a tott’ring fence"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall be, and bowing wall.",
+            "normalized": "Shall be, and bowing wall.",
+            "reading": "shall be, and bowing wall."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-062.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-062.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They only plot to cast him down",
+            "normalized": "They only plot to cast him down",
+            "reading": "They only plot to cast him down"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from his excellency:",
+            "normalized": "From his excellency:",
+            "reading": "from his excellency:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They joy in lies; with mouth they bless,",
+            "normalized": "They joy in lies; with mouth they bless,",
+            "reading": "They joy in lies; with mouth they bless,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "but they curse inwardly.",
+            "normalized": "But they curse inwardly.",
+            "reading": "but they curse inwardly."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-062.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-062.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My soul, wait thou with pätience",
+            "normalized": "My soul, wait thou with pätience",
+            "reading": "My soul, wait thou with pätience"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "upon thy God alone;",
+            "normalized": "Upon thy God alone;",
+            "reading": "upon thy God alone;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "On him dependeth all my hope",
+            "normalized": "On him dependeth all my hope",
+            "reading": "On him dependeth all my hope"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and expectätion.",
+            "normalized": "And expectätion.",
+            "reading": "and expectätion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-062.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-062.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He only my salvation is,",
+            "normalized": "He only my salvation is,",
+            "reading": "He only my salvation is,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and my strong rock is he;",
+            "normalized": "And my strong rock is he;",
+            "reading": "and my strong rock is he;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He only is my sure defence:",
+            "normalized": "He only is my sure defence:",
+            "reading": "He only is my sure defence:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I shall not movèd be.",
+            "normalized": "I shall not movèd be.",
+            "reading": "I shall not movèd be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-062.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-062.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In God my glory placèd is,",
+            "normalized": "In God my glory placèd is,",
+            "reading": "In God my glory placèd is,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and my salvation sure;",
+            "normalized": "And my salvation sure;",
+            "reading": "and my salvation sure;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In God the rock is of my strength,",
+            "normalized": "In God the rock is of my strength,",
+            "reading": "In God the rock is of my strength,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my refuge most secure.",
+            "normalized": "My refuge most secure.",
+            "reading": "my refuge most secure."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-062.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-062.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ye people, place your confidence",
+            "normalized": "Ye people, place your confidence",
+            "reading": "Ye people, place your confidence"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in him continually;",
+            "normalized": "In him continually;",
+            "reading": "in him continually;"
+          },
+          "source_underlining": [
+            "ual"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Before him pour ye out your heart:",
+            "normalized": "Before him pour ye out your heart:",
+            "reading": "Before him pour ye out your heart:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "God is our refuge high.",
+            "normalized": "God is our refuge high.",
+            "reading": "God is our refuge high."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-062.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-062.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Surely mean men are vanity,",
+            "normalized": "Surely mean men are vanity,",
+            "reading": "Surely mean men are vanity,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and great men are a lie;",
+            "normalized": "And great men are a lie;",
+            "reading": "and great men are a lie;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In balance laid, they wholly are",
+            "normalized": "In balance laid, they wholly are",
+            "reading": "In balance laid, they wholly are"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "more light than vanity.",
+            "normalized": "More light than vanity.",
+            "reading": "more light than vanity."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-062.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-062.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Trust ye not in opprëssion,",
+            "normalized": "Trust ye not in opprëssion,",
+            "reading": "Trust ye not in opprëssion,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in robb’ry be not vain;",
+            "normalized": "In robb’ry be not vain;",
+            "reading": "in robb’ry be not vain;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "On wealth set not your hearts, when as",
+            "normalized": "On wealth set not your hearts, when as",
+            "reading": "On wealth set not your hearts, when as"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "increasèd is your gain.",
+            "normalized": "Increasèd is your gain.",
+            "reading": "increasèd is your gain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-062.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-062.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "God hath it spoken once to me,",
+            "normalized": "God hath it spoken once to me,",
+            "reading": "God hath it spoken once to me,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "yea, this I heard again,",
+            "normalized": "Yea, this I heard again,",
+            "reading": "yea, this I heard again,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That powèr to Almighty God",
+            "normalized": "That powèr to Almighty God",
+            "reading": "That powèr to Almighty God"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "alone doth appertain.",
+            "normalized": "Alone doth appertain.",
+            "reading": "alone doth appertain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-062.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-062.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, mercy also unto thee",
+            "normalized": "Yea, mercy also unto thee",
+            "reading": "Yea, mercy also unto thee"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "belongs, O Lord, alone:",
+            "normalized": "Belongs, O Lord, alone:",
+            "reading": "belongs, O Lord, alone:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thou according to his work",
+            "normalized": "For thou according to his work",
+            "reading": "For thou according to his work"
+          }
+        },
+        {
+          "id": "ps1650.psalm-062.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "rewardest ev’ry one.",
+            "normalized": "Rewardest ev’ry one.",
+            "reading": "rewardest ev’ry one."
+          }
+        }
+      ]
+    }
+  ]
+}

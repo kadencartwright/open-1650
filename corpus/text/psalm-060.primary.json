@@ -1,0 +1,610 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-060.primary",
+  "psalm_number": 60,
+  "title": "Psalm 60",
+  "version": "primary",
+  "opening_line": "O Lord, thou hast rejected us,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 60 · p. 82–83",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-060-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      82,
+      83
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-060.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-060.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O Lord, thou hast rejected us,",
+            "normalized": "O Lord, thou hast rejected us,",
+            "reading": "O Lord, thou hast rejected us,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and scatter’d us abroad;",
+            "normalized": "And scatter’d us abroad;",
+            "reading": "and scatter’d us abroad;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou justly hast displeasèd been;",
+            "normalized": "Thou justly hast displeasèd been;",
+            "reading": "Thou justly hast displeasèd been;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "return to us, O God.",
+            "normalized": "Return to us, O God.",
+            "reading": "return to us, O God."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-060.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-060.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The earth to tremble thou hast made;",
+            "normalized": "The earth to tremble thou hast made;",
+            "reading": "The earth to tremble thou hast made;"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "therein didst breaches make:",
+            "normalized": "Therein didst breaches make:",
+            "reading": "therein didst breaches make:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Do thou thereof the breaches heal,",
+            "normalized": "Do thou thereof the breaches heal,",
+            "reading": "Do thou thereof the breaches heal,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "because the land doth shake.",
+            "normalized": "Because the land doth shake.",
+            "reading": "because the land doth shake."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-060.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-060.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto thy people thou hard things",
+            "normalized": "Unto thy people thou hard things",
+            "reading": "Unto thy people thou hard things"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "hast showed, and on them sent;",
+            "normalized": "Hast showed, and on them sent;",
+            "reading": "hast showed, and on them sent;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And thou hast causèd us to drink",
+            "normalized": "And thou hast causèd us to drink",
+            "reading": "And thou hast causèd us to drink"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "wine of astonishment.",
+            "normalized": "Wine of astonishment.",
+            "reading": "wine of astonishment."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-060.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-060.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And yet a banner thou hast given",
+            "normalized": "And yet a banner thou hast given",
+            "reading": "And yet a banner thou hast given"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to them who thee do fear;",
+            "normalized": "To them who thee do fear;",
+            "reading": "to them who thee do fear;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That it by them, because of truth,",
+            "normalized": "That it by them, because of truth,",
+            "reading": "That it by them, because of truth,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "displayèd may appear.",
+            "normalized": "Displayèd may appear.",
+            "reading": "displayèd may appear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-060.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-060.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That thy belovèd people may",
+            "normalized": "That thy belovèd people may",
+            "reading": "That thy belovèd people may"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "delivered be from thrall,",
+            "normalized": "Delivered be from thrall,",
+            "reading": "delivered be from thrall,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Save with the pow’r of thy right hand,",
+            "normalized": "Save with the pow’r of thy right hand,",
+            "reading": "Save with the pow’r of thy right hand,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and hear me when I call.",
+            "normalized": "And hear me when I call.",
+            "reading": "and hear me when I call."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-060.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-060.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "God in his holiness hath spoke;",
+            "normalized": "God in his holiness hath spoke;",
+            "reading": "God in his holiness hath spoke;"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "herein I will take pleasure:",
+            "normalized": "Herein I will take pleasure:",
+            "reading": "herein I will take pleasure:"
+          },
+          "source_underlining": [
+            "pleasure"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Shechem I will divide, and forth",
+            "normalized": "Shechem I will divide, and forth",
+            "reading": "Shechem I will divide, and forth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "will Succoth’s valley measure.",
+            "normalized": "Will Succoth’s valley measure.",
+            "reading": "will Succoth’s valley measure."
+          },
+          "source_underlining": [
+            "measure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-060.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-060.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Gilead I claim as mine by right;",
+            "normalized": "Gilead I claim as mine by right;",
+            "reading": "Gilead I claim as mine by right;"
+          },
+          "biblical_verse_start": 7,
+          "source_underlining": [
+            "ead"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Manasseh mine shall be;",
+            "normalized": "Manasseh mine shall be;",
+            "reading": "Manasseh mine shall be;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ephraim is of mine head the strength;",
+            "normalized": "Ephraim is of mine head the strength;",
+            "reading": "Ephraim is of mine head the strength;"
+          },
+          "source_underlining": [
+            "aim"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Judah gives laws for me;",
+            "normalized": "Judah gives laws for me;",
+            "reading": "Judah gives laws for me;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-060.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-060.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Moab’s my washing-pot; my shoe",
+            "normalized": "Moab’s my washing-pot; my shoe",
+            "reading": "Moab’s my washing-pot; my shoe"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I’ll over Edom throw;",
+            "normalized": "I’ll over Edom throw;",
+            "reading": "I’ll over Edom throw;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And over Palestina’s land",
+            "normalized": "And over Palestina’s land",
+            "reading": "And over Palestina’s land"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I will in triumph go.",
+            "normalized": "I will in triumph go.",
+            "reading": "I will in triumph go."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-060.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-060.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O who is he will bring me to",
+            "normalized": "O who is he will bring me to",
+            "reading": "O who is he will bring me to"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the city fortified?",
+            "normalized": "The city fortified?",
+            "reading": "the city fortified?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O who is he that to the land",
+            "normalized": "O who is he that to the land",
+            "reading": "O who is he that to the land"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of Edom will me guide?",
+            "normalized": "Of Edom will me guide?",
+            "reading": "of Edom will me guide?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-060.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-060.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O God, which hadest us cast off,",
+            "normalized": "O God, which hadest us cast off,",
+            "reading": "O God, which hadest us cast off,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "this thing wilt thou not do?",
+            "normalized": "This thing wilt thou not do?",
+            "reading": "this thing wilt thou not do?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n thou, O God, which didest not",
+            "normalized": "Ev’n thou, O God, which didest not",
+            "reading": "Ev’n thou, O God, which didest not"
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "forth with our armies go?",
+            "normalized": "Forth with our armies go?",
+            "reading": "forth with our armies go?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-060.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        11,
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-060.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Help us from trouble; for the help",
+            "normalized": "Help us from trouble; for the help",
+            "reading": "Help us from trouble; for the help"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is vain which man supplies.",
+            "normalized": "Is vain which man supplies.",
+            "reading": "is vain which man supplies."
+          }
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Through God we’ll do great acts; he shall",
+            "normalized": "Through God we’ll do great acts; he shall",
+            "reading": "Through God we’ll do great acts; he shall"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-060.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "tread down our enemies.",
+            "normalized": "Tread down our enemies.",
+            "reading": "tread down our enemies."
+          }
+        }
+      ]
+    }
+  ]
+}

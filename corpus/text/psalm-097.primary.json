@@ -1,0 +1,549 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-097.primary",
+  "psalm_number": 97,
+  "title": "Psalm 97",
+  "version": "primary",
+  "opening_line": "GOD reigneth, let the earth be glad,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 97 · p. 137–138",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-097-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      137,
+      138
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-097.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-097.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD reigneth, let the earth be glad,",
+            "normalized": "GOD reigneth, let the earth be glad,",
+            "reading": "GOD reigneth, let the earth be glad,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and isles rejoice each one.",
+            "normalized": "And isles rejoice each one.",
+            "reading": "and isles rejoice each one."
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Dark clouds him compass; and in right",
+            "normalized": "Dark clouds him compass; and in right",
+            "reading": "Dark clouds him compass; and in right"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with judgment dwells his throne.",
+            "normalized": "With judgment dwells his throne.",
+            "reading": "with judgment dwells his throne."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-097.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-097.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Fire goes before him, and his foes",
+            "normalized": "Fire goes before him, and his foes",
+            "reading": "Fire goes before him, and his foes"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "it burns up round about:",
+            "normalized": "It burns up round about:",
+            "reading": "it burns up round about:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His lightnings lighten did the world;",
+            "normalized": "His lightnings lighten did the world;",
+            "reading": "His lightnings lighten did the world;"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "earth saw, and shook throughout.",
+            "normalized": "Earth saw, and shook throughout.",
+            "reading": "earth saw, and shook throughout."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-097.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-097.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Hills at the presence of the LORD,",
+            "normalized": "Hills at the presence of the LORD,",
+            "reading": "Hills at the presence of the LORD,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "like wax, did melt away;",
+            "normalized": "Like wax, did melt away;",
+            "reading": "like wax, did melt away;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n at the presence of the Lord",
+            "normalized": "Ev’n at the presence of the Lord",
+            "reading": "Ev’n at the presence of the Lord"
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of all the earth, I say.",
+            "normalized": "Of all the earth, I say.",
+            "reading": "of all the earth, I say."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-097.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6,
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-097.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The heav’ns declare his righteousness,",
+            "normalized": "The heav’ns declare his righteousness,",
+            "reading": "The heav’ns declare his righteousness,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all men his glory see.",
+            "normalized": "All men his glory see.",
+            "reading": "all men his glory see."
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All who serve graven images,",
+            "normalized": "All who serve graven images,",
+            "reading": "All who serve graven images,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "confounded let them be.",
+            "normalized": "Confounded let them be.",
+            "reading": "confounded let them be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-097.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-097.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who do of idols boast themselves,",
+            "normalized": "Who do of idols boast themselves,",
+            "reading": "Who do of idols boast themselves,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let shame upon them fall:",
+            "normalized": "Let shame upon them fall:",
+            "reading": "let shame upon them fall:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ye that are callèd gods, see that",
+            "normalized": "Ye that are callèd gods, see that",
+            "reading": "Ye that are callèd gods, see that"
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ye do him worship all.",
+            "normalized": "Ye do him worship all.",
+            "reading": "ye do him worship all."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-097.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-097.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Zion did hear, and joyful was,",
+            "normalized": "Zion did hear, and joyful was,",
+            "reading": "Zion did hear, and joyful was,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "glad Judah’s daughters were;",
+            "normalized": "Glad Judah’s daughters were;",
+            "reading": "glad Judah’s daughters were;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They much rejoiced, O LORD, because",
+            "normalized": "They much rejoiced, O LORD, because",
+            "reading": "They much rejoiced, O LORD, because"
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy judgments did appear.",
+            "normalized": "Thy judgments did appear.",
+            "reading": "thy judgments did appear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-097.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-097.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thou, O LORD, art high above",
+            "normalized": "For thou, O LORD, art high above",
+            "reading": "For thou, O LORD, art high above"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all things on earth that are;",
+            "normalized": "All things on earth that are;",
+            "reading": "all things on earth that are;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Above all other gods thou art",
+            "normalized": "Above all other gods thou art",
+            "reading": "Above all other gods thou art"
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "exalted very far.",
+            "normalized": "Exalted very far.",
+            "reading": "exalted very far."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-097.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-097.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Hate ill, all ye that love the LORD:",
+            "normalized": "Hate ill, all ye that love the LORD:",
+            "reading": "Hate ill, all ye that love the LORD:"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his saints’ souls keepeth he;",
+            "normalized": "His saints’ souls keepeth he;",
+            "reading": "his saints’ souls keepeth he;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And from the hands of wicked men",
+            "normalized": "And from the hands of wicked men",
+            "reading": "And from the hands of wicked men"
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he sets them safe and free.",
+            "normalized": "He sets them safe and free.",
+            "reading": "he sets them safe and free."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-097.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-097.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For all those that be rïghteous",
+            "normalized": "For all those that be rïghteous",
+            "reading": "For all those that be rïghteous"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "sown is a joyful light,",
+            "normalized": "Sown is a joyful light,",
+            "reading": "sown is a joyful light,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And gladness sown is for all those",
+            "normalized": "And gladness sown is for all those",
+            "reading": "And gladness sown is for all those"
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that are in heart upright.",
+            "normalized": "That are in heart upright.",
+            "reading": "that are in heart upright."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-097.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-097.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ye righteous, in the LORD rejoice;",
+            "normalized": "Ye righteous, in the LORD rejoice;",
+            "reading": "Ye righteous, in the LORD rejoice;"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "express your thankfulness,",
+            "normalized": "Express your thankfulness,",
+            "reading": "express your thankfulness,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When ye into your memory",
+            "normalized": "When ye into your memory",
+            "reading": "When ye into your memory"
+          }
+        },
+        {
+          "id": "ps1650.psalm-097.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do call his holiness.",
+            "normalized": "Do call his holiness.",
+            "reading": "do call his holiness."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-008.primary",
+  "psalm_number": 8,
+  "title": "Psalm 8",
+  "version": "primary",
+  "opening_line": "How excellent in all the earth,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 8 · p. 13–14",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-008-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      13,
+      14
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-008.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-008.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "How excellent in all the earth,",
+            "normalized": "How excellent in all the earth,",
+            "reading": "How excellent in all the earth,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "LORD, our Lord, is thy name!",
+            "normalized": "LORD, our Lord, is thy name!",
+            "reading": "LORD, our Lord, is thy name!"
+          }
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who hast thy glory far advanced",
+            "normalized": "Who hast thy glory far advanced",
+            "reading": "Who hast thy glory far advanced"
+          }
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "above the starry frame.",
+            "normalized": "Above the starry frame.",
+            "reading": "above the starry frame."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-008.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-008.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From infants’ and from sucklings’ mouth",
+            "normalized": "From infants’ and from sucklings’ mouth",
+            "reading": "From infants’ and from sucklings’ mouth"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou didest strength ordain,",
+            "normalized": "Thou didest strength ordain,",
+            "reading": "thou didest strength ordain,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thy foes’ cause, that so thou might’st",
+            "normalized": "For thy foes’ cause, that so thou might’st",
+            "reading": "For thy foes’ cause, that so thou might’st"
+          }
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "th’ avenging foe restrain.",
+            "normalized": "Th’ avenging foe restrain.",
+            "reading": "th’ avenging foe restrain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-008.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-008.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When I look up unto the heav’ns,",
+            "normalized": "When I look up unto the heav’ns,",
+            "reading": "When I look up unto the heav’ns,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "which thine own fingers framed,",
+            "normalized": "Which thine own fingers framed,",
+            "reading": "which thine own fingers framed,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto the moon, and to the stars,",
+            "normalized": "Unto the moon, and to the stars,",
+            "reading": "Unto the moon, and to the stars,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "which were by thee ordained;",
+            "normalized": "Which were by thee ordained;",
+            "reading": "which were by thee ordained;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-008.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-008.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then say I, What is man, that he",
+            "normalized": "Then say I, What is man, that he",
+            "reading": "Then say I, What is man, that he"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "remembered is by thee?",
+            "normalized": "Remembered is by thee?",
+            "reading": "remembered is by thee?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Or what the son of man, that thou",
+            "normalized": "Or what the son of man, that thou",
+            "reading": "Or what the son of man, that thou"
+          }
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "so kind to him should’st be?",
+            "normalized": "So kind to him should’st be?",
+            "reading": "so kind to him should’st be?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-008.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-008.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thou a little lower hast",
+            "normalized": "For thou a little lower hast",
+            "reading": "For thou a little lower hast"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "him than the angels made;",
+            "normalized": "Him than the angels made;",
+            "reading": "him than the angels made;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With glory and with dignity",
+            "normalized": "With glory and with dignity",
+            "reading": "With glory and with dignity"
+          }
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou crownèd hast his head.",
+            "normalized": "Thou crownèd hast his head.",
+            "reading": "thou crownèd hast his head."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-008.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6,
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-008.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of thy hands’ works thou mad’st him lord,",
+            "normalized": "Of thy hands’ works thou mad’st him lord,",
+            "reading": "Of thy hands’ works thou mad’st him lord,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all under ’s feet didst lay;",
+            "normalized": "All under ’s feet didst lay;",
+            "reading": "all under ’s feet didst lay;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All sheep and oxen, yea, and beasts",
+            "normalized": "All sheep and oxen, yea, and beasts",
+            "reading": "All sheep and oxen, yea, and beasts"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that in the field do stray;",
+            "normalized": "That in the field do stray;",
+            "reading": "that in the field do stray;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-008.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8,
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-008.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Fowls of the air, fish of the sea,",
+            "normalized": "Fowls of the air, fish of the sea,",
+            "reading": "Fowls of the air, fish of the sea,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all that pass through the same.",
+            "normalized": "All that pass through the same.",
+            "reading": "all that pass through the same."
+          }
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "How excellent in all the earth,",
+            "normalized": "How excellent in all the earth,",
+            "reading": "How excellent in all the earth,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-008.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "LORD, our Lord, is thy name!",
+            "normalized": "LORD, our Lord, is thy name!",
+            "reading": "LORD, our Lord, is thy name!"
+          }
+        }
+      ]
+    }
+  ]
+}

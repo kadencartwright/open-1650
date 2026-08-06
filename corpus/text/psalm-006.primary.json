@@ -1,0 +1,354 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-006.primary",
+  "psalm_number": 6,
+  "title": "Psalm 6",
+  "version": "primary",
+  "opening_line": "LORD, in thy wrath rebuke me not;",
+  "meter": {
+    "pattern": "8.8.8.8",
+    "name": "Long Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 6 · p. 10–11",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "first version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-006,-first-version-(T) [L.M.].txt"
+    ],
+    "pdf_pages": [
+      10,
+      11
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-006.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-006.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "LORD, in thy wrath rebuke me not;",
+            "normalized": "LORD, in thy wrath rebuke me not;",
+            "reading": "LORD, in thy wrath rebuke me not;"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor in thy hot rage chasten me.",
+            "normalized": "Nor in thy hot rage chasten me.",
+            "reading": "Nor in thy hot rage chasten me."
+          }
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "LORD, pity me, for I am weak:",
+            "normalized": "LORD, pity me, for I am weak:",
+            "reading": "LORD, pity me, for I am weak:"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Heal me, for my bones vexèd be.",
+            "normalized": "Heal me, for my bones vexèd be.",
+            "reading": "Heal me, for my bones vexèd be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-006.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-006.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My soul is also vexèd sore;",
+            "normalized": "My soul is also vexèd sore;",
+            "reading": "My soul is also vexèd sore;"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But, LORD, how long stay wilt thou make?",
+            "normalized": "But, LORD, how long stay wilt thou make?",
+            "reading": "But, LORD, how long stay wilt thou make?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Return, O LORD, my soul set free;",
+            "normalized": "Return, O LORD, my soul set free;",
+            "reading": "Return, O LORD, my soul set free;"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O save me, for thy mercies’ sake.",
+            "normalized": "O save me, for thy mercies’ sake.",
+            "reading": "O save me, for thy mercies’ sake."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-006.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-006.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because those that deceasèd are",
+            "normalized": "Because those that deceasèd are",
+            "reading": "Because those that deceasèd are"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of thee shall no remembrance have;",
+            "normalized": "Of thee shall no remembrance have;",
+            "reading": "Of thee shall no remembrance have;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And who is he that will to thee",
+            "normalized": "And who is he that will to thee",
+            "reading": "And who is he that will to thee"
+          }
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Give praises lying in the grave?",
+            "normalized": "Give praises lying in the grave?",
+            "reading": "Give praises lying in the grave?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-006.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-006.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I with my groaning weary am,",
+            "normalized": "I with my groaning weary am,",
+            "reading": "I with my groaning weary am,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I also all the night my bed",
+            "normalized": "I also all the night my bed",
+            "reading": "I also all the night my bed"
+          }
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Have causèd for to swim; and I",
+            "normalized": "Have causèd for to swim; and I",
+            "reading": "Have causèd for to swim; and I"
+          }
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With tears my couch have waterèd.",
+            "normalized": "With tears my couch have waterèd.",
+            "reading": "With tears my couch have waterèd."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-006.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-006.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Mine eye, consumed with grief, grows old,",
+            "normalized": "Mine eye, consumed with grief, grows old,",
+            "reading": "Mine eye, consumed with grief, grows old,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because of all mine enemies.",
+            "normalized": "Because of all mine enemies.",
+            "reading": "Because of all mine enemies."
+          }
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Hence from me, wicked workers all;",
+            "normalized": "Hence from me, wicked workers all;",
+            "reading": "Hence from me, wicked workers all;"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For GOD hath heard my weeping cries.",
+            "normalized": "For GOD hath heard my weeping cries.",
+            "reading": "For GOD hath heard my weeping cries."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-006.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        9,
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-006.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD hath my supplication heard,",
+            "normalized": "GOD hath my supplication heard,",
+            "reading": "GOD hath my supplication heard,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My prayer receivèd graciously.",
+            "normalized": "My prayer receivèd graciously.",
+            "reading": "My prayer receivèd graciously."
+          }
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Shamed and sore vexed be all my foes,",
+            "normalized": "Shamed and sore vexed be all my foes,",
+            "reading": "Shamed and sore vexed be all my foes,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-006.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Shamed and back turnèd suddenly.",
+            "normalized": "Shamed and back turnèd suddenly.",
+            "reading": "Shamed and back turnèd suddenly."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,948 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-072.primary",
+  "psalm_number": 72,
+  "title": "Psalm 72",
+  "version": "primary",
+  "opening_line": "O Lord, thy judgments give the king,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 72 · p. 99–101",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-072-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      99,
+      100,
+      101
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-072.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O Lord, thy judgments give the king,",
+            "normalized": "O Lord, thy judgments give the king,",
+            "reading": "O Lord, thy judgments give the king,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his son thy righteousness.",
+            "normalized": "His son thy righteousness.",
+            "reading": "his son thy righteousness."
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With right he shall thy people judge,",
+            "normalized": "With right he shall thy people judge,",
+            "reading": "With right he shall thy people judge,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy poor with uprightness.",
+            "normalized": "Thy poor with uprightness.",
+            "reading": "thy poor with uprightness."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-072.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The lofty mountains shall bring forth",
+            "normalized": "The lofty mountains shall bring forth",
+            "reading": "The lofty mountains shall bring forth"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto the people peace;",
+            "normalized": "Unto the people peace;",
+            "reading": "unto the people peace;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Likewise the little hills the same",
+            "normalized": "Likewise the little hills the same",
+            "reading": "Likewise the little hills the same"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall do by righteousness.",
+            "normalized": "Shall do by righteousness.",
+            "reading": "shall do by righteousness."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-072.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The people’s poor ones he shall judge,",
+            "normalized": "The people’s poor ones he shall judge,",
+            "reading": "The people’s poor ones he shall judge,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the needy’s children save;",
+            "normalized": "The needy’s children save;",
+            "reading": "the needy’s children save;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And those shall he in pieces break",
+            "normalized": "And those shall he in pieces break",
+            "reading": "And those shall he in pieces break"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who them oppressèd have.",
+            "normalized": "Who them oppressèd have.",
+            "reading": "who them oppressèd have."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-072.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5,
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They shall thee fear, while sun and moon",
+            "normalized": "They shall thee fear, while sun and moon",
+            "reading": "They shall thee fear, while sun and moon"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do last, through ages all.",
+            "normalized": "Do last, through ages all.",
+            "reading": "do last, through ages all."
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Like rain on mown grass he shall drop,",
+            "normalized": "Like rain on mown grass he shall drop,",
+            "reading": "Like rain on mown grass he shall drop,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "or show’rs on earth that fall.",
+            "normalized": "Or show’rs on earth that fall.",
+            "reading": "or show’rs on earth that fall."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-072.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The just shall flourish in his days,",
+            "normalized": "The just shall flourish in his days,",
+            "reading": "The just shall flourish in his days,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and prosper in his reign:",
+            "normalized": "And prosper in his reign:",
+            "reading": "and prosper in his reign:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He shall, while doth the moon endure,",
+            "normalized": "He shall, while doth the moon endure,",
+            "reading": "He shall, while doth the moon endure,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "abundant peace maintain.",
+            "normalized": "Abundant peace maintain.",
+            "reading": "abundant peace maintain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-072.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His large and great dominion shall",
+            "normalized": "His large and great dominion shall",
+            "reading": "His large and great dominion shall"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from sea to sea extend:",
+            "normalized": "From sea to sea extend:",
+            "reading": "from sea to sea extend:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "It from the river shall reach forth",
+            "normalized": "It from the river shall reach forth",
+            "reading": "It from the river shall reach forth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto earth’s utmost end.",
+            "normalized": "Unto earth’s utmost end.",
+            "reading": "unto earth’s utmost end."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-072.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They in the wilderness that dwell",
+            "normalized": "They in the wilderness that dwell",
+            "reading": "They in the wilderness that dwell"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "bow down before him must;",
+            "normalized": "Bow down before him must;",
+            "reading": "bow down before him must;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And they that are his enemies",
+            "normalized": "And they that are his enemies",
+            "reading": "And they that are his enemies"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall lick the very dust.",
+            "normalized": "Shall lick the very dust.",
+            "reading": "shall lick the very dust."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-072.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The kings of Tarshish, and the isles,",
+            "normalized": "The kings of Tarshish, and the isles,",
+            "reading": "The kings of Tarshish, and the isles,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to him shall presents bring;",
+            "normalized": "To him shall presents bring;",
+            "reading": "to him shall presents bring;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And unto him shall offer gifts",
+            "normalized": "And unto him shall offer gifts",
+            "reading": "And unto him shall offer gifts"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Sheba’s and Seba’s king.",
+            "normalized": "Sheba’s and Seba’s king.",
+            "reading": "Sheba’s and Seba’s king."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-072.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, all the mighty kings on earth",
+            "normalized": "Yea, all the mighty kings on earth",
+            "reading": "Yea, all the mighty kings on earth"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "before him down shall fall;",
+            "normalized": "Before him down shall fall;",
+            "reading": "before him down shall fall;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And all the nations of the world",
+            "normalized": "And all the nations of the world",
+            "reading": "And all the nations of the world"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do service to him shall.",
+            "normalized": "Do service to him shall.",
+            "reading": "do service to him shall."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-072.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For he the needy shall preserve,",
+            "normalized": "For he the needy shall preserve,",
+            "reading": "For he the needy shall preserve,"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when he to him doth call;",
+            "normalized": "When he to him doth call;",
+            "reading": "when he to him doth call;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The poor also, and him that hath",
+            "normalized": "The poor also, and him that hath",
+            "reading": "The poor also, and him that hath"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "no help of man at all.",
+            "normalized": "No help of man at all.",
+            "reading": "no help of man at all."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-072.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The poor man and the indigent",
+            "normalized": "The poor man and the indigent",
+            "reading": "The poor man and the indigent"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in mercy he shall spare;",
+            "normalized": "In mercy he shall spare;",
+            "reading": "in mercy he shall spare;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He shall preserve alive the souls",
+            "normalized": "He shall preserve alive the souls",
+            "reading": "He shall preserve alive the souls"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of those that needy are.",
+            "normalized": "Of those that needy are.",
+            "reading": "of those that needy are."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-072.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Both from deceit and violence",
+            "normalized": "Both from deceit and violence",
+            "reading": "Both from deceit and violence"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their soul he shall set free;",
+            "normalized": "Their soul he shall set free;",
+            "reading": "their soul he shall set free;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in his sight right prëcious",
+            "normalized": "And in his sight right prëcious",
+            "reading": "And in his sight right prëcious"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and dear their blood shall be.",
+            "normalized": "And dear their blood shall be.",
+            "reading": "and dear their blood shall be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-072.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, he shall live, and giv’n to him",
+            "normalized": "Yea, he shall live, and giv’n to him",
+            "reading": "Yea, he shall live, and giv’n to him"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall be of Sheba’s gold:",
+            "normalized": "Shall be of Sheba’s gold:",
+            "reading": "shall be of Sheba’s gold:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For him still shall they pray, and he",
+            "normalized": "For him still shall they pray, and he",
+            "reading": "For him still shall they pray, and he"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall daily be extolled.",
+            "normalized": "Shall daily be extolled.",
+            "reading": "shall daily be extolled."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-072.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of corn an handful in the earth",
+            "normalized": "Of corn an handful in the earth",
+            "reading": "Of corn an handful in the earth"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "on tops of mountains high,",
+            "normalized": "On tops of mountains high,",
+            "reading": "on tops of mountains high,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With prosp’rous fruit shall shake, like trees",
+            "normalized": "With prosp’rous fruit shall shake, like trees",
+            "reading": "With prosp’rous fruit shall shake, like trees"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "on Lebanon that be.",
+            "normalized": "On Lebanon that be.",
+            "reading": "on Lebanon that be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-072.primary.stanza-15",
+      "number": 15,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The city shall be flourishing,",
+            "normalized": "The city shall be flourishing,",
+            "reading": "The city shall be flourishing,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "her citizens abound",
+            "normalized": "Her citizens abound",
+            "reading": "her citizens abound"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In number shall, like to the grass",
+            "normalized": "In number shall, like to the grass",
+            "reading": "In number shall, like to the grass"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that grows upon the ground.",
+            "normalized": "That grows upon the ground.",
+            "reading": "that grows upon the ground."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-072.primary.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        17
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His name for ever shall endure;",
+            "normalized": "His name for ever shall endure;",
+            "reading": "His name for ever shall endure;"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "last like the sun it shall:",
+            "normalized": "Last like the sun it shall:",
+            "reading": "last like the sun it shall:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Men shall be blessed in him, and blessed",
+            "normalized": "Men shall be blessed in him, and blessed",
+            "reading": "Men shall be blessed in him, and blessed"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all nations shall him call.",
+            "normalized": "All nations shall him call.",
+            "reading": "all nations shall him call."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-072.primary.stanza-17",
+      "number": 17,
+      "biblical_verses": [
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-17.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Now blessèd be the LORD our God,",
+            "normalized": "Now blessèd be the LORD our God,",
+            "reading": "Now blessèd be the LORD our God,"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-17.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the God of Israel,",
+            "normalized": "The God of Israel,",
+            "reading": "the God of Israel,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-17.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For he alone doth wondrous works,",
+            "normalized": "For he alone doth wondrous works,",
+            "reading": "For he alone doth wondrous works,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-17.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in glory that excel.",
+            "normalized": "In glory that excel.",
+            "reading": "in glory that excel."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-072.primary.stanza-18",
+      "number": 18,
+      "biblical_verses": [
+        19
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-072.primary.stanza-18.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And blessèd be his glorious name",
+            "normalized": "And blessèd be his glorious name",
+            "reading": "And blessèd be his glorious name"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-18.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to all eternity:",
+            "normalized": "To all eternity:",
+            "reading": "to all eternity:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-18.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The whole earth let his glory fill.",
+            "normalized": "The whole earth let his glory fill.",
+            "reading": "The whole earth let his glory fill."
+          }
+        },
+        {
+          "id": "ps1650.psalm-072.primary.stanza-18.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Amen, so let it be.",
+            "normalized": "Amen, so let it be.",
+            "reading": "Amen, so let it be."
+          }
+        }
+      ]
+    }
+  ]
+}

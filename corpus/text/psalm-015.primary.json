@@ -1,0 +1,295 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-015.primary",
+  "psalm_number": 15,
+  "title": "Psalm 15",
+  "version": "primary",
+  "opening_line": "Within thy tabernacle, LORD,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 15 · p. 19",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-015-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      19
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-015.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-015.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Within thy tabernacle, LORD,",
+            "normalized": "Within thy tabernacle, LORD,",
+            "reading": "Within thy tabernacle, LORD,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-015.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who shall abide with thee?",
+            "normalized": "Who shall abide with thee?",
+            "reading": "who shall abide with thee?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-015.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in thy high and holy hill",
+            "normalized": "And in thy high and holy hill",
+            "reading": "And in thy high and holy hill"
+          }
+        },
+        {
+          "id": "ps1650.psalm-015.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who shall a dweller be?",
+            "normalized": "Who shall a dweller be?",
+            "reading": "who shall a dweller be?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-015.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-015.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The man that walketh uprightly,",
+            "normalized": "The man that walketh uprightly,",
+            "reading": "The man that walketh uprightly,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-015.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and worketh righteousness,",
+            "normalized": "And worketh righteousness,",
+            "reading": "and worketh righteousness,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-015.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And as he thinketh in his heart,",
+            "normalized": "And as he thinketh in his heart,",
+            "reading": "And as he thinketh in his heart,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-015.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "so doth he truth express.",
+            "normalized": "So doth he truth express.",
+            "reading": "so doth he truth express."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-015.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-015.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who doth not slander with his tongue,",
+            "normalized": "Who doth not slander with his tongue,",
+            "reading": "Who doth not slander with his tongue,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-015.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor to his friend doth hurt;",
+            "normalized": "Nor to his friend doth hurt;",
+            "reading": "nor to his friend doth hurt;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-015.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor yet against his neighbour doth",
+            "normalized": "Nor yet against his neighbour doth",
+            "reading": "Nor yet against his neighbour doth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-015.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "take up an ill report.",
+            "normalized": "Take up an ill report.",
+            "reading": "take up an ill report."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-015.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-015.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In whose eyes vile men are despised;",
+            "normalized": "In whose eyes vile men are despised;",
+            "reading": "In whose eyes vile men are despised;"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-015.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "but those that GOD do fear",
+            "normalized": "But those that GOD do fear",
+            "reading": "but those that GOD do fear"
+          }
+        },
+        {
+          "id": "ps1650.psalm-015.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He honoureth; and changeth not,",
+            "normalized": "He honoureth; and changeth not,",
+            "reading": "He honoureth; and changeth not,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-015.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "though to his hurt he swear.",
+            "normalized": "Though to his hurt he swear.",
+            "reading": "though to his hurt he swear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-015.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-015.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His coin puts not to usury,",
+            "normalized": "His coin puts not to usury,",
+            "reading": "His coin puts not to usury,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-015.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor take reward will he",
+            "normalized": "Nor take reward will he",
+            "reading": "nor take reward will he"
+          }
+        },
+        {
+          "id": "ps1650.psalm-015.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Against the guiltless. Who doth thus",
+            "normalized": "Against the guiltless. Who doth thus",
+            "reading": "Against the guiltless. Who doth thus"
+          }
+        },
+        {
+          "id": "ps1650.psalm-015.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall never moved be.",
+            "normalized": "Shall never moved be.",
+            "reading": "shall never moved be."
+          }
+        }
+      ]
+    }
+  ]
+}

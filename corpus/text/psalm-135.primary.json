@@ -1,0 +1,863 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-135.primary",
+  "psalm_number": 135,
+  "title": "Psalm 135",
+  "version": "primary",
+  "opening_line": "Praise ye the LORD, the LORD’s name praise;",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 135 · p. 190–192",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-135-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      190,
+      191,
+      192
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-135.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-135.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Praise ye the LORD, the LORD’s name praise;",
+            "normalized": "Praise ye the LORD, the LORD’s name praise;",
+            "reading": "Praise ye the LORD, the LORD’s name praise;"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his servants, praise ye GOD.",
+            "normalized": "His servants, praise ye GOD.",
+            "reading": "his servants, praise ye GOD."
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who stand in GOD’s house, in the courts",
+            "normalized": "Who stand in GOD’s house, in the courts",
+            "reading": "Who stand in GOD’s house, in the courts"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of our God make abode.",
+            "normalized": "Of our God make abode.",
+            "reading": "of our God make abode."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-135.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-135.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Praise ye the LORD, for he is good;",
+            "normalized": "Praise ye the LORD, for he is good;",
+            "reading": "Praise ye the LORD, for he is good;"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto him praises sing:",
+            "normalized": "Unto him praises sing:",
+            "reading": "unto him praises sing:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Sing praises to his name, because",
+            "normalized": "Sing praises to his name, because",
+            "reading": "Sing praises to his name, because"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "it is a pleasant thing.",
+            "normalized": "It is a pleasant thing.",
+            "reading": "it is a pleasant thing."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-135.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-135.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For Jacob to himself the LORD",
+            "normalized": "For Jacob to himself the LORD",
+            "reading": "For Jacob to himself the LORD"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "did choose of his good pleasure,",
+            "normalized": "Did choose of his good pleasure,",
+            "reading": "did choose of his good pleasure,"
+          },
+          "source_underlining": [
+            "pleasure"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And he hath chosen Israel",
+            "normalized": "And he hath chosen Israel",
+            "reading": "And he hath chosen Israel"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for his peculiar treasure.",
+            "normalized": "For his peculiar treasure.",
+            "reading": "for his peculiar treasure."
+          },
+          "source_underlining": [
+            "treasure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-135.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-135.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because I know assuredly",
+            "normalized": "Because I know assuredly",
+            "reading": "Because I know assuredly"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the LORD is very great,",
+            "normalized": "The LORD is very great,",
+            "reading": "the LORD is very great,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And that our Lord above all gods",
+            "normalized": "And that our Lord above all gods",
+            "reading": "And that our Lord above all gods"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in glory hath his seat.",
+            "normalized": "In glory hath his seat.",
+            "reading": "in glory hath his seat."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-135.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-135.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "What things soever pleased the LORD,",
+            "normalized": "What things soever pleased the LORD,",
+            "reading": "What things soever pleased the LORD,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that in the heav’n did he,",
+            "normalized": "That in the heav’n did he,",
+            "reading": "that in the heav’n did he,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in the earth, the seas, and all",
+            "normalized": "And in the earth, the seas, and all",
+            "reading": "And in the earth, the seas, and all"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the places deep that be.",
+            "normalized": "The places deep that be.",
+            "reading": "the places deep that be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-135.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-135.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He from the ends of earth doth make",
+            "normalized": "He from the ends of earth doth make",
+            "reading": "He from the ends of earth doth make"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the vapours to ascend;",
+            "normalized": "The vapours to ascend;",
+            "reading": "the vapours to ascend;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With rain he lightnings makes, and wind",
+            "normalized": "With rain he lightnings makes, and wind",
+            "reading": "With rain he lightnings makes, and wind"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth from his treasures send.",
+            "normalized": "Doth from his treasures send.",
+            "reading": "doth from his treasures send."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-135.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8,
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-135.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Egypt’s first-born, from man to beast",
+            "normalized": "Egypt’s first-born, from man to beast",
+            "reading": "Egypt’s first-born, from man to beast"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who smote. Strange tokens he",
+            "normalized": "Who smote. Strange tokens he",
+            "reading": "who smote. Strange tokens he"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "On Pharaoh and his servants sent,",
+            "normalized": "On Pharaoh and his servants sent,",
+            "reading": "On Pharaoh and his servants sent,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Egypt, in midst of thee.",
+            "normalized": "Egypt, in midst of thee.",
+            "reading": "Egypt, in midst of thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-135.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        10,
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-135.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He smote great nations, slew great kings:",
+            "normalized": "He smote great nations, slew great kings:",
+            "reading": "He smote great nations, slew great kings:"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Sihon of Heshbon king,",
+            "normalized": "Sihon of Heshbon king,",
+            "reading": "Sihon of Heshbon king,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And Og of Bashan, and to nought",
+            "normalized": "And Og of Bashan, and to nought",
+            "reading": "And Og of Bashan, and to nought"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "did Canaan’s kingdoms bring:",
+            "normalized": "Did Canaan’s kingdoms bring:",
+            "reading": "did Canaan’s kingdoms bring:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-135.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-135.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And for a wealthy heritage",
+            "normalized": "And for a wealthy heritage",
+            "reading": "And for a wealthy heritage"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their pleasant land he gave,",
+            "normalized": "Their pleasant land he gave,",
+            "reading": "their pleasant land he gave,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "An heritage which Israèl,",
+            "normalized": "An heritage which Israèl,",
+            "reading": "An heritage which Israèl,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his chosen folk, should have.",
+            "normalized": "His chosen folk, should have.",
+            "reading": "his chosen folk, should have."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-135.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-135.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy name, O LORD, shall still endure,",
+            "normalized": "Thy name, O LORD, shall still endure,",
+            "reading": "Thy name, O LORD, shall still endure,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and thy memorial",
+            "normalized": "And thy memorial",
+            "reading": "and thy memorial"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With honour shall continued be",
+            "normalized": "With honour shall continued be",
+            "reading": "With honour shall continued be"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to generations all.",
+            "normalized": "To generations all.",
+            "reading": "to generations all."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-135.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-135.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For why? the righteous GOD will judge",
+            "normalized": "For why? the righteous GOD will judge",
+            "reading": "For why? the righteous GOD will judge"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his people righteously;",
+            "normalized": "His people righteously;",
+            "reading": "his people righteously;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Concerning those that do him serve,",
+            "normalized": "Concerning those that do him serve,",
+            "reading": "Concerning those that do him serve,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "himself repent will he.",
+            "normalized": "Himself repent will he.",
+            "reading": "himself repent will he."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-135.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-135.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The idols of the nätions",
+            "normalized": "The idols of the nätions",
+            "reading": "The idols of the nätions"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of silver are and gold,",
+            "normalized": "Of silver are and gold,",
+            "reading": "of silver are and gold,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And by the hands of men is made",
+            "normalized": "And by the hands of men is made",
+            "reading": "And by the hands of men is made"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their fäshion and mould.",
+            "normalized": "Their fäshion and mould.",
+            "reading": "their fäshion and mould."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-135.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        16,
+        17
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-135.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Mouths have they, but they do not speak;",
+            "normalized": "Mouths have they, but they do not speak;",
+            "reading": "Mouths have they, but they do not speak;"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "eyes, but they do not see;",
+            "normalized": "Eyes, but they do not see;",
+            "reading": "eyes, but they do not see;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ears have they, but hear not; and in",
+            "normalized": "Ears have they, but hear not; and in",
+            "reading": "Ears have they, but hear not; and in"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their mouths no breathing be.",
+            "normalized": "Their mouths no breathing be.",
+            "reading": "their mouths no breathing be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-135.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        18,
+        19
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-135.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their makers are like them; so are",
+            "normalized": "Their makers are like them; so are",
+            "reading": "Their makers are like them; so are"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all that on them rely.",
+            "normalized": "All that on them rely.",
+            "reading": "all that on them rely."
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O Isr’el’s house, bless GOD; bless GOD,",
+            "normalized": "O Isr’el’s house, bless GOD; bless GOD,",
+            "reading": "O Isr’el’s house, bless GOD; bless GOD,"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O Aaron’s family.",
+            "normalized": "O Aaron’s family.",
+            "reading": "O Aaron’s family."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-135.primary.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        20
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-135.primary.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O bless the LORD, of Levi’s house",
+            "normalized": "O bless the LORD, of Levi’s house",
+            "reading": "O bless the LORD, of Levi’s house"
+          },
+          "biblical_verse_start": 20
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ye who his servants are;",
+            "normalized": "Ye who his servants are;",
+            "reading": "ye who his servants are;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And bless the holy name of GOD,",
+            "normalized": "And bless the holy name of GOD,",
+            "reading": "And bless the holy name of GOD,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all ye the LORD that fear.",
+            "normalized": "All ye the LORD that fear.",
+            "reading": "all ye the LORD that fear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-135.primary.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        21
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-135.primary.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And blessèd be the LORD our God",
+            "normalized": "And blessèd be the LORD our God",
+            "reading": "And blessèd be the LORD our God"
+          },
+          "biblical_verse_start": 21
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from Zion’s holy hill,",
+            "normalized": "From Zion’s holy hill,",
+            "reading": "from Zion’s holy hill,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who dwelleth at Jerusalem.",
+            "normalized": "Who dwelleth at Jerusalem.",
+            "reading": "Who dwelleth at Jerusalem."
+          }
+        },
+        {
+          "id": "ps1650.psalm-135.primary.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "The LORD O praise ye still.",
+            "normalized": "The LORD O praise ye still.",
+            "reading": "The LORD O praise ye still."
+          }
+        }
+      ]
+    }
+  ]
+}

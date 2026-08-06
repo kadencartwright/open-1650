@@ -1,0 +1,860 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-049.primary",
+  "psalm_number": 49,
+  "title": "Psalm 49",
+  "version": "primary",
+  "opening_line": "Hear this, all people, and give ear,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 49 · p. 68–69",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-049-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      68,
+      69
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-049.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2,
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-049.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Hear this, all people, and give ear,",
+            "normalized": "Hear this, all people, and give ear,",
+            "reading": "Hear this, all people, and give ear,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all in the world that dwell;",
+            "normalized": "All in the world that dwell;",
+            "reading": "all in the world that dwell;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Both low and high, both rich and poor.",
+            "normalized": "Both low and high, both rich and poor.",
+            "reading": "Both low and high, both rich and poor."
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "My mouth shall wisdom tell;",
+            "normalized": "My mouth shall wisdom tell;",
+            "reading": "My mouth shall wisdom tell;"
+          },
+          "biblical_verse_start": 3
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-049.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-049.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My heart shall knowledge meditate.",
+            "normalized": "My heart shall knowledge meditate.",
+            "reading": "My heart shall knowledge meditate."
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I will incline mine ear",
+            "normalized": "I will incline mine ear",
+            "reading": "I will incline mine ear"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To parables, and on the harp",
+            "normalized": "To parables, and on the harp",
+            "reading": "To parables, and on the harp"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my sayings dark declare.",
+            "normalized": "My sayings dark declare.",
+            "reading": "my sayings dark declare."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-049.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-049.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Amidst those days that evil be,",
+            "normalized": "Amidst those days that evil be,",
+            "reading": "Amidst those days that evil be,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "why should I, fearing, doubt?",
+            "normalized": "Why should I, fearing, doubt?",
+            "reading": "why should I, fearing, doubt?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When of my heels th’ iniquity",
+            "normalized": "When of my heels th’ iniquity",
+            "reading": "When of my heels th’ iniquity"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall compass me about.",
+            "normalized": "Shall compass me about.",
+            "reading": "shall compass me about."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-049.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-049.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Whoe’er they be that in their wealth",
+            "normalized": "Whoe’er they be that in their wealth",
+            "reading": "Whoe’er they be that in their wealth"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their confidence do pitch,",
+            "normalized": "Their confidence do pitch,",
+            "reading": "their confidence do pitch,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And boast themselves, because they are",
+            "normalized": "And boast themselves, because they are",
+            "reading": "And boast themselves, because they are"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "become exceeding rich:",
+            "normalized": "Become exceeding rich:",
+            "reading": "become exceeding rich:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-049.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-049.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yet none of these his brother can",
+            "normalized": "Yet none of these his brother can",
+            "reading": "Yet none of these his brother can"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "redeem by any way;",
+            "normalized": "Redeem by any way;",
+            "reading": "redeem by any way;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor can he unto God for him",
+            "normalized": "Nor can he unto God for him",
+            "reading": "Nor can he unto God for him"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "sufficient ransom pay,",
+            "normalized": "Sufficient ransom pay,",
+            "reading": "sufficient ransom pay,"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-049.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8,
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-049.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "(Their soul’s redemption precious is,",
+            "normalized": "(Their soul’s redemption precious is,",
+            "reading": "(Their soul’s redemption precious is,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and it can never be,)",
+            "normalized": "And it can never be,)",
+            "reading": "and it can never be,)"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That still he should for ever live,",
+            "normalized": "That still he should for ever live,",
+            "reading": "That still he should for ever live,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and not corruption see.",
+            "normalized": "And not corruption see.",
+            "reading": "and not corruption see."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-049.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-049.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For why? he seeth that wise men die,",
+            "normalized": "For why? he seeth that wise men die,",
+            "reading": "For why? he seeth that wise men die,"
+          },
+          "biblical_verse_start": 10,
+          "source_underlining": [
+            "seeth"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and brutish fools also",
+            "normalized": "And brutish fools also",
+            "reading": "and brutish fools also"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Do perish; and their wealth, when dead,",
+            "normalized": "Do perish; and their wealth, when dead,",
+            "reading": "Do perish; and their wealth, when dead,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to others they let go.",
+            "normalized": "To others they let go.",
+            "reading": "to others they let go."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-049.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-049.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their inward thought is, that their house",
+            "normalized": "Their inward thought is, that their house",
+            "reading": "Their inward thought is, that their house"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and dwelling-places shall",
+            "normalized": "And dwelling-places shall",
+            "reading": "and dwelling-places shall"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Stand through all ages; they their lands",
+            "normalized": "Stand through all ages; they their lands",
+            "reading": "Stand through all ages; they their lands"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "by their own names do call.",
+            "normalized": "By their own names do call.",
+            "reading": "by their own names do call."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-049.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-049.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But yet in honour shall not man",
+            "normalized": "But yet in honour shall not man",
+            "reading": "But yet in honour shall not man"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "abide continually;",
+            "normalized": "Abide continually;",
+            "reading": "abide continually;"
+          },
+          "source_underlining": [
+            "ual"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But passing hence, may be compared",
+            "normalized": "But passing hence, may be compared",
+            "reading": "But passing hence, may be compared"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto the beasts that die.",
+            "normalized": "Unto the beasts that die.",
+            "reading": "unto the beasts that die."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-049.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-049.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thus brutish folly plainly is",
+            "normalized": "Thus brutish folly plainly is",
+            "reading": "Thus brutish folly plainly is"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their wisdom and their way;",
+            "normalized": "Their wisdom and their way;",
+            "reading": "their wisdom and their way;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yet their posterity approve",
+            "normalized": "Yet their posterity approve",
+            "reading": "Yet their posterity approve"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "what they do fondly say.",
+            "normalized": "What they do fondly say.",
+            "reading": "what they do fondly say."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-049.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-049.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Like sheep they in the grave are laid,",
+            "normalized": "Like sheep they in the grave are laid,",
+            "reading": "Like sheep they in the grave are laid,"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and death shall them devour;",
+            "normalized": "And death shall them devour;",
+            "reading": "and death shall them devour;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in the morning upright men",
+            "normalized": "And in the morning upright men",
+            "reading": "And in the morning upright men"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall over them have power:",
+            "normalized": "Shall over them have power:",
+            "reading": "shall over them have power:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-049.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-049.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their beauty from their dwelling shall",
+            "normalized": "Their beauty from their dwelling shall",
+            "reading": "Their beauty from their dwelling shall"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "consume within the grave.",
+            "normalized": "Consume within the grave.",
+            "reading": "consume within the grave."
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But from hell’s hand God will me free,",
+            "normalized": "But from hell’s hand God will me free,",
+            "reading": "But from hell’s hand God will me free,"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for he shall me receive.",
+            "normalized": "For he shall me receive.",
+            "reading": "for he shall me receive."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-049.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-049.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Be thou not then afraid when one",
+            "normalized": "Be thou not then afraid when one",
+            "reading": "Be thou not then afraid when one"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "enrichèd thou dost see,",
+            "normalized": "Enrichèd thou dost see,",
+            "reading": "enrichèd thou dost see,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor when the glory of his house",
+            "normalized": "Nor when the glory of his house",
+            "reading": "Nor when the glory of his house"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "advancèd is on high:",
+            "normalized": "Advancèd is on high:",
+            "reading": "advancèd is on high:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-049.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        17
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-049.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For he shall carry nothing hence",
+            "normalized": "For he shall carry nothing hence",
+            "reading": "For he shall carry nothing hence"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when death his days doth end;",
+            "normalized": "When death his days doth end;",
+            "reading": "when death his days doth end;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor shall his glory after him",
+            "normalized": "Nor shall his glory after him",
+            "reading": "Nor shall his glory after him"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "into the grave descend.",
+            "normalized": "Into the grave descend.",
+            "reading": "into the grave descend."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-049.primary.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-049.primary.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Although he his own soul did bless",
+            "normalized": "Although he his own soul did bless",
+            "reading": "Although he his own soul did bless"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "whilst he on earth did live;",
+            "normalized": "Whilst he on earth did live;",
+            "reading": "whilst he on earth did live;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "(And when thou to thyself dost well,",
+            "normalized": "(And when thou to thyself dost well,",
+            "reading": "(And when thou to thyself dost well,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "men will thee praises give;)",
+            "normalized": "Men will thee praises give;)",
+            "reading": "men will thee praises give;)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-049.primary.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        19,
+        20
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-049.primary.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He to his fathers’ race shall go,",
+            "normalized": "He to his fathers’ race shall go,",
+            "reading": "He to his fathers’ race shall go,"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they never shall see light.",
+            "normalized": "They never shall see light.",
+            "reading": "they never shall see light."
+          }
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Man honoured wanting knowledge is",
+            "normalized": "Man honoured wanting knowledge is",
+            "reading": "Man honoured wanting knowledge is"
+          },
+          "biblical_verse_start": 20
+        },
+        {
+          "id": "ps1650.psalm-049.primary.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "like beasts that perish quite.",
+            "normalized": "Like beasts that perish quite.",
+            "reading": "like beasts that perish quite."
+          }
+        }
+      ]
+    }
+  ]
+}

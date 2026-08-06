@@ -1,0 +1,1211 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-136.alternate",
+  "psalm_number": 136,
+  "title": "Psalm 136 · second version",
+  "version": "alternate",
+  "opening_line": "Praise GOD, for he is kind:",
+  "meter": {
+    "pattern": "6.6.6.6.8.8",
+    "name": "6.6.6.6.8.8"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 136 · p. 193–195",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "second version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-136,-second-version-(T) [6 6 6 6 8 8].txt"
+    ],
+    "pdf_pages": [
+      193,
+      194,
+      195
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-136.alternate.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Praise GOD, for he is kind:",
+            "normalized": "Praise GOD, for he is kind:",
+            "reading": "Praise GOD, for he is kind:"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "His mercy lasts for aye.",
+            "normalized": "His mercy lasts for aye.",
+            "reading": "His mercy lasts for aye."
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Give thanks with heart and mind",
+            "normalized": "Give thanks with heart and mind",
+            "reading": "Give thanks with heart and mind"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "To God of gods alway:",
+            "normalized": "To God of gods alway:",
+            "reading": "To God of gods alway:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-01.line-05",
+          "number": 5,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For certainly his mercies dure",
+            "normalized": "For certainly his mercies dure",
+            "reading": "For certainly his mercies dure"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-01.line-06",
+          "number": 6,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Most firm and sure eternally.",
+            "normalized": "Most firm and sure eternally.",
+            "reading": "Most firm and sure eternally."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.alternate.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "The Lord of lords praise ye,",
+            "normalized": "The Lord of lords praise ye,",
+            "reading": "The Lord of lords praise ye,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Whose mercies still endure.",
+            "normalized": "Whose mercies still endure.",
+            "reading": "Whose mercies still endure."
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Great wonders only he",
+            "normalized": "Great wonders only he",
+            "reading": "Great wonders only he"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Doth work by his great power:",
+            "normalized": "Doth work by his great power:",
+            "reading": "Doth work by his great power:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-02.line-05",
+          "number": 5,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For certainly his mercies dure",
+            "normalized": "For certainly his mercies dure",
+            "reading": "For certainly his mercies dure"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-02.line-06",
+          "number": 6,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Most firm and sure eternally.",
+            "normalized": "Most firm and sure eternally.",
+            "reading": "Most firm and sure eternally."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.alternate.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Which God omnipotent,",
+            "normalized": "Which God omnipotent,",
+            "reading": "Which God omnipotent,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "By might and wisdom high,",
+            "normalized": "By might and wisdom high,",
+            "reading": "By might and wisdom high,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "The heav’n and firmament",
+            "normalized": "The heav’n and firmament",
+            "reading": "The heav’n and firmament"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Did frame, as we may see:",
+            "normalized": "Did frame, as we may see:",
+            "reading": "Did frame, as we may see:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-03.line-05",
+          "number": 5,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For certainly his mercies dure",
+            "normalized": "For certainly his mercies dure",
+            "reading": "For certainly his mercies dure"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-03.line-06",
+          "number": 6,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Most firm and sure eternally.",
+            "normalized": "Most firm and sure eternally.",
+            "reading": "Most firm and sure eternally."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.alternate.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "To him who did outstretch",
+            "normalized": "To him who did outstretch",
+            "reading": "To him who did outstretch"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "This earth so great and wide,",
+            "normalized": "This earth so great and wide,",
+            "reading": "This earth so great and wide,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Above the waters’ reach",
+            "normalized": "Above the waters’ reach",
+            "reading": "Above the waters’ reach"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Making it to abide:",
+            "normalized": "Making it to abide:",
+            "reading": "Making it to abide:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-04.line-05",
+          "number": 5,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For certainly his mercies dure",
+            "normalized": "For certainly his mercies dure",
+            "reading": "For certainly his mercies dure"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-04.line-06",
+          "number": 6,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Most firm and sure eternally.",
+            "normalized": "Most firm and sure eternally.",
+            "reading": "Most firm and sure eternally."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.alternate.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Great lights he made to be;",
+            "normalized": "Great lights he made to be;",
+            "reading": "Great lights he made to be;"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "For his grace lasteth aye:",
+            "normalized": "For his grace lasteth aye:",
+            "reading": "For his grace lasteth aye:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Such as the sun we  see,",
+            "normalized": "Such as the sun we see,",
+            "reading": "Such as the sun we see,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "To rule the lightsome day:",
+            "normalized": "To rule the lightsome day:",
+            "reading": "To rule the lightsome day:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-05.line-05",
+          "number": 5,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For certainly his mercies dure",
+            "normalized": "For certainly his mercies dure",
+            "reading": "For certainly his mercies dure"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-05.line-06",
+          "number": 6,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Most firm and sure eternally.",
+            "normalized": "Most firm and sure eternally.",
+            "reading": "Most firm and sure eternally."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.alternate.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Also the moon so clear,",
+            "normalized": "Also the moon so clear,",
+            "reading": "Also the moon so clear,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Which shineth in our sight;",
+            "normalized": "Which shineth in our sight;",
+            "reading": "Which shineth in our sight;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "The stars that do appear,",
+            "normalized": "The stars that do appear,",
+            "reading": "The stars that do appear,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "To guide the darksome night:",
+            "normalized": "To guide the darksome night:",
+            "reading": "To guide the darksome night:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-06.line-05",
+          "number": 5,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For certainly his mercies dure",
+            "normalized": "For certainly his mercies dure",
+            "reading": "For certainly his mercies dure"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-06.line-06",
+          "number": 6,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Most firm and sure eternally.",
+            "normalized": "Most firm and sure eternally.",
+            "reading": "Most firm and sure eternally."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.alternate.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "To him that Egypt smote,",
+            "normalized": "To him that Egypt smote,",
+            "reading": "To him that Egypt smote,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Who did his message scorn;",
+            "normalized": "Who did his message scorn;",
+            "reading": "Who did his message scorn;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "And in his anger hot",
+            "normalized": "And in his anger hot",
+            "reading": "And in his anger hot"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Did kill all their first-born:",
+            "normalized": "Did kill all their first-born:",
+            "reading": "Did kill all their first-born:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-07.line-05",
+          "number": 5,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For certainly his mercies dure",
+            "normalized": "For certainly his mercies dure",
+            "reading": "For certainly his mercies dure"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-07.line-06",
+          "number": 6,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Most firm and sure eternally.",
+            "normalized": "Most firm and sure eternally.",
+            "reading": "Most firm and sure eternally."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.alternate.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        11,
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Thence Isr’el out he brought;",
+            "normalized": "Thence Isr’el out he brought;",
+            "reading": "Thence Isr’el out he brought;"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "For his grace lasteth ever.",
+            "normalized": "For his grace lasteth ever.",
+            "reading": "For his grace lasteth ever."
+          },
+          "source_underlining": [
+            "ever"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "With a strong hand he wrought,",
+            "normalized": "With a strong hand he wrought,",
+            "reading": "With a strong hand he wrought,"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "And stretched-out arm deliver:",
+            "normalized": "And stretched-out arm deliver:",
+            "reading": "And stretched-out arm deliver:"
+          },
+          "source_underlining": [
+            "liver"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-08.line-05",
+          "number": 5,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For certainly his mercies dure",
+            "normalized": "For certainly his mercies dure",
+            "reading": "For certainly his mercies dure"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-08.line-06",
+          "number": 6,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Most firm and sure eternally.",
+            "normalized": "Most firm and sure eternally.",
+            "reading": "Most firm and sure eternally."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.alternate.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        13,
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "The sea he cut in two;",
+            "normalized": "The sea he cut in two;",
+            "reading": "The sea he cut in two;"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "For his grace lasteth still.",
+            "normalized": "For his grace lasteth still.",
+            "reading": "For his grace lasteth still."
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "And through its midst to go",
+            "normalized": "And through its midst to go",
+            "reading": "And through its midst to go"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Made his own Israèl:",
+            "normalized": "Made his own Israèl:",
+            "reading": "Made his own Israèl:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-09.line-05",
+          "number": 5,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For certainly his mercies dure",
+            "normalized": "For certainly his mercies dure",
+            "reading": "For certainly his mercies dure"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-09.line-06",
+          "number": 6,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Most firm and sure eternally.",
+            "normalized": "Most firm and sure eternally.",
+            "reading": "Most firm and sure eternally."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.alternate.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "But overwhelmed and lost",
+            "normalized": "But overwhelmed and lost",
+            "reading": "But overwhelmed and lost"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Was proud king Pharàoh,",
+            "normalized": "Was proud king Pharàoh,",
+            "reading": "Was proud king Pharàoh,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "With all his mighty host,",
+            "normalized": "With all his mighty host,",
+            "reading": "With all his mighty host,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "And chariots there also:",
+            "normalized": "And chariots there also:",
+            "reading": "And chariots there also:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-10.line-05",
+          "number": 5,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For certainly his mercies dure",
+            "normalized": "For certainly his mercies dure",
+            "reading": "For certainly his mercies dure"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-10.line-06",
+          "number": 6,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Most firm and sure eternally.",
+            "normalized": "Most firm and sure eternally.",
+            "reading": "Most firm and sure eternally."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.alternate.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "To him who pow’rfully",
+            "normalized": "To him who pow’rfully",
+            "reading": "To him who pow’rfully"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "His chosen people led,",
+            "normalized": "His chosen people led,",
+            "reading": "His chosen people led,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Ev’n through the desert dry,",
+            "normalized": "Ev’n through the desert dry,",
+            "reading": "Ev’n through the desert dry,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "And in that place them fed:",
+            "normalized": "And in that place them fed:",
+            "reading": "And in that place them fed:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-11.line-05",
+          "number": 5,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For certainly his mercies dure",
+            "normalized": "For certainly his mercies dure",
+            "reading": "For certainly his mercies dure"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-11.line-06",
+          "number": 6,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Most firm and sure eternally.",
+            "normalized": "Most firm and sure eternally.",
+            "reading": "Most firm and sure eternally."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.alternate.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        17,
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "To him great kings who smote;",
+            "normalized": "To him great kings who smote;",
+            "reading": "To him great kings who smote;"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "For his grace hath no bound.",
+            "normalized": "For his grace hath no bound.",
+            "reading": "For his grace hath no bound."
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Who slew, and sparèd not",
+            "normalized": "Who slew, and sparèd not",
+            "reading": "Who slew, and sparèd not"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Kings famous and renowned:",
+            "normalized": "Kings famous and renowned:",
+            "reading": "Kings famous and renowned:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-12.line-05",
+          "number": 5,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For certainly his mercies dure",
+            "normalized": "For certainly his mercies dure",
+            "reading": "For certainly his mercies dure"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-12.line-06",
+          "number": 6,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Most firm and sure eternally.",
+            "normalized": "Most firm and sure eternally.",
+            "reading": "Most firm and sure eternally."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.alternate.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        19,
+        20
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Sihon the Am’rites’ king;",
+            "normalized": "Sihon the Am’rites’ king;",
+            "reading": "Sihon the Am’rites’ king;"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "For his grace lasteth ever:",
+            "normalized": "For his grace lasteth ever:",
+            "reading": "For his grace lasteth ever:"
+          },
+          "source_underlining": [
+            "ever"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Og also, who did reign",
+            "normalized": "Og also, who did reign",
+            "reading": "Og also, who did reign"
+          },
+          "biblical_verse_start": 20
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "The land of Bashan over:",
+            "normalized": "The land of Bashan over:",
+            "reading": "The land of Bashan over:"
+          },
+          "source_underlining": [
+            "over"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-13.line-05",
+          "number": 5,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For certainly his mercies dure",
+            "normalized": "For certainly his mercies dure",
+            "reading": "For certainly his mercies dure"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-13.line-06",
+          "number": 6,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Most firm and sure eternally.",
+            "normalized": "Most firm and sure eternally.",
+            "reading": "Most firm and sure eternally."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.alternate.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        21,
+        22
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Their land by lot he gave;",
+            "normalized": "Their land by lot he gave;",
+            "reading": "Their land by lot he gave;"
+          },
+          "biblical_verse_start": 21
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "For his grace faileth never,",
+            "normalized": "For his grace faileth never,",
+            "reading": "For his grace faileth never,"
+          },
+          "source_underlining": [
+            "never"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "That Isr’el might it have",
+            "normalized": "That Isr’el might it have",
+            "reading": "That Isr’el might it have"
+          },
+          "biblical_verse_start": 22
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "In heritage for ever:",
+            "normalized": "In heritage for ever:",
+            "reading": "In heritage for ever:"
+          },
+          "source_underlining": [
+            "ever"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-14.line-05",
+          "number": 5,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For certainly his mercies dure",
+            "normalized": "For certainly his mercies dure",
+            "reading": "For certainly his mercies dure"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-14.line-06",
+          "number": 6,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Most firm and sure eternally.",
+            "normalized": "Most firm and sure eternally.",
+            "reading": "Most firm and sure eternally."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.alternate.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        23,
+        24
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Who hath rememberèd",
+            "normalized": "Who hath rememberèd",
+            "reading": "Who hath rememberèd"
+          },
+          "biblical_verse_start": 23
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Us in our low estate;",
+            "normalized": "Us in our low estate;",
+            "reading": "Us in our low estate;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "And us deliverèd",
+            "normalized": "And us deliverèd",
+            "reading": "And us deliverèd"
+          },
+          "biblical_verse_start": 24
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "From foes which did us hate:",
+            "normalized": "From foes which did us hate:",
+            "reading": "From foes which did us hate:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-15.line-05",
+          "number": 5,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For certainly his mercies dure",
+            "normalized": "For certainly his mercies dure",
+            "reading": "For certainly his mercies dure"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-15.line-06",
+          "number": 6,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Most firm and sure eternally.",
+            "normalized": "Most firm and sure eternally.",
+            "reading": "Most firm and sure eternally."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-136.alternate.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        25,
+        26
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Who to all flesh gives food;",
+            "normalized": "Who to all flesh gives food;",
+            "reading": "Who to all flesh gives food;"
+          },
+          "biblical_verse_start": 25
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "For his grace faileth never.",
+            "normalized": "For his grace faileth never.",
+            "reading": "For his grace faileth never."
+          },
+          "source_underlining": [
+            "never"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Give thanks to God most good,",
+            "normalized": "Give thanks to God most good,",
+            "reading": "Give thanks to God most good,"
+          },
+          "biblical_verse_start": 26
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "The God of heav’n, for ever:",
+            "normalized": "The God of heav’n, for ever:",
+            "reading": "The God of heav’n, for ever:"
+          },
+          "source_underlining": [
+            "ever"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-16.line-05",
+          "number": 5,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For certainly his mercies dure",
+            "normalized": "For certainly his mercies dure",
+            "reading": "For certainly his mercies dure"
+          }
+        },
+        {
+          "id": "ps1650.psalm-136.alternate.stanza-16.line-06",
+          "number": 6,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Most firm and sure eternally.",
+            "normalized": "Most firm and sure eternally.",
+            "reading": "Most firm and sure eternally."
+          }
+        }
+      ]
+    }
+  ]
+}

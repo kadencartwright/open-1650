@@ -1,0 +1,550 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-005.primary",
+  "psalm_number": 5,
+  "title": "Psalm 5",
+  "version": "primary",
+  "opening_line": "Give ear unto my words, O LORD,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 5 · p. 9–10",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-005-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      9,
+      10
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-005.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-005.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Give ear unto my words, O LORD,",
+            "normalized": "Give ear unto my words, O LORD,",
+            "reading": "Give ear unto my words, O LORD,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my meditation weigh.",
+            "normalized": "My meditation weigh.",
+            "reading": "my meditation weigh."
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Hear my loud cry, my King, my God;",
+            "normalized": "Hear my loud cry, my King, my God;",
+            "reading": "Hear my loud cry, my King, my God;"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for I to thee will pray.",
+            "normalized": "For I to thee will pray.",
+            "reading": "for I to thee will pray."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-005.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-005.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "LORD, thou shalt early hear my voice:",
+            "normalized": "LORD, thou shalt early hear my voice:",
+            "reading": "LORD, thou shalt early hear my voice:"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I early will direct",
+            "normalized": "I early will direct",
+            "reading": "I early will direct"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My prayer to thee; and, looking up,",
+            "normalized": "My prayer to thee; and, looking up,",
+            "reading": "My prayer to thee; and, looking up,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "an answer will expect.",
+            "normalized": "An answer will expect.",
+            "reading": "an answer will expect."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-005.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4,
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-005.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thou art not a God that doth",
+            "normalized": "For thou art not a God that doth",
+            "reading": "For thou art not a God that doth"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in wickedness delight;",
+            "normalized": "In wickedness delight;",
+            "reading": "in wickedness delight;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Neither shall evil dwell with thee,",
+            "normalized": "Neither shall evil dwell with thee,",
+            "reading": "Neither shall evil dwell with thee,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor fools stand in thy sight.",
+            "normalized": "Nor fools stand in thy sight.",
+            "reading": "nor fools stand in thy sight."
+          },
+          "biblical_verse_start": 5
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-005.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-005.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All that ill-doers are thou hat’st;",
+            "normalized": "All that ill-doers are thou hat’st;",
+            "reading": "All that ill-doers are thou hat’st;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "cutt’st off that liars be:",
+            "normalized": "Cutt’st off that liars be:",
+            "reading": "cutt’st off that liars be:"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The bloody and deceitful man",
+            "normalized": "The bloody and deceitful man",
+            "reading": "The bloody and deceitful man"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "abhorrèd is by thee.",
+            "normalized": "Abhorrèd is by thee.",
+            "reading": "abhorrèd is by thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-005.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-005.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But I into thy house will come",
+            "normalized": "But I into thy house will come",
+            "reading": "But I into thy house will come"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in thine abundant grace;",
+            "normalized": "In thine abundant grace;",
+            "reading": "in thine abundant grace;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And I will worship in thy fear",
+            "normalized": "And I will worship in thy fear",
+            "reading": "And I will worship in thy fear"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "toward thy holy place.",
+            "normalized": "Toward thy holy place.",
+            "reading": "toward thy holy place."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-005.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-005.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because of those mine enemies,",
+            "normalized": "Because of those mine enemies,",
+            "reading": "Because of those mine enemies,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "LORD, in thy righteousness",
+            "normalized": "LORD, in thy righteousness",
+            "reading": "LORD, in thy righteousness"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Do thou me lead; do thou thy way",
+            "normalized": "Do thou me lead; do thou thy way",
+            "reading": "Do thou me lead; do thou thy way"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "make straight before my face.",
+            "normalized": "Make straight before my face.",
+            "reading": "make straight before my face."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-005.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-005.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For in their mouth there is no truth,",
+            "normalized": "For in their mouth there is no truth,",
+            "reading": "For in their mouth there is no truth,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their inward part is ill;",
+            "normalized": "Their inward part is ill;",
+            "reading": "their inward part is ill;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their throat’s an open sepulchre,",
+            "normalized": "Their throat’s an open sepulchre,",
+            "reading": "Their throat’s an open sepulchre,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their tongue doth flatter still.",
+            "normalized": "Their tongue doth flatter still.",
+            "reading": "their tongue doth flatter still."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-005.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-005.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O God, destroy them; let them be",
+            "normalized": "O God, destroy them; let them be",
+            "reading": "O God, destroy them; let them be"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "by their own counsel quelled:",
+            "normalized": "By their own counsel quelled:",
+            "reading": "by their own counsel quelled:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Them for their many sins cast out,",
+            "normalized": "Them for their many sins cast out,",
+            "reading": "Them for their many sins cast out,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for they ’gainst thee rebelled.",
+            "normalized": "For they ’gainst thee rebelled.",
+            "reading": "for they ’gainst thee rebelled."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-005.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-005.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But let all joy that trust in thee,",
+            "normalized": "But let all joy that trust in thee,",
+            "reading": "But let all joy that trust in thee,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and still make shouting noise;",
+            "normalized": "And still make shouting noise;",
+            "reading": "and still make shouting noise;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For them thou sav’st: let all that love",
+            "normalized": "For them thou sav’st: let all that love",
+            "reading": "For them thou sav’st: let all that love"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy name in thee rejoice.",
+            "normalized": "Thy name in thee rejoice.",
+            "reading": "thy name in thee rejoice."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-005.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-005.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For, LORD, unto the righteous man",
+            "normalized": "For, LORD, unto the righteous man",
+            "reading": "For, LORD, unto the righteous man"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou wilt thy blessing yield:",
+            "normalized": "Thou wilt thy blessing yield:",
+            "reading": "thou wilt thy blessing yield:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With favour thou wilt compass him",
+            "normalized": "With favour thou wilt compass him",
+            "reading": "With favour thou wilt compass him"
+          }
+        },
+        {
+          "id": "ps1650.psalm-005.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "about, as with a shield.",
+            "normalized": "About, as with a shield.",
+            "reading": "about, as with a shield."
+          }
+        }
+      ]
+    }
+  ]
+}

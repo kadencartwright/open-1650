@@ -1,0 +1,562 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-115.primary",
+  "psalm_number": 115,
+  "title": "Psalm 115",
+  "version": "primary",
+  "opening_line": "Not unto us, LORD, not to us,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 115 · p. 166–167",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-115-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      166,
+      167
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-115.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-115.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Not unto us, LORD, not to us,",
+            "normalized": "Not unto us, LORD, not to us,",
+            "reading": "Not unto us, LORD, not to us,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "but do thou glory take",
+            "normalized": "But do thou glory take",
+            "reading": "but do thou glory take"
+          }
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto thy name, ev’n for thy truth,",
+            "normalized": "Unto thy name, ev’n for thy truth,",
+            "reading": "Unto thy name, ev’n for thy truth,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and for thy mercy’s sake.",
+            "normalized": "And for thy mercy’s sake.",
+            "reading": "and for thy mercy’s sake."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-115.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2,
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-115.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O wherefore should the heathen say,",
+            "normalized": "O wherefore should the heathen say,",
+            "reading": "O wherefore should the heathen say,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Where is their God now gone?",
+            "normalized": "Where is their God now gone?",
+            "reading": "Where is their God now gone?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But our God in the heavens is,",
+            "normalized": "But our God in the heavens is,",
+            "reading": "But our God in the heavens is,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "what pleased him he hath done.",
+            "normalized": "What pleased him he hath done.",
+            "reading": "what pleased him he hath done."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-115.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4,
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-115.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their idols silver are and gold,",
+            "normalized": "Their idols silver are and gold,",
+            "reading": "Their idols silver are and gold,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "work of men’s hands they be.",
+            "normalized": "Work of men’s hands they be.",
+            "reading": "work of men’s hands they be."
+          }
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Mouths have they, but they do not speak;",
+            "normalized": "Mouths have they, but they do not speak;",
+            "reading": "Mouths have they, but they do not speak;"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and eyes, but do not see;",
+            "normalized": "And eyes, but do not see;",
+            "reading": "and eyes, but do not see;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-115.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6,
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-115.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ears have they, but they do not hear;",
+            "normalized": "Ears have they, but they do not hear;",
+            "reading": "Ears have they, but they do not hear;"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "noses, but savour not;",
+            "normalized": "Noses, but savour not;",
+            "reading": "noses, but savour not;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Hands, feet, but handle not, nor walk;",
+            "normalized": "Hands, feet, but handle not, nor walk;",
+            "reading": "Hands, feet, but handle not, nor walk;"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor speak they through their throat.",
+            "normalized": "Nor speak they through their throat.",
+            "reading": "nor speak they through their throat."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-115.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        8,
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-115.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Like them their makers are, and all",
+            "normalized": "Like them their makers are, and all",
+            "reading": "Like them their makers are, and all"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "on them their trust that build.",
+            "normalized": "On them their trust that build.",
+            "reading": "on them their trust that build."
+          }
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O Isr’el, trust thou in the LORD,",
+            "normalized": "O Isr’el, trust thou in the LORD,",
+            "reading": "O Isr’el, trust thou in the LORD,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he is their help and shield.",
+            "normalized": "He is their help and shield.",
+            "reading": "he is their help and shield."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-115.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        10,
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-115.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O Aaron’s house, trust in the LORD,",
+            "normalized": "O Aaron’s house, trust in the LORD,",
+            "reading": "O Aaron’s house, trust in the LORD,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their help and shield is he.",
+            "normalized": "Their help and shield is he.",
+            "reading": "their help and shield is he."
+          }
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ye that fear God, trust in the LORD,",
+            "normalized": "Ye that fear God, trust in the LORD,",
+            "reading": "Ye that fear God, trust in the LORD,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their help and shield he’ll be.",
+            "normalized": "Their help and shield he’ll be.",
+            "reading": "their help and shield he’ll be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-115.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-115.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD of us hath mindful been,",
+            "normalized": "The LORD of us hath mindful been,",
+            "reading": "The LORD of us hath mindful been,"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and he will bless us still:",
+            "normalized": "And he will bless us still:",
+            "reading": "and he will bless us still:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He will the house of Isr’el bless,",
+            "normalized": "He will the house of Isr’el bless,",
+            "reading": "He will the house of Isr’el bless,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "bless Aaron’s house he will.",
+            "normalized": "Bless Aaron’s house he will.",
+            "reading": "bless Aaron’s house he will."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-115.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        13,
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-115.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Both small and great, that fear the LORD,",
+            "normalized": "Both small and great, that fear the LORD,",
+            "reading": "Both small and great, that fear the LORD,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he will them surely bless.",
+            "normalized": "He will them surely bless.",
+            "reading": "he will them surely bless."
+          }
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD will you, you and your seed,",
+            "normalized": "The LORD will you, you and your seed,",
+            "reading": "The LORD will you, you and your seed,"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "aye more and more increase.",
+            "normalized": "Aye more and more increase.",
+            "reading": "aye more and more increase."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-115.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        15,
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-115.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O blessèd are ye of the LORD,",
+            "normalized": "O blessèd are ye of the LORD,",
+            "reading": "O blessèd are ye of the LORD,"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who made the earth and heav’n.",
+            "normalized": "Who made the earth and heav’n.",
+            "reading": "who made the earth and heav’n."
+          }
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The heav’n, ev’n heav’ns, are GOD’s, but he",
+            "normalized": "The heav’n, ev’n heav’ns, are GOD’s, but he",
+            "reading": "The heav’n, ev’n heav’ns, are GOD’s, but he"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "earth to men’s sons hath giv’n.",
+            "normalized": "Earth to men’s sons hath giv’n.",
+            "reading": "earth to men’s sons hath giv’n."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-115.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        17,
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-115.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The dead, nor who to silence go,",
+            "normalized": "The dead, nor who to silence go,",
+            "reading": "The dead, nor who to silence go,"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "GOD’s praise do not record.",
+            "normalized": "GOD’s praise do not record.",
+            "reading": "GOD’s praise do not record."
+          }
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But henceforth we for ever will",
+            "normalized": "But henceforth we for ever will",
+            "reading": "But henceforth we for ever will"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-115.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "bless GOD. Praise ye the LORD.",
+            "normalized": "Bless GOD. Praise ye the LORD.",
+            "reading": "bless GOD. Praise ye the LORD."
+          }
+        }
+      ]
+    }
+  ]
+}

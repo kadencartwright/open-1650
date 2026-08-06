@@ -1,0 +1,354 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-142.primary",
+  "psalm_number": 142,
+  "title": "Psalm 142",
+  "version": "primary",
+  "opening_line": "I with my voice cried to the LORD,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 142 · p. 200–201",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-142--(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      200,
+      201
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-142.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-142.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I with my voice cried to the LORD,",
+            "normalized": "I with my voice cried to the LORD,",
+            "reading": "I with my voice cried to the LORD,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with it made my request:",
+            "normalized": "With it made my request:",
+            "reading": "with it made my request:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Poured out to him my plaint, to him",
+            "normalized": "Poured out to him my plaint, to him",
+            "reading": "Poured out to him my plaint, to him"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my trouble I expressed.",
+            "normalized": "My trouble I expressed.",
+            "reading": "my trouble I expressed."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-142.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-142.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When in me was o’erwhelmed my spirit,",
+            "normalized": "When in me was o’erwhelmed my spirit,",
+            "reading": "When in me was o’erwhelmed my spirit,"
+          },
+          "biblical_verse_start": 3,
+          "source_underlining": [
+            "spirit"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "then well thou knew’st my way;",
+            "normalized": "Then well thou knew’st my way;",
+            "reading": "then well thou knew’st my way;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Where I did walk a snare for me",
+            "normalized": "Where I did walk a snare for me",
+            "reading": "Where I did walk a snare for me"
+          }
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they privily did lay.",
+            "normalized": "They privily did lay.",
+            "reading": "they privily did lay."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-142.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-142.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I looked on my right hand, and viewed,",
+            "normalized": "I looked on my right hand, and viewed,",
+            "reading": "I looked on my right hand, and viewed,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "but none to know me were;",
+            "normalized": "But none to know me were;",
+            "reading": "but none to know me were;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All refuge failèd me, no man",
+            "normalized": "All refuge failèd me, no man",
+            "reading": "All refuge failèd me, no man"
+          }
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "did for my soul take care.",
+            "normalized": "Did for my soul take care.",
+            "reading": "did for my soul take care."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-142.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-142.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I cried to thee; I said, Thou art",
+            "normalized": "I cried to thee; I said, Thou art",
+            "reading": "I cried to thee; I said, Thou art"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my refuge, LORD, alone;",
+            "normalized": "My refuge, LORD, alone;",
+            "reading": "my refuge, LORD, alone;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in the land of those that live",
+            "normalized": "And in the land of those that live",
+            "reading": "And in the land of those that live"
+          }
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou art my pörtion.",
+            "normalized": "Thou art my pörtion.",
+            "reading": "thou art my pörtion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-142.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-142.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because I am brought very low,",
+            "normalized": "Because I am brought very low,",
+            "reading": "Because I am brought very low,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "attend unto my cry:",
+            "normalized": "Attend unto my cry:",
+            "reading": "attend unto my cry:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Me from my persecutors save,",
+            "normalized": "Me from my persecutors save,",
+            "reading": "Me from my persecutors save,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who stronger are than I.",
+            "normalized": "Who stronger are than I.",
+            "reading": "who stronger are than I."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-142.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-142.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From prison bring my soul, that I",
+            "normalized": "From prison bring my soul, that I",
+            "reading": "From prison bring my soul, that I"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy name may glorify:",
+            "normalized": "Thy name may glorify:",
+            "reading": "thy name may glorify:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The just shall compass me, when thou",
+            "normalized": "The just shall compass me, when thou",
+            "reading": "The just shall compass me, when thou"
+          }
+        },
+        {
+          "id": "ps1650.psalm-142.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with me deal’st bounteously.",
+            "normalized": "With me deal’st bounteously.",
+            "reading": "with me deal’st bounteously."
+          },
+          "source_underlining": [
+            "teous"
+          ]
+        }
+      ]
+    }
+  ]
+}

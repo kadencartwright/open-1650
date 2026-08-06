@@ -1,0 +1,251 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-120.primary",
+  "psalm_number": 120,
+  "title": "Psalm 120",
+  "version": "primary",
+  "opening_line": "In my distress to GOD I cried,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 120 · p. 183",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-120-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      183
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-120.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-120.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In my distress to GOD I cried,",
+            "normalized": "In my distress to GOD I cried,",
+            "reading": "In my distress to GOD I cried,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-120.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and he gave ear to me.",
+            "normalized": "And he gave ear to me.",
+            "reading": "and he gave ear to me."
+          }
+        },
+        {
+          "id": "ps1650.psalm-120.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From lying lips, and guileful tongue,",
+            "normalized": "From lying lips, and guileful tongue,",
+            "reading": "From lying lips, and guileful tongue,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-120.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O LORD, my soul set free.",
+            "normalized": "O LORD, my soul set free.",
+            "reading": "O LORD, my soul set free."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-120.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-120.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "What shall be giv’n thee? or what shall",
+            "normalized": "What shall be giv’n thee? or what shall",
+            "reading": "What shall be giv’n thee? or what shall"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-120.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "be done to thee, false tongue?",
+            "normalized": "Be done to thee, false tongue?",
+            "reading": "be done to thee, false tongue?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-120.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n burning coals of juniper,",
+            "normalized": "Ev’n burning coals of juniper,",
+            "reading": "Ev’n burning coals of juniper,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-120.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "sharp arrows of the strong.",
+            "normalized": "Sharp arrows of the strong.",
+            "reading": "sharp arrows of the strong."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-120.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-120.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Woe’s me that I in Mesech am",
+            "normalized": "Woe’s me that I in Mesech am",
+            "reading": "Woe’s me that I in Mesech am"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-120.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a sojourner so long;",
+            "normalized": "A sojourner so long;",
+            "reading": "a sojourner so long;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-120.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That I in tabernacles dwell",
+            "normalized": "That I in tabernacles dwell",
+            "reading": "That I in tabernacles dwell"
+          }
+        },
+        {
+          "id": "ps1650.psalm-120.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to Kedar that belong.",
+            "normalized": "To Kedar that belong.",
+            "reading": "to Kedar that belong."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-120.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6,
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-120.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My soul with him that hateth peace",
+            "normalized": "My soul with him that hateth peace",
+            "reading": "My soul with him that hateth peace"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-120.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "hath long a dweller been.",
+            "normalized": "Hath long a dweller been.",
+            "reading": "hath long a dweller been."
+          }
+        },
+        {
+          "id": "ps1650.psalm-120.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I am for peace; but when I speak,",
+            "normalized": "I am for peace; but when I speak,",
+            "reading": "I am for peace; but when I speak,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-120.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for battle they are keen.",
+            "normalized": "For battle they are keen.",
+            "reading": "for battle they are keen."
+          }
+        }
+      ]
+    }
+  ]
+}

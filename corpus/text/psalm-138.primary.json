@@ -1,0 +1,447 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-138.primary",
+  "psalm_number": 138,
+  "title": "Psalm 138",
+  "version": "primary",
+  "opening_line": "Thee will I praise with all my heart,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 138 · p. 196",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-138-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      196
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-138.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-138.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thee will I praise with all my heart,",
+            "normalized": "Thee will I praise with all my heart,",
+            "reading": "Thee will I praise with all my heart,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I will sing praise to thee",
+            "normalized": "I will sing praise to thee",
+            "reading": "I will sing praise to thee"
+          }
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Before the gods: And worship will",
+            "normalized": "Before the gods: And worship will",
+            "reading": "Before the gods: And worship will"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "toward thy sanctuary.",
+            "normalized": "Toward thy sanctuary.",
+            "reading": "toward thy sanctuary."
+          },
+          "source_underlining": [
+            "tua"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-138.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-138.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I’ll praise thy name, ev’n for thy truth,",
+            "normalized": "I’ll praise thy name, ev’n for thy truth,",
+            "reading": "I’ll praise thy name, ev’n for thy truth,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and kindness of thy love;",
+            "normalized": "And kindness of thy love;",
+            "reading": "and kindness of thy love;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thou thy word hast magnified",
+            "normalized": "For thou thy word hast magnified",
+            "reading": "For thou thy word hast magnified"
+          }
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all thy great name above.",
+            "normalized": "All thy great name above.",
+            "reading": "all thy great name above."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-138.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-138.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou didst me answer in the day",
+            "normalized": "Thou didst me answer in the day",
+            "reading": "Thou didst me answer in the day"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when I to thee did cry;",
+            "normalized": "When I to thee did cry;",
+            "reading": "when I to thee did cry;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And thou my fainting soul with strength",
+            "normalized": "And thou my fainting soul with strength",
+            "reading": "And thou my fainting soul with strength"
+          }
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "didst strengthen inwardly.",
+            "normalized": "Didst strengthen inwardly.",
+            "reading": "didst strengthen inwardly."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-138.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-138.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All kings upon the earth that are",
+            "normalized": "All kings upon the earth that are",
+            "reading": "All kings upon the earth that are"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall give thee praise, O LORD;",
+            "normalized": "Shall give thee praise, O LORD;",
+            "reading": "shall give thee praise, O LORD;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When as they from thy mouth shall hear",
+            "normalized": "When as they from thy mouth shall hear",
+            "reading": "When as they from thy mouth shall hear"
+          }
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy true and faithful word.",
+            "normalized": "Thy true and faithful word.",
+            "reading": "thy true and faithful word."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-138.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-138.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, in the righteous ways of GOD",
+            "normalized": "Yea, in the righteous ways of GOD",
+            "reading": "Yea, in the righteous ways of GOD"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with gladness they shall sing:",
+            "normalized": "With gladness they shall sing:",
+            "reading": "with gladness they shall sing:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For great’s the glory of the LORD,",
+            "normalized": "For great’s the glory of the LORD,",
+            "reading": "For great’s the glory of the LORD,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who doth for ever reign.",
+            "normalized": "Who doth for ever reign.",
+            "reading": "who doth for ever reign."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-138.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-138.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Though GOD be high, yet he respects",
+            "normalized": "Though GOD be high, yet he respects",
+            "reading": "Though GOD be high, yet he respects"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all those that lowly be;",
+            "normalized": "All those that lowly be;",
+            "reading": "all those that lowly be;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Whereas the proud and lofty ones",
+            "normalized": "Whereas the proud and lofty ones",
+            "reading": "Whereas the proud and lofty ones"
+          }
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "afar off knoweth he.",
+            "normalized": "Afar off knoweth he.",
+            "reading": "afar off knoweth he."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-138.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-138.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Though I in midst of trouble walk,",
+            "normalized": "Though I in midst of trouble walk,",
+            "reading": "Though I in midst of trouble walk,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I life from thee shall have:",
+            "normalized": "I life from thee shall have:",
+            "reading": "I life from thee shall have:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "’Gainst my foes’ wrath thou’lt stretch thine hand;",
+            "normalized": "’Gainst my foes’ wrath thou’lt stretch thine hand;",
+            "reading": "’Gainst my foes’ wrath thou’lt stretch thine hand;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy right hand shall me save.",
+            "normalized": "Thy right hand shall me save.",
+            "reading": "thy right hand shall me save."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-138.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-138.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Surely that which concerneth me",
+            "normalized": "Surely that which concerneth me",
+            "reading": "Surely that which concerneth me"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the LORD will perfect make:",
+            "normalized": "The LORD will perfect make:",
+            "reading": "the LORD will perfect make:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "LORD, still thy mercy lasts; do not",
+            "normalized": "LORD, still thy mercy lasts; do not",
+            "reading": "LORD, still thy mercy lasts; do not"
+          }
+        },
+        {
+          "id": "ps1650.psalm-138.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thine own hands’ works forsake.",
+            "normalized": "Thine own hands’ works forsake.",
+            "reading": "thine own hands’ works forsake."
+          }
+        }
+      ]
+    }
+  ]
+}

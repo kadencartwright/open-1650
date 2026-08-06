@@ -1,0 +1,450 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-099.primary",
+  "psalm_number": 99,
+  "title": "Psalm 99",
+  "version": "primary",
+  "opening_line": "Th’ eternal LORD doth reign as king,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 99 · p. 139",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-099-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      139
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-099.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-099.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Th’ eternal LORD doth reign as king,",
+            "normalized": "Th’ eternal LORD doth reign as king,",
+            "reading": "Th’ eternal LORD doth reign as king,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let all the people quake;",
+            "normalized": "Let all the people quake;",
+            "reading": "let all the people quake;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He sits between the cherubims,",
+            "normalized": "He sits between the cherubims,",
+            "reading": "He sits between the cherubims,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let th’ earth be mov’d and shake.",
+            "normalized": "Let th’ earth be mov’d and shake.",
+            "reading": "let th’ earth be mov’d and shake."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-099.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2,
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-099.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD in Zion great and high",
+            "normalized": "The LORD in Zion great and high",
+            "reading": "The LORD in Zion great and high"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "above all people is;",
+            "normalized": "Above all people is;",
+            "reading": "above all people is;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy great and dreadful name (for it",
+            "normalized": "Thy great and dreadful name (for it",
+            "reading": "Thy great and dreadful name (for it"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is holy) let them bless.",
+            "normalized": "Is holy) let them bless.",
+            "reading": "is holy) let them bless."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-099.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-099.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The king’s strength also judgment loves;",
+            "normalized": "The king’s strength also judgment loves;",
+            "reading": "The king’s strength also judgment loves;"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou settlest equity:",
+            "normalized": "Thou settlest equity:",
+            "reading": "thou settlest equity:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Just judgment thou dost execute",
+            "normalized": "Just judgment thou dost execute",
+            "reading": "Just judgment thou dost execute"
+          }
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in Jacob righteously.",
+            "normalized": "In Jacob righteously.",
+            "reading": "in Jacob righteously."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-099.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-099.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD our God exalt on high,",
+            "normalized": "The LORD our God exalt on high,",
+            "reading": "The LORD our God exalt on high,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and rev’rently do ye",
+            "normalized": "And rev’rently do ye",
+            "reading": "and rev’rently do ye"
+          }
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Before his footstool worship him:",
+            "normalized": "Before his footstool worship him:",
+            "reading": "Before his footstool worship him:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the Holy One is he.",
+            "normalized": "The Holy One is he.",
+            "reading": "the Holy One is he."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-099.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-099.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Moses and Aaron ’mong his priests,",
+            "normalized": "Moses and Aaron ’mong his priests,",
+            "reading": "Moses and Aaron ’mong his priests,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Samuel, with them that call",
+            "normalized": "Samuel, with them that call",
+            "reading": "Samuel, with them that call"
+          },
+          "source_underlining": [
+            "uel"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Upon his name: these called on GOD,",
+            "normalized": "Upon his name: these called on GOD,",
+            "reading": "Upon his name: these called on GOD,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and he them answered all.",
+            "normalized": "And he them answered all.",
+            "reading": "and he them answered all."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-099.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-099.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Within the pillar of the cloud",
+            "normalized": "Within the pillar of the cloud",
+            "reading": "Within the pillar of the cloud"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he unto them did speak:",
+            "normalized": "He unto them did speak:",
+            "reading": "he unto them did speak:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The testimonies he them taught,",
+            "normalized": "The testimonies he them taught,",
+            "reading": "The testimonies he them taught,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and laws, they did not break.",
+            "normalized": "And laws, they did not break.",
+            "reading": "and laws, they did not break."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-099.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-099.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou answer’dst them, O LORD our God;",
+            "normalized": "Thou answer’dst them, O LORD our God;",
+            "reading": "Thou answer’dst them, O LORD our God;"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou wast a God that gave",
+            "normalized": "Thou wast a God that gave",
+            "reading": "thou wast a God that gave"
+          }
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Pardon to them, though on their deeds",
+            "normalized": "Pardon to them, though on their deeds",
+            "reading": "Pardon to them, though on their deeds"
+          }
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou wouldest vengeance have.",
+            "normalized": "Thou wouldest vengeance have.",
+            "reading": "thou wouldest vengeance have."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-099.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-099.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Do ye exalt the LORD our God,",
+            "normalized": "Do ye exalt the LORD our God,",
+            "reading": "Do ye exalt the LORD our God,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and at his holy hill",
+            "normalized": "And at his holy hill",
+            "reading": "and at his holy hill"
+          }
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Do ye him worship: for the LORD",
+            "normalized": "Do ye him worship: for the LORD",
+            "reading": "Do ye him worship: for the LORD"
+          }
+        },
+        {
+          "id": "ps1650.psalm-099.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our God is holy still.",
+            "normalized": "Our God is holy still.",
+            "reading": "our God is holy still."
+          }
+        }
+      ]
+    }
+  ]
+}

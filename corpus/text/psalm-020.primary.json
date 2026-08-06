@@ -1,0 +1,405 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-020.primary",
+  "psalm_number": 20,
+  "title": "Psalm 20",
+  "version": "primary",
+  "opening_line": "JEHOVAH hear thee in the day",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 20 · p. 27",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-020-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      27
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-020.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-020.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "JEHOVAH hear thee in the day",
+            "normalized": "JEHOVAH hear thee in the day",
+            "reading": "JEHOVAH hear thee in the day"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when trouble he doth send:",
+            "normalized": "When trouble he doth send:",
+            "reading": "when trouble he doth send:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And let the name of Jacob’s God",
+            "normalized": "And let the name of Jacob’s God",
+            "reading": "And let the name of Jacob’s God"
+          }
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thee from all ill defend.",
+            "normalized": "Thee from all ill defend.",
+            "reading": "thee from all ill defend."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-020.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-020.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O let him help send from above,",
+            "normalized": "O let him help send from above,",
+            "reading": "O let him help send from above,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "out of his sanctuary:",
+            "normalized": "Out of his sanctuary:",
+            "reading": "out of his sanctuary:"
+          },
+          "source_underlining": [
+            "tua"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From Zion, his own holy hill,",
+            "normalized": "From Zion, his own holy hill,",
+            "reading": "From Zion, his own holy hill,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let him give strength to thee.",
+            "normalized": "Let him give strength to thee.",
+            "reading": "let him give strength to thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-020.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-020.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let him remember all thy gifts,",
+            "normalized": "Let him remember all thy gifts,",
+            "reading": "Let him remember all thy gifts,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "accept thy sacrifice:",
+            "normalized": "Accept thy sacrifice:",
+            "reading": "accept thy sacrifice:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Grant thee thine heart’s wish, and fulfil",
+            "normalized": "Grant thee thine heart’s wish, and fulfil",
+            "reading": "Grant thee thine heart’s wish, and fulfil"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy thoughts and counsel wise.",
+            "normalized": "Thy thoughts and counsel wise.",
+            "reading": "thy thoughts and counsel wise."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-020.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-020.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In thy salvation we will joy;",
+            "normalized": "In thy salvation we will joy;",
+            "reading": "In thy salvation we will joy;"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in our God’s name we will",
+            "normalized": "In our God’s name we will",
+            "reading": "in our God’s name we will"
+          }
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Display our banners: and the LORD",
+            "normalized": "Display our banners: and the LORD",
+            "reading": "Display our banners: and the LORD"
+          }
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy prayers all fulfil.",
+            "normalized": "Thy prayers all fulfil.",
+            "reading": "thy prayers all fulfil."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-020.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-020.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Now know I GOD his king doth save:",
+            "normalized": "Now know I GOD his king doth save:",
+            "reading": "Now know I GOD his king doth save:"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he from his holy heav’n",
+            "normalized": "He from his holy heav’n",
+            "reading": "he from his holy heav’n"
+          }
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Will hear him, with the saving strength",
+            "normalized": "Will hear him, with the saving strength",
+            "reading": "Will hear him, with the saving strength"
+          }
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "by his own right hand giv’n.",
+            "normalized": "By his own right hand giv’n.",
+            "reading": "by his own right hand giv’n."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-020.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-020.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In chariots some put confidence,",
+            "normalized": "In chariots some put confidence,",
+            "reading": "In chariots some put confidence,"
+          },
+          "biblical_verse_start": 7,
+          "source_underlining": [
+            "riots"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "some horses trust upon:",
+            "normalized": "Some horses trust upon:",
+            "reading": "some horses trust upon:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But we remember will the name",
+            "normalized": "But we remember will the name",
+            "reading": "But we remember will the name"
+          }
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of our LORD God alone.",
+            "normalized": "Of our LORD God alone.",
+            "reading": "of our LORD God alone."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-020.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8,
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-020.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "We rise, and upright stand, when they",
+            "normalized": "We rise, and upright stand, when they",
+            "reading": "We rise, and upright stand, when they"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "are bowèd down, and fall.",
+            "normalized": "Are bowèd down, and fall.",
+            "reading": "are bowèd down, and fall."
+          }
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Deliver, LORD; and let the King",
+            "normalized": "Deliver, LORD; and let the King",
+            "reading": "Deliver, LORD; and let the King"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-020.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "us hear, when we do call.",
+            "normalized": "Us hear, when we do call.",
+            "reading": "us hear, when we do call."
+          }
+        }
+      ]
+    }
+  ]
+}

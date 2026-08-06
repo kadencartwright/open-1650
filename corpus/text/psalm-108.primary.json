@@ -1,0 +1,564 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-108.primary",
+  "psalm_number": 108,
+  "title": "Psalm 108",
+  "version": "primary",
+  "opening_line": "My heart is fixed, Lord; I will sing,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 108 · p. 159–160",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-108-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      159,
+      160
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-108.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-108.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My heart is fixed, Lord; I will sing,",
+            "normalized": "My heart is fixed, Lord; I will sing,",
+            "reading": "My heart is fixed, Lord; I will sing,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and with my glory praise.",
+            "normalized": "And with my glory praise.",
+            "reading": "and with my glory praise."
+          }
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Awake up psaltery and harp;",
+            "normalized": "Awake up psaltery and harp;",
+            "reading": "Awake up psaltery and harp;"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "myself I’ll early raise.",
+            "normalized": "Myself I’ll early raise.",
+            "reading": "myself I’ll early raise."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-108.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-108.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I’ll praise thee ’mong the people, LORD;",
+            "normalized": "I’ll praise thee ’mong the people, LORD;",
+            "reading": "I’ll praise thee ’mong the people, LORD;"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "’mong nations sing will I:",
+            "normalized": "’Mong nations sing will I:",
+            "reading": "’mong nations sing will I:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For above heav’n thy mercy’s great,",
+            "normalized": "For above heav’n thy mercy’s great,",
+            "reading": "For above heav’n thy mercy’s great,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy truth doth reach the sky.",
+            "normalized": "Thy truth doth reach the sky.",
+            "reading": "thy truth doth reach the sky."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-108.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-108.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Be thou above the heavens, Lord,",
+            "normalized": "Be thou above the heavens, Lord,",
+            "reading": "Be thou above the heavens, Lord,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "exalted gloriously;",
+            "normalized": "Exalted gloriously;",
+            "reading": "exalted gloriously;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy glory all the earth above",
+            "normalized": "Thy glory all the earth above",
+            "reading": "Thy glory all the earth above"
+          }
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "be lifted up on high.",
+            "normalized": "Be lifted up on high.",
+            "reading": "be lifted up on high."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-108.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-108.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That those who thy belovèd are",
+            "normalized": "That those who thy belovèd are",
+            "reading": "That those who thy belovèd are"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "deliverèd may be,",
+            "normalized": "Deliverèd may be,",
+            "reading": "deliverèd may be,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O do thou save with thy right hand,",
+            "normalized": "O do thou save with thy right hand,",
+            "reading": "O do thou save with thy right hand,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and answer give to me.",
+            "normalized": "And answer give to me.",
+            "reading": "and answer give to me."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-108.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-108.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "God in his holiness hath said,",
+            "normalized": "God in his holiness hath said,",
+            "reading": "God in his holiness hath said,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Herein I will take pleasure;",
+            "normalized": "Herein I will take pleasure;",
+            "reading": "Herein I will take pleasure;"
+          },
+          "source_underlining": [
+            "pleasure"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Shechem I will divide, and forth",
+            "normalized": "Shechem I will divide, and forth",
+            "reading": "Shechem I will divide, and forth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "will Succoth’s valley measure.",
+            "normalized": "Will Succoth’s valley measure.",
+            "reading": "will Succoth’s valley measure."
+          },
+          "source_underlining": [
+            "measure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-108.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-108.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Gilead I claim as mine by right;",
+            "normalized": "Gilead I claim as mine by right;",
+            "reading": "Gilead I claim as mine by right;"
+          },
+          "biblical_verse_start": 8,
+          "source_underlining": [
+            "ead"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Manasseh mine shall be;",
+            "normalized": "Manasseh mine shall be;",
+            "reading": "Manasseh mine shall be;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ephraim is of my head the strength;",
+            "normalized": "Ephraim is of my head the strength;",
+            "reading": "Ephraim is of my head the strength;"
+          },
+          "source_underlining": [
+            "aim"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Judah gives laws for me;",
+            "normalized": "Judah gives laws for me;",
+            "reading": "Judah gives laws for me;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-108.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-108.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Moab’s my washing-pot; my shoe",
+            "normalized": "Moab’s my washing-pot; my shoe",
+            "reading": "Moab’s my washing-pot; my shoe"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I’ll over Edom throw;",
+            "normalized": "I’ll over Edom throw;",
+            "reading": "I’ll over Edom throw;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Over the land of Palestine",
+            "normalized": "Over the land of Palestine",
+            "reading": "Over the land of Palestine"
+          }
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I will in triumph go.",
+            "normalized": "I will in triumph go.",
+            "reading": "I will in triumph go."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-108.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-108.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O who is he will bring me to",
+            "normalized": "O who is he will bring me to",
+            "reading": "O who is he will bring me to"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the city fortified?",
+            "normalized": "The city fortified?",
+            "reading": "the city fortified?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O who is he that to the land",
+            "normalized": "O who is he that to the land",
+            "reading": "O who is he that to the land"
+          }
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of Edom will me guide?",
+            "normalized": "Of Edom will me guide?",
+            "reading": "of Edom will me guide?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-108.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-108.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O God, thou who hadst cast us off,",
+            "normalized": "O God, thou who hadst cast us off,",
+            "reading": "O God, thou who hadst cast us off,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "this thing wilt thou not do?",
+            "normalized": "This thing wilt thou not do?",
+            "reading": "this thing wilt thou not do?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And wilt not thou, ev’n thou, O God,",
+            "normalized": "And wilt not thou, ev’n thou, O God,",
+            "reading": "And wilt not thou, ev’n thou, O God,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "forth with our armies go?",
+            "normalized": "Forth with our armies go?",
+            "reading": "forth with our armies go?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-108.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        12,
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-108.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Do thou from trouble give us help,",
+            "normalized": "Do thou from trouble give us help,",
+            "reading": "Do thou from trouble give us help,"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for helpless is man’s aid.",
+            "normalized": "For helpless is man’s aid.",
+            "reading": "for helpless is man’s aid."
+          }
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Through God we shall do valiantly;",
+            "normalized": "Through God we shall do valiantly;",
+            "reading": "Through God we shall do valiantly;"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-108.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our foes he shall down tread.",
+            "normalized": "Our foes he shall down tread.",
+            "reading": "our foes he shall down tread."
+          }
+        }
+      ]
+    }
+  ]
+}

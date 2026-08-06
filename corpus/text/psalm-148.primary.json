@@ -1,0 +1,506 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-148.primary",
+  "psalm_number": 148,
+  "title": "Psalm 148",
+  "version": "primary",
+  "opening_line": "Praise GOD. From heavens praise the LORD,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 148 · p. 209–210",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "first version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-148,-first-version-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      209,
+      210
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-148.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-148.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Praise GOD. From heavens praise the LORD,",
+            "normalized": "Praise GOD. From heavens praise the LORD,",
+            "reading": "Praise GOD. From heavens praise the LORD,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in heights praise to him be.",
+            "normalized": "In heights praise to him be.",
+            "reading": "in heights praise to him be."
+          }
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All ye his angels, praise ye him;",
+            "normalized": "All ye his angels, praise ye him;",
+            "reading": "All ye his angels, praise ye him;"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his hosts all, praise him ye.",
+            "normalized": "His hosts all, praise him ye.",
+            "reading": "his hosts all, praise him ye."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-148.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-148.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O praise ye him, both sun and moon;",
+            "normalized": "O praise ye him, both sun and moon;",
+            "reading": "O praise ye him, both sun and moon;"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "praise him, all stars of light.",
+            "normalized": "Praise him, all stars of light.",
+            "reading": "praise him, all stars of light."
+          }
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ye heav’ns of heav’ns him praise, and floods",
+            "normalized": "Ye heav’ns of heav’ns him praise, and floods",
+            "reading": "Ye heav’ns of heav’ns him praise, and floods"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "above the heavens’ height.",
+            "normalized": "Above the heavens’ height.",
+            "reading": "above the heavens’ height."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-148.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-148.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let all the creatures praise the name",
+            "normalized": "Let all the creatures praise the name",
+            "reading": "Let all the creatures praise the name"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of our almighty LORD:",
+            "normalized": "Of our almighty LORD:",
+            "reading": "of our almighty LORD:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For he commanded, and they were",
+            "normalized": "For he commanded, and they were",
+            "reading": "For he commanded, and they were"
+          }
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "created by his word.",
+            "normalized": "Created by his word.",
+            "reading": "created by his word."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-148.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-148.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He also, for all times to come,",
+            "normalized": "He also, for all times to come,",
+            "reading": "He also, for all times to come,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "hath them established sure;",
+            "normalized": "Hath them established sure;",
+            "reading": "hath them established sure;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He hath appointed them a law,",
+            "normalized": "He hath appointed them a law,",
+            "reading": "He hath appointed them a law,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "which ever shall endure.",
+            "normalized": "Which ever shall endure.",
+            "reading": "which ever shall endure."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-148.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-148.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Praise ye JEHOVAH from the earth,",
+            "normalized": "Praise ye JEHOVAH from the earth,",
+            "reading": "Praise ye JEHOVAH from the earth,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "dragons, and ev’ry deep:",
+            "normalized": "Dragons, and ev’ry deep:",
+            "reading": "dragons, and ev’ry deep:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Fire, hail, snow, vapour, stormy wind,",
+            "normalized": "Fire, hail, snow, vapour, stormy wind,",
+            "reading": "Fire, hail, snow, vapour, stormy wind,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his word that fully keep.",
+            "normalized": "His word that fully keep.",
+            "reading": "his word that fully keep."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-148.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        9,
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-148.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All hills and mountains, fruitful trees,",
+            "normalized": "All hills and mountains, fruitful trees,",
+            "reading": "All hills and mountains, fruitful trees,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and all ye cedars high:",
+            "normalized": "And all ye cedars high:",
+            "reading": "and all ye cedars high:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Beasts, and all cattle, creeping things,",
+            "normalized": "Beasts, and all cattle, creeping things,",
+            "reading": "Beasts, and all cattle, creeping things,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and all ye birds that fly.",
+            "normalized": "And all ye birds that fly.",
+            "reading": "and all ye birds that fly."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-148.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        11,
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-148.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Kings of the earth, all nätions,",
+            "normalized": "Kings of the earth, all nätions,",
+            "reading": "Kings of the earth, all nätions,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "princes, earth’s judges all:",
+            "normalized": "Princes, earth’s judges all:",
+            "reading": "princes, earth’s judges all:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Both young men, yea, and maidens too,",
+            "normalized": "Both young men, yea, and maidens too,",
+            "reading": "Both young men, yea, and maidens too,"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "old men, and children small.",
+            "normalized": "Old men, and children small.",
+            "reading": "old men, and children small."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-148.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-148.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let them GOD’s name praise; for his name",
+            "normalized": "Let them GOD’s name praise; for his name",
+            "reading": "Let them GOD’s name praise; for his name"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "alone is excellent:",
+            "normalized": "Alone is excellent:",
+            "reading": "alone is excellent:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His glory reacheth far above",
+            "normalized": "His glory reacheth far above",
+            "reading": "His glory reacheth far above"
+          }
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the earth and firmament.",
+            "normalized": "The earth and firmament.",
+            "reading": "the earth and firmament."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-148.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-148.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His people’s horn, the praise of all",
+            "normalized": "His people’s horn, the praise of all",
+            "reading": "His people’s horn, the praise of all"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his saints, exalteth he;",
+            "normalized": "His saints, exalteth he;",
+            "reading": "his saints, exalteth he;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n Isr’el’s seed, a people near",
+            "normalized": "Ev’n Isr’el’s seed, a people near",
+            "reading": "Ev’n Isr’el’s seed, a people near"
+          }
+        },
+        {
+          "id": "ps1650.psalm-148.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to him. The LORD praise ye.",
+            "normalized": "To him. The LORD praise ye.",
+            "reading": "to him. The LORD praise ye."
+          }
+        }
+      ]
+    }
+  ]
+}

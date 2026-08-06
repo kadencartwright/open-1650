@@ -1,0 +1,449 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-075.primary",
+  "psalm_number": 75,
+  "title": "Psalm 75",
+  "version": "primary",
+  "opening_line": "To thee, O God, do we give thanks,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 75 · p. 105–106",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-075-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      105,
+      106
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-075.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-075.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To thee, O God, do we give thanks,",
+            "normalized": "To thee, O God, do we give thanks,",
+            "reading": "To thee, O God, do we give thanks,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "we do give thanks to thee;",
+            "normalized": "We do give thanks to thee;",
+            "reading": "we do give thanks to thee;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because thy wondrous works declare",
+            "normalized": "Because thy wondrous works declare",
+            "reading": "Because thy wondrous works declare"
+          }
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy great name near to be.",
+            "normalized": "Thy great name near to be.",
+            "reading": "thy great name near to be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-075.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-075.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I purpose, when I shall receive",
+            "normalized": "I purpose, when I shall receive",
+            "reading": "I purpose, when I shall receive"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the congregätion,",
+            "normalized": "The congregätion,",
+            "reading": "the congregätion,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That I shall judgment uprightly",
+            "normalized": "That I shall judgment uprightly",
+            "reading": "That I shall judgment uprightly"
+          }
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "render to everyone.",
+            "normalized": "Render to everyone.",
+            "reading": "render to everyone."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-075.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-075.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Dissolvèd is the land, with all",
+            "normalized": "Dissolvèd is the land, with all",
+            "reading": "Dissolvèd is the land, with all"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that in the same do dwell;",
+            "normalized": "That in the same do dwell;",
+            "reading": "that in the same do dwell;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But I the pillars thereof do",
+            "normalized": "But I the pillars thereof do",
+            "reading": "But I the pillars thereof do"
+          }
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "bear up, and stablish well.",
+            "normalized": "Bear up, and stablish well.",
+            "reading": "bear up, and stablish well."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-075.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-075.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I to the foolish people said,",
+            "normalized": "I to the foolish people said,",
+            "reading": "I to the foolish people said,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Do not deal foolishly;",
+            "normalized": "Do not deal foolishly;",
+            "reading": "Do not deal foolishly;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And unto those that wicked are,",
+            "normalized": "And unto those that wicked are,",
+            "reading": "And unto those that wicked are,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Lift not your horn on high.",
+            "normalized": "Lift not your horn on high.",
+            "reading": "Lift not your horn on high."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-075.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5,
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-075.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Lift not your horn on high, nor speak",
+            "normalized": "Lift not your horn on high, nor speak",
+            "reading": "Lift not your horn on high, nor speak"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with stubborn neck. But know,",
+            "normalized": "With stubborn neck. But know,",
+            "reading": "with stubborn neck. But know,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That not from east, nor west, nor south,",
+            "normalized": "That not from east, nor west, nor south,",
+            "reading": "That not from east, nor west, nor south,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "promötion doth flow.",
+            "normalized": "Promötion doth flow.",
+            "reading": "promötion doth flow."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-075.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-075.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But God is judge; he puts down one,",
+            "normalized": "But God is judge; he puts down one,",
+            "reading": "But God is judge; he puts down one,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and sets another up.",
+            "normalized": "And sets another up.",
+            "reading": "and sets another up."
+          }
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For in the hand of GOD most high",
+            "normalized": "For in the hand of GOD most high",
+            "reading": "For in the hand of GOD most high"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of red wine is a cup:",
+            "normalized": "Of red wine is a cup:",
+            "reading": "of red wine is a cup:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-075.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-075.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "’Tis full of mixture, he pours forth,",
+            "normalized": "’Tis full of mixture, he pours forth,",
+            "reading": "’Tis full of mixture, he pours forth,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and makes the wicked all",
+            "normalized": "And makes the wicked all",
+            "reading": "and makes the wicked all"
+          }
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Wring out the bitter dregs thereof;",
+            "normalized": "Wring out the bitter dregs thereof;",
+            "reading": "Wring out the bitter dregs thereof;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "yea, and they drink them shall.",
+            "normalized": "Yea, and they drink them shall.",
+            "reading": "yea, and they drink them shall."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-075.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9,
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-075.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But I for ever will declare,",
+            "normalized": "But I for ever will declare,",
+            "reading": "But I for ever will declare,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I Jacob’s God will praise.",
+            "normalized": "I Jacob’s God will praise.",
+            "reading": "I Jacob’s God will praise."
+          }
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All horns of lewd men I’ll cut off;",
+            "normalized": "All horns of lewd men I’ll cut off;",
+            "reading": "All horns of lewd men I’ll cut off;"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-075.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "but just men’s horns will raise.",
+            "normalized": "But just men’s horns will raise.",
+            "reading": "but just men’s horns will raise."
+          }
+        }
+      ]
+    }
+  ]
+}

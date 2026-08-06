@@ -1,0 +1,348 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-113.primary",
+  "psalm_number": 113,
+  "title": "Psalm 113",
+  "version": "primary",
+  "opening_line": "Praise GOD: ye servants of the LORD,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 113 · p. 165",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-113-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      165
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-113.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-113.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Praise GOD: ye servants of the LORD,",
+            "normalized": "Praise GOD: ye servants of the LORD,",
+            "reading": "Praise GOD: ye servants of the LORD,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O praise, the LORD’s name praise.",
+            "normalized": "O praise, the LORD’s name praise.",
+            "reading": "O praise, the LORD’s name praise."
+          }
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, blessèd be the name of GOD",
+            "normalized": "Yea, blessèd be the name of GOD",
+            "reading": "Yea, blessèd be the name of GOD"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from this time forth always.",
+            "normalized": "From this time forth always.",
+            "reading": "from this time forth always."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-113.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-113.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From rising sun to where it sets,",
+            "normalized": "From rising sun to where it sets,",
+            "reading": "From rising sun to where it sets,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "GOD’s name is to be praised.",
+            "normalized": "GOD’s name is to be praised.",
+            "reading": "GOD’s name is to be praised."
+          }
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Above all nations GOD is high,",
+            "normalized": "Above all nations GOD is high,",
+            "reading": "Above all nations GOD is high,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "’bove heav’ns his glory raised.",
+            "normalized": "’Bove heav’ns his glory raised.",
+            "reading": "’bove heav’ns his glory raised."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-113.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5,
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-113.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto the LORD our God that dwells",
+            "normalized": "Unto the LORD our God that dwells",
+            "reading": "Unto the LORD our God that dwells"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "on high, who can compare?",
+            "normalized": "On high, who can compare?",
+            "reading": "on high, who can compare?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Himself that humbleth things to see",
+            "normalized": "Himself that humbleth things to see",
+            "reading": "Himself that humbleth things to see"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in heav’n and earth that are.",
+            "normalized": "In heav’n and earth that are.",
+            "reading": "in heav’n and earth that are."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-113.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-113.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He from the dust doth raise the poor,",
+            "normalized": "He from the dust doth raise the poor,",
+            "reading": "He from the dust doth raise the poor,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that very low doth lie;",
+            "normalized": "That very low doth lie;",
+            "reading": "that very low doth lie;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And from the dunghill lifts the man",
+            "normalized": "And from the dunghill lifts the man",
+            "reading": "And from the dunghill lifts the man"
+          }
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "oppressed with poverty;",
+            "normalized": "Oppressed with poverty;",
+            "reading": "oppressed with poverty;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-113.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-113.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That he may highly him advance,",
+            "normalized": "That he may highly him advance,",
+            "reading": "That he may highly him advance,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and with the princes set;",
+            "normalized": "And with the princes set;",
+            "reading": "and with the princes set;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With those that of his people are",
+            "normalized": "With those that of his people are",
+            "reading": "With those that of his people are"
+          }
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the chief, ev’n princes great.",
+            "normalized": "The chief, ev’n princes great.",
+            "reading": "the chief, ev’n princes great."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-113.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-113.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The barren woman house to keep",
+            "normalized": "The barren woman house to keep",
+            "reading": "The barren woman house to keep"
+          }
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he maketh, and to be",
+            "normalized": "He maketh, and to be",
+            "reading": "he maketh, and to be"
+          }
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of sons a mother full of joy.",
+            "normalized": "Of sons a mother full of joy.",
+            "reading": "Of sons a mother full of joy."
+          }
+        },
+        {
+          "id": "ps1650.psalm-113.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Praise to the LORD give ye.",
+            "normalized": "Praise to the LORD give ye.",
+            "reading": "Praise to the LORD give ye."
+          }
+        }
+      ]
+    }
+  ]
+}

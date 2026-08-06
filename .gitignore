@@ -1,0 +1,15 @@
+node_modules
+dist
+coverage
+*.local
+*.log
+.DS_Store
+.vite
+.tmp
+.tmp-*.png
+test-results
+playwright-report
+.alchemy/
+.wrangler/
+.env
+.env.production

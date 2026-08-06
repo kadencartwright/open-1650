@@ -1,0 +1,302 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-129.primary",
+  "psalm_number": 129,
+  "title": "Psalm 129",
+  "version": "primary",
+  "opening_line": "Oft did they vex me from my youth,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 129 · p. 187–188",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-129-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      187,
+      188
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-129.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-129.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Oft did they vex me from my youth,",
+            "normalized": "Oft did they vex me from my youth,",
+            "reading": "Oft did they vex me from my youth,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-129.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "may Isr’el now declare;",
+            "normalized": "May Isr’el now declare;",
+            "reading": "may Isr’el now declare;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-129.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Oft did they vex me from my youth,",
+            "normalized": "Oft did they vex me from my youth,",
+            "reading": "Oft did they vex me from my youth,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-129.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "yet not victorious were.",
+            "normalized": "Yet not victorious were.",
+            "reading": "yet not victorious were."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-129.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-129.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The ploughers ploughed upon my back;",
+            "normalized": "The ploughers ploughed upon my back;",
+            "reading": "The ploughers ploughed upon my back;"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-129.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they long their furrows drew.",
+            "normalized": "They long their furrows drew.",
+            "reading": "they long their furrows drew."
+          }
+        },
+        {
+          "id": "ps1650.psalm-129.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The righteous LORD did cut the cords",
+            "normalized": "The righteous LORD did cut the cords",
+            "reading": "The righteous LORD did cut the cords"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-129.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of the ungodly crew.",
+            "normalized": "Of the ungodly crew.",
+            "reading": "of the ungodly crew."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-129.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5,
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-129.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let Zion’s haters all be turned",
+            "normalized": "Let Zion’s haters all be turned",
+            "reading": "Let Zion’s haters all be turned"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-129.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "back with confüsion.",
+            "normalized": "Back with confüsion.",
+            "reading": "back with confüsion."
+          }
+        },
+        {
+          "id": "ps1650.psalm-129.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "As grass on houses’ tops be they,",
+            "normalized": "As grass on houses’ tops be they,",
+            "reading": "As grass on houses’ tops be they,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-129.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "which fades ere it be grown:",
+            "normalized": "Which fades ere it be grown:",
+            "reading": "which fades ere it be grown:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-129.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-129.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Whereof enough to fill his hand",
+            "normalized": "Whereof enough to fill his hand",
+            "reading": "Whereof enough to fill his hand"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-129.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the mower cannot find;",
+            "normalized": "The mower cannot find;",
+            "reading": "the mower cannot find;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-129.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor can the man his bosom fill,",
+            "normalized": "Nor can the man his bosom fill,",
+            "reading": "Nor can the man his bosom fill,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-129.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "whose work is sheaves to bind.",
+            "normalized": "Whose work is sheaves to bind.",
+            "reading": "whose work is sheaves to bind."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-129.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-129.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Neither say they who do go by,",
+            "normalized": "Neither say they who do go by,",
+            "reading": "Neither say they who do go by,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-129.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "GOD’s blessing on you rest:",
+            "normalized": "GOD’s blessing on you rest:",
+            "reading": "GOD’s blessing on you rest:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-129.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "We in the name of God the LORD",
+            "normalized": "We in the name of God the LORD",
+            "reading": "We in the name of God the LORD"
+          }
+        },
+        {
+          "id": "ps1650.psalm-129.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do wish you to be blessed.",
+            "normalized": "Do wish you to be blessed.",
+            "reading": "do wish you to be blessed."
+          }
+        }
+      ]
+    }
+  ]
+}

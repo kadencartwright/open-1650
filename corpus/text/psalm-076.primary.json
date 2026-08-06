@@ -1,0 +1,510 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-076.primary",
+  "psalm_number": 76,
+  "title": "Psalm 76",
+  "version": "primary",
+  "opening_line": "In Judah’s land God is well known,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 76 · p. 106",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-076-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      106
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-076.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-076.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In Judah’s land God is well known,",
+            "normalized": "In Judah’s land God is well known,",
+            "reading": "In Judah’s land God is well known,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his name ’s in Isr’el great:",
+            "normalized": "His name ’s in Isr’el great:",
+            "reading": "his name ’s in Isr’el great:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In Salem is his tabernacle,",
+            "normalized": "In Salem is his tabernacle,",
+            "reading": "In Salem is his tabernacle,"
+          },
+          "biblical_verse_start": 2,
+          "source_underlining": [
+            "nacle"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in Zion is his seat.",
+            "normalized": "In Zion is his seat.",
+            "reading": "in Zion is his seat."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-076.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-076.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "There arrows of the bow he brake,",
+            "normalized": "There arrows of the bow he brake,",
+            "reading": "There arrows of the bow he brake,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the shield, the sword, the war.",
+            "normalized": "The shield, the sword, the war.",
+            "reading": "the shield, the sword, the war."
+          }
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "More glorious thou than hills of prey,",
+            "normalized": "More glorious thou than hills of prey,",
+            "reading": "More glorious thou than hills of prey,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "more excellent art far.",
+            "normalized": "More excellent art far.",
+            "reading": "more excellent art far."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-076.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-076.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Those that were stout of heart are spoiled,",
+            "normalized": "Those that were stout of heart are spoiled,",
+            "reading": "Those that were stout of heart are spoiled,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they slept their sleep outright;",
+            "normalized": "They slept their sleep outright;",
+            "reading": "they slept their sleep outright;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And none of those their hands did find,",
+            "normalized": "And none of those their hands did find,",
+            "reading": "And none of those their hands did find,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that were the men of might.",
+            "normalized": "That were the men of might.",
+            "reading": "that were the men of might."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-076.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-076.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When thy rebuke, O Jacob’s God,",
+            "normalized": "When thy rebuke, O Jacob’s God,",
+            "reading": "When thy rebuke, O Jacob’s God,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "had forth against them past,",
+            "normalized": "Had forth against them past,",
+            "reading": "had forth against them past,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their horses and their chariots both",
+            "normalized": "Their horses and their chariots both",
+            "reading": "Their horses and their chariots both"
+          },
+          "source_underlining": [
+            "iots"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "were in a deep sleep cast.",
+            "normalized": "Were in a deep sleep cast.",
+            "reading": "were in a deep sleep cast."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-076.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-076.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou, Lord, ev’n thou art he that should",
+            "normalized": "Thou, Lord, ev’n thou art he that should",
+            "reading": "Thou, Lord, ev’n thou art he that should"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "be feared; and who is he",
+            "normalized": "Be feared; and who is he",
+            "reading": "be feared; and who is he"
+          }
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That may stand up before thy sight,",
+            "normalized": "That may stand up before thy sight,",
+            "reading": "That may stand up before thy sight,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "if once thou angry be?",
+            "normalized": "If once thou angry be?",
+            "reading": "if once thou angry be?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-076.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8,
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-076.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From heav’n thou judgment caused be heard;",
+            "normalized": "From heav’n thou judgment caused be heard;",
+            "reading": "From heav’n thou judgment caused be heard;"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the earth was still with fear,",
+            "normalized": "The earth was still with fear,",
+            "reading": "the earth was still with fear,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When God to judgment rose, to save",
+            "normalized": "When God to judgment rose, to save",
+            "reading": "When God to judgment rose, to save"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all meek on earth that were.",
+            "normalized": "All meek on earth that were.",
+            "reading": "all meek on earth that were."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-076.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-076.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Surely the very wrath of man",
+            "normalized": "Surely the very wrath of man",
+            "reading": "Surely the very wrath of man"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto thy praise redounds:",
+            "normalized": "Unto thy praise redounds:",
+            "reading": "unto thy praise redounds:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou to the remnant of his wrath",
+            "normalized": "Thou to the remnant of his wrath",
+            "reading": "Thou to the remnant of his wrath"
+          }
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "wilt set restraining bounds.",
+            "normalized": "Wilt set restraining bounds.",
+            "reading": "wilt set restraining bounds."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-076.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-076.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Vow to the LORD your God, and pay:",
+            "normalized": "Vow to the LORD your God, and pay:",
+            "reading": "Vow to the LORD your God, and pay:"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all ye that near him be,",
+            "normalized": "All ye that near him be,",
+            "reading": "all ye that near him be,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Bring gifts and presents unto him;",
+            "normalized": "Bring gifts and presents unto him;",
+            "reading": "Bring gifts and presents unto him;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for to be feared is he.",
+            "normalized": "For to be feared is he.",
+            "reading": "for to be feared is he."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-076.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-076.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "By him the spirits shall be cut off",
+            "normalized": "By him the spirits shall be cut off",
+            "reading": "By him the spirits shall be cut off"
+          },
+          "biblical_verse_start": 12,
+          "source_underlining": [
+            "spirits"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of those that princes are:",
+            "normalized": "Of those that princes are:",
+            "reading": "of those that princes are:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto the kings that are on earth",
+            "normalized": "Unto the kings that are on earth",
+            "reading": "Unto the kings that are on earth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-076.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he fearful doth appear.",
+            "normalized": "He fearful doth appear.",
+            "reading": "he fearful doth appear."
+          }
+        }
+      ]
+    }
+  ]
+}

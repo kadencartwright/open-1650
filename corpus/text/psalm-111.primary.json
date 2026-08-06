@@ -1,0 +1,504 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-111.primary",
+  "psalm_number": 111,
+  "title": "Psalm 111",
+  "version": "primary",
+  "opening_line": "Praise ye the LORD: with my whole heart",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 111 · p. 163–164",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-111-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      163,
+      164
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-111.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-111.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Praise ye the LORD: with my whole heart",
+            "normalized": "Praise ye the LORD: with my whole heart",
+            "reading": "Praise ye the LORD: with my whole heart"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I will GOD’s praise declare,",
+            "normalized": "I will GOD’s praise declare,",
+            "reading": "I will GOD’s praise declare,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Where the assemblies of the just",
+            "normalized": "Where the assemblies of the just",
+            "reading": "Where the assemblies of the just"
+          }
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and congregations are.",
+            "normalized": "And congregations are.",
+            "reading": "and congregations are."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-111.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-111.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The whole works of the LORD our God",
+            "normalized": "The whole works of the LORD our God",
+            "reading": "The whole works of the LORD our God"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "are great above all measure,",
+            "normalized": "Are great above all measure,",
+            "reading": "are great above all measure,"
+          },
+          "source_underlining": [
+            "measure"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Sought out they are of everyone",
+            "normalized": "Sought out they are of everyone",
+            "reading": "Sought out they are of everyone"
+          }
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that doth therein take pleasure.",
+            "normalized": "That doth therein take pleasure.",
+            "reading": "that doth therein take pleasure."
+          },
+          "source_underlining": [
+            "pleasure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-111.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-111.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His work most honourable is,",
+            "normalized": "His work most honourable is,",
+            "reading": "His work most honourable is,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "most glorious and pure,",
+            "normalized": "Most glorious and pure,",
+            "reading": "most glorious and pure,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And his untainted righteousness",
+            "normalized": "And his untainted righteousness",
+            "reading": "And his untainted righteousness"
+          }
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for ever doth endure.",
+            "normalized": "For ever doth endure.",
+            "reading": "for ever doth endure."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-111.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-111.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His works most wonderful he hath",
+            "normalized": "His works most wonderful he hath",
+            "reading": "His works most wonderful he hath"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "made to be thought upon:",
+            "normalized": "Made to be thought upon:",
+            "reading": "made to be thought upon:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD is gracious, and he is",
+            "normalized": "The LORD is gracious, and he is",
+            "reading": "The LORD is gracious, and he is"
+          }
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "full of compässion.",
+            "normalized": "Full of compässion.",
+            "reading": "full of compässion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-111.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-111.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He giveth meat unto all those",
+            "normalized": "He giveth meat unto all those",
+            "reading": "He giveth meat unto all those"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that truly do him fear;",
+            "normalized": "That truly do him fear;",
+            "reading": "that truly do him fear;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And evermore his covenant",
+            "normalized": "And evermore his covenant",
+            "reading": "And evermore his covenant"
+          }
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he in his mind will bear.",
+            "normalized": "He in his mind will bear.",
+            "reading": "he in his mind will bear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-111.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-111.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He did the power of his works",
+            "normalized": "He did the power of his works",
+            "reading": "He did the power of his works"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto his people show,",
+            "normalized": "Unto his people show,",
+            "reading": "unto his people show,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When he the heathen’s heritage",
+            "normalized": "When he the heathen’s heritage",
+            "reading": "When he the heathen’s heritage"
+          }
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "upon them did bestow.",
+            "normalized": "Upon them did bestow.",
+            "reading": "upon them did bestow."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-111.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-111.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His handiworks are truth and right;",
+            "normalized": "His handiworks are truth and right;",
+            "reading": "His handiworks are truth and right;"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all his commands are sure:",
+            "normalized": "All his commands are sure:",
+            "reading": "all his commands are sure:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And, done in truth and uprightness,",
+            "normalized": "And, done in truth and uprightness,",
+            "reading": "And, done in truth and uprightness,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they evermore endure.",
+            "normalized": "They evermore endure.",
+            "reading": "they evermore endure."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-111.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-111.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He sent redemption to his folk;",
+            "normalized": "He sent redemption to his folk;",
+            "reading": "He sent redemption to his folk;"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his covenant for aye",
+            "normalized": "His covenant for aye",
+            "reading": "his covenant for aye"
+          }
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He did command: holy his name",
+            "normalized": "He did command: holy his name",
+            "reading": "He did command: holy his name"
+          }
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and rev’rend is alway.",
+            "normalized": "And rev’rend is alway.",
+            "reading": "and rev’rend is alway."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-111.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-111.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Wisdom’s beginning is GOD’s fear:",
+            "normalized": "Wisdom’s beginning is GOD’s fear:",
+            "reading": "Wisdom’s beginning is GOD’s fear:"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "good understanding they",
+            "normalized": "Good understanding they",
+            "reading": "good understanding they"
+          }
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Have all that his commands fulfil:",
+            "normalized": "Have all that his commands fulfil:",
+            "reading": "Have all that his commands fulfil:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-111.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his praise endures for aye.",
+            "normalized": "His praise endures for aye.",
+            "reading": "his praise endures for aye."
+          }
+        }
+      ]
+    }
+  ]
+}

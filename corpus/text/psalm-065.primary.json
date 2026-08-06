@@ -1,0 +1,697 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-065.primary",
+  "psalm_number": 65,
+  "title": "Psalm 65",
+  "version": "primary",
+  "opening_line": "Praise waits for thee in Zion, Lord:",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 65 · p. 87–88",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-065-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      87,
+      88
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-065.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-065.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Praise waits for thee in Zion, Lord:",
+            "normalized": "Praise waits for thee in Zion, Lord:",
+            "reading": "Praise waits for thee in Zion, Lord:"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to thee vows paid shall be.",
+            "normalized": "To thee vows paid shall be.",
+            "reading": "to thee vows paid shall be."
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O thou that hearer art of pray’r,",
+            "normalized": "O thou that hearer art of pray’r,",
+            "reading": "O thou that hearer art of pray’r,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all flesh shall come to thee.",
+            "normalized": "All flesh shall come to thee.",
+            "reading": "all flesh shall come to thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-065.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-065.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Iniquities, I must confess,",
+            "normalized": "Iniquities, I must confess,",
+            "reading": "Iniquities, I must confess,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "prevail against me do:",
+            "normalized": "Prevail against me do:",
+            "reading": "prevail against me do:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But as for our transgrëssions,",
+            "normalized": "But as for our transgrëssions,",
+            "reading": "But as for our transgrëssions,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "them purge away shalt thou.",
+            "normalized": "Them purge away shalt thou.",
+            "reading": "them purge away shalt thou."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-065.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-065.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Bless’d is the man whom thou dost choose,",
+            "normalized": "Bless’d is the man whom thou dost choose,",
+            "reading": "Bless’d is the man whom thou dost choose,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and mak’st approach to thee,",
+            "normalized": "And mak’st approach to thee,",
+            "reading": "and mak’st approach to thee,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That he within thy courts, O Lord,",
+            "normalized": "That he within thy courts, O Lord,",
+            "reading": "That he within thy courts, O Lord,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "may still a dweller be:",
+            "normalized": "May still a dweller be:",
+            "reading": "may still a dweller be:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-065.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-065.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "We surely shall be satisfied",
+            "normalized": "We surely shall be satisfied",
+            "reading": "We surely shall be satisfied"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with thy abundant grace,",
+            "normalized": "With thy abundant grace,",
+            "reading": "with thy abundant grace,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And with the goodness of thy house,",
+            "normalized": "And with the goodness of thy house,",
+            "reading": "And with the goodness of thy house,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ev’n of thy holy place.",
+            "normalized": "Ev’n of thy holy place.",
+            "reading": "ev’n of thy holy place."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-065.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-065.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O God of our salvätion,",
+            "normalized": "O God of our salvätion,",
+            "reading": "O God of our salvätion,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou, in thy righteousness,",
+            "normalized": "Thou, in thy righteousness,",
+            "reading": "thou, in thy righteousness,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "By fearful works unto our pray’rs",
+            "normalized": "By fearful works unto our pray’rs",
+            "reading": "By fearful works unto our pray’rs"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thine answer dost express:",
+            "normalized": "Thine answer dost express:",
+            "reading": "thine answer dost express:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-065.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-065.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Therefore the ends of all the earth,",
+            "normalized": "Therefore the ends of all the earth,",
+            "reading": "Therefore the ends of all the earth,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and those afar that be",
+            "normalized": "And those afar that be",
+            "reading": "and those afar that be"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Upon the sea, their confidence,",
+            "normalized": "Upon the sea, their confidence,",
+            "reading": "Upon the sea, their confidence,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O Lord, will place in thee.",
+            "normalized": "O Lord, will place in thee.",
+            "reading": "O Lord, will place in thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-065.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        6,
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-065.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who, being girt with pow’r, sets fast",
+            "normalized": "Who, being girt with pow’r, sets fast",
+            "reading": "Who, being girt with pow’r, sets fast"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "by his great strength the hills.",
+            "normalized": "By his great strength the hills.",
+            "reading": "by his great strength the hills."
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who noise of seas, noise of their waves,",
+            "normalized": "Who noise of seas, noise of their waves,",
+            "reading": "Who noise of seas, noise of their waves,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and people’s tumult, stills.",
+            "normalized": "And people’s tumult, stills.",
+            "reading": "and people’s tumult, stills."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-065.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-065.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Those in the utmost parts that dwell",
+            "normalized": "Those in the utmost parts that dwell",
+            "reading": "Those in the utmost parts that dwell"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "are at thy signs afraid:",
+            "normalized": "Are at thy signs afraid:",
+            "reading": "are at thy signs afraid:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Th’ outgoings of the morn and ev’n",
+            "normalized": "Th’ outgoings of the morn and ev’n",
+            "reading": "Th’ outgoings of the morn and ev’n"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "by thee are joyful made.",
+            "normalized": "By thee are joyful made.",
+            "reading": "by thee are joyful made."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-065.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-065.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The earth thou visit’st, wat’ring it;",
+            "normalized": "The earth thou visit’st, wat’ring it;",
+            "reading": "The earth thou visit’st, wat’ring it;"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou mak’st it rich to grow",
+            "normalized": "Thou mak’st it rich to grow",
+            "reading": "thou mak’st it rich to grow"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With God’s full flood; thou corn prepar’st,",
+            "normalized": "With God’s full flood; thou corn prepar’st,",
+            "reading": "With God’s full flood; thou corn prepar’st,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when thou provid’st it so.",
+            "normalized": "When thou provid’st it so.",
+            "reading": "when thou provid’st it so."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-065.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-065.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Her rigs thou wat’rest plenteously,",
+            "normalized": "Her rigs thou wat’rest plenteously,",
+            "reading": "Her rigs thou wat’rest plenteously,"
+          },
+          "biblical_verse_start": 10,
+          "source_underlining": [
+            "eous"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "her furrows settelest:",
+            "normalized": "Her furrows settelest:",
+            "reading": "her furrows settelest:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With show’rs thou dost her mollify,",
+            "normalized": "With show’rs thou dost her mollify,",
+            "reading": "With show’rs thou dost her mollify,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "her spring by thee is blest.",
+            "normalized": "Her spring by thee is blest.",
+            "reading": "her spring by thee is blest."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-065.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-065.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "So thou the year most lib’rally",
+            "normalized": "So thou the year most lib’rally",
+            "reading": "So thou the year most lib’rally"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "dost with thy goodness crown;",
+            "normalized": "Dost with thy goodness crown;",
+            "reading": "dost with thy goodness crown;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And all thy paths abundantly",
+            "normalized": "And all thy paths abundantly",
+            "reading": "And all thy paths abundantly"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "on us drop fatness down.",
+            "normalized": "On us drop fatness down.",
+            "reading": "on us drop fatness down."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-065.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-065.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They drop upon the pastures wide,",
+            "normalized": "They drop upon the pastures wide,",
+            "reading": "They drop upon the pastures wide,"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that do in deserts lie;",
+            "normalized": "That do in deserts lie;",
+            "reading": "that do in deserts lie;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The little hills on ev’ry side",
+            "normalized": "The little hills on ev’ry side",
+            "reading": "The little hills on ev’ry side"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "rejoice right pleasantly.",
+            "normalized": "Rejoice right pleasantly.",
+            "reading": "rejoice right pleasantly."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-065.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-065.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With flocks the pastures clothèd be,",
+            "normalized": "With flocks the pastures clothèd be,",
+            "reading": "With flocks the pastures clothèd be,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the vales with corn are clad;",
+            "normalized": "The vales with corn are clad;",
+            "reading": "the vales with corn are clad;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And now they shout and sing to thee,",
+            "normalized": "And now they shout and sing to thee,",
+            "reading": "And now they shout and sing to thee,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-065.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for thou hast made them glad.",
+            "normalized": "For thou hast made them glad.",
+            "reading": "for thou hast made them glad."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://open1650.org/schemas/tune.schema.json",
+  "title": "Open 1650 Psalm Tune",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "id",
+    "title",
+    "alternate_title",
+    "meter",
+    "ppq",
+    "default_bpm",
+    "time_signature",
+    "key",
+    "length_ticks",
+    "notes",
+    "phrases",
+    "harmony",
+    "source",
+    "rights"
+  ],
+  "properties": {
+    "schema_version": { "type": "string" },
+    "id": {
+      "type": "string",
+      "pattern": "^ps1650\\.tune\\.[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "title": { "type": "string", "minLength": 1 },
+    "alternate_title": {
+      "type": ["string", "null"]
+    },
+    "meter": {
+      "type": "string",
+      "pattern": "^[0-9]+(?:\\.[0-9]+)+$"
+    },
+    "ppq": { "type": "integer", "minimum": 1 },
+    "default_bpm": {
+      "type": "integer",
+      "minimum": 20,
+      "maximum": 300
+    },
+    "time_signature": {
+      "type": "array",
+      "prefixItems": [
+        { "type": "integer", "minimum": 1 },
+        { "enum": [1, 2, 4, 8, 16] }
+      ],
+      "minItems": 2,
+      "maxItems": 2
+    },
+    "key": { "type": "string", "minLength": 1 },
+    "length_ticks": { "type": "integer", "minimum": 1 },
+    "notes": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/note" }
+    },
+    "phrases": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "start_tick", "end_tick", "note_ids"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "start_tick": { "type": "integer", "minimum": 0 },
+          "end_tick": { "type": "integer", "minimum": 1 },
+          "note_ids": {
+            "type": "array",
+            "minItems": 1,
+            "items": { "type": "string", "minLength": 1 }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "harmony": {
+      "type": "object",
+      "required": [
+        "voicing",
+        "voices",
+        "editorial_transformation",
+        "rights"
+      ],
+      "properties": {
+        "voicing": { "const": "SATB" },
+        "voices": {
+          "type": "object",
+          "required": ["alto", "tenor", "bass"],
+          "properties": {
+            "alto": {
+              "type": "array",
+              "minItems": 1,
+              "items": { "$ref": "#/$defs/note" }
+            },
+            "tenor": {
+              "type": "array",
+              "minItems": 1,
+              "items": { "$ref": "#/$defs/note" }
+            },
+            "bass": {
+              "type": "array",
+              "minItems": 1,
+              "items": { "$ref": "#/$defs/note" }
+            }
+          },
+          "additionalProperties": false
+        },
+        "editorial_transformation": {
+          "type": "string",
+          "minLength": 1
+        },
+        "rights": {
+          "type": "object",
+          "required": ["arrangement", "event_transcription"],
+          "properties": {
+            "arrangement": { "const": "PDM-1.0" },
+            "event_transcription": { "const": "PDM-1.0" }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "id",
+        "label",
+        "provider",
+        "source_work",
+        "date",
+        "record_url",
+        "editable_score_url",
+        "rights_statement_url",
+        "attribution",
+        "editorial_transformation"
+      ],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "label": { "type": "string", "minLength": 1 },
+        "provider": { "type": "string", "minLength": 1 },
+        "source_work": { "type": "string", "minLength": 1 },
+        "date": { "type": "string", "minLength": 4 },
+        "record_url": { "type": "string", "format": "uri" },
+        "editable_score_url": { "type": "string", "format": "uri" },
+        "rights_statement_url": { "type": "string", "format": "uri" },
+        "attribution": { "type": "string", "minLength": 1 },
+        "editorial_transformation": { "type": "string", "minLength": 1 }
+      }
+    },
+    "rights": {
+      "type": "object",
+      "required": ["composition", "source_transcription", "metadata"],
+      "properties": {
+        "composition": { "const": "PDM-1.0" },
+        "source_transcription": { "const": "PDM-1.0" },
+        "metadata": { "const": "CC0-1.0" }
+      },
+      "additionalProperties": false
+    }
+  },
+  "$defs": {
+    "note": {
+      "type": "object",
+      "required": [
+        "id",
+        "midi",
+        "start_tick",
+        "duration_ticks",
+        "velocity"
+      ],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "midi": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 127
+        },
+        "start_tick": { "type": "integer", "minimum": 0 },
+        "duration_ticks": { "type": "integer", "minimum": 1 },
+        "velocity": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 127
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}

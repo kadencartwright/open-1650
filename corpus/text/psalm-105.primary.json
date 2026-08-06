@@ -1,0 +1,1725 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-105.primary",
+  "psalm_number": 105,
+  "title": "Psalm 105",
+  "version": "primary",
+  "opening_line": "Give thanks to GOD, call on his name;",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 105 · p. 149–152",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-105-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      149,
+      150,
+      151,
+      152
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-105.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Give thanks to GOD, call on his name;",
+            "normalized": "Give thanks to GOD, call on his name;",
+            "reading": "Give thanks to GOD, call on his name;"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to men his deeds make known.",
+            "normalized": "To men his deeds make known.",
+            "reading": "to men his deeds make known."
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Sing ye to him, sing psalms; proclaim",
+            "normalized": "Sing ye to him, sing psalms; proclaim",
+            "reading": "Sing ye to him, sing psalms; proclaim"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his wondrous works each one.",
+            "normalized": "His wondrous works each one.",
+            "reading": "his wondrous works each one."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "See that ye in his holy name",
+            "normalized": "See that ye in his holy name",
+            "reading": "See that ye in his holy name"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to glory do accord;",
+            "normalized": "To glory do accord;",
+            "reading": "to glory do accord;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And let the heart of everyone",
+            "normalized": "And let the heart of everyone",
+            "reading": "And let the heart of everyone"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "rejoice that seeks the LORD.",
+            "normalized": "Rejoice that seeks the LORD.",
+            "reading": "rejoice that seeks the LORD."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD Almighty, and his strength,",
+            "normalized": "The LORD Almighty, and his strength,",
+            "reading": "The LORD Almighty, and his strength,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with stedfast hearts seek ye:",
+            "normalized": "With stedfast hearts seek ye:",
+            "reading": "with stedfast hearts seek ye:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His blessèd and his gracious face",
+            "normalized": "His blessèd and his gracious face",
+            "reading": "His blessèd and his gracious face"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "seek ye continually.",
+            "normalized": "Seek ye continually.",
+            "reading": "seek ye continually."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Think on the works that he hath done,",
+            "normalized": "Think on the works that he hath done,",
+            "reading": "Think on the works that he hath done,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "which admiration breed;",
+            "normalized": "Which admiration breed;",
+            "reading": "which admiration breed;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His wonders, and the judgments all",
+            "normalized": "His wonders, and the judgments all",
+            "reading": "His wonders, and the judgments all"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "which from his mouth proceed;",
+            "normalized": "Which from his mouth proceed;",
+            "reading": "which from his mouth proceed;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O ye that are of Abr’ham’s race,",
+            "normalized": "O ye that are of Abr’ham’s race,",
+            "reading": "O ye that are of Abr’ham’s race,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his servant well approv’n;",
+            "normalized": "His servant well approv’n;",
+            "reading": "his servant well approv’n;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And ye that Jacob’s children are,",
+            "normalized": "And ye that Jacob’s children are,",
+            "reading": "And ye that Jacob’s children are,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "whom he chose for his own.",
+            "normalized": "Whom he chose for his own.",
+            "reading": "whom he chose for his own."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because he, and he only, is",
+            "normalized": "Because he, and he only, is",
+            "reading": "Because he, and he only, is"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the mighty LORD our God;",
+            "normalized": "The mighty LORD our God;",
+            "reading": "the mighty LORD our God;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And his most righteous judgments are",
+            "normalized": "And his most righteous judgments are",
+            "reading": "And his most righteous judgments are"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in all the earth abroad.",
+            "normalized": "In all the earth abroad.",
+            "reading": "in all the earth abroad."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His cov’nant he remembered hath,",
+            "normalized": "His cov’nant he remembered hath,",
+            "reading": "His cov’nant he remembered hath,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that it may ever stand:",
+            "normalized": "That it may ever stand:",
+            "reading": "that it may ever stand:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To thousand generätions",
+            "normalized": "To thousand generätions",
+            "reading": "To thousand generätions"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the word he did command.",
+            "normalized": "The word he did command.",
+            "reading": "the word he did command."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Which covènant he firmly made",
+            "normalized": "Which covènant he firmly made",
+            "reading": "Which covènant he firmly made"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with faithful Abraham,",
+            "normalized": "With faithful Abraham,",
+            "reading": "with faithful Abraham,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And unto Isaac, by his oath,",
+            "normalized": "And unto Isaac, by his oath,",
+            "reading": "And unto Isaac, by his oath,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he did renew the same:",
+            "normalized": "He did renew the same:",
+            "reading": "he did renew the same:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And unto Jacob, for a law,",
+            "normalized": "And unto Jacob, for a law,",
+            "reading": "And unto Jacob, for a law,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he made it firm and sure,",
+            "normalized": "He made it firm and sure,",
+            "reading": "he made it firm and sure,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A covènant to Israèl,",
+            "normalized": "A covènant to Israèl,",
+            "reading": "A covènant to Israèl,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "which ever should endure.",
+            "normalized": "Which ever should endure.",
+            "reading": "which ever should endure."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        11,
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He said, I’ll give Canàan’s land",
+            "normalized": "He said, I’ll give Canàan’s land",
+            "reading": "He said, I’ll give Canàan’s land"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for heritage to you;",
+            "normalized": "For heritage to you;",
+            "reading": "for heritage to you;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "While they were strangers there, and few,",
+            "normalized": "While they were strangers there, and few,",
+            "reading": "While they were strangers there, and few,"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in number very few:",
+            "normalized": "In number very few:",
+            "reading": "in number very few:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "While yet they went from land to land",
+            "normalized": "While yet they went from land to land",
+            "reading": "While yet they went from land to land"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "without a sure abode;",
+            "normalized": "Without a sure abode;",
+            "reading": "without a sure abode;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And while through sundry kingdoms they",
+            "normalized": "And while through sundry kingdoms they",
+            "reading": "And while through sundry kingdoms they"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "did wander far abroad;",
+            "normalized": "Did wander far abroad;",
+            "reading": "did wander far abroad;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yet, notwithstanding, suffered he",
+            "normalized": "Yet, notwithstanding, suffered he",
+            "reading": "Yet, notwithstanding, suffered he"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "no man to do them wrong:",
+            "normalized": "No man to do them wrong:",
+            "reading": "no man to do them wrong:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, for their sakes, he did reprove",
+            "normalized": "Yea, for their sakes, he did reprove",
+            "reading": "Yea, for their sakes, he did reprove"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "kings, who were great and strong.",
+            "normalized": "Kings, who were great and strong.",
+            "reading": "kings, who were great and strong."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thus did he say, Touch ye not those",
+            "normalized": "Thus did he say, Touch ye not those",
+            "reading": "Thus did he say, Touch ye not those"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that mine anointed be,",
+            "normalized": "That mine anointed be,",
+            "reading": "that mine anointed be,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor do the prophets any harm",
+            "normalized": "Nor do the prophets any harm",
+            "reading": "Nor do the prophets any harm"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that do pertain to me.",
+            "normalized": "That do pertain to me.",
+            "reading": "that do pertain to me."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        16,
+        17
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He called for famine on the land,",
+            "normalized": "He called for famine on the land,",
+            "reading": "He called for famine on the land,"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he brake the staff of bread:",
+            "normalized": "He brake the staff of bread:",
+            "reading": "he brake the staff of bread:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But yet he sent a man before,",
+            "normalized": "But yet he sent a man before,",
+            "reading": "But yet he sent a man before,"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "by whom they should be fed;",
+            "normalized": "By whom they should be fed;",
+            "reading": "by whom they should be fed;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n Joseph, whom unnaturally",
+            "normalized": "Ev’n Joseph, whom unnaturally",
+            "reading": "Ev’n Joseph, whom unnaturally"
+          },
+          "source_underlining": [
+            "ural"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "sell for a slave did they;",
+            "normalized": "Sell for a slave did they;",
+            "reading": "sell for a slave did they;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Whose feet with fetters they did hurt,",
+            "normalized": "Whose feet with fetters they did hurt,",
+            "reading": "Whose feet with fetters they did hurt,"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and he in irons lay;",
+            "normalized": "And he in irons lay;",
+            "reading": "and he in irons lay;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        19
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Until the time that his word came",
+            "normalized": "Until the time that his word came",
+            "reading": "Until the time that his word came"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to give him liberty;",
+            "normalized": "To give him liberty;",
+            "reading": "to give him liberty;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The word and purpose of the LORD",
+            "normalized": "The word and purpose of the LORD",
+            "reading": "The word and purpose of the LORD"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "did him in prison try.",
+            "normalized": "Did him in prison try.",
+            "reading": "did him in prison try."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-17",
+      "number": 17,
+      "biblical_verses": [
+        20
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-17.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then sent the king, and did command",
+            "normalized": "Then sent the king, and did command",
+            "reading": "Then sent the king, and did command"
+          },
+          "biblical_verse_start": 20
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-17.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that he enlarged should be:",
+            "normalized": "That he enlarged should be:",
+            "reading": "that he enlarged should be:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-17.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He that the people’s ruler was",
+            "normalized": "He that the people’s ruler was",
+            "reading": "He that the people’s ruler was"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-17.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "did send to set him free.",
+            "normalized": "Did send to set him free.",
+            "reading": "did send to set him free."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-18",
+      "number": 18,
+      "biblical_verses": [
+        21
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-18.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A lord to rule his family",
+            "normalized": "A lord to rule his family",
+            "reading": "A lord to rule his family"
+          },
+          "biblical_verse_start": 21
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-18.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he raised him, as most fit;",
+            "normalized": "He raised him, as most fit;",
+            "reading": "he raised him, as most fit;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-18.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To him of all that he possessed",
+            "normalized": "To him of all that he possessed",
+            "reading": "To him of all that he possessed"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-18.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he did the charge commit:",
+            "normalized": "He did the charge commit:",
+            "reading": "he did the charge commit:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-19",
+      "number": 19,
+      "biblical_verses": [
+        22
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-19.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That he might at his pleasure bind",
+            "normalized": "That he might at his pleasure bind",
+            "reading": "That he might at his pleasure bind"
+          },
+          "biblical_verse_start": 22
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-19.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the princes of the land;",
+            "normalized": "The princes of the land;",
+            "reading": "the princes of the land;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-19.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And he might teach his senators",
+            "normalized": "And he might teach his senators",
+            "reading": "And he might teach his senators"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-19.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "wisdom to understand.",
+            "normalized": "Wisdom to understand.",
+            "reading": "wisdom to understand."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-20",
+      "number": 20,
+      "biblical_verses": [
+        23
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-20.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The people then of Israèl",
+            "normalized": "The people then of Israèl",
+            "reading": "The people then of Israèl"
+          },
+          "biblical_verse_start": 23
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-20.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "down into Egypt came;",
+            "normalized": "Down into Egypt came;",
+            "reading": "down into Egypt came;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-20.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And Jacob also sojournèd",
+            "normalized": "And Jacob also sojournèd",
+            "reading": "And Jacob also sojournèd"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-20.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "within the land of Ham.",
+            "normalized": "Within the land of Ham.",
+            "reading": "within the land of Ham."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-21",
+      "number": 21,
+      "biblical_verses": [
+        24
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-21.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And he did greatly by his power",
+            "normalized": "And he did greatly by his power",
+            "reading": "And he did greatly by his power"
+          },
+          "biblical_verse_start": 24
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-21.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "increase his people there;",
+            "normalized": "Increase his people there;",
+            "reading": "increase his people there;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-21.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And stronger than their enemies",
+            "normalized": "And stronger than their enemies",
+            "reading": "And stronger than their enemies"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-21.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they by his blessing were.",
+            "normalized": "They by his blessing were.",
+            "reading": "they by his blessing were."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-22",
+      "number": 22,
+      "biblical_verses": [
+        25
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-22.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their heart he turnèd to envy",
+            "normalized": "Their heart he turnèd to envy",
+            "reading": "Their heart he turnèd to envy"
+          },
+          "biblical_verse_start": 25
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-22.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his folk maliciously,",
+            "normalized": "His folk maliciously,",
+            "reading": "his folk maliciously,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-22.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With those that his own servants were",
+            "normalized": "With those that his own servants were",
+            "reading": "With those that his own servants were"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-22.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to deal in subtlety.",
+            "normalized": "To deal in subtlety.",
+            "reading": "to deal in subtlety."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-23",
+      "number": 23,
+      "biblical_verses": [
+        26,
+        27
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-23.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His servant Moses he did send,",
+            "normalized": "His servant Moses he did send,",
+            "reading": "His servant Moses he did send,"
+          },
+          "biblical_verse_start": 26
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-23.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Aaron his chosen one.",
+            "normalized": "Aaron his chosen one.",
+            "reading": "Aaron his chosen one."
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-23.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "By these his signs and wonders great",
+            "normalized": "By these his signs and wonders great",
+            "reading": "By these his signs and wonders great"
+          },
+          "biblical_verse_start": 27
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-23.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in Ham’s land were made known.",
+            "normalized": "In Ham’s land were made known.",
+            "reading": "in Ham’s land were made known."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-24",
+      "number": 24,
+      "biblical_verses": [
+        28,
+        29
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-24.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Darkness he sent, and made it dark;",
+            "normalized": "Darkness he sent, and made it dark;",
+            "reading": "Darkness he sent, and made it dark;"
+          },
+          "biblical_verse_start": 28
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-24.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his word they did obey.",
+            "normalized": "His word they did obey.",
+            "reading": "his word they did obey."
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-24.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He turned their waters into blood,",
+            "normalized": "He turned their waters into blood,",
+            "reading": "He turned their waters into blood,"
+          },
+          "biblical_verse_start": 29
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-24.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and he their fish did slay.",
+            "normalized": "And he their fish did slay.",
+            "reading": "and he their fish did slay."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-25",
+      "number": 25,
+      "biblical_verses": [
+        30,
+        31
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-25.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The land in plenty brought forth frogs",
+            "normalized": "The land in plenty brought forth frogs",
+            "reading": "The land in plenty brought forth frogs"
+          },
+          "biblical_verse_start": 30
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-25.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in chambers of their kings.",
+            "normalized": "In chambers of their kings.",
+            "reading": "in chambers of their kings."
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-25.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His word all sorts of flies and lice",
+            "normalized": "His word all sorts of flies and lice",
+            "reading": "His word all sorts of flies and lice"
+          },
+          "biblical_verse_start": 31
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-25.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in all their borders brings.",
+            "normalized": "In all their borders brings.",
+            "reading": "in all their borders brings."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-26",
+      "number": 26,
+      "biblical_verses": [
+        32,
+        33
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-26.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He hail for rain, and flaming fire",
+            "normalized": "He hail for rain, and flaming fire",
+            "reading": "He hail for rain, and flaming fire"
+          },
+          "biblical_verse_start": 32
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-26.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "into their land he sent:",
+            "normalized": "Into their land he sent:",
+            "reading": "into their land he sent:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-26.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And he their vines and fig-trees smote;",
+            "normalized": "And he their vines and fig-trees smote;",
+            "reading": "And he their vines and fig-trees smote;"
+          },
+          "biblical_verse_start": 33
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-26.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "trees of their coasts he rent.",
+            "normalized": "Trees of their coasts he rent.",
+            "reading": "trees of their coasts he rent."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-27",
+      "number": 27,
+      "biblical_verses": [
+        34,
+        35
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-27.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He spake, and caterpillars came,",
+            "normalized": "He spake, and caterpillars came,",
+            "reading": "He spake, and caterpillars came,"
+          },
+          "biblical_verse_start": 34
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-27.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "locusts did much abound;",
+            "normalized": "Locusts did much abound;",
+            "reading": "locusts did much abound;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-27.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Which in their land all herbs consumed,",
+            "normalized": "Which in their land all herbs consumed,",
+            "reading": "Which in their land all herbs consumed,"
+          },
+          "biblical_verse_start": 35
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-27.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and all fruits of their ground.",
+            "normalized": "And all fruits of their ground.",
+            "reading": "and all fruits of their ground."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-28",
+      "number": 28,
+      "biblical_verses": [
+        36,
+        37
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-28.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He smote all first-born in their land,",
+            "normalized": "He smote all first-born in their land,",
+            "reading": "He smote all first-born in their land,"
+          },
+          "biblical_verse_start": 36
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-28.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "chief of their strength each one.",
+            "normalized": "Chief of their strength each one.",
+            "reading": "chief of their strength each one."
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-28.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With gold and silver brought them forth,",
+            "normalized": "With gold and silver brought them forth,",
+            "reading": "With gold and silver brought them forth,"
+          },
+          "biblical_verse_start": 37
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-28.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "weak in their tribes were none.",
+            "normalized": "Weak in their tribes were none.",
+            "reading": "weak in their tribes were none."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-29",
+      "number": 29,
+      "biblical_verses": [
+        38,
+        39
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-29.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Egypt was glad when forth they went,",
+            "normalized": "Egypt was glad when forth they went,",
+            "reading": "Egypt was glad when forth they went,"
+          },
+          "biblical_verse_start": 38
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-29.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their fear on them did light.",
+            "normalized": "Their fear on them did light.",
+            "reading": "their fear on them did light."
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-29.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He spread a cloud for covering,",
+            "normalized": "He spread a cloud for covering,",
+            "reading": "He spread a cloud for covering,"
+          },
+          "biblical_verse_start": 39
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-29.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and fire to shine by night.",
+            "normalized": "And fire to shine by night.",
+            "reading": "and fire to shine by night."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-30",
+      "number": 30,
+      "biblical_verses": [
+        40,
+        41
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-30.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They asked, and he brought quails: with bread",
+            "normalized": "They asked, and he brought quails: with bread",
+            "reading": "They asked, and he brought quails: with bread"
+          },
+          "biblical_verse_start": 40
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-30.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of  heav’n  he fillèd them.",
+            "normalized": "Of heav’n he fillèd them.",
+            "reading": "of heav’n he fillèd them."
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-30.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He opened rocks, floods gushed, and ran",
+            "normalized": "He opened rocks, floods gushed, and ran",
+            "reading": "He opened rocks, floods gushed, and ran"
+          },
+          "biblical_verse_start": 41
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-30.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in deserts like a stream.",
+            "normalized": "In deserts like a stream.",
+            "reading": "in deserts like a stream."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-31",
+      "number": 31,
+      "biblical_verses": [
+        42,
+        43
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-31.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For on his holy promise he,",
+            "normalized": "For on his holy promise he,",
+            "reading": "For on his holy promise he,"
+          },
+          "biblical_verse_start": 42
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-31.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and servant Abr’ham, thought.",
+            "normalized": "And servant Abr’ham, thought.",
+            "reading": "and servant Abr’ham, thought."
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-31.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With joy his people, his elect",
+            "normalized": "With joy his people, his elect",
+            "reading": "With joy his people, his elect"
+          },
+          "biblical_verse_start": 43
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-31.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with gladness, forth he brought.",
+            "normalized": "With gladness, forth he brought.",
+            "reading": "with gladness, forth he brought."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-32",
+      "number": 32,
+      "biblical_verses": [
+        44
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-32.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And unto them the pleasant lands",
+            "normalized": "And unto them the pleasant lands",
+            "reading": "And unto them the pleasant lands"
+          },
+          "biblical_verse_start": 44
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-32.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he of the heathen gave;",
+            "normalized": "He of the heathen gave;",
+            "reading": "he of the heathen gave;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-32.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That of the people’s labour they",
+            "normalized": "That of the people’s labour they",
+            "reading": "That of the people’s labour they"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-32.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "inheritance might have.",
+            "normalized": "Inheritance might have.",
+            "reading": "inheritance might have."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-105.primary.stanza-33",
+      "number": 33,
+      "biblical_verses": [
+        45
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-105.primary.stanza-33.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That they his statutes might observe",
+            "normalized": "That they his statutes might observe",
+            "reading": "That they his statutes might observe"
+          },
+          "biblical_verse_start": 45
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-33.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "according to his word;",
+            "normalized": "According to his word;",
+            "reading": "according to his word;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-33.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And that they might his laws obey.",
+            "normalized": "And that they might his laws obey.",
+            "reading": "And that they might his laws obey."
+          }
+        },
+        {
+          "id": "ps1650.psalm-105.primary.stanza-33.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Give praise unto the LORD.",
+            "normalized": "Give praise unto the LORD.",
+            "reading": "Give praise unto the LORD."
+          }
+        }
+      ]
+    }
+  ]
+}

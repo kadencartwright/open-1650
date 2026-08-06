@@ -1,0 +1,358 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-122.primary",
+  "psalm_number": 122,
+  "title": "Psalm 122",
+  "version": "primary",
+  "opening_line": "I joyed when to the house of GOD,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 122 · p. 183–184",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-122-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      183,
+      184
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-122.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-122.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I joyed when to the house of GOD,",
+            "normalized": "I joyed when to the house of GOD,",
+            "reading": "I joyed when to the house of GOD,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Go up, they said to me.",
+            "normalized": "Go up, they said to me.",
+            "reading": "Go up, they said to me."
+          }
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Jerusalem, within thy gates",
+            "normalized": "Jerusalem, within thy gates",
+            "reading": "Jerusalem, within thy gates"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our feet shall standing be.",
+            "normalized": "Our feet shall standing be.",
+            "reading": "our feet shall standing be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-122.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-122.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Jerus’lem, as a city, is",
+            "normalized": "Jerus’lem, as a city, is",
+            "reading": "Jerus’lem, as a city, is"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "compactly built together:",
+            "normalized": "Compactly built together:",
+            "reading": "compactly built together:"
+          },
+          "source_underlining": [
+            "gether"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto that place the tribes go up,",
+            "normalized": "Unto that place the tribes go up,",
+            "reading": "Unto that place the tribes go up,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the tribes of GOD go thither:",
+            "normalized": "The tribes of GOD go thither:",
+            "reading": "the tribes of GOD go thither:"
+          },
+          "source_underlining": [
+            "thither"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-122.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-122.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To Isr’el’s testimony, there",
+            "normalized": "To Isr’el’s testimony, there",
+            "reading": "To Isr’el’s testimony, there"
+          }
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to GOD’s name thanks to pay.",
+            "normalized": "To GOD’s name thanks to pay.",
+            "reading": "to GOD’s name thanks to pay."
+          }
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thrones of judgment, ev’n the thrones",
+            "normalized": "For thrones of judgment, ev’n the thrones",
+            "reading": "For thrones of judgment, ev’n the thrones"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of David’s house, there stay.",
+            "normalized": "Of David’s house, there stay.",
+            "reading": "of David’s house, there stay."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-122.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-122.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Pray that Jerusalem may have",
+            "normalized": "Pray that Jerusalem may have",
+            "reading": "Pray that Jerusalem may have"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "peace and felicity:",
+            "normalized": "Peace and felicity:",
+            "reading": "peace and felicity:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let them that love thee and thy peace",
+            "normalized": "Let them that love thee and thy peace",
+            "reading": "Let them that love thee and thy peace"
+          }
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "have still prosperity.",
+            "normalized": "Have still prosperity.",
+            "reading": "have still prosperity."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-122.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-122.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Therefore I wish that peace may still",
+            "normalized": "Therefore I wish that peace may still",
+            "reading": "Therefore I wish that peace may still"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "within thy walls remain,",
+            "normalized": "Within thy walls remain,",
+            "reading": "within thy walls remain,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And ever may thy palaces",
+            "normalized": "And ever may thy palaces",
+            "reading": "And ever may thy palaces"
+          }
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "prosperity retain.",
+            "normalized": "Prosperity retain.",
+            "reading": "prosperity retain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-122.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8,
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-122.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Now, for my friends’ and brethren’s sakes,",
+            "normalized": "Now, for my friends’ and brethren’s sakes,",
+            "reading": "Now, for my friends’ and brethren’s sakes,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Peace be in thee, I’ll say.",
+            "normalized": "Peace be in thee, I’ll say.",
+            "reading": "Peace be in thee, I’ll say."
+          }
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And for the house of God our LORD,",
+            "normalized": "And for the house of God our LORD,",
+            "reading": "And for the house of God our LORD,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-122.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I’ll seek thy good alway.",
+            "normalized": "I’ll seek thy good alway.",
+            "reading": "I’ll seek thy good alway."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-128.primary",
+  "psalm_number": 128,
+  "title": "Psalm 128",
+  "version": "primary",
+  "opening_line": "Blessed is each one that fears the LORD,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 128 · p. 187",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-128-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      187
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-128.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-128.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Blessed is each one that fears the LORD,",
+            "normalized": "Blessed is each one that fears the LORD,",
+            "reading": "Blessed is each one that fears the LORD,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-128.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and walketh in his ways;",
+            "normalized": "And walketh in his ways;",
+            "reading": "and walketh in his ways;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-128.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For of thy labour thou shall eat,",
+            "normalized": "For of thy labour thou shall eat,",
+            "reading": "For of thy labour thou shall eat,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-128.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and happy be always.",
+            "normalized": "And happy be always.",
+            "reading": "and happy be always."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-128.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-128.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy wife shall as a fruitful vine",
+            "normalized": "Thy wife shall as a fruitful vine",
+            "reading": "Thy wife shall as a fruitful vine"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-128.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "by thy house’ sides be found:",
+            "normalized": "By thy house’ sides be found:",
+            "reading": "by thy house’ sides be found:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-128.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy children like to olive-plants",
+            "normalized": "Thy children like to olive-plants",
+            "reading": "Thy children like to olive-plants"
+          }
+        },
+        {
+          "id": "ps1650.psalm-128.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "about thy table round.",
+            "normalized": "About thy table round.",
+            "reading": "about thy table round."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-128.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4,
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-128.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Behold, the man that fears the LORD,",
+            "normalized": "Behold, the man that fears the LORD,",
+            "reading": "Behold, the man that fears the LORD,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-128.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thus blessèd shall he be.",
+            "normalized": "Thus blessèd shall he be.",
+            "reading": "thus blessèd shall he be."
+          }
+        },
+        {
+          "id": "ps1650.psalm-128.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD shall out of Zion give",
+            "normalized": "The LORD shall out of Zion give",
+            "reading": "The LORD shall out of Zion give"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-128.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his blessing unto thee:",
+            "normalized": "His blessing unto thee:",
+            "reading": "his blessing unto thee:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-128.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-128.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou shalt Jerus’lem’s good behold",
+            "normalized": "Thou shalt Jerus’lem’s good behold",
+            "reading": "Thou shalt Jerus’lem’s good behold"
+          }
+        },
+        {
+          "id": "ps1650.psalm-128.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "whilst thou on earth dost dwell.",
+            "normalized": "Whilst thou on earth dost dwell.",
+            "reading": "whilst thou on earth dost dwell."
+          }
+        },
+        {
+          "id": "ps1650.psalm-128.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou shalt thy children’s children see,",
+            "normalized": "Thou shalt thy children’s children see,",
+            "reading": "Thou shalt thy children’s children see,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-128.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and peace on Israel.",
+            "normalized": "And peace on Israel.",
+            "reading": "and peace on Israel."
+          }
+        }
+      ]
+    }
+  ]
+}

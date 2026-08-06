@@ -1,0 +1,302 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-124.primary",
+  "psalm_number": 124,
+  "title": "Psalm 124",
+  "version": "primary",
+  "opening_line": "Had not the LORD been on our side,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 124 · p. 184–185",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "first version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-124,-first-version-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      184,
+      185
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-124.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-124.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Had not the LORD been on our side,",
+            "normalized": "Had not the LORD been on our side,",
+            "reading": "Had not the LORD been on our side,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-124.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "may Israèl now say;",
+            "normalized": "May Israèl now say;",
+            "reading": "may Israèl now say;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-124.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Had not the LORD been on our side,",
+            "normalized": "Had not the LORD been on our side,",
+            "reading": "Had not the LORD been on our side,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-124.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when men rose us to slay;",
+            "normalized": "When men rose us to slay;",
+            "reading": "when men rose us to slay;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-124.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-124.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They had us swallowed quick, when as",
+            "normalized": "They had us swallowed quick, when as",
+            "reading": "They had us swallowed quick, when as"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-124.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their wrath ’gainst us did flame:",
+            "normalized": "Their wrath ’gainst us did flame:",
+            "reading": "their wrath ’gainst us did flame:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-124.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Waters had covered us, our soul",
+            "normalized": "Waters had covered us, our soul",
+            "reading": "Waters had covered us, our soul"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-124.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "had sunk beneath the stream.",
+            "normalized": "Had sunk beneath the stream.",
+            "reading": "had sunk beneath the stream."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-124.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5,
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-124.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then had the waters, swelling high,",
+            "normalized": "Then had the waters, swelling high,",
+            "reading": "Then had the waters, swelling high,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-124.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "over our soul made way.",
+            "normalized": "Over our soul made way.",
+            "reading": "over our soul made way."
+          }
+        },
+        {
+          "id": "ps1650.psalm-124.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Bless’d be the LORD, who to their teeth",
+            "normalized": "Bless’d be the LORD, who to their teeth",
+            "reading": "Bless’d be the LORD, who to their teeth"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-124.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "us gave not for a prey.",
+            "normalized": "Us gave not for a prey.",
+            "reading": "us gave not for a prey."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-124.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-124.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Our soul’s escapèd, as a bird",
+            "normalized": "Our soul’s escapèd, as a bird",
+            "reading": "Our soul’s escapèd, as a bird"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-124.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "out of the fowler’s snare;",
+            "normalized": "Out of the fowler’s snare;",
+            "reading": "out of the fowler’s snare;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-124.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The snare asunder broken is,",
+            "normalized": "The snare asunder broken is,",
+            "reading": "The snare asunder broken is,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-124.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and we escapèd are.",
+            "normalized": "And we escapèd are.",
+            "reading": "and we escapèd are."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-124.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-124.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Our sure and all-sufficient help",
+            "normalized": "Our sure and all-sufficient help",
+            "reading": "Our sure and all-sufficient help"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-124.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is in JEHOVAH’s name;",
+            "normalized": "Is in JEHOVAH’s name;",
+            "reading": "is in JEHOVAH’s name;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-124.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His name who did the heav’n create,",
+            "normalized": "His name who did the heav’n create,",
+            "reading": "His name who did the heav’n create,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-124.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and who the earth did frame.",
+            "normalized": "And who the earth did frame.",
+            "reading": "and who the earth did frame."
+          }
+        }
+      ]
+    }
+  ]
+}

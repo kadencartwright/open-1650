@@ -1,0 +1,1919 @@
+{
+  "$schema": "../../schemas/tune.schema.json",
+  "schema_version": "0.2.0",
+  "id": "ps1650.tune.bishopgarth",
+  "title": "Bishopgarth",
+  "alternate_title": null,
+  "meter": "8.7.8.7",
+  "ppq": 480,
+  "default_bpm": 84,
+  "time_signature": [
+    4,
+    4
+  ],
+  "key": "F major",
+  "length_ticks": 30720,
+  "notes": [
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-01.note-01",
+      "midi": 64,
+      "start_tick": 0,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-01.note-02",
+      "midi": 69,
+      "start_tick": 480,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-01.note-03",
+      "midi": 69,
+      "start_tick": 960,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-01.note-04",
+      "midi": 69,
+      "start_tick": 1440,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-01.note-05",
+      "midi": 69,
+      "start_tick": 1920,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-01.note-06",
+      "midi": 70,
+      "start_tick": 2400,
+      "duration_ticks": 720,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-01.note-07",
+      "midi": 69,
+      "start_tick": 3120,
+      "duration_ticks": 240,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-01.note-08",
+      "midi": 67,
+      "start_tick": 3360,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-01.note-09",
+      "midi": 67,
+      "start_tick": 3840,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-01.note-10",
+      "midi": 72,
+      "start_tick": 4320,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-01.note-11",
+      "midi": 74,
+      "start_tick": 4800,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-01.note-12",
+      "midi": 69,
+      "start_tick": 5280,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-01.note-13",
+      "midi": 67,
+      "start_tick": 5760,
+      "duration_ticks": 240,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-01.note-14",
+      "midi": 65,
+      "start_tick": 6000,
+      "duration_ticks": 240,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-01.note-15",
+      "midi": 67,
+      "start_tick": 6240,
+      "duration_ticks": 960,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-02.note-01",
+      "midi": 65,
+      "start_tick": 7200,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-02.note-02",
+      "midi": 60,
+      "start_tick": 7680,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-02.note-03",
+      "midi": 69,
+      "start_tick": 8160,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-02.note-04",
+      "midi": 69,
+      "start_tick": 8640,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-02.note-05",
+      "midi": 69,
+      "start_tick": 9120,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-02.note-06",
+      "midi": 69,
+      "start_tick": 9600,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-02.note-07",
+      "midi": 71,
+      "start_tick": 10080,
+      "duration_ticks": 720,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-02.note-08",
+      "midi": 69,
+      "start_tick": 10800,
+      "duration_ticks": 240,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-02.note-09",
+      "midi": 67,
+      "start_tick": 11040,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-02.note-10",
+      "midi": 67,
+      "start_tick": 11520,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-02.note-11",
+      "midi": 72,
+      "start_tick": 12000,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-02.note-12",
+      "midi": 76,
+      "start_tick": 12480,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-02.note-13",
+      "midi": 72,
+      "start_tick": 12960,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-02.note-14",
+      "midi": 71,
+      "start_tick": 13440,
+      "duration_ticks": 240,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-02.note-15",
+      "midi": 69,
+      "start_tick": 13680,
+      "duration_ticks": 240,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-02.note-16",
+      "midi": 71,
+      "start_tick": 13920,
+      "duration_ticks": 960,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-03.note-01",
+      "midi": 72,
+      "start_tick": 14880,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-03.note-02",
+      "midi": 72,
+      "start_tick": 15360,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-03.note-03",
+      "midi": 77,
+      "start_tick": 15840,
+      "duration_ticks": 720,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-03.note-04",
+      "midi": 76,
+      "start_tick": 16560,
+      "duration_ticks": 240,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-03.note-05",
+      "midi": 74,
+      "start_tick": 16800,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-03.note-06",
+      "midi": 72,
+      "start_tick": 17280,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-03.note-07",
+      "midi": 70,
+      "start_tick": 17760,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-03.note-08",
+      "midi": 72,
+      "start_tick": 18240,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-03.note-09",
+      "midi": 72,
+      "start_tick": 18720,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-03.note-10",
+      "midi": 70,
+      "start_tick": 19200,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-03.note-11",
+      "midi": 69,
+      "start_tick": 19680,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-03.note-12",
+      "midi": 72,
+      "start_tick": 20160,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-03.note-13",
+      "midi": 70,
+      "start_tick": 20640,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-03.note-14",
+      "midi": 69,
+      "start_tick": 21120,
+      "duration_ticks": 240,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-03.note-15",
+      "midi": 67,
+      "start_tick": 21360,
+      "duration_ticks": 240,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-03.note-16",
+      "midi": 65,
+      "start_tick": 21600,
+      "duration_ticks": 960,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04.note-01",
+      "midi": 64,
+      "start_tick": 22560,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04.note-02",
+      "midi": 60,
+      "start_tick": 23040,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04.note-03",
+      "midi": 69,
+      "start_tick": 23520,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04.note-04",
+      "midi": 69,
+      "start_tick": 24000,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04.note-05",
+      "midi": 69,
+      "start_tick": 24480,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04.note-06",
+      "midi": 69,
+      "start_tick": 24960,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04.note-07",
+      "midi": 70,
+      "start_tick": 25440,
+      "duration_ticks": 720,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04.note-08",
+      "midi": 69,
+      "start_tick": 26160,
+      "duration_ticks": 240,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04.note-09",
+      "midi": 67,
+      "start_tick": 26400,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04.note-10",
+      "midi": 67,
+      "start_tick": 26880,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04.note-11",
+      "midi": 72,
+      "start_tick": 27360,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04.note-12",
+      "midi": 74,
+      "start_tick": 27840,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04.note-13",
+      "midi": 69,
+      "start_tick": 28320,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04.note-14",
+      "midi": 67,
+      "start_tick": 28800,
+      "duration_ticks": 240,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04.note-15",
+      "midi": 65,
+      "start_tick": 29040,
+      "duration_ticks": 240,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04.note-16",
+      "midi": 67,
+      "start_tick": 29280,
+      "duration_ticks": 960,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04.note-17",
+      "midi": 65,
+      "start_tick": 30240,
+      "duration_ticks": 480,
+      "velocity": 88
+    }
+  ],
+  "phrases": [
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-01",
+      "start_tick": 0,
+      "end_tick": 7200,
+      "note_ids": [
+        "ps1650.tune.bishopgarth.phrase-01.note-01",
+        "ps1650.tune.bishopgarth.phrase-01.note-02",
+        "ps1650.tune.bishopgarth.phrase-01.note-03",
+        "ps1650.tune.bishopgarth.phrase-01.note-04",
+        "ps1650.tune.bishopgarth.phrase-01.note-05",
+        "ps1650.tune.bishopgarth.phrase-01.note-06",
+        "ps1650.tune.bishopgarth.phrase-01.note-07",
+        "ps1650.tune.bishopgarth.phrase-01.note-08",
+        "ps1650.tune.bishopgarth.phrase-01.note-09",
+        "ps1650.tune.bishopgarth.phrase-01.note-10",
+        "ps1650.tune.bishopgarth.phrase-01.note-11",
+        "ps1650.tune.bishopgarth.phrase-01.note-12",
+        "ps1650.tune.bishopgarth.phrase-01.note-13",
+        "ps1650.tune.bishopgarth.phrase-01.note-14",
+        "ps1650.tune.bishopgarth.phrase-01.note-15"
+      ]
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-02",
+      "start_tick": 7200,
+      "end_tick": 14880,
+      "note_ids": [
+        "ps1650.tune.bishopgarth.phrase-02.note-01",
+        "ps1650.tune.bishopgarth.phrase-02.note-02",
+        "ps1650.tune.bishopgarth.phrase-02.note-03",
+        "ps1650.tune.bishopgarth.phrase-02.note-04",
+        "ps1650.tune.bishopgarth.phrase-02.note-05",
+        "ps1650.tune.bishopgarth.phrase-02.note-06",
+        "ps1650.tune.bishopgarth.phrase-02.note-07",
+        "ps1650.tune.bishopgarth.phrase-02.note-08",
+        "ps1650.tune.bishopgarth.phrase-02.note-09",
+        "ps1650.tune.bishopgarth.phrase-02.note-10",
+        "ps1650.tune.bishopgarth.phrase-02.note-11",
+        "ps1650.tune.bishopgarth.phrase-02.note-12",
+        "ps1650.tune.bishopgarth.phrase-02.note-13",
+        "ps1650.tune.bishopgarth.phrase-02.note-14",
+        "ps1650.tune.bishopgarth.phrase-02.note-15",
+        "ps1650.tune.bishopgarth.phrase-02.note-16"
+      ]
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-03",
+      "start_tick": 14880,
+      "end_tick": 22560,
+      "note_ids": [
+        "ps1650.tune.bishopgarth.phrase-03.note-01",
+        "ps1650.tune.bishopgarth.phrase-03.note-02",
+        "ps1650.tune.bishopgarth.phrase-03.note-03",
+        "ps1650.tune.bishopgarth.phrase-03.note-04",
+        "ps1650.tune.bishopgarth.phrase-03.note-05",
+        "ps1650.tune.bishopgarth.phrase-03.note-06",
+        "ps1650.tune.bishopgarth.phrase-03.note-07",
+        "ps1650.tune.bishopgarth.phrase-03.note-08",
+        "ps1650.tune.bishopgarth.phrase-03.note-09",
+        "ps1650.tune.bishopgarth.phrase-03.note-10",
+        "ps1650.tune.bishopgarth.phrase-03.note-11",
+        "ps1650.tune.bishopgarth.phrase-03.note-12",
+        "ps1650.tune.bishopgarth.phrase-03.note-13",
+        "ps1650.tune.bishopgarth.phrase-03.note-14",
+        "ps1650.tune.bishopgarth.phrase-03.note-15",
+        "ps1650.tune.bishopgarth.phrase-03.note-16"
+      ]
+    },
+    {
+      "id": "ps1650.tune.bishopgarth.phrase-04",
+      "start_tick": 22560,
+      "end_tick": 30720,
+      "note_ids": [
+        "ps1650.tune.bishopgarth.phrase-04.note-01",
+        "ps1650.tune.bishopgarth.phrase-04.note-02",
+        "ps1650.tune.bishopgarth.phrase-04.note-03",
+        "ps1650.tune.bishopgarth.phrase-04.note-04",
+        "ps1650.tune.bishopgarth.phrase-04.note-05",
+        "ps1650.tune.bishopgarth.phrase-04.note-06",
+        "ps1650.tune.bishopgarth.phrase-04.note-07",
+        "ps1650.tune.bishopgarth.phrase-04.note-08",
+        "ps1650.tune.bishopgarth.phrase-04.note-09",
+        "ps1650.tune.bishopgarth.phrase-04.note-10",
+        "ps1650.tune.bishopgarth.phrase-04.note-11",
+        "ps1650.tune.bishopgarth.phrase-04.note-12",
+        "ps1650.tune.bishopgarth.phrase-04.note-13",
+        "ps1650.tune.bishopgarth.phrase-04.note-14",
+        "ps1650.tune.bishopgarth.phrase-04.note-15",
+        "ps1650.tune.bishopgarth.phrase-04.note-16",
+        "ps1650.tune.bishopgarth.phrase-04.note-17"
+      ]
+    }
+  ],
+  "harmony": {
+    "voicing": "SATB",
+    "voices": {
+      "alto": [
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-01",
+          "midi": 64,
+          "start_tick": 0,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-02",
+          "midi": 65,
+          "start_tick": 480,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-03",
+          "midi": 65,
+          "start_tick": 960,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-04",
+          "midi": 65,
+          "start_tick": 1440,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-05",
+          "midi": 65,
+          "start_tick": 1920,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-06",
+          "midi": 64,
+          "start_tick": 2400,
+          "duration_ticks": 720,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-07",
+          "midi": 64,
+          "start_tick": 3120,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-08",
+          "midi": 64,
+          "start_tick": 3360,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-09",
+          "midi": 64,
+          "start_tick": 3840,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-10",
+          "midi": 65,
+          "start_tick": 4320,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-11",
+          "midi": 65,
+          "start_tick": 4800,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-12",
+          "midi": 65,
+          "start_tick": 5280,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-13",
+          "midi": 67,
+          "start_tick": 5760,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-14",
+          "midi": 65,
+          "start_tick": 6000,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-15",
+          "midi": 64,
+          "start_tick": 6240,
+          "duration_ticks": 960,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-16",
+          "midi": 65,
+          "start_tick": 7200,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-17",
+          "midi": 60,
+          "start_tick": 7680,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-18",
+          "midi": 65,
+          "start_tick": 8160,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-19",
+          "midi": 65,
+          "start_tick": 8640,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-20",
+          "midi": 65,
+          "start_tick": 9120,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-21",
+          "midi": 65,
+          "start_tick": 9600,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-22",
+          "midi": 65,
+          "start_tick": 10080,
+          "duration_ticks": 720,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-23",
+          "midi": 65,
+          "start_tick": 10800,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-24",
+          "midi": 62,
+          "start_tick": 11040,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-25",
+          "midi": 67,
+          "start_tick": 11520,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-26",
+          "midi": 67,
+          "start_tick": 12000,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-27",
+          "midi": 67,
+          "start_tick": 12480,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-28",
+          "midi": 69,
+          "start_tick": 12960,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-29",
+          "midi": 65,
+          "start_tick": 13440,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-30",
+          "midi": 65,
+          "start_tick": 13920,
+          "duration_ticks": 960,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-31",
+          "midi": 64,
+          "start_tick": 14880,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-32",
+          "midi": 64,
+          "start_tick": 15360,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-33",
+          "midi": 65,
+          "start_tick": 15840,
+          "duration_ticks": 720,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-34",
+          "midi": 65,
+          "start_tick": 16560,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-35",
+          "midi": 65,
+          "start_tick": 16800,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-36",
+          "midi": 65,
+          "start_tick": 17280,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-37",
+          "midi": 65,
+          "start_tick": 17760,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-38",
+          "midi": 65,
+          "start_tick": 18240,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-39",
+          "midi": 64,
+          "start_tick": 18720,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-40",
+          "midi": 67,
+          "start_tick": 19200,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-41",
+          "midi": 65,
+          "start_tick": 19680,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-42",
+          "midi": 65,
+          "start_tick": 20160,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-43",
+          "midi": 65,
+          "start_tick": 20640,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-44",
+          "midi": 62,
+          "start_tick": 21120,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-45",
+          "midi": 60,
+          "start_tick": 21600,
+          "duration_ticks": 960,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-46",
+          "midi": 60,
+          "start_tick": 22560,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-47",
+          "midi": 60,
+          "start_tick": 23040,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-48",
+          "midi": 65,
+          "start_tick": 23520,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-49",
+          "midi": 65,
+          "start_tick": 24000,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-50",
+          "midi": 65,
+          "start_tick": 24480,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-51",
+          "midi": 65,
+          "start_tick": 24960,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-52",
+          "midi": 64,
+          "start_tick": 25440,
+          "duration_ticks": 720,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-53",
+          "midi": 64,
+          "start_tick": 26160,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-54",
+          "midi": 64,
+          "start_tick": 26400,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-55",
+          "midi": 64,
+          "start_tick": 26880,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-56",
+          "midi": 65,
+          "start_tick": 27360,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-57",
+          "midi": 65,
+          "start_tick": 27840,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-58",
+          "midi": 65,
+          "start_tick": 28320,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-59",
+          "midi": 67,
+          "start_tick": 28800,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-60",
+          "midi": 65,
+          "start_tick": 29040,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-61",
+          "midi": 64,
+          "start_tick": 29280,
+          "duration_ticks": 960,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.alto.note-62",
+          "midi": 65,
+          "start_tick": 30240,
+          "duration_ticks": 480,
+          "velocity": 88
+        }
+      ],
+      "tenor": [
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-01",
+          "midi": 48,
+          "start_tick": 0,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-02",
+          "midi": 60,
+          "start_tick": 480,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-03",
+          "midi": 60,
+          "start_tick": 960,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-04",
+          "midi": 60,
+          "start_tick": 1440,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-05",
+          "midi": 60,
+          "start_tick": 1920,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-06",
+          "midi": 57,
+          "start_tick": 2160,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-07",
+          "midi": 55,
+          "start_tick": 2400,
+          "duration_ticks": 720,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-08",
+          "midi": 55,
+          "start_tick": 3120,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-09",
+          "midi": 60,
+          "start_tick": 3360,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-10",
+          "midi": 60,
+          "start_tick": 3840,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-11",
+          "midi": 53,
+          "start_tick": 4320,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-12",
+          "midi": 62,
+          "start_tick": 4800,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-13",
+          "midi": 60,
+          "start_tick": 5280,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-14",
+          "midi": 59,
+          "start_tick": 5760,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-15",
+          "midi": 58,
+          "start_tick": 6240,
+          "duration_ticks": 960,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-16",
+          "midi": 57,
+          "start_tick": 7200,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-17",
+          "midi": 48,
+          "start_tick": 7680,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-18",
+          "midi": 60,
+          "start_tick": 8160,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-19",
+          "midi": 60,
+          "start_tick": 8640,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-20",
+          "midi": 60,
+          "start_tick": 9120,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-21",
+          "midi": 60,
+          "start_tick": 9600,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-22",
+          "midi": 62,
+          "start_tick": 10080,
+          "duration_ticks": 720,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-23",
+          "midi": 60,
+          "start_tick": 10800,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-24",
+          "midi": 59,
+          "start_tick": 11040,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-25",
+          "midi": 59,
+          "start_tick": 11520,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-26",
+          "midi": 60,
+          "start_tick": 12000,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-27",
+          "midi": 60,
+          "start_tick": 12480,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-28",
+          "midi": 60,
+          "start_tick": 12960,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-29",
+          "midi": 62,
+          "start_tick": 13440,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-30",
+          "midi": 62,
+          "start_tick": 13920,
+          "duration_ticks": 960,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-31",
+          "midi": 60,
+          "start_tick": 14880,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-32",
+          "midi": 60,
+          "start_tick": 15360,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-33",
+          "midi": 60,
+          "start_tick": 15840,
+          "duration_ticks": 720,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-34",
+          "midi": 60,
+          "start_tick": 16560,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-35",
+          "midi": 65,
+          "start_tick": 16800,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-36",
+          "midi": 60,
+          "start_tick": 17280,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-37",
+          "midi": 62,
+          "start_tick": 17760,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-38",
+          "midi": 58,
+          "start_tick": 18240,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-39",
+          "midi": 55,
+          "start_tick": 18720,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-40",
+          "midi": 60,
+          "start_tick": 19200,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-41",
+          "midi": 60,
+          "start_tick": 19680,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-42",
+          "midi": 63,
+          "start_tick": 20160,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-43",
+          "midi": 62,
+          "start_tick": 20640,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-44",
+          "midi": 60,
+          "start_tick": 21120,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-45",
+          "midi": 58,
+          "start_tick": 21360,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-46",
+          "midi": 57,
+          "start_tick": 21600,
+          "duration_ticks": 960,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-47",
+          "midi": 55,
+          "start_tick": 22560,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-48",
+          "midi": 48,
+          "start_tick": 23040,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-49",
+          "midi": 60,
+          "start_tick": 23520,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-50",
+          "midi": 60,
+          "start_tick": 24000,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-51",
+          "midi": 60,
+          "start_tick": 24480,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-52",
+          "midi": 60,
+          "start_tick": 24960,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-53",
+          "midi": 57,
+          "start_tick": 25200,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-54",
+          "midi": 55,
+          "start_tick": 25440,
+          "duration_ticks": 720,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-55",
+          "midi": 55,
+          "start_tick": 26160,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-56",
+          "midi": 60,
+          "start_tick": 26400,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-57",
+          "midi": 60,
+          "start_tick": 26880,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-58",
+          "midi": 53,
+          "start_tick": 27360,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-59",
+          "midi": 62,
+          "start_tick": 27840,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-60",
+          "midi": 60,
+          "start_tick": 28320,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-61",
+          "midi": 59,
+          "start_tick": 28800,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-62",
+          "midi": 58,
+          "start_tick": 29280,
+          "duration_ticks": 960,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.tenor.note-63",
+          "midi": 57,
+          "start_tick": 30240,
+          "duration_ticks": 480,
+          "velocity": 88
+        }
+      ],
+      "bass": [
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-01",
+          "midi": 48,
+          "start_tick": 0,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-02",
+          "midi": 53,
+          "start_tick": 480,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-03",
+          "midi": 57,
+          "start_tick": 960,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-04",
+          "midi": 60,
+          "start_tick": 1440,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-05",
+          "midi": 57,
+          "start_tick": 1920,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-06",
+          "midi": 53,
+          "start_tick": 2160,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-07",
+          "midi": 48,
+          "start_tick": 2400,
+          "duration_ticks": 720,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-08",
+          "midi": 48,
+          "start_tick": 3120,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-09",
+          "midi": 48,
+          "start_tick": 3360,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-10",
+          "midi": 46,
+          "start_tick": 3840,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-11",
+          "midi": 45,
+          "start_tick": 4320,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-12",
+          "midi": 46,
+          "start_tick": 4800,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-13",
+          "midi": 48,
+          "start_tick": 5280,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-14",
+          "midi": 50,
+          "start_tick": 5760,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-15",
+          "midi": 48,
+          "start_tick": 6240,
+          "duration_ticks": 960,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-16",
+          "midi": 53,
+          "start_tick": 7200,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-17",
+          "midi": 48,
+          "start_tick": 7680,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-18",
+          "midi": 53,
+          "start_tick": 8160,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-19",
+          "midi": 57,
+          "start_tick": 8640,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-20",
+          "midi": 60,
+          "start_tick": 9120,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-21",
+          "midi": 57,
+          "start_tick": 9600,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-22",
+          "midi": 53,
+          "start_tick": 9840,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-23",
+          "midi": 50,
+          "start_tick": 10080,
+          "duration_ticks": 720,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-24",
+          "midi": 50,
+          "start_tick": 10800,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-25",
+          "midi": 55,
+          "start_tick": 11040,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-26",
+          "midi": 53,
+          "start_tick": 11520,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-27",
+          "midi": 52,
+          "start_tick": 12000,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-28",
+          "midi": 52,
+          "start_tick": 12480,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-29",
+          "midi": 53,
+          "start_tick": 12960,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-30",
+          "midi": 50,
+          "start_tick": 13440,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-31",
+          "midi": 55,
+          "start_tick": 13920,
+          "duration_ticks": 960,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-32",
+          "midi": 48,
+          "start_tick": 14880,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-33",
+          "midi": 60,
+          "start_tick": 15360,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-34",
+          "midi": 58,
+          "start_tick": 15600,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-35",
+          "midi": 57,
+          "start_tick": 15840,
+          "duration_ticks": 720,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-36",
+          "midi": 57,
+          "start_tick": 16560,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-37",
+          "midi": 57,
+          "start_tick": 16800,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-38",
+          "midi": 57,
+          "start_tick": 17280,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-39",
+          "midi": 55,
+          "start_tick": 17760,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-40",
+          "midi": 55,
+          "start_tick": 18240,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-41",
+          "midi": 48,
+          "start_tick": 18720,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-42",
+          "midi": 52,
+          "start_tick": 19200,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-43",
+          "midi": 53,
+          "start_tick": 19680,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-44",
+          "midi": 45,
+          "start_tick": 20160,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-45",
+          "midi": 46,
+          "start_tick": 20640,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-46",
+          "midi": 46,
+          "start_tick": 21120,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-47",
+          "midi": 48,
+          "start_tick": 21600,
+          "duration_ticks": 960,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-48",
+          "midi": 48,
+          "start_tick": 22560,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-49",
+          "midi": 48,
+          "start_tick": 23040,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-50",
+          "midi": 53,
+          "start_tick": 23520,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-51",
+          "midi": 57,
+          "start_tick": 24000,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-52",
+          "midi": 60,
+          "start_tick": 24480,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-53",
+          "midi": 57,
+          "start_tick": 24960,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-54",
+          "midi": 53,
+          "start_tick": 25200,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-55",
+          "midi": 48,
+          "start_tick": 25440,
+          "duration_ticks": 720,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-56",
+          "midi": 48,
+          "start_tick": 26160,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-57",
+          "midi": 48,
+          "start_tick": 26400,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-58",
+          "midi": 46,
+          "start_tick": 26880,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-59",
+          "midi": 45,
+          "start_tick": 27360,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-60",
+          "midi": 46,
+          "start_tick": 27840,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-61",
+          "midi": 48,
+          "start_tick": 28320,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-62",
+          "midi": 50,
+          "start_tick": 28800,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-63",
+          "midi": 48,
+          "start_tick": 29280,
+          "duration_ticks": 960,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.bishopgarth.harmony.bass.note-64",
+          "midi": 53,
+          "start_tick": 30240,
+          "duration_ticks": 480,
+          "velocity": 88
+        }
+      ]
+    },
+    "editorial_transformation": "The public-domain two-staff MIDI was separated into soprano, alto, tenor, and bass by sustained-note continuity and minimum-motion voice leading. Its final release gate was restored to the written cadence. Every part is transposed up 1 semitone.",
+    "rights": {
+      "arrangement": "PDM-1.0",
+      "event_transcription": "PDM-1.0"
+    }
+  },
+  "source": {
+    "id": "cceh.000555",
+    "label": "BISHOPGARTH",
+    "provider": "Christian Classics Ethereal Library",
+    "source_work": "Christian Classics Ethereal Hymnary #555",
+    "date": "1897",
+    "record_url": "https://www.ccel.org/cceh/0005/x000555.htm",
+    "editable_score_url": "https://www.ccel.org/cceh/0005/000555a.nwc",
+    "score_url": "https://www.ccel.org/cceh/0005/000555a.pdf",
+    "rights_statement_url": "https://www.ccel.org/cceh/cceh_cpr.htm",
+    "attribution": "Arthur Sullivan, 1897; catalogued for the iambic 8.7.8.7 form.",
+    "editorial_transformation": "The final NoteWorthy MIDI release gate was extended to the written cadence and timing was normalized from 192 to 480 PPQ. Every part is transposed up 1 semitone.",
+    "event_source_url": "https://www.ccel.org/cceh/0005/000555a.mid",
+    "event_source_sha256": "db4687792e26a2b9572577a259e4db4a33d8840cf496c937af7caef2cc440d17"
+  },
+  "rights": {
+    "composition": "PDM-1.0",
+    "source_transcription": "PDM-1.0",
+    "metadata": "CC0-1.0"
+  }
+}

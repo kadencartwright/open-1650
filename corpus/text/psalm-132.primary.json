@@ -1,0 +1,709 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-132.primary",
+  "psalm_number": 132,
+  "title": "Psalm 132",
+  "version": "primary",
+  "opening_line": "David, and his afflictions all,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 132 · p. 189–190",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-132-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      189,
+      190
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-132.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-132.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "David, and his afflictions all,",
+            "normalized": "David, and his afflictions all,",
+            "reading": "David, and his afflictions all,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "LORD, do thou think upon;",
+            "normalized": "LORD, do thou think upon;",
+            "reading": "LORD, do thou think upon;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "How unto GOD he sware, and vowed",
+            "normalized": "How unto GOD he sware, and vowed",
+            "reading": "How unto GOD he sware, and vowed"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to Jacob’s mighty One.",
+            "normalized": "To Jacob’s mighty One.",
+            "reading": "to Jacob’s mighty One."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-132.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-132.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I will not come within my house,",
+            "normalized": "I will not come within my house,",
+            "reading": "I will not come within my house,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor rest in bed at all;",
+            "normalized": "Nor rest in bed at all;",
+            "reading": "nor rest in bed at all;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor shall mine eyes take any sleep,",
+            "normalized": "Nor shall mine eyes take any sleep,",
+            "reading": "Nor shall mine eyes take any sleep,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor eyelids slumber shall;",
+            "normalized": "Nor eyelids slumber shall;",
+            "reading": "nor eyelids slumber shall;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-132.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-132.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Till for the LORD a place I find,",
+            "normalized": "Till for the LORD a place I find,",
+            "reading": "Till for the LORD a place I find,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "where he may make abode;",
+            "normalized": "Where he may make abode;",
+            "reading": "where he may make abode;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A place of habitätion",
+            "normalized": "A place of habitätion",
+            "reading": "A place of habitätion"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for Jacob’s mighty God.",
+            "normalized": "For Jacob’s mighty God.",
+            "reading": "for Jacob’s mighty God."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-132.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-132.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Lo, at the place of Ephratah",
+            "normalized": "Lo, at the place of Ephratah",
+            "reading": "Lo, at the place of Ephratah"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of it we understood;",
+            "normalized": "Of it we understood;",
+            "reading": "of it we understood;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And we did find it in the fields,",
+            "normalized": "And we did find it in the fields,",
+            "reading": "And we did find it in the fields,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and city of the wood.",
+            "normalized": "And city of the wood.",
+            "reading": "and city of the wood."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-132.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-132.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "We’ll go into his tabernacles,",
+            "normalized": "We’ll go into his tabernacles,",
+            "reading": "We’ll go into his tabernacles,"
+          },
+          "biblical_verse_start": 7,
+          "source_underlining": [
+            "nacles"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and at his footstool bow.",
+            "normalized": "And at his footstool bow.",
+            "reading": "and at his footstool bow."
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Arise, O LORD, into thy rest,",
+            "normalized": "Arise, O LORD, into thy rest,",
+            "reading": "Arise, O LORD, into thy rest,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "th’ ark of thy strength, and thou.",
+            "normalized": "Th’ ark of thy strength, and thou.",
+            "reading": "th’ ark of thy strength, and thou."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-132.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-132.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O let thy priests be clothèd, Lord,",
+            "normalized": "O let thy priests be clothèd, Lord,",
+            "reading": "O let thy priests be clothèd, Lord,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with truth and righteousness;",
+            "normalized": "With truth and righteousness;",
+            "reading": "with truth and righteousness;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And let all those that are thy saints",
+            "normalized": "And let all those that are thy saints",
+            "reading": "And let all those that are thy saints"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shout loud for joyfulness.",
+            "normalized": "Shout loud for joyfulness.",
+            "reading": "shout loud for joyfulness."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-132.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-132.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thine own servant David’s sake,",
+            "normalized": "For thine own servant David’s sake,",
+            "reading": "For thine own servant David’s sake,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do not deny thy grace:",
+            "normalized": "Do not deny thy grace:",
+            "reading": "do not deny thy grace:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor of thine own anointed one",
+            "normalized": "Nor of thine own anointed one",
+            "reading": "Nor of thine own anointed one"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "turn thou away the face.",
+            "normalized": "Turn thou away the face.",
+            "reading": "turn thou away the face."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-132.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-132.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD in truth to David sware,",
+            "normalized": "The LORD in truth to David sware,",
+            "reading": "The LORD in truth to David sware,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he will not turn from it,",
+            "normalized": "He will not turn from it,",
+            "reading": "he will not turn from it,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I of thy body’s fruit will make",
+            "normalized": "I of thy body’s fruit will make",
+            "reading": "I of thy body’s fruit will make"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "upon thy throne to sit.",
+            "normalized": "Upon thy throne to sit.",
+            "reading": "upon thy throne to sit."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-132.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-132.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My cov’nant if thy sons will keep,",
+            "normalized": "My cov’nant if thy sons will keep,",
+            "reading": "My cov’nant if thy sons will keep,"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and laws to them made known,",
+            "normalized": "And laws to them made known,",
+            "reading": "and laws to them made known,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their children then shall also sit",
+            "normalized": "Their children then shall also sit",
+            "reading": "Their children then shall also sit"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for ever on thy throne.",
+            "normalized": "For ever on thy throne.",
+            "reading": "for ever on thy throne."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-132.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        13,
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-132.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For GOD of Zion hath made choice;",
+            "normalized": "For GOD of Zion hath made choice;",
+            "reading": "For GOD of Zion hath made choice;"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "there he desires to dwell.",
+            "normalized": "There he desires to dwell.",
+            "reading": "there he desires to dwell."
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "This is my rest, here still I’ll stay;",
+            "normalized": "This is my rest, here still I’ll stay;",
+            "reading": "This is my rest, here still I’ll stay;"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for I do like it well.",
+            "normalized": "For I do like it well.",
+            "reading": "for I do like it well."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-132.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        15,
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-132.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Her food I’ll greatly bless; her poor",
+            "normalized": "Her food I’ll greatly bless; her poor",
+            "reading": "Her food I’ll greatly bless; her poor"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with bread will satisfy.",
+            "normalized": "With bread will satisfy.",
+            "reading": "with bread will satisfy."
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Her priests I’ll clothe with health; her saints",
+            "normalized": "Her priests I’ll clothe with health; her saints",
+            "reading": "Her priests I’ll clothe with health; her saints"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall shout forth joyfully.",
+            "normalized": "Shall shout forth joyfully.",
+            "reading": "shall shout forth joyfully."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-132.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        17
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-132.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And there will I make David’s horn",
+            "normalized": "And there will I make David’s horn",
+            "reading": "And there will I make David’s horn"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to bud forth pleasantly:",
+            "normalized": "To bud forth pleasantly:",
+            "reading": "to bud forth pleasantly:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For him that mine anointed is",
+            "normalized": "For him that mine anointed is",
+            "reading": "For him that mine anointed is"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a lamp ordained have I.",
+            "normalized": "A lamp ordained have I.",
+            "reading": "a lamp ordained have I."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-132.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-132.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "As with a garment I will clothe",
+            "normalized": "As with a garment I will clothe",
+            "reading": "As with a garment I will clothe"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with shame his en’mies all:",
+            "normalized": "With shame his en’mies all:",
+            "reading": "with shame his en’mies all:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But yet the crown that he doth wear",
+            "normalized": "But yet the crown that he doth wear",
+            "reading": "But yet the crown that he doth wear"
+          }
+        },
+        {
+          "id": "ps1650.psalm-132.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "upon him flourish shall.",
+            "normalized": "Upon him flourish shall.",
+            "reading": "upon him flourish shall."
+          }
+        }
+      ]
+    }
+  ]
+}

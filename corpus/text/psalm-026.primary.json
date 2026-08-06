@@ -1,0 +1,502 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-026.primary",
+  "psalm_number": 26,
+  "title": "Psalm 26",
+  "version": "primary",
+  "opening_line": "Judge me, O LORD, for I have walked",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 26 · p. 35–36",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-026-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      35,
+      36
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-026.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-026.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Judge me, O LORD, for I have walked",
+            "normalized": "Judge me, O LORD, for I have walked",
+            "reading": "Judge me, O LORD, for I have walked"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in mine integrity:",
+            "normalized": "In mine integrity:",
+            "reading": "in mine integrity:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I trusted also in the LORD;",
+            "normalized": "I trusted also in the LORD;",
+            "reading": "I trusted also in the LORD;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "slide therefore shall not I.",
+            "normalized": "Slide therefore shall not I.",
+            "reading": "slide therefore shall not I."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-026.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2,
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-026.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Examine me, and do me prove;",
+            "normalized": "Examine me, and do me prove;",
+            "reading": "Examine me, and do me prove;"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "try heart and reins, O GOD:",
+            "normalized": "Try heart and reins, O GOD:",
+            "reading": "try heart and reins, O GOD:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thy love is before mine eyes,",
+            "normalized": "For thy love is before mine eyes,",
+            "reading": "For thy love is before mine eyes,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy truth’s paths I have trod.",
+            "normalized": "Thy truth’s paths I have trod.",
+            "reading": "thy truth’s paths I have trod."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-026.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4,
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-026.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With persons vain I have not sat,",
+            "normalized": "With persons vain I have not sat,",
+            "reading": "With persons vain I have not sat,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor with dissemblers gone:",
+            "normalized": "Nor with dissemblers gone:",
+            "reading": "nor with dissemblers gone:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Th’ assembly of ill men I hate;",
+            "normalized": "Th’ assembly of ill men I hate;",
+            "reading": "Th’ assembly of ill men I hate;"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to sit with such I shun.",
+            "normalized": "To sit with such I shun.",
+            "reading": "to sit with such I shun."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-026.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-026.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Mine hands in innocence, O LORD,",
+            "normalized": "Mine hands in innocence, O LORD,",
+            "reading": "Mine hands in innocence, O LORD,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I’ll wash and purify;",
+            "normalized": "I’ll wash and purify;",
+            "reading": "I’ll wash and purify;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "So to thine holy altar go,",
+            "normalized": "So to thine holy altar go,",
+            "reading": "So to thine holy altar go,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and compass it will I:",
+            "normalized": "And compass it will I:",
+            "reading": "and compass it will I:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-026.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-026.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That I, with voice of thanksgiving,",
+            "normalized": "That I, with voice of thanksgiving,",
+            "reading": "That I, with voice of thanksgiving,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "may publish and declare,",
+            "normalized": "May publish and declare,",
+            "reading": "may publish and declare,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And tell of all thy mighty works,",
+            "normalized": "And tell of all thy mighty works,",
+            "reading": "And tell of all thy mighty works,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that great and wondrous are.",
+            "normalized": "That great and wondrous are.",
+            "reading": "that great and wondrous are."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-026.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-026.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The habitation of thy house,",
+            "normalized": "The habitation of thy house,",
+            "reading": "The habitation of thy house,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "LORD, I have lovèd well;",
+            "normalized": "LORD, I have lovèd well;",
+            "reading": "LORD, I have lovèd well;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, in that place I do delight",
+            "normalized": "Yea, in that place I do delight",
+            "reading": "Yea, in that place I do delight"
+          }
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "where doth thine honour dwell.",
+            "normalized": "Where doth thine honour dwell.",
+            "reading": "where doth thine honour dwell."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-026.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9,
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-026.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With sinners gather not my soul,",
+            "normalized": "With sinners gather not my soul,",
+            "reading": "With sinners gather not my soul,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and such as blood would spill:",
+            "normalized": "And such as blood would spill:",
+            "reading": "and such as blood would spill:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Whose hands mischievous plots, right hand",
+            "normalized": "Whose hands mischievous plots, right hand",
+            "reading": "Whose hands mischievous plots, right hand"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "corrupting bribes do fill.",
+            "normalized": "Corrupting bribes do fill.",
+            "reading": "corrupting bribes do fill."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-026.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-026.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But as for me, I will walk on",
+            "normalized": "But as for me, I will walk on",
+            "reading": "But as for me, I will walk on"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in mine integrity:",
+            "normalized": "In mine integrity:",
+            "reading": "in mine integrity:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Do thou redeem me, and, O Lord,",
+            "normalized": "Do thou redeem me, and, O Lord,",
+            "reading": "Do thou redeem me, and, O Lord,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "be merciful to me.",
+            "normalized": "Be merciful to me.",
+            "reading": "be merciful to me."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-026.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-026.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My foot upon an even place",
+            "normalized": "My foot upon an even place",
+            "reading": "My foot upon an even place"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth stand with stedfastness:",
+            "normalized": "Doth stand with stedfastness:",
+            "reading": "doth stand with stedfastness:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Within the congregätions",
+            "normalized": "Within the congregätions",
+            "reading": "Within the congregätions"
+          }
+        },
+        {
+          "id": "ps1650.psalm-026.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "th’ ETERNAL I will bless.",
+            "normalized": "Th’ ETERNAL I will bless.",
+            "reading": "th’ ETERNAL I will bless."
+          }
+        }
+      ]
+    }
+  ]
+}

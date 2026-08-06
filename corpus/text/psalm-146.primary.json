@@ -1,0 +1,450 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-146.primary",
+  "psalm_number": 146,
+  "title": "Psalm 146",
+  "version": "primary",
+  "opening_line": "Praise GOD. The LORD praise, O my soul.",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 146 · p. 207–208",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-146-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      207,
+      208
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-146.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-146.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Praise GOD. The LORD praise, O my soul.",
+            "normalized": "Praise GOD. The LORD praise, O my soul.",
+            "reading": "Praise GOD. The LORD praise, O my soul."
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I’ll praise GOD while I live;",
+            "normalized": "I’ll praise GOD while I live;",
+            "reading": "I’ll praise GOD while I live;"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "While I have being to my God",
+            "normalized": "While I have being to my God",
+            "reading": "While I have being to my God"
+          }
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in songs I’ll praises give.",
+            "normalized": "In songs I’ll praises give.",
+            "reading": "in songs I’ll praises give."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-146.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-146.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Trust not in princes, nor man’s son,",
+            "normalized": "Trust not in princes, nor man’s son,",
+            "reading": "Trust not in princes, nor man’s son,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in whom there is no stay:",
+            "normalized": "In whom there is no stay:",
+            "reading": "in whom there is no stay:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His breath departs, to ’s earth he turns;",
+            "normalized": "His breath departs, to ’s earth he turns;",
+            "reading": "His breath departs, to ’s earth he turns;"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that day his thoughts decay.",
+            "normalized": "That day his thoughts decay.",
+            "reading": "that day his thoughts decay."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-146.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-146.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O happy is that man and blest,",
+            "normalized": "O happy is that man and blest,",
+            "reading": "O happy is that man and blest,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "whom Jacob’s God doth aid;",
+            "normalized": "Whom Jacob’s God doth aid;",
+            "reading": "whom Jacob’s God doth aid;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Whose hope upon the LORD doth rest,",
+            "normalized": "Whose hope upon the LORD doth rest,",
+            "reading": "Whose hope upon the LORD doth rest,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and on his God is stayed:",
+            "normalized": "And on his God is stayed:",
+            "reading": "and on his God is stayed:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-146.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-146.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who made the earth and heavens high,",
+            "normalized": "Who made the earth and heavens high,",
+            "reading": "Who made the earth and heavens high,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who made the swelling deep,",
+            "normalized": "Who made the swelling deep,",
+            "reading": "who made the swelling deep,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And all that is within the same;",
+            "normalized": "And all that is within the same;",
+            "reading": "And all that is within the same;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who truth doth ever keep:",
+            "normalized": "Who truth doth ever keep:",
+            "reading": "who truth doth ever keep:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-146.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-146.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who righteous judgment executes",
+            "normalized": "Who righteous judgment executes",
+            "reading": "Who righteous judgment executes"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for those oppressed that be,",
+            "normalized": "For those oppressed that be,",
+            "reading": "for those oppressed that be,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who to the hungry giveth food;",
+            "normalized": "Who to the hungry giveth food;",
+            "reading": "Who to the hungry giveth food;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "GOD sets the pris’ners free.",
+            "normalized": "GOD sets the pris’ners free.",
+            "reading": "GOD sets the pris’ners free."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-146.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-146.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD doth give the blind their sight,",
+            "normalized": "The LORD doth give the blind their sight,",
+            "reading": "The LORD doth give the blind their sight,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the bowèd down doth raise:",
+            "normalized": "The bowèd down doth raise:",
+            "reading": "the bowèd down doth raise:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD doth dearly love all those",
+            "normalized": "The LORD doth dearly love all those",
+            "reading": "The LORD doth dearly love all those"
+          }
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that walk in upright ways.",
+            "normalized": "That walk in upright ways.",
+            "reading": "that walk in upright ways."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-146.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-146.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The stranger’s shield, the widow’s stay,",
+            "normalized": "The stranger’s shield, the widow’s stay,",
+            "reading": "The stranger’s shield, the widow’s stay,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the orphan’s help, is he:",
+            "normalized": "The orphan’s help, is he:",
+            "reading": "the orphan’s help, is he:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But yet by him the wicked’s way",
+            "normalized": "But yet by him the wicked’s way",
+            "reading": "But yet by him the wicked’s way"
+          }
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "turn’d upside down shall be.",
+            "normalized": "Turn’d upside down shall be.",
+            "reading": "turn’d upside down shall be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-146.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-146.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD shall reign for evermore:",
+            "normalized": "The LORD shall reign for evermore:",
+            "reading": "The LORD shall reign for evermore:"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy God, O Zion, he",
+            "normalized": "Thy God, O Zion, he",
+            "reading": "thy God, O Zion, he"
+          }
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Reigns to all generätions.",
+            "normalized": "Reigns to all generätions.",
+            "reading": "Reigns to all generätions."
+          }
+        },
+        {
+          "id": "ps1650.psalm-146.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Praise to the LORD give ye.",
+            "normalized": "Praise to the LORD give ye.",
+            "reading": "Praise to the LORD give ye."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,761 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-066.primary",
+  "psalm_number": 66,
+  "title": "Psalm 66",
+  "version": "primary",
+  "opening_line": "All lands to God, in joyful sounds,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 66 · p. 88–89",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-066-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      88,
+      89
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-066.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-066.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All lands to God, in joyful sounds,",
+            "normalized": "All lands to God, in joyful sounds,",
+            "reading": "All lands to God, in joyful sounds,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "aloft your voices raise.",
+            "normalized": "Aloft your voices raise.",
+            "reading": "aloft your voices raise."
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Sing forth the honour of his name,",
+            "normalized": "Sing forth the honour of his name,",
+            "reading": "Sing forth the honour of his name,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and glorious make his praise.",
+            "normalized": "And glorious make his praise.",
+            "reading": "and glorious make his praise."
+          },
+          "source_underlining": [
+            "ious"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-066.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-066.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Say unto God, How terrible",
+            "normalized": "Say unto God, How terrible",
+            "reading": "Say unto God, How terrible"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in all thy works art thou!",
+            "normalized": "In all thy works art thou!",
+            "reading": "in all thy works art thou!"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Through thy great pow’r thy foes to thee",
+            "normalized": "Through thy great pow’r thy foes to thee",
+            "reading": "Through thy great pow’r thy foes to thee"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall be constrained to bow.",
+            "normalized": "Shall be constrained to bow.",
+            "reading": "shall be constrained to bow."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-066.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-066.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All on the earth shall worship thee,",
+            "normalized": "All on the earth shall worship thee,",
+            "reading": "All on the earth shall worship thee,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they shall thy praise proclaim",
+            "normalized": "They shall thy praise proclaim",
+            "reading": "they shall thy praise proclaim"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In songs: they shall sing cheerfully",
+            "normalized": "In songs: they shall sing cheerfully",
+            "reading": "In songs: they shall sing cheerfully"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto thy holy name.",
+            "normalized": "Unto thy holy name.",
+            "reading": "unto thy holy name."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-066.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-066.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Come, and the works that God hath wrought",
+            "normalized": "Come, and the works that God hath wrought",
+            "reading": "Come, and the works that God hath wrought"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with admiration see:",
+            "normalized": "With admiration see:",
+            "reading": "with admiration see:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In’s working to the sons of men",
+            "normalized": "In’s working to the sons of men",
+            "reading": "In’s working to the sons of men"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "most terrible is he.",
+            "normalized": "Most terrible is he.",
+            "reading": "most terrible is he."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-066.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-066.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Into dry land the sea he turned,",
+            "normalized": "Into dry land the sea he turned,",
+            "reading": "Into dry land the sea he turned,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and they a passage had;",
+            "normalized": "And they a passage had;",
+            "reading": "and they a passage had;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n marching through the flood on foot,",
+            "normalized": "Ev’n marching through the flood on foot,",
+            "reading": "Ev’n marching through the flood on foot,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "there we in him were glad.",
+            "normalized": "There we in him were glad.",
+            "reading": "there we in him were glad."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-066.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-066.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He ruleth ever by his pow’r;",
+            "normalized": "He ruleth ever by his pow’r;",
+            "reading": "He ruleth ever by his pow’r;"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his eyes the nations see:",
+            "normalized": "His eyes the nations see:",
+            "reading": "his eyes the nations see:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O let not the rebellious ones",
+            "normalized": "O let not the rebellious ones",
+            "reading": "O let not the rebellious ones"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "lift up themselves on high.",
+            "normalized": "Lift up themselves on high.",
+            "reading": "lift up themselves on high."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-066.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8,
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-066.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ye people, bless our God; aloud",
+            "normalized": "Ye people, bless our God; aloud",
+            "reading": "Ye people, bless our God; aloud"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the voice speak of his praise:",
+            "normalized": "The voice speak of his praise:",
+            "reading": "the voice speak of his praise:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Our soul in life who safe preserves,",
+            "normalized": "Our soul in life who safe preserves,",
+            "reading": "Our soul in life who safe preserves,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our foot from sliding stays.",
+            "normalized": "Our foot from sliding stays.",
+            "reading": "our foot from sliding stays."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-066.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        10,
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-066.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thou didst prove and try us, Lord,",
+            "normalized": "For thou didst prove and try us, Lord,",
+            "reading": "For thou didst prove and try us, Lord,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "as men do silver try;",
+            "normalized": "As men do silver try;",
+            "reading": "as men do silver try;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Brought’st us into the net, and mad’st",
+            "normalized": "Brought’st us into the net, and mad’st",
+            "reading": "Brought’st us into the net, and mad’st"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "bands on our loins to lie.",
+            "normalized": "Bands on our loins to lie.",
+            "reading": "bands on our loins to lie."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-066.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-066.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou hast caus’d men ride o’er our heads;",
+            "normalized": "Thou hast caus’d men ride o’er our heads;",
+            "reading": "Thou hast caus’d men ride o’er our heads;"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and though that we did pass",
+            "normalized": "And though that we did pass",
+            "reading": "and though that we did pass"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Through fire and water, yet thou brought’st",
+            "normalized": "Through fire and water, yet thou brought’st",
+            "reading": "Through fire and water, yet thou brought’st"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "us to a wealthy place.",
+            "normalized": "Us to a wealthy place.",
+            "reading": "us to a wealthy place."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-066.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        13,
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-066.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I’ll bring burnt-off’rings to thy house;",
+            "normalized": "I’ll bring burnt-off’rings to thy house;",
+            "reading": "I’ll bring burnt-off’rings to thy house;"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to thee my vows I’ll pay,",
+            "normalized": "To thee my vows I’ll pay,",
+            "reading": "to thee my vows I’ll pay,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Which my lips uttered, my mouth spake,",
+            "normalized": "Which my lips uttered, my mouth spake,",
+            "reading": "Which my lips uttered, my mouth spake,"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when trouble on me lay.",
+            "normalized": "When trouble on me lay.",
+            "reading": "when trouble on me lay."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-066.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-066.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Burnt-sacrifices of fat rams",
+            "normalized": "Burnt-sacrifices of fat rams",
+            "reading": "Burnt-sacrifices of fat rams"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with incense I will bring;",
+            "normalized": "With incense I will bring;",
+            "reading": "with incense I will bring;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of bullocks and of goats I will",
+            "normalized": "Of bullocks and of goats I will",
+            "reading": "Of bullocks and of goats I will"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "present an offering.",
+            "normalized": "Present an offering.",
+            "reading": "present an offering."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-066.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        16,
+        17
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-066.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All that fear God, come, hear, I’ll tell",
+            "normalized": "All that fear God, come, hear, I’ll tell",
+            "reading": "All that fear God, come, hear, I’ll tell"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "what he did for my soul.",
+            "normalized": "What he did for my soul.",
+            "reading": "what he did for my soul."
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I with my mouth unto him cried,",
+            "normalized": "I with my mouth unto him cried,",
+            "reading": "I with my mouth unto him cried,"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my tongue did him extol.",
+            "normalized": "My tongue did him extol.",
+            "reading": "my tongue did him extol."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-066.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        18,
+        19
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-066.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "If in my heart I sin regard,",
+            "normalized": "If in my heart I sin regard,",
+            "reading": "If in my heart I sin regard,"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the Lord me will not hear:",
+            "normalized": "The Lord me will not hear:",
+            "reading": "the Lord me will not hear:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But surely God me heard, and to",
+            "normalized": "But surely God me heard, and to",
+            "reading": "But surely God me heard, and to"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my prayèr’s voice gave ear.",
+            "normalized": "My prayèr’s voice gave ear.",
+            "reading": "my prayèr’s voice gave ear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-066.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        20
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-066.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O let the Lord, our gracious God,",
+            "normalized": "O let the Lord, our gracious God,",
+            "reading": "O let the Lord, our gracious God,"
+          },
+          "biblical_verse_start": 20
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for ever blessèd be,",
+            "normalized": "For ever blessèd be,",
+            "reading": "for ever blessèd be,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who turnèd not my pray’r from him,",
+            "normalized": "Who turnèd not my pray’r from him,",
+            "reading": "Who turnèd not my pray’r from him,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-066.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor yet his grace from me.",
+            "normalized": "Nor yet his grace from me.",
+            "reading": "nor yet his grace from me."
+          }
+        }
+      ]
+    }
+  ]
+}

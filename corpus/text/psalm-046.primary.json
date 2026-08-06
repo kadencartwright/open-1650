@@ -1,0 +1,551 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-046.primary",
+  "psalm_number": 46,
+  "title": "Psalm 46",
+  "version": "primary",
+  "opening_line": "God is our refuge and our strength,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 46 · p. 65–66",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-046-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      65,
+      66
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-046.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-046.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "God is our refuge and our strength,",
+            "normalized": "God is our refuge and our strength,",
+            "reading": "God is our refuge and our strength,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in straits a present aid;",
+            "normalized": "In straits a present aid;",
+            "reading": "in straits a present aid;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Therefore, although the earth remove,",
+            "normalized": "Therefore, although the earth remove,",
+            "reading": "Therefore, although the earth remove,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "we will not be afraid:",
+            "normalized": "We will not be afraid:",
+            "reading": "we will not be afraid:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-046.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-046.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Though hills amidst the seas be cast;",
+            "normalized": "Though hills amidst the seas be cast;",
+            "reading": "Though hills amidst the seas be cast;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Though waters roaring make,",
+            "normalized": "Though waters roaring make,",
+            "reading": "Though waters roaring make,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And troubled be; yea, though the hills",
+            "normalized": "And troubled be; yea, though the hills",
+            "reading": "And troubled be; yea, though the hills"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "by swelling seas do shake.",
+            "normalized": "By swelling seas do shake.",
+            "reading": "by swelling seas do shake."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-046.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-046.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A river is, whose streams do glad",
+            "normalized": "A river is, whose streams do glad",
+            "reading": "A river is, whose streams do glad"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the city of our God;",
+            "normalized": "The city of our God;",
+            "reading": "the city of our God;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The holy place, wherein the Lord",
+            "normalized": "The holy place, wherein the Lord",
+            "reading": "The holy place, wherein the Lord"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "most high hath his abode.",
+            "normalized": "Most high hath his abode.",
+            "reading": "most high hath his abode."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-046.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-046.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "God in the midst of her doth dwell;",
+            "normalized": "God in the midst of her doth dwell;",
+            "reading": "God in the midst of her doth dwell;"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nothing shall her remove:",
+            "normalized": "Nothing shall her remove:",
+            "reading": "nothing shall her remove:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The Lord to her an helper will,",
+            "normalized": "The Lord to her an helper will,",
+            "reading": "The Lord to her an helper will,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and that right early, prove.",
+            "normalized": "And that right early, prove.",
+            "reading": "and that right early, prove."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-046.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-046.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The heathen raged tumultuously,",
+            "normalized": "The heathen raged tumultuously,",
+            "reading": "The heathen raged tumultuously,"
+          },
+          "biblical_verse_start": 6,
+          "source_underlining": [
+            "tuous"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the kingdoms movèd were:",
+            "normalized": "The kingdoms movèd were:",
+            "reading": "the kingdoms movèd were:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The Lord God utterèd his voice,",
+            "normalized": "The Lord God utterèd his voice,",
+            "reading": "The Lord God utterèd his voice,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the earth did melt for fear.",
+            "normalized": "The earth did melt for fear.",
+            "reading": "the earth did melt for fear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-046.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-046.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD of hosts upon our side",
+            "normalized": "The LORD of hosts upon our side",
+            "reading": "The LORD of hosts upon our side"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth constantly remain:",
+            "normalized": "Doth constantly remain:",
+            "reading": "doth constantly remain:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The God of Jacob’s our refuge,",
+            "normalized": "The God of Jacob’s our refuge,",
+            "reading": "The God of Jacob’s our refuge,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "us safely to maintain.",
+            "normalized": "Us safely to maintain.",
+            "reading": "us safely to maintain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-046.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-046.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Come, and behold what wondrous works",
+            "normalized": "Come, and behold what wondrous works",
+            "reading": "Come, and behold what wondrous works"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "have by the LORD been wrought;",
+            "normalized": "Have by the LORD been wrought;",
+            "reading": "have by the LORD been wrought;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Come, see what desolätions",
+            "normalized": "Come, see what desolätions",
+            "reading": "Come, see what desolätions"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he on the earth hath brought.",
+            "normalized": "He on the earth hath brought.",
+            "reading": "he on the earth hath brought."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-046.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-046.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto the ends of all the earth",
+            "normalized": "Unto the ends of all the earth",
+            "reading": "Unto the ends of all the earth"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "wars into peace he turns:",
+            "normalized": "Wars into peace he turns:",
+            "reading": "wars into peace he turns:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The bow he breaks, the spear he cuts,",
+            "normalized": "The bow he breaks, the spear he cuts,",
+            "reading": "The bow he breaks, the spear he cuts,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in fire the chariot burns.",
+            "normalized": "In fire the chariot burns.",
+            "reading": "in fire the chariot burns."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-046.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-046.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Be still, and know that I am God;",
+            "normalized": "Be still, and know that I am God;",
+            "reading": "Be still, and know that I am God;"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "among the heathen I",
+            "normalized": "Among the heathen I",
+            "reading": "among the heathen I"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Will be exalted; I on earth",
+            "normalized": "Will be exalted; I on earth",
+            "reading": "Will be exalted; I on earth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "will be exalted high.",
+            "normalized": "Will be exalted high.",
+            "reading": "will be exalted high."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-046.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-046.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Our God, who is the LORD of hosts,",
+            "normalized": "Our God, who is the LORD of hosts,",
+            "reading": "Our God, who is the LORD of hosts,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is still upon our side;",
+            "normalized": "Is still upon our side;",
+            "reading": "is still upon our side;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The God of Jacob our refuge",
+            "normalized": "The God of Jacob our refuge",
+            "reading": "The God of Jacob our refuge"
+          }
+        },
+        {
+          "id": "ps1650.psalm-046.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for ever will abide.",
+            "normalized": "For ever will abide.",
+            "reading": "for ever will abide."
+          }
+        }
+      ]
+    }
+  ]
+}

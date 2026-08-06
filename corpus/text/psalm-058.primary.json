@@ -1,0 +1,596 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-058.primary",
+  "psalm_number": 58,
+  "title": "Psalm 58",
+  "version": "primary",
+  "opening_line": "Do ye, O congregätion,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 58 · p. 80–81",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-058-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      80,
+      81
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-058.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-058.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Do ye, O congregätion,",
+            "normalized": "Do ye, O congregätion,",
+            "reading": "Do ye, O congregätion,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "indeed speak righteousness?",
+            "normalized": "Indeed speak righteousness?",
+            "reading": "indeed speak righteousness?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O ye that are the sons of men,",
+            "normalized": "O ye that are the sons of men,",
+            "reading": "O ye that are the sons of men,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "judge ye with uprightness?",
+            "normalized": "Judge ye with uprightness?",
+            "reading": "judge ye with uprightness?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-058.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-058.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, ev’n within your very hearts",
+            "normalized": "Yea, ev’n within your very hearts",
+            "reading": "Yea, ev’n within your very hearts"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ye wickedness have done;",
+            "normalized": "Ye wickedness have done;",
+            "reading": "ye wickedness have done;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And ye the vi’lence of your hands",
+            "normalized": "And ye the vi’lence of your hands",
+            "reading": "And ye the vi’lence of your hands"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do weigh the earth upon.",
+            "normalized": "Do weigh the earth upon.",
+            "reading": "do weigh the earth upon."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-058.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-058.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The wicked men estrangèd are,",
+            "normalized": "The wicked men estrangèd are,",
+            "reading": "The wicked men estrangèd are,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ev’n from the very womb;",
+            "normalized": "Ev’n from the very womb;",
+            "reading": "ev’n from the very womb;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They, speaking lies, do stray as soon",
+            "normalized": "They, speaking lies, do stray as soon",
+            "reading": "They, speaking lies, do stray as soon"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "as to the world they come.",
+            "normalized": "As to the world they come.",
+            "reading": "as to the world they come."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-058.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-058.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto a serpent’s poison like",
+            "normalized": "Unto a serpent’s poison like",
+            "reading": "Unto a serpent’s poison like"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their poison doth appear;",
+            "normalized": "Their poison doth appear;",
+            "reading": "their poison doth appear;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, they are like the adder deaf,",
+            "normalized": "Yea, they are like the adder deaf,",
+            "reading": "Yea, they are like the adder deaf,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that closely stops her ear;",
+            "normalized": "That closely stops her ear;",
+            "reading": "that closely stops her ear;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-058.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-058.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That so she may not hear the voice",
+            "normalized": "That so she may not hear the voice",
+            "reading": "That so she may not hear the voice"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of one that charm her would,",
+            "normalized": "Of one that charm her would,",
+            "reading": "of one that charm her would,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "No, not though he most cunning were,",
+            "normalized": "No, not though he most cunning were,",
+            "reading": "No, not though he most cunning were,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and charm most wisely could.",
+            "normalized": "And charm most wisely could.",
+            "reading": "and charm most wisely could."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-058.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-058.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their teeth, O God, within their mouth",
+            "normalized": "Their teeth, O God, within their mouth",
+            "reading": "Their teeth, O God, within their mouth"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "break thou in pieces small;",
+            "normalized": "Break thou in pieces small;",
+            "reading": "break thou in pieces small;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The great teeth break thou out, O LORD,",
+            "normalized": "The great teeth break thou out, O LORD,",
+            "reading": "The great teeth break thou out, O LORD,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of these young lions all.",
+            "normalized": "Of these young lions all.",
+            "reading": "of these young lions all."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-058.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-058.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let them like waters melt away,",
+            "normalized": "Let them like waters melt away,",
+            "reading": "Let them like waters melt away,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "which downward still do flow:",
+            "normalized": "Which downward still do flow:",
+            "reading": "which downward still do flow:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In pieces cut his arrows all,",
+            "normalized": "In pieces cut his arrows all,",
+            "reading": "In pieces cut his arrows all,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when he shall bend his bow.",
+            "normalized": "When he shall bend his bow.",
+            "reading": "when he shall bend his bow."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-058.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-058.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Like to a snail that melts away,",
+            "normalized": "Like to a snail that melts away,",
+            "reading": "Like to a snail that melts away,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let each of them be gone;",
+            "normalized": "Let each of them be gone;",
+            "reading": "let each of them be gone;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Like woman’s birth untimely, that",
+            "normalized": "Like woman’s birth untimely, that",
+            "reading": "Like woman’s birth untimely, that"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they never see the sun.",
+            "normalized": "They never see the sun.",
+            "reading": "they never see the sun."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-058.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-058.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He shall them take away before",
+            "normalized": "He shall them take away before",
+            "reading": "He shall them take away before"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "your pots the thorns can find,",
+            "normalized": "Your pots the thorns can find,",
+            "reading": "your pots the thorns can find,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Both living, and in fury great,",
+            "normalized": "Both living, and in fury great,",
+            "reading": "Both living, and in fury great,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "as with a stormy wind.",
+            "normalized": "As with a stormy wind.",
+            "reading": "as with a stormy wind."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-058.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-058.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The righteous, when he vengeance sees,",
+            "normalized": "The righteous, when he vengeance sees,",
+            "reading": "The righteous, when he vengeance sees,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he shall be joyful then;",
+            "normalized": "He shall be joyful then;",
+            "reading": "he shall be joyful then;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The righteous one shall wash his feet",
+            "normalized": "The righteous one shall wash his feet",
+            "reading": "The righteous one shall wash his feet"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in blood of wicked men.",
+            "normalized": "In blood of wicked men.",
+            "reading": "in blood of wicked men."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-058.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-058.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "So men shall say, The righteous man",
+            "normalized": "So men shall say, The righteous man",
+            "reading": "So men shall say, The righteous man"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "reward shall never miss:",
+            "normalized": "Reward shall never miss:",
+            "reading": "reward shall never miss:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And verily upon the earth",
+            "normalized": "And verily upon the earth",
+            "reading": "And verily upon the earth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-058.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a God to judge there is.",
+            "normalized": "A God to judge there is.",
+            "reading": "a God to judge there is."
+          }
+        }
+      ]
+    }
+  ]
+}

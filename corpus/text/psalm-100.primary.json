@@ -1,0 +1,248 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-100.primary",
+  "psalm_number": 100,
+  "title": "Psalm 100",
+  "version": "primary",
+  "opening_line": "All people that on earth do dwell,",
+  "meter": {
+    "pattern": "8.8.8.8",
+    "name": "Long Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 100 · p. 139–140",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "first version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-100,-first-version-(T) [L.M.].txt"
+    ],
+    "pdf_pages": [
+      139,
+      140
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-100.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-100.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All people that on earth do dwell,",
+            "normalized": "All people that on earth do dwell,",
+            "reading": "All people that on earth do dwell,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-100.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Sing to the LORD with cheerful voice.",
+            "normalized": "Sing to the LORD with cheerful voice.",
+            "reading": "Sing to the LORD with cheerful voice."
+          }
+        },
+        {
+          "id": "ps1650.psalm-100.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Him serve with mirth, his praise forth tell,",
+            "normalized": "Him serve with mirth, his praise forth tell,",
+            "reading": "Him serve with mirth, his praise forth tell,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-100.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Come ye before him and rejoice.",
+            "normalized": "Come ye before him and rejoice.",
+            "reading": "Come ye before him and rejoice."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-100.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-100.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Know that the LORD is God indeed;",
+            "normalized": "Know that the LORD is God indeed;",
+            "reading": "Know that the LORD is God indeed;"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-100.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Without our aid he did us make:",
+            "normalized": "Without our aid he did us make:",
+            "reading": "Without our aid he did us make:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-100.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "We are his flock, he doth us feed,",
+            "normalized": "We are his flock, he doth us feed,",
+            "reading": "We are his flock, he doth us feed,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-100.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And for his sheep he doth us take.",
+            "normalized": "And for his sheep he doth us take.",
+            "reading": "And for his sheep he doth us take."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-100.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-100.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O enter then his gates with praise,",
+            "normalized": "O enter then his gates with praise,",
+            "reading": "O enter then his gates with praise,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-100.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Approach with joy his courts unto:",
+            "normalized": "Approach with joy his courts unto:",
+            "reading": "Approach with joy his courts unto:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-100.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Praise, laud, and bless his name always,",
+            "normalized": "Praise, laud, and bless his name always,",
+            "reading": "Praise, laud, and bless his name always,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-100.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For it is seemly so to do.",
+            "normalized": "For it is seemly so to do.",
+            "reading": "For it is seemly so to do."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-100.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-100.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For why? the LORD our God is good,",
+            "normalized": "For why? the LORD our God is good,",
+            "reading": "For why? the LORD our God is good,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-100.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His mercy is for ever sure;",
+            "normalized": "His mercy is for ever sure;",
+            "reading": "His mercy is for ever sure;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-100.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His truth at all times firmly stood,",
+            "normalized": "His truth at all times firmly stood,",
+            "reading": "His truth at all times firmly stood,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-100.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And shall from age to age endure.",
+            "normalized": "And shall from age to age endure.",
+            "reading": "And shall from age to age endure."
+          }
+        }
+      ]
+    }
+  ]
+}

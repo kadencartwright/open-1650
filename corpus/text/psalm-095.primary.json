@@ -1,0 +1,500 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-095.primary",
+  "psalm_number": 95,
+  "title": "Psalm 95",
+  "version": "primary",
+  "opening_line": "O come, let us sing to the LORD:",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 95 · p. 135–136",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-095-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      135,
+      136
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-095.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-095.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O come, let us sing to the LORD:",
+            "normalized": "O come, let us sing to the LORD:",
+            "reading": "O come, let us sing to the LORD:"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "come, let us every one",
+            "normalized": "Come, let us every one",
+            "reading": "come, let us every one"
+          }
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A joyful noise make to the Rock",
+            "normalized": "A joyful noise make to the Rock",
+            "reading": "A joyful noise make to the Rock"
+          }
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of our salvätion.",
+            "normalized": "Of our salvätion.",
+            "reading": "of our salvätion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-095.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-095.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let us before his presence come",
+            "normalized": "Let us before his presence come",
+            "reading": "Let us before his presence come"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with praise and thankful voice;",
+            "normalized": "With praise and thankful voice;",
+            "reading": "with praise and thankful voice;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let us sing psalms to him with grace,",
+            "normalized": "Let us sing psalms to him with grace,",
+            "reading": "Let us sing psalms to him with grace,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and make a joyful noise.",
+            "normalized": "And make a joyful noise.",
+            "reading": "and make a joyful noise."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-095.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-095.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For GOD, a great God, and great King,",
+            "normalized": "For GOD, a great God, and great King,",
+            "reading": "For GOD, a great God, and great King,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "above all gods he is.",
+            "normalized": "Above all gods he is.",
+            "reading": "above all gods he is."
+          }
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Depths of the earth are in his hand,",
+            "normalized": "Depths of the earth are in his hand,",
+            "reading": "Depths of the earth are in his hand,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the strength of hills is his.",
+            "normalized": "The strength of hills is his.",
+            "reading": "the strength of hills is his."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-095.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-095.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To him the spacious sea belongs,",
+            "normalized": "To him the spacious sea belongs,",
+            "reading": "To him the spacious sea belongs,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for he the same did make;",
+            "normalized": "For he the same did make;",
+            "reading": "for he the same did make;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The dry land also from his hands",
+            "normalized": "The dry land also from his hands",
+            "reading": "The dry land also from his hands"
+          }
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "its form at first did take.",
+            "normalized": "Its form at first did take.",
+            "reading": "its form at first did take."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-095.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-095.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O come, and let us worship him,",
+            "normalized": "O come, and let us worship him,",
+            "reading": "O come, and let us worship him,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let us bow down withal,",
+            "normalized": "Let us bow down withal,",
+            "reading": "let us bow down withal,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And on our knees before the LORD",
+            "normalized": "And on our knees before the LORD",
+            "reading": "And on our knees before the LORD"
+          }
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our Maker let us fall.",
+            "normalized": "Our Maker let us fall.",
+            "reading": "our Maker let us fall."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-095.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-095.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For he’s our God, the people we",
+            "normalized": "For he’s our God, the people we",
+            "reading": "For he’s our God, the people we"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of his own pasture are,",
+            "normalized": "Of his own pasture are,",
+            "reading": "of his own pasture are,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And of his hand the sheep; to-day,",
+            "normalized": "And of his hand the sheep; to-day,",
+            "reading": "And of his hand the sheep; to-day,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "if ye his voice will hear,",
+            "normalized": "If ye his voice will hear,",
+            "reading": "if ye his voice will hear,"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-095.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-095.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then harden not your hearts, as in",
+            "normalized": "Then harden not your hearts, as in",
+            "reading": "Then harden not your hearts, as in"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the provocätion,",
+            "normalized": "The provocätion,",
+            "reading": "the provocätion,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "As in the desert, on the day",
+            "normalized": "As in the desert, on the day",
+            "reading": "As in the desert, on the day"
+          }
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of the tentätion:",
+            "normalized": "Of the tentätion:",
+            "reading": "of the tentätion:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-095.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9,
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-095.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When me your fathers tempt’d and proved,",
+            "normalized": "When me your fathers tempt’d and proved,",
+            "reading": "When me your fathers tempt’d and proved,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and did my working see;",
+            "normalized": "And did my working see;",
+            "reading": "and did my working see;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n for the space of forty years",
+            "normalized": "Ev’n for the space of forty years",
+            "reading": "Ev’n for the space of forty years"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "this race hath grievèd me.",
+            "normalized": "This race hath grievèd me.",
+            "reading": "this race hath grievèd me."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-095.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-095.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I said, This people errs in heart,",
+            "normalized": "I said, This people errs in heart,",
+            "reading": "I said, This people errs in heart,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my ways they do not know:",
+            "normalized": "My ways they do not know:",
+            "reading": "my ways they do not know:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To whom I sware in wrath, that to",
+            "normalized": "To whom I sware in wrath, that to",
+            "reading": "To whom I sware in wrath, that to"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-095.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my rest they should not go.",
+            "normalized": "My rest they should not go.",
+            "reading": "my rest they should not go."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,915 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-025.alternate",
+  "psalm_number": 25,
+  "title": "Psalm 25 · second version",
+  "version": "alternate",
+  "opening_line": "To thee I lift my soul, O LORD:",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 25 · p. 34–35",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "second version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-025,-second-version-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      34,
+      35
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-025.alternate.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To thee I lift my soul, O LORD:",
+            "normalized": "To thee I lift my soul, O LORD:",
+            "reading": "To thee I lift my soul, O LORD:"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my God, I trust in thee:",
+            "normalized": "My God, I trust in thee:",
+            "reading": "my God, I trust in thee:"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let me not be ashamed; let not",
+            "normalized": "Let me not be ashamed; let not",
+            "reading": "Let me not be ashamed; let not"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my foes triumph o’er me.",
+            "normalized": "My foes triumph o’er me.",
+            "reading": "my foes triumph o’er me."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-025.alternate.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, let thou none ashamèd be",
+            "normalized": "Yea, let thou none ashamèd be",
+            "reading": "Yea, let thou none ashamèd be"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that do on thee attend:",
+            "normalized": "That do on thee attend:",
+            "reading": "that do on thee attend:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ashamèd let them be, O Lord,",
+            "normalized": "Ashamèd let them be, O Lord,",
+            "reading": "Ashamèd let them be, O Lord,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who without cause offend.",
+            "normalized": "Who without cause offend.",
+            "reading": "who without cause offend."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-025.alternate.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4,
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy ways, LORD, show; teach me thy paths:",
+            "normalized": "Thy ways, LORD, show; teach me thy paths:",
+            "reading": "Thy ways, LORD, show; teach me thy paths:"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "lead me in truth, teach me:",
+            "normalized": "Lead me in truth, teach me:",
+            "reading": "lead me in truth, teach me:"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For of my safety thou art God;",
+            "normalized": "For of my safety thou art God;",
+            "reading": "For of my safety thou art God;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all day I wait on thee.",
+            "normalized": "All day I wait on thee.",
+            "reading": "all day I wait on thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-025.alternate.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy mercies, that most tender are,",
+            "normalized": "Thy mercies, that most tender are,",
+            "reading": "Thy mercies, that most tender are,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do thou, O LORD, remember,",
+            "normalized": "Do thou, O LORD, remember,",
+            "reading": "do thou, O LORD, remember,"
+          },
+          "source_underlining": [
+            "member"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And loving-kindnesses; for they",
+            "normalized": "And loving-kindnesses; for they",
+            "reading": "And loving-kindnesses; for they"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "have been of old for ever.",
+            "normalized": "Have been of old for ever.",
+            "reading": "have been of old for ever."
+          },
+          "source_underlining": [
+            "ever"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-025.alternate.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let not the errors of my youth,",
+            "normalized": "Let not the errors of my youth,",
+            "reading": "Let not the errors of my youth,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor sins, remembered be:",
+            "normalized": "Nor sins, remembered be:",
+            "reading": "nor sins, remembered be:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In mercy, for thy goodness’ sake,",
+            "normalized": "In mercy, for thy goodness’ sake,",
+            "reading": "In mercy, for thy goodness’ sake,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O LORD, remember me.",
+            "normalized": "O LORD, remember me.",
+            "reading": "O LORD, remember me."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-025.alternate.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD is good and gräcious,",
+            "normalized": "The LORD is good and gräcious,",
+            "reading": "The LORD is good and gräcious,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he upright is also:",
+            "normalized": "He upright is also:",
+            "reading": "he upright is also:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He therefore sinners will instruct",
+            "normalized": "He therefore sinners will instruct",
+            "reading": "He therefore sinners will instruct"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in ways that they should go.",
+            "normalized": "In ways that they should go.",
+            "reading": "in ways that they should go."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-025.alternate.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The meek and lowly he will guide",
+            "normalized": "The meek and lowly he will guide",
+            "reading": "The meek and lowly he will guide"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in judgment just alway:",
+            "normalized": "In judgment just alway:",
+            "reading": "in judgment just alway:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To meek and poor afflicted ones",
+            "normalized": "To meek and poor afflicted ones",
+            "reading": "To meek and poor afflicted ones"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he’ll clearly teach his way.",
+            "normalized": "He’ll clearly teach his way.",
+            "reading": "he’ll clearly teach his way."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-025.alternate.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The whole paths of the LORD our God",
+            "normalized": "The whole paths of the LORD our God",
+            "reading": "The whole paths of the LORD our God"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "are truth and mercy sure,",
+            "normalized": "Are truth and mercy sure,",
+            "reading": "are truth and mercy sure,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To such as keep his covènant,",
+            "normalized": "To such as keep his covènant,",
+            "reading": "To such as keep his covènant,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and testimonies pure.",
+            "normalized": "And testimonies pure.",
+            "reading": "and testimonies pure."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-025.alternate.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Now, for thine own name’s sake, O LORD,",
+            "normalized": "Now, for thine own name’s sake, O LORD,",
+            "reading": "Now, for thine own name’s sake, O LORD,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I humbly thee entreat",
+            "normalized": "I humbly thee entreat",
+            "reading": "I humbly thee entreat"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To pardon mine iniquity;",
+            "normalized": "To pardon mine iniquity;",
+            "reading": "To pardon mine iniquity;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for it is very great.",
+            "normalized": "For it is very great.",
+            "reading": "for it is very great."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-025.alternate.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        12,
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "What man fears GOD? him shall he teach",
+            "normalized": "What man fears GOD? him shall he teach",
+            "reading": "What man fears GOD? him shall he teach"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the way that he shall choose.",
+            "normalized": "The way that he shall choose.",
+            "reading": "the way that he shall choose."
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His soul shall dwell at ease; his seed",
+            "normalized": "His soul shall dwell at ease; his seed",
+            "reading": "His soul shall dwell at ease; his seed"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the earth, as heirs, shall use.",
+            "normalized": "The earth, as heirs, shall use.",
+            "reading": "the earth, as heirs, shall use."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-025.alternate.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The secret of the LORD is with",
+            "normalized": "The secret of the LORD is with",
+            "reading": "The secret of the LORD is with"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "such as do fear his name;",
+            "normalized": "Such as do fear his name;",
+            "reading": "such as do fear his name;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And he his holy covènant",
+            "normalized": "And he his holy covènant",
+            "reading": "And he his holy covènant"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "will manifest to them.",
+            "normalized": "Will manifest to them.",
+            "reading": "will manifest to them."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-025.alternate.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Towards the LORD my waiting eyes",
+            "normalized": "Towards the LORD my waiting eyes",
+            "reading": "Towards the LORD my waiting eyes"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "continually are set;",
+            "normalized": "Continually are set;",
+            "reading": "continually are set;"
+          },
+          "source_underlining": [
+            "ual"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For he it is that shall bring forth",
+            "normalized": "For he it is that shall bring forth",
+            "reading": "For he it is that shall bring forth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my feet out of the net.",
+            "normalized": "My feet out of the net.",
+            "reading": "my feet out of the net."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-025.alternate.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O turn thee unto me, O God,",
+            "normalized": "O turn thee unto me, O God,",
+            "reading": "O turn thee unto me, O God,"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "have mercy me upon;",
+            "normalized": "Have mercy me upon;",
+            "reading": "have mercy me upon;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because I solitary am,",
+            "normalized": "Because I solitary am,",
+            "reading": "Because I solitary am,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and in afflïction.",
+            "normalized": "And in afflïction.",
+            "reading": "and in afflïction."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-025.alternate.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        17,
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Enlarged the griefs are of mine heart;",
+            "normalized": "Enlarged the griefs are of mine heart;",
+            "reading": "Enlarged the griefs are of mine heart;"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "me from distress relieve.",
+            "normalized": "Me from distress relieve.",
+            "reading": "me from distress relieve."
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "See mine affliction and my pain,",
+            "normalized": "See mine affliction and my pain,",
+            "reading": "See mine affliction and my pain,"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and all my sins forgive.",
+            "normalized": "And all my sins forgive.",
+            "reading": "and all my sins forgive."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-025.alternate.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        19
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Consider thou mine enemies,",
+            "normalized": "Consider thou mine enemies,",
+            "reading": "Consider thou mine enemies,"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "because they many are;",
+            "normalized": "Because they many are;",
+            "reading": "because they many are;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And it a cruel hatred is",
+            "normalized": "And it a cruel hatred is",
+            "reading": "And it a cruel hatred is"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "which they against me bear.",
+            "normalized": "Which they against me bear.",
+            "reading": "which they against me bear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-025.alternate.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        20
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O do thou keep my soul; O God,",
+            "normalized": "O do thou keep my soul; O God,",
+            "reading": "O do thou keep my soul; O God,"
+          },
+          "biblical_verse_start": 20
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do thou deliver me:",
+            "normalized": "Do thou deliver me:",
+            "reading": "do thou deliver me:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let me not be ashamed; for I",
+            "normalized": "Let me not be ashamed; for I",
+            "reading": "Let me not be ashamed; for I"
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do put my trust in thee.",
+            "normalized": "Do put my trust in thee.",
+            "reading": "do put my trust in thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-025.alternate.stanza-17",
+      "number": 17,
+      "biblical_verses": [
+        21,
+        22
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-17.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O let integrity and truth",
+            "normalized": "O let integrity and truth",
+            "reading": "O let integrity and truth"
+          },
+          "biblical_verse_start": 21
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-17.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "keep me, who thee attend.",
+            "normalized": "Keep me, who thee attend.",
+            "reading": "keep me, who thee attend."
+          }
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-17.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Redemption, Lord, to Israel",
+            "normalized": "Redemption, Lord, to Israel",
+            "reading": "Redemption, Lord, to Israel"
+          },
+          "biblical_verse_start": 22
+        },
+        {
+          "id": "ps1650.psalm-025.alternate.stanza-17.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from all his troubles send.",
+            "normalized": "From all his troubles send.",
+            "reading": "from all his troubles send."
+          }
+        }
+      ]
+    }
+  ]
+}

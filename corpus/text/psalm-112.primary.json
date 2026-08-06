@@ -1,0 +1,546 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-112.primary",
+  "psalm_number": 112,
+  "title": "Psalm 112",
+  "version": "primary",
+  "opening_line": "Praise ye the LORD. The man is blessed",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 112 · p. 164–165",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-112-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      164,
+      165
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-112.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-112.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Praise ye the LORD. The man is blessed",
+            "normalized": "Praise ye the LORD. The man is blessed",
+            "reading": "Praise ye the LORD. The man is blessed"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that fears the LORD aright,",
+            "normalized": "That fears the LORD aright,",
+            "reading": "that fears the LORD aright,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He who in his commändments",
+            "normalized": "He who in his commändments",
+            "reading": "He who in his commändments"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth greatly take delight.",
+            "normalized": "Doth greatly take delight.",
+            "reading": "doth greatly take delight."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-112.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-112.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His seed and offspring powerful",
+            "normalized": "His seed and offspring powerful",
+            "reading": "His seed and offspring powerful"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall be the earth upon:",
+            "normalized": "Shall be the earth upon:",
+            "reading": "shall be the earth upon:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of upright men blessèd shall be",
+            "normalized": "Of upright men blessèd shall be",
+            "reading": "Of upright men blessèd shall be"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the generätion.",
+            "normalized": "The generätion.",
+            "reading": "the generätion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-112.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-112.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Riches and wealth shall ever be",
+            "normalized": "Riches and wealth shall ever be",
+            "reading": "Riches and wealth shall ever be"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "within his house in store;",
+            "normalized": "Within his house in store;",
+            "reading": "within his house in store;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And his unspotted righteousness",
+            "normalized": "And his unspotted righteousness",
+            "reading": "And his unspotted righteousness"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "endures for evermore.",
+            "normalized": "Endures for evermore.",
+            "reading": "endures for evermore."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-112.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-112.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto the upright light doth rise,",
+            "normalized": "Unto the upright light doth rise,",
+            "reading": "Unto the upright light doth rise,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "though he in darkness be:",
+            "normalized": "Though he in darkness be:",
+            "reading": "though he in darkness be:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Compassionate, and merciful,",
+            "normalized": "Compassionate, and merciful,",
+            "reading": "Compassionate, and merciful,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and rïghteous, is he.",
+            "normalized": "And rïghteous, is he.",
+            "reading": "and rïghteous, is he."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-112.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-112.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A good man doth his favour show,",
+            "normalized": "A good man doth his favour show,",
+            "reading": "A good man doth his favour show,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and doth to others lend:",
+            "normalized": "And doth to others lend:",
+            "reading": "and doth to others lend:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He with discretion his affairs",
+            "normalized": "He with discretion his affairs",
+            "reading": "He with discretion his affairs"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "will guide unto the end.",
+            "normalized": "Will guide unto the end.",
+            "reading": "will guide unto the end."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-112.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-112.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Surely there is not any thing",
+            "normalized": "Surely there is not any thing",
+            "reading": "Surely there is not any thing"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that ever shall him move:",
+            "normalized": "That ever shall him move:",
+            "reading": "that ever shall him move:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The righteous man’s memorial",
+            "normalized": "The righteous man’s memorial",
+            "reading": "The righteous man’s memorial"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall everlasting prove.",
+            "normalized": "Shall everlasting prove.",
+            "reading": "shall everlasting prove."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-112.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-112.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When he shall evil tidings hear,",
+            "normalized": "When he shall evil tidings hear,",
+            "reading": "When he shall evil tidings hear,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he shall not be afraid:",
+            "normalized": "He shall not be afraid:",
+            "reading": "he shall not be afraid:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His heart is fixed, his confidence",
+            "normalized": "His heart is fixed, his confidence",
+            "reading": "His heart is fixed, his confidence"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "upon the LORD is stayed.",
+            "normalized": "Upon the LORD is stayed.",
+            "reading": "upon the LORD is stayed."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-112.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-112.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His heart is firmly stablishèd,",
+            "normalized": "His heart is firmly stablishèd,",
+            "reading": "His heart is firmly stablishèd,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "afraid he shall not be,",
+            "normalized": "Afraid he shall not be,",
+            "reading": "afraid he shall not be,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Until upon his enemies",
+            "normalized": "Until upon his enemies",
+            "reading": "Until upon his enemies"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he his desire shall see.",
+            "normalized": "He his desire shall see.",
+            "reading": "he his desire shall see."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-112.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-112.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He hath dispersed, giv’n to the poor,",
+            "normalized": "He hath dispersed, giv’n to the poor,",
+            "reading": "He hath dispersed, giv’n to the poor,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his righteousness shall be",
+            "normalized": "His righteousness shall be",
+            "reading": "his righteousness shall be"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To ages all; with honour shall",
+            "normalized": "To ages all; with honour shall",
+            "reading": "To ages all; with honour shall"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his horn be raisèd high.",
+            "normalized": "His horn be raisèd high.",
+            "reading": "his horn be raisèd high."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-112.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-112.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The wicked shall it see, and fret,",
+            "normalized": "The wicked shall it see, and fret,",
+            "reading": "The wicked shall it see, and fret,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his teeth gnash, melt away:",
+            "normalized": "His teeth gnash, melt away:",
+            "reading": "his teeth gnash, melt away:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "What wicked men do most desire",
+            "normalized": "What wicked men do most desire",
+            "reading": "What wicked men do most desire"
+          }
+        },
+        {
+          "id": "ps1650.psalm-112.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall utterly decay.",
+            "normalized": "Shall utterly decay.",
+            "reading": "shall utterly decay."
+          }
+        }
+      ]
+    }
+  ]
+}

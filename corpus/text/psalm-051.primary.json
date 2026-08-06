@@ -1,0 +1,861 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-051.primary",
+  "psalm_number": 51,
+  "title": "Psalm 51",
+  "version": "primary",
+  "opening_line": "After thy loving-kindness, Lord,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 51 · p. 73–74",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-051-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      73,
+      74
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-051.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-051.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "After thy loving-kindness, Lord,",
+            "normalized": "After thy loving-kindness, Lord,",
+            "reading": "After thy loving-kindness, Lord,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "have mercy upon me:",
+            "normalized": "Have mercy upon me:",
+            "reading": "have mercy upon me:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thy compassions great, blot out",
+            "normalized": "For thy compassions great, blot out",
+            "reading": "For thy compassions great, blot out"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all mine iniquity.",
+            "normalized": "All mine iniquity.",
+            "reading": "all mine iniquity."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-051.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2,
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-051.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Me cleanse from sin, and throughly wash",
+            "normalized": "Me cleanse from sin, and throughly wash",
+            "reading": "Me cleanse from sin, and throughly wash"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from mine iniquity:",
+            "normalized": "From mine iniquity:",
+            "reading": "from mine iniquity:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For my transgressions I confess;",
+            "normalized": "For my transgressions I confess;",
+            "reading": "For my transgressions I confess;"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my sin I ever see.",
+            "normalized": "My sin I ever see.",
+            "reading": "my sin I ever see."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-051.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-051.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "’Gainst thee, thee only, have I sinned,",
+            "normalized": "’Gainst thee, thee only, have I sinned,",
+            "reading": "’Gainst thee, thee only, have I sinned,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in thy sight done this ill;",
+            "normalized": "In thy sight done this ill;",
+            "reading": "in thy sight done this ill;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That when thou speak’st thou may’st be just,",
+            "normalized": "That when thou speak’st thou may’st be just,",
+            "reading": "That when thou speak’st thou may’st be just,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and clear in judging still.",
+            "normalized": "And clear in judging still.",
+            "reading": "and clear in judging still."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-051.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-051.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Behold, I in iniquity",
+            "normalized": "Behold, I in iniquity",
+            "reading": "Behold, I in iniquity"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "was formed the womb within;",
+            "normalized": "Was formed the womb within;",
+            "reading": "was formed the womb within;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My mother also me conceived",
+            "normalized": "My mother also me conceived",
+            "reading": "My mother also me conceived"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in guiltiness and sin.",
+            "normalized": "In guiltiness and sin.",
+            "reading": "in guiltiness and sin."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-051.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-051.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Behold, thou in the inward parts",
+            "normalized": "Behold, thou in the inward parts",
+            "reading": "Behold, thou in the inward parts"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with truth delighted art;",
+            "normalized": "With truth delighted art;",
+            "reading": "with truth delighted art;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And wisdom thou shalt make me know",
+            "normalized": "And wisdom thou shalt make me know",
+            "reading": "And wisdom thou shalt make me know"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "within the hidden part.",
+            "normalized": "Within the hidden part.",
+            "reading": "within the hidden part."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-051.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-051.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Do thou with hyssop sprinkle me,",
+            "normalized": "Do thou with hyssop sprinkle me,",
+            "reading": "Do thou with hyssop sprinkle me,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I shall be cleansèd so;",
+            "normalized": "I shall be cleansèd so;",
+            "reading": "I shall be cleansèd so;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, wash thou me, and then I shall",
+            "normalized": "Yea, wash thou me, and then I shall",
+            "reading": "Yea, wash thou me, and then I shall"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "be whiter than the snow.",
+            "normalized": "Be whiter than the snow.",
+            "reading": "be whiter than the snow."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-051.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-051.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of gladness and of joyfulness",
+            "normalized": "Of gladness and of joyfulness",
+            "reading": "Of gladness and of joyfulness"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "make me to hear the voice;",
+            "normalized": "Make me to hear the voice;",
+            "reading": "make me to hear the voice;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That so these very bones which thou",
+            "normalized": "That so these very bones which thou",
+            "reading": "That so these very bones which thou"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "hast broken may rejoice.",
+            "normalized": "Hast broken may rejoice.",
+            "reading": "hast broken may rejoice."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-051.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9,
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-051.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All mine iniquities blot out,",
+            "normalized": "All mine iniquities blot out,",
+            "reading": "All mine iniquities blot out,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy face hide from my sin.",
+            "normalized": "Thy face hide from my sin.",
+            "reading": "thy face hide from my sin."
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Create a clean heart, Lord, renew",
+            "normalized": "Create a clean heart, Lord, renew",
+            "reading": "Create a clean heart, Lord, renew"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a right spirit me within.",
+            "normalized": "A right spirit me within.",
+            "reading": "a right spirit me within."
+          },
+          "source_underlining": [
+            "spirit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-051.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        11,
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-051.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Cast me not from thy sight, nor take",
+            "normalized": "Cast me not from thy sight, nor take",
+            "reading": "Cast me not from thy sight, nor take"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy Holy Spirit away.",
+            "normalized": "Thy Holy Spirit away.",
+            "reading": "thy Holy Spirit away."
+          },
+          "source_underlining": [
+            "Spirit"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Restore me thy salvation’s joy;",
+            "normalized": "Restore me thy salvation’s joy;",
+            "reading": "Restore me thy salvation’s joy;"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with thy free Spirit me stay.",
+            "normalized": "With thy free Spirit me stay.",
+            "reading": "with thy free Spirit me stay."
+          },
+          "source_underlining": [
+            "Spirit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-051.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-051.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then will I teach thy ways unto",
+            "normalized": "Then will I teach thy ways unto",
+            "reading": "Then will I teach thy ways unto"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "those that transgressors be;",
+            "normalized": "Those that transgressors be;",
+            "reading": "those that transgressors be;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And those that sinners are shall then",
+            "normalized": "And those that sinners are shall then",
+            "reading": "And those that sinners are shall then"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "be turnèd unto thee.",
+            "normalized": "Be turnèd unto thee.",
+            "reading": "be turnèd unto thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-051.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-051.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O God, of my salvation God,",
+            "normalized": "O God, of my salvation God,",
+            "reading": "O God, of my salvation God,"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "me from blood-guiltiness",
+            "normalized": "Me from blood-guiltiness",
+            "reading": "me from blood-guiltiness"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Set free; then shall my tongue aloud",
+            "normalized": "Set free; then shall my tongue aloud",
+            "reading": "Set free; then shall my tongue aloud"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "sing of thy righteousness.",
+            "normalized": "Sing of thy righteousness.",
+            "reading": "sing of thy righteousness."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-051.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-051.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My closèd lips, O Lord, by thee",
+            "normalized": "My closèd lips, O Lord, by thee",
+            "reading": "My closèd lips, O Lord, by thee"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let them be openèd;",
+            "normalized": "Let them be openèd;",
+            "reading": "let them be openèd;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then shall thy praises by my mouth",
+            "normalized": "Then shall thy praises by my mouth",
+            "reading": "Then shall thy praises by my mouth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "abroad be publishèd.",
+            "normalized": "Abroad be publishèd.",
+            "reading": "abroad be publishèd."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-051.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-051.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thou desir’st not sacrifice,",
+            "normalized": "For thou desir’st not sacrifice,",
+            "reading": "For thou desir’st not sacrifice,"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "else would I give it thee;",
+            "normalized": "Else would I give it thee;",
+            "reading": "else would I give it thee;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor wilt thou with burnt-offering",
+            "normalized": "Nor wilt thou with burnt-offering",
+            "reading": "Nor wilt thou with burnt-offering"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "at all delighted be.",
+            "normalized": "At all delighted be.",
+            "reading": "at all delighted be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-051.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        17
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-051.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A broken spirit is to God",
+            "normalized": "A broken spirit is to God",
+            "reading": "A broken spirit is to God"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a pleasing sacrifice:",
+            "normalized": "A pleasing sacrifice:",
+            "reading": "a pleasing sacrifice:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A broken and a contrite heart,",
+            "normalized": "A broken and a contrite heart,",
+            "reading": "A broken and a contrite heart,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Lord, thou wilt not despise.",
+            "normalized": "Lord, thou wilt not despise.",
+            "reading": "Lord, thou wilt not despise."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-051.primary.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-051.primary.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Show kindness, and do good, O Lord,",
+            "normalized": "Show kindness, and do good, O Lord,",
+            "reading": "Show kindness, and do good, O Lord,"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to Zion, thine own hill:",
+            "normalized": "To Zion, thine own hill:",
+            "reading": "to Zion, thine own hill:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The walls of thy Jerusalem",
+            "normalized": "The walls of thy Jerusalem",
+            "reading": "The walls of thy Jerusalem"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "build up of thy good will.",
+            "normalized": "Build up of thy good will.",
+            "reading": "build up of thy good will."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-051.primary.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        19
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-051.primary.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then righteous off’rings shall thee please,",
+            "normalized": "Then righteous off’rings shall thee please,",
+            "reading": "Then righteous off’rings shall thee please,"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and off’rings burnt, which they",
+            "normalized": "And off’rings burnt, which they",
+            "reading": "and off’rings burnt, which they"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With whole burnt-off’rings, and with calves,",
+            "normalized": "With whole burnt-off’rings, and with calves,",
+            "reading": "With whole burnt-off’rings, and with calves,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-051.primary.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall on thine altar lay.",
+            "normalized": "Shall on thine altar lay.",
+            "reading": "shall on thine altar lay."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-124.alternate",
+  "psalm_number": 124,
+  "title": "Psalm 124 · second version",
+  "version": "alternate",
+  "opening_line": "Now Israèl may say, and that truly,",
+  "meter": {
+    "pattern": "10.10.10.10.10",
+    "name": "Five 10s"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 124 · p. 185–186",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "second version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-124,-second-version-(T) [10 10 10 10 10].txt"
+    ],
+    "pdf_pages": [
+      185,
+      186
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-124.alternate.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "Now Israèl may say, and that truly,",
+            "normalized": "Now Israèl may say, and that truly,",
+            "reading": "Now Israèl may say, and that truly,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "If that the LORD had not our cause maintained;",
+            "normalized": "If that the LORD had not our cause maintained;",
+            "reading": "If that the LORD had not our cause maintained;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "If that the LORD had not our right sustained,",
+            "normalized": "If that the LORD had not our right sustained,",
+            "reading": "If that the LORD had not our right sustained,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "When cruel men against us furiously",
+            "normalized": "When cruel men against us furiously",
+            "reading": "When cruel men against us furiously"
+          }
+        },
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-01.line-05",
+          "number": 5,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "Rose up in wrath, to make of us their prey;",
+            "normalized": "Rose up in wrath, to make of us their prey;",
+            "reading": "Rose up in wrath, to make of us their prey;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-124.alternate.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "Then certainly they had devoured us all,",
+            "normalized": "Then certainly they had devoured us all,",
+            "reading": "Then certainly they had devoured us all,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "And swallowed quick, for ought that we could deem;",
+            "normalized": "And swallowed quick, for ought that we could deem;",
+            "reading": "And swallowed quick, for ought that we could deem;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "Such was their rage, as we might well esteem.",
+            "normalized": "Such was their rage, as we might well esteem.",
+            "reading": "Such was their rage, as we might well esteem."
+          }
+        },
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "And as fierce floods before them all things drown,",
+            "normalized": "And as fierce floods before them all things drown,",
+            "reading": "And as fierce floods before them all things drown,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-02.line-05",
+          "number": 5,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "So had they brought our soul to death quite down.",
+            "normalized": "So had they brought our soul to death quite down.",
+            "reading": "So had they brought our soul to death quite down."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-124.alternate.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5,
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "The raging streams, with their proud swelling waves,",
+            "normalized": "The raging streams, with their proud swelling waves,",
+            "reading": "The raging streams, with their proud swelling waves,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "Had then our soul o’erwhelmèd in the deep.",
+            "normalized": "Had then our soul o’erwhelmèd in the deep.",
+            "reading": "Had then our soul o’erwhelmèd in the deep."
+          }
+        },
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "But blessed be GOD, who doth us safely keep,",
+            "normalized": "But blessed be GOD, who doth us safely keep,",
+            "reading": "But blessed be GOD, who doth us safely keep,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "And hath not giv’n us for a living prey",
+            "normalized": "And hath not giv’n us for a living prey",
+            "reading": "And hath not giv’n us for a living prey"
+          }
+        },
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-03.line-05",
+          "number": 5,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "Unto their teeth, and bloody cruelty.",
+            "normalized": "Unto their teeth, and bloody cruelty.",
+            "reading": "Unto their teeth, and bloody cruelty."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-124.alternate.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "Ev’n as a bird out of the fowler’s snare",
+            "normalized": "Ev’n as a bird out of the fowler’s snare",
+            "reading": "Ev’n as a bird out of the fowler’s snare"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "Escapes away, so is our soul set free:",
+            "normalized": "Escapes away, so is our soul set free:",
+            "reading": "Escapes away, so is our soul set free:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "Broke are their nets, and thus escapèd we.",
+            "normalized": "Broke are their nets, and thus escapèd we.",
+            "reading": "Broke are their nets, and thus escapèd we."
+          }
+        },
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "Therefore our help is in the LORD’s great name,",
+            "normalized": "Therefore our help is in the LORD’s great name,",
+            "reading": "Therefore our help is in the LORD’s great name,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-124.alternate.stanza-04.line-05",
+          "number": 5,
+          "syllable_count": 10,
+          "text": {
+            "diplomatic": "Who heav’n and earth by his great pow’r did frame.",
+            "normalized": "Who heav’n and earth by his great pow’r did frame.",
+            "reading": "Who heav’n and earth by his great pow’r did frame."
+          }
+        }
+      ]
+    }
+  ]
+}

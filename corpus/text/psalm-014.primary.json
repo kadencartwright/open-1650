@@ -1,0 +1,348 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-014.primary",
+  "psalm_number": 14,
+  "title": "Psalm 14",
+  "version": "primary",
+  "opening_line": "That there is not a God, the fool",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 14 · p. 18–19",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-014-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      18,
+      19
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-014.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-014.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That there is not a God, the fool",
+            "normalized": "That there is not a God, the fool",
+            "reading": "That there is not a God, the fool"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth in his heart conclude:",
+            "normalized": "Doth in his heart conclude:",
+            "reading": "doth in his heart conclude:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They are corrupt, their works are vile;",
+            "normalized": "They are corrupt, their works are vile;",
+            "reading": "They are corrupt, their works are vile;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "not one of them doth good.",
+            "normalized": "Not one of them doth good.",
+            "reading": "not one of them doth good."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-014.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-014.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Upon men’s sons the LORD from heav’n",
+            "normalized": "Upon men’s sons the LORD from heav’n",
+            "reading": "Upon men’s sons the LORD from heav’n"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "did cast his eyes abroad,",
+            "normalized": "Did cast his eyes abroad,",
+            "reading": "did cast his eyes abroad,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To see if any understood,",
+            "normalized": "To see if any understood,",
+            "reading": "To see if any understood,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and did seek after God.",
+            "normalized": "And did seek after God.",
+            "reading": "and did seek after God."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-014.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-014.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They altogether filthy are,",
+            "normalized": "They altogether filthy are,",
+            "reading": "They altogether filthy are,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they all aside are gone;",
+            "normalized": "They all aside are gone;",
+            "reading": "they all aside are gone;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And there is none that doeth good,",
+            "normalized": "And there is none that doeth good,",
+            "reading": "And there is none that doeth good,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "yea, sure there is not one.",
+            "normalized": "Yea, sure there is not one.",
+            "reading": "yea, sure there is not one."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-014.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-014.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "These workers of iniquity",
+            "normalized": "These workers of iniquity",
+            "reading": "These workers of iniquity"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do they not know at all,",
+            "normalized": "Do they not know at all,",
+            "reading": "do they not know at all,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That they my people eat as bread,",
+            "normalized": "That they my people eat as bread,",
+            "reading": "That they my people eat as bread,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and on GOD do not call?",
+            "normalized": "And on GOD do not call?",
+            "reading": "and on GOD do not call?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-014.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5,
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-014.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "There fear’d they much; for God is with",
+            "normalized": "There fear’d they much; for God is with",
+            "reading": "There fear’d they much; for God is with"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the whole race of the just.",
+            "normalized": "The whole race of the just.",
+            "reading": "the whole race of the just."
+          }
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "You shame the counsel of the poor,",
+            "normalized": "You shame the counsel of the poor,",
+            "reading": "You shame the counsel of the poor,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "because GOD is his trust.",
+            "normalized": "Because GOD is his trust.",
+            "reading": "because GOD is his trust."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-014.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-014.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let Isr’el’s help from Zion come:",
+            "normalized": "Let Isr’el’s help from Zion come:",
+            "reading": "Let Isr’el’s help from Zion come:"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when back the LORD shall bring",
+            "normalized": "When back the LORD shall bring",
+            "reading": "when back the LORD shall bring"
+          }
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His captives, Jacob shall rejoice,",
+            "normalized": "His captives, Jacob shall rejoice,",
+            "reading": "His captives, Jacob shall rejoice,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-014.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and Israèl shall sing.",
+            "normalized": "And Israèl shall sing.",
+            "reading": "and Israèl shall sing."
+          }
+        }
+      ]
+    }
+  ]
+}

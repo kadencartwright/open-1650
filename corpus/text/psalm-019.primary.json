@@ -1,0 +1,658 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-019.primary",
+  "psalm_number": 19,
+  "title": "Psalm 19",
+  "version": "primary",
+  "opening_line": "The heav’ns God’s glory do declare,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 19 · p. 25–26",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-019-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      25,
+      26
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-019.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-019.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The heav’ns God’s glory do declare,",
+            "normalized": "The heav’ns God’s glory do declare,",
+            "reading": "The heav’ns God’s glory do declare,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the skies his hand-works preach:",
+            "normalized": "The skies his hand-works preach:",
+            "reading": "the skies his hand-works preach:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Day utters speech to day, and night",
+            "normalized": "Day utters speech to day, and night",
+            "reading": "Day utters speech to day, and night"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to night doth knowledge teach.",
+            "normalized": "To night doth knowledge teach.",
+            "reading": "to night doth knowledge teach."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-019.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-019.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "There is no speech nor tongue to which",
+            "normalized": "There is no speech nor tongue to which",
+            "reading": "There is no speech nor tongue to which"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their voice doth not extend:",
+            "normalized": "Their voice doth not extend:",
+            "reading": "their voice doth not extend:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their line is gone through all the earth,",
+            "normalized": "Their line is gone through all the earth,",
+            "reading": "Their line is gone through all the earth,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their words to the world’s end.",
+            "normalized": "Their words to the world’s end.",
+            "reading": "their words to the world’s end."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-019.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-019.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In them he set the sun a tent;",
+            "normalized": "In them he set the sun a tent;",
+            "reading": "In them he set the sun a tent;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Who, bridegroom-like, forth goes",
+            "normalized": "Who, bridegroom-like, forth goes",
+            "reading": "Who, bridegroom-like, forth goes"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From’s chamber, as a strong man doth",
+            "normalized": "From’s chamber, as a strong man doth",
+            "reading": "From’s chamber, as a strong man doth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to run his race rejoice.",
+            "normalized": "To run his race rejoice.",
+            "reading": "to run his race rejoice."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-019.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-019.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From heav’n’s end is his going forth,",
+            "normalized": "From heav’n’s end is his going forth,",
+            "reading": "From heav’n’s end is his going forth,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "circling to th’ end again;",
+            "normalized": "Circling to th’ end again;",
+            "reading": "circling to th’ end again;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And there is nothing from his heat",
+            "normalized": "And there is nothing from his heat",
+            "reading": "And there is nothing from his heat"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that hidden doth remain.",
+            "normalized": "That hidden doth remain.",
+            "reading": "that hidden doth remain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-019.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-019.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD’s law is perfect, and converts",
+            "normalized": "GOD’s law is perfect, and converts",
+            "reading": "GOD’s law is perfect, and converts"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the soul in sin that lies:",
+            "normalized": "The soul in sin that lies:",
+            "reading": "the soul in sin that lies:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD’s testimony is most sure,",
+            "normalized": "GOD’s testimony is most sure,",
+            "reading": "GOD’s testimony is most sure,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and makes the simple wise.",
+            "normalized": "And makes the simple wise.",
+            "reading": "and makes the simple wise."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-019.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-019.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The statutes of the LORD are right,",
+            "normalized": "The statutes of the LORD are right,",
+            "reading": "The statutes of the LORD are right,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and do rejoice the heart:",
+            "normalized": "And do rejoice the heart:",
+            "reading": "and do rejoice the heart:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD’s command is pure, and doth",
+            "normalized": "The LORD’s command is pure, and doth",
+            "reading": "The LORD’s command is pure, and doth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "light to the eyes impart.",
+            "normalized": "Light to the eyes impart.",
+            "reading": "light to the eyes impart."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-019.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-019.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unspotted is the fear of GOD,",
+            "normalized": "Unspotted is the fear of GOD,",
+            "reading": "Unspotted is the fear of GOD,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and doth endure for ever:",
+            "normalized": "And doth endure for ever:",
+            "reading": "and doth endure for ever:"
+          },
+          "source_underlining": [
+            "ever"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The judgments of the LORD are true",
+            "normalized": "The judgments of the LORD are true",
+            "reading": "The judgments of the LORD are true"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and righteous altogether.",
+            "normalized": "And righteous altogether.",
+            "reading": "and righteous altogether."
+          },
+          "source_underlining": [
+            "gether"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-019.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-019.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They more than gold, yea, much fine gold,",
+            "normalized": "They more than gold, yea, much fine gold,",
+            "reading": "They more than gold, yea, much fine gold,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to be desirèd are:",
+            "normalized": "To be desirèd are:",
+            "reading": "to be desirèd are:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Than honey, honey from the comb",
+            "normalized": "Than honey, honey from the comb",
+            "reading": "Than honey, honey from the comb"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that droppeth, sweeter far.",
+            "normalized": "That droppeth, sweeter far.",
+            "reading": "that droppeth, sweeter far."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-019.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-019.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Moreover, they thy servant warn",
+            "normalized": "Moreover, they thy servant warn",
+            "reading": "Moreover, they thy servant warn"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "how he his life should frame:",
+            "normalized": "How he his life should frame:",
+            "reading": "how he his life should frame:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A great reward provided is",
+            "normalized": "A great reward provided is",
+            "reading": "A great reward provided is"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for them that keep the same.",
+            "normalized": "For them that keep the same.",
+            "reading": "for them that keep the same."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-019.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        12,
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-019.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who can his errors understand?",
+            "normalized": "Who can his errors understand?",
+            "reading": "Who can his errors understand?"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O cleanse thou me within",
+            "normalized": "O cleanse thou me within",
+            "reading": "O cleanse thou me within"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From secret faults. Thy servant keep",
+            "normalized": "From secret faults. Thy servant keep",
+            "reading": "From secret faults. Thy servant keep"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from all presumptuous sin:",
+            "normalized": "From all presumptuous sin:",
+            "reading": "from all presumptuous sin:"
+          },
+          "source_underlining": [
+            "tuous"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-019.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-019.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And do not suffer them to have",
+            "normalized": "And do not suffer them to have",
+            "reading": "And do not suffer them to have"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "dominion over me:",
+            "normalized": "Dominion over me:",
+            "reading": "dominion over me:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then rïghteous and innocent",
+            "normalized": "Then rïghteous and innocent",
+            "reading": "Then rïghteous and innocent"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I from much sin shall be.",
+            "normalized": "I from much sin shall be.",
+            "reading": "I from much sin shall be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-019.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-019.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The words which from my mouth proceed,",
+            "normalized": "The words which from my mouth proceed,",
+            "reading": "The words which from my mouth proceed,"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the thoughts sent from my heart,",
+            "normalized": "The thoughts sent from my heart,",
+            "reading": "the thoughts sent from my heart,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Accept, O LORD, for thou my strength",
+            "normalized": "Accept, O LORD, for thou my strength",
+            "reading": "Accept, O LORD, for thou my strength"
+          }
+        },
+        {
+          "id": "ps1650.psalm-019.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and my Redeemer art.",
+            "normalized": "And my Redeemer art.",
+            "reading": "and my Redeemer art."
+          }
+        }
+      ]
+    }
+  ]
+}

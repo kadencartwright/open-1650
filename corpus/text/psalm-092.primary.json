@@ -1,0 +1,749 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-092.primary",
+  "psalm_number": 92,
+  "title": "Psalm 92",
+  "version": "primary",
+  "opening_line": "To render thanks unto the LORD",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 92 · p. 131–133",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-092-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      131,
+      132,
+      133
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-092.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-092.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To render thanks unto the LORD",
+            "normalized": "To render thanks unto the LORD",
+            "reading": "To render thanks unto the LORD"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "it is a comely thing,",
+            "normalized": "It is a comely thing,",
+            "reading": "it is a comely thing,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And to thy name, O thou Most High,",
+            "normalized": "And to thy name, O thou Most High,",
+            "reading": "And to thy name, O thou Most High,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "due praise aloud to sing.",
+            "normalized": "Due praise aloud to sing.",
+            "reading": "due praise aloud to sing."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-092.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-092.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy loving-kindness to show forth",
+            "normalized": "Thy loving-kindness to show forth",
+            "reading": "Thy loving-kindness to show forth"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when shines the morning light;",
+            "normalized": "When shines the morning light;",
+            "reading": "when shines the morning light;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And to declare thy faithfulness",
+            "normalized": "And to declare thy faithfulness",
+            "reading": "And to declare thy faithfulness"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with pleasure ev’ry night,",
+            "normalized": "With pleasure ev’ry night,",
+            "reading": "with pleasure ev’ry night,"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-092.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-092.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "On a ten-stringèd instrument,",
+            "normalized": "On a ten-stringèd instrument,",
+            "reading": "On a ten-stringèd instrument,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "upon the psaltery,",
+            "normalized": "Upon the psaltery,",
+            "reading": "upon the psaltery,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And on the harp with solemn sound,",
+            "normalized": "And on the harp with solemn sound,",
+            "reading": "And on the harp with solemn sound,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and grave sweet melody.",
+            "normalized": "And grave sweet melody.",
+            "reading": "and grave sweet melody."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-092.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-092.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thou, LORD, by thy mighty works",
+            "normalized": "For thou, LORD, by thy mighty works",
+            "reading": "For thou, LORD, by thy mighty works"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "hast made my heart right glad;",
+            "normalized": "Hast made my heart right glad;",
+            "reading": "hast made my heart right glad;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And I will triumph in the works",
+            "normalized": "And I will triumph in the works",
+            "reading": "And I will triumph in the works"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "which by thine hands were made.",
+            "normalized": "Which by thine hands were made.",
+            "reading": "which by thine hands were made."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-092.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5,
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-092.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "How great, LORD, are thy works! each thought",
+            "normalized": "How great, LORD, are thy works! each thought",
+            "reading": "How great, LORD, are thy works! each thought"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of thine a deep it is:",
+            "normalized": "Of thine a deep it is:",
+            "reading": "of thine a deep it is:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A brutish man it knoweth not;",
+            "normalized": "A brutish man it knoweth not;",
+            "reading": "A brutish man it knoweth not;"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "fools understand not this.",
+            "normalized": "Fools understand not this.",
+            "reading": "fools understand not this."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-092.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-092.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When those that lewd and wicked are",
+            "normalized": "When those that lewd and wicked are",
+            "reading": "When those that lewd and wicked are"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "spring quickly up like grass,",
+            "normalized": "Spring quickly up like grass,",
+            "reading": "spring quickly up like grass,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And workers of iniquity",
+            "normalized": "And workers of iniquity",
+            "reading": "And workers of iniquity"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do flourish all apace;",
+            "normalized": "Do flourish all apace;",
+            "reading": "do flourish all apace;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-092.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-092.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "It is that they for ever may",
+            "normalized": "It is that they for ever may",
+            "reading": "It is that they for ever may"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "destroyèd be and slain:",
+            "normalized": "Destroyèd be and slain:",
+            "reading": "destroyèd be and slain:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But thou, O LORD, art the Most High,",
+            "normalized": "But thou, O LORD, art the Most High,",
+            "reading": "But thou, O LORD, art the Most High,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for ever to remain.",
+            "normalized": "For ever to remain.",
+            "reading": "for ever to remain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-092.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-092.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For, lo, thine enemies, O LORD,",
+            "normalized": "For, lo, thine enemies, O LORD,",
+            "reading": "For, lo, thine enemies, O LORD,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thine en’mies perish shall;",
+            "normalized": "Thine en’mies perish shall;",
+            "reading": "thine en’mies perish shall;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The workers of iniquity",
+            "normalized": "The workers of iniquity",
+            "reading": "The workers of iniquity"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall be dispersèd all.",
+            "normalized": "Shall be dispersèd all.",
+            "reading": "shall be dispersèd all."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-092.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-092.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But thou shalt, like unto the horn",
+            "normalized": "But thou shalt, like unto the horn",
+            "reading": "But thou shalt, like unto the horn"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of th’ unicorn, exalt",
+            "normalized": "Of th’ unicorn, exalt",
+            "reading": "of th’ unicorn, exalt"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My horn on high: thou with fresh oil",
+            "normalized": "My horn on high: thou with fresh oil",
+            "reading": "My horn on high: thou with fresh oil"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "anoint me also shalt.",
+            "normalized": "Anoint me also shalt.",
+            "reading": "anoint me also shalt."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-092.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-092.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Mine eyes shall also my desire",
+            "normalized": "Mine eyes shall also my desire",
+            "reading": "Mine eyes shall also my desire"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "see on mine enemies;",
+            "normalized": "See on mine enemies;",
+            "reading": "see on mine enemies;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Mine ears shall of the wicked hear",
+            "normalized": "Mine ears shall of the wicked hear",
+            "reading": "Mine ears shall of the wicked hear"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that do against me rise.",
+            "normalized": "That do against me rise.",
+            "reading": "that do against me rise."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-092.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-092.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But like the palm-tree flourishing",
+            "normalized": "But like the palm-tree flourishing",
+            "reading": "But like the palm-tree flourishing"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall be the righteous one;",
+            "normalized": "Shall be the righteous one;",
+            "reading": "shall be the righteous one;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He shall like to the cedar grow",
+            "normalized": "He shall like to the cedar grow",
+            "reading": "He shall like to the cedar grow"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that is in Lebanon.",
+            "normalized": "That is in Lebanon.",
+            "reading": "that is in Lebanon."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-092.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-092.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Those that within the house of GOD",
+            "normalized": "Those that within the house of GOD",
+            "reading": "Those that within the house of GOD"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "are planted by his grace,",
+            "normalized": "Are planted by his grace,",
+            "reading": "are planted by his grace,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They shall grow up, and flourish all",
+            "normalized": "They shall grow up, and flourish all",
+            "reading": "They shall grow up, and flourish all"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in our God’s holy place.",
+            "normalized": "In our God’s holy place.",
+            "reading": "in our God’s holy place."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-092.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-092.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in old age, when others fade,",
+            "normalized": "And in old age, when others fade,",
+            "reading": "And in old age, when others fade,"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they fruit still forth shall bring;",
+            "normalized": "They fruit still forth shall bring;",
+            "reading": "they fruit still forth shall bring;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They shall be fat, and full of sap,",
+            "normalized": "They shall be fat, and full of sap,",
+            "reading": "They shall be fat, and full of sap,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and aye be flourishing;",
+            "normalized": "And aye be flourishing;",
+            "reading": "and aye be flourishing;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-092.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-092.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To show that upright is the LORD:",
+            "normalized": "To show that upright is the LORD:",
+            "reading": "To show that upright is the LORD:"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he is a rock to me;",
+            "normalized": "He is a rock to me;",
+            "reading": "he is a rock to me;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And he from all unrighteousness",
+            "normalized": "And he from all unrighteousness",
+            "reading": "And he from all unrighteousness"
+          }
+        },
+        {
+          "id": "ps1650.psalm-092.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "is altogether free.",
+            "normalized": "Is altogether free.",
+            "reading": "is altogether free."
+          }
+        }
+      ]
+    }
+  ]
+}

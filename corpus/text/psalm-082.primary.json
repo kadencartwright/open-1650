@@ -1,0 +1,302 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-082.primary",
+  "psalm_number": 82,
+  "title": "Psalm 82",
+  "version": "primary",
+  "opening_line": "In gods’ assembly God doth stand;",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 82 · p. 118–119",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-082-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      118,
+      119
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-082.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-082.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In gods’ assembly God doth stand;",
+            "normalized": "In gods’ assembly God doth stand;",
+            "reading": "In gods’ assembly God doth stand;"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-082.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he judgeth gods among.",
+            "normalized": "He judgeth gods among.",
+            "reading": "he judgeth gods among."
+          }
+        },
+        {
+          "id": "ps1650.psalm-082.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "How long, accepting persons vile,",
+            "normalized": "How long, accepting persons vile,",
+            "reading": "How long, accepting persons vile,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-082.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "will ye give judgment wrong?",
+            "normalized": "Will ye give judgment wrong?",
+            "reading": "will ye give judgment wrong?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-082.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-082.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Defend the poor and fatherless;",
+            "normalized": "Defend the poor and fatherless;",
+            "reading": "Defend the poor and fatherless;"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-082.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to poor oppressed do right.",
+            "normalized": "To poor oppressed do right.",
+            "reading": "to poor oppressed do right."
+          }
+        },
+        {
+          "id": "ps1650.psalm-082.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The poor and needy ones set free;",
+            "normalized": "The poor and needy ones set free;",
+            "reading": "The poor and needy ones set free;"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-082.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "rid them from ill men’s might.",
+            "normalized": "Rid them from ill men’s might.",
+            "reading": "rid them from ill men’s might."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-082.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-082.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They know not, nor will understand;",
+            "normalized": "They know not, nor will understand;",
+            "reading": "They know not, nor will understand;"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-082.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in darkness they walk on:",
+            "normalized": "In darkness they walk on:",
+            "reading": "in darkness they walk on:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-082.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All the foundations of the earth",
+            "normalized": "All the foundations of the earth",
+            "reading": "All the foundations of the earth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-082.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "out of their course are gone.",
+            "normalized": "Out of their course are gone.",
+            "reading": "out of their course are gone."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-082.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6,
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-082.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I said that ye are gods, and are",
+            "normalized": "I said that ye are gods, and are",
+            "reading": "I said that ye are gods, and are"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-082.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "sons of the Highest all:",
+            "normalized": "Sons of the Highest all:",
+            "reading": "sons of the Highest all:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-082.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But ye shall die like men, and as",
+            "normalized": "But ye shall die like men, and as",
+            "reading": "But ye shall die like men, and as"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-082.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "one of the princes fall.",
+            "normalized": "One of the princes fall.",
+            "reading": "one of the princes fall."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-082.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-082.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O God, do thou raise up thyself,",
+            "normalized": "O God, do thou raise up thyself,",
+            "reading": "O God, do thou raise up thyself,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-082.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the earth to judgment call:",
+            "normalized": "The earth to judgment call:",
+            "reading": "the earth to judgment call:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-082.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thou, as thine inheritance,",
+            "normalized": "For thou, as thine inheritance,",
+            "reading": "For thou, as thine inheritance,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-082.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shalt take the nations all.",
+            "normalized": "Shalt take the nations all.",
+            "reading": "shalt take the nations all."
+          }
+        }
+      ]
+    }
+  ]
+}

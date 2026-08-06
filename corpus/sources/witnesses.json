@@ -1,0 +1,46 @@
+{
+  "$schema": "../schemas/witnesses.schema.json",
+  "schema_version": "0.1.0",
+  "sources": [
+    {
+      "id": "fcos.received-text-2026",
+      "kind": "received-edition",
+      "label": "The Scottish Psalter — Words Only Digital Edition",
+      "publisher": "Free Church of Scotland",
+      "date": "2026-05",
+      "url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+      "rights_statement_url": "https://freechurch.org/praise-resources/",
+      "rights_note": "The publisher states that Scottish Psalter Psalm texts may be reproduced without copyright concerns.",
+      "use": "Received singing text for prototype seed records; contemporary formatting is not copied."
+    },
+    {
+      "id": "eebo-tcp.A76561",
+      "kind": "historic-witness",
+      "label": "The Psalms of David in meeter",
+      "publisher": "Evan Tyler",
+      "place": "Edinburgh",
+      "date": "1650",
+      "catalog": {
+        "wing": "B2442",
+        "estc": "R170567",
+        "eebo_image_set": "171605",
+        "tcp": "A76561"
+      },
+      "holding_institution": "Bodleian Library",
+      "url": "https://quod.lib.umich.edu/e/eebo/A76561.0001.001?view=toc",
+      "text_rights": "CC0-1.0",
+      "image_rights_note": "Page images are not included and have separate access/reuse conditions.",
+      "use": "Primary historic witness for future diplomatic collation."
+    },
+    {
+      "id": "morgan.first-edition-86454",
+      "kind": "catalog-record",
+      "label": "The Psalmes of David in meeter",
+      "publisher": "Evan Tyler",
+      "place": "Edinburgh",
+      "date": "1650",
+      "url": "https://www.themorgan.org/printed-books/86454",
+      "use": "Independent bibliographic corroboration of the first edition."
+    }
+  ]
+}

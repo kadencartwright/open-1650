@@ -1,0 +1,504 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-056.primary",
+  "psalm_number": 56,
+  "title": "Psalm 56",
+  "version": "primary",
+  "opening_line": "Show mercy, Lord, to me, for man",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 56 · p. 78–79",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-056-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      78,
+      79
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-056.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-056.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Show mercy, Lord, to me, for man",
+            "normalized": "Show mercy, Lord, to me, for man",
+            "reading": "Show mercy, Lord, to me, for man"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "would swallow me outright;",
+            "normalized": "Would swallow me outright;",
+            "reading": "would swallow me outright;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He me oppresseth, while he doth",
+            "normalized": "He me oppresseth, while he doth",
+            "reading": "He me oppresseth, while he doth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "against me daily fight.",
+            "normalized": "Against me daily fight.",
+            "reading": "against me daily fight."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-056.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-056.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They daily would me swallow up",
+            "normalized": "They daily would me swallow up",
+            "reading": "They daily would me swallow up"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that hate me spitefully;",
+            "normalized": "That hate me spitefully;",
+            "reading": "that hate me spitefully;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For they be many that do fight",
+            "normalized": "For they be many that do fight",
+            "reading": "For they be many that do fight"
+          }
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "against me, O Most High.",
+            "normalized": "Against me, O Most High.",
+            "reading": "against me, O Most High."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-056.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-056.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When I’m afraid I’ll trust in thee:",
+            "normalized": "When I’m afraid I’ll trust in thee:",
+            "reading": "When I’m afraid I’ll trust in thee:"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "In God I’ll praise his word;",
+            "normalized": "In God I’ll praise his word;",
+            "reading": "In God I’ll praise his word;"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I will not fear what flesh can do,",
+            "normalized": "I will not fear what flesh can do,",
+            "reading": "I will not fear what flesh can do,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my trust is in the Lord.",
+            "normalized": "My trust is in the Lord.",
+            "reading": "my trust is in the Lord."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-056.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5,
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-056.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Each day they wrest my words; their thoughts",
+            "normalized": "Each day they wrest my words; their thoughts",
+            "reading": "Each day they wrest my words; their thoughts"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "’gainst me are all for ill.",
+            "normalized": "’Gainst me are all for ill.",
+            "reading": "’gainst me are all for ill."
+          }
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They meet, they lurk, they mark my steps,",
+            "normalized": "They meet, they lurk, they mark my steps,",
+            "reading": "They meet, they lurk, they mark my steps,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "waiting my soul to kill.",
+            "normalized": "Waiting my soul to kill.",
+            "reading": "waiting my soul to kill."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-056.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-056.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But shall they by iniquity",
+            "normalized": "But shall they by iniquity",
+            "reading": "But shall they by iniquity"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "escape thy judgments so?",
+            "normalized": "Escape thy judgments so?",
+            "reading": "escape thy judgments so?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O God, with indignation down",
+            "normalized": "O God, with indignation down",
+            "reading": "O God, with indignation down"
+          }
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do thou the people throw.",
+            "normalized": "Do thou the people throw.",
+            "reading": "do thou the people throw."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-056.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-056.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My wand’rings all what they have been",
+            "normalized": "My wand’rings all what they have been",
+            "reading": "My wand’rings all what they have been"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou know’st, their number took;",
+            "normalized": "Thou know’st, their number took;",
+            "reading": "thou know’st, their number took;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Into thy bottle put my tears:",
+            "normalized": "Into thy bottle put my tears:",
+            "reading": "Into thy bottle put my tears:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "are they not in thy book?",
+            "normalized": "Are they not in thy book?",
+            "reading": "are they not in thy book?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-056.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9,
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-056.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My foes shall, when I cry, turn back;",
+            "normalized": "My foes shall, when I cry, turn back;",
+            "reading": "My foes shall, when I cry, turn back;"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I know ’t, God is for me.",
+            "normalized": "I know ’t, God is for me.",
+            "reading": "I know ’t, God is for me."
+          }
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In God his word I’ll praise; his word",
+            "normalized": "In God his word I’ll praise; his word",
+            "reading": "In God his word I’ll praise; his word"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in GOD shall praisèd be.",
+            "normalized": "In GOD shall praisèd be.",
+            "reading": "in GOD shall praisèd be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-056.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        11,
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-056.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In God I trust; I will not fear",
+            "normalized": "In God I trust; I will not fear",
+            "reading": "In God I trust; I will not fear"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "what man can do to me.",
+            "normalized": "What man can do to me.",
+            "reading": "what man can do to me."
+          }
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy vows upon me are, O God:",
+            "normalized": "Thy vows upon me are, O God:",
+            "reading": "Thy vows upon me are, O God:"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I’ll render praise to thee.",
+            "normalized": "I’ll render praise to thee.",
+            "reading": "I’ll render praise to thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-056.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-056.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Wilt thou not, who from death me saved,",
+            "normalized": "Wilt thou not, who from death me saved,",
+            "reading": "Wilt thou not, who from death me saved,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my feet from falls keep free,",
+            "normalized": "My feet from falls keep free,",
+            "reading": "my feet from falls keep free,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To walk before God in the light",
+            "normalized": "To walk before God in the light",
+            "reading": "To walk before God in the light"
+          }
+        },
+        {
+          "id": "ps1650.psalm-056.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of those that living be?",
+            "normalized": "Of those that living be?",
+            "reading": "of those that living be?"
+          }
+        }
+      ]
+    }
+  ]
+}

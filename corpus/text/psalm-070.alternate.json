@@ -1,0 +1,247 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-070.alternate",
+  "psalm_number": 70,
+  "title": "Psalm 70 · second version",
+  "version": "alternate",
+  "opening_line": "Make haste, O God, me to preserve;",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 70 · p. 97",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "second version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-070,-second-version-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      97
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-070.alternate.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-070.alternate.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Make haste, O God, me to preserve;",
+            "normalized": "Make haste, O God, me to preserve;",
+            "reading": "Make haste, O God, me to preserve;"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-070.alternate.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with speed, LORD, succour me.",
+            "normalized": "With speed, LORD, succour me.",
+            "reading": "with speed, LORD, succour me."
+          }
+        },
+        {
+          "id": "ps1650.psalm-070.alternate.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let them that for my soul do seek",
+            "normalized": "Let them that for my soul do seek",
+            "reading": "Let them that for my soul do seek"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-070.alternate.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shamed and confounded be:",
+            "normalized": "Shamed and confounded be:",
+            "reading": "shamed and confounded be:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-070.alternate.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-070.alternate.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let them be turnèd back, and shamed,",
+            "normalized": "Let them be turnèd back, and shamed,",
+            "reading": "Let them be turnèd back, and shamed,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-070.alternate.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that in my hurt delight.",
+            "normalized": "That in my hurt delight.",
+            "reading": "that in my hurt delight."
+          }
+        },
+        {
+          "id": "ps1650.psalm-070.alternate.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Turned back be they, Ha, ha! that say,",
+            "normalized": "Turned back be they, Ha, ha! that say,",
+            "reading": "Turned back be they, Ha, ha! that say,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-070.alternate.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their shaming to requite.",
+            "normalized": "Their shaming to requite.",
+            "reading": "their shaming to requite."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-070.alternate.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-070.alternate.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O Lord, in thee let all be glad,",
+            "normalized": "O Lord, in thee let all be glad,",
+            "reading": "O Lord, in thee let all be glad,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-070.alternate.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and joy that seek for thee:",
+            "normalized": "And joy that seek for thee:",
+            "reading": "and joy that seek for thee:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-070.alternate.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let them who thy salvation love",
+            "normalized": "Let them who thy salvation love",
+            "reading": "Let them who thy salvation love"
+          }
+        },
+        {
+          "id": "ps1650.psalm-070.alternate.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "say still, God praisèd be.",
+            "normalized": "Say still, God praisèd be.",
+            "reading": "say still, God praisèd be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-070.alternate.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-070.alternate.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But I both poor and needy am;",
+            "normalized": "But I both poor and needy am;",
+            "reading": "But I both poor and needy am;"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-070.alternate.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "come, Lord, and make no stay:",
+            "normalized": "Come, Lord, and make no stay:",
+            "reading": "come, Lord, and make no stay:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-070.alternate.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My help thou and deliv’rer art;",
+            "normalized": "My help thou and deliv’rer art;",
+            "reading": "My help thou and deliv’rer art;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-070.alternate.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O LORD, make no delay.",
+            "normalized": "O LORD, make no delay.",
+            "reading": "O LORD, make no delay."
+          }
+        }
+      ]
+    }
+  ]
+}

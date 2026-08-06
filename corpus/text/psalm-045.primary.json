@@ -1,0 +1,896 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-045.primary",
+  "psalm_number": 45,
+  "title": "Psalm 45",
+  "version": "primary",
+  "opening_line": "My heart brings forth a goodly thing;",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 45 · p. 62–63",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "first version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-045,-first-version-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      62,
+      63
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-045.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-045.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My heart brings forth a goodly thing;",
+            "normalized": "My heart brings forth a goodly thing;",
+            "reading": "My heart brings forth a goodly thing;"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my words that I indite",
+            "normalized": "My words that I indite",
+            "reading": "my words that I indite"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Concern the King: my tongue’s a pen",
+            "normalized": "Concern the King: my tongue’s a pen",
+            "reading": "Concern the King: my tongue’s a pen"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of one that swift doth write.",
+            "normalized": "Of one that swift doth write.",
+            "reading": "of one that swift doth write."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-045.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-045.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou fairer art than sons of men:",
+            "normalized": "Thou fairer art than sons of men:",
+            "reading": "Thou fairer art than sons of men:"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "into thy lips is store",
+            "normalized": "Into thy lips is store",
+            "reading": "into thy lips is store"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of grace infused; God therefore thee",
+            "normalized": "Of grace infused; God therefore thee",
+            "reading": "Of grace infused; God therefore thee"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "hath blessed for evermore.",
+            "normalized": "Hath blessed for evermore.",
+            "reading": "hath blessed for evermore."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-045.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-045.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O thou that art the mighty One,",
+            "normalized": "O thou that art the mighty One,",
+            "reading": "O thou that art the mighty One,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy sword gird on thy thigh;",
+            "normalized": "Thy sword gird on thy thigh;",
+            "reading": "thy sword gird on thy thigh;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n with thy glory excellent,",
+            "normalized": "Ev’n with thy glory excellent,",
+            "reading": "Ev’n with thy glory excellent,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and with thy majesty.",
+            "normalized": "And with thy majesty.",
+            "reading": "and with thy majesty."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-045.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-045.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For meekness, truth, and righteousness,",
+            "normalized": "For meekness, truth, and righteousness,",
+            "reading": "For meekness, truth, and righteousness,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in state ride prosp’rously;",
+            "normalized": "In state ride prosp’rously;",
+            "reading": "in state ride prosp’rously;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And thy right hand shall thee instruct",
+            "normalized": "And thy right hand shall thee instruct",
+            "reading": "And thy right hand shall thee instruct"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in things that fearful be.",
+            "normalized": "In things that fearful be.",
+            "reading": "in things that fearful be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-045.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-045.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thine arrows sharply pierce the heart",
+            "normalized": "Thine arrows sharply pierce the heart",
+            "reading": "Thine arrows sharply pierce the heart"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of th’ en’mies of the King;",
+            "normalized": "Of th’ en’mies of the King;",
+            "reading": "of th’ en’mies of the King;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And under thy subjëction",
+            "normalized": "And under thy subjëction",
+            "reading": "And under thy subjëction"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the people down do bring.",
+            "normalized": "The people down do bring.",
+            "reading": "the people down do bring."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-045.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-045.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For ever and for ever is,",
+            "normalized": "For ever and for ever is,",
+            "reading": "For ever and for ever is,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O God, thy throne of might;",
+            "normalized": "O God, thy throne of might;",
+            "reading": "O God, thy throne of might;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The sceptre of thy kingdom is",
+            "normalized": "The sceptre of thy kingdom is",
+            "reading": "The sceptre of thy kingdom is"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a sceptre that is right.",
+            "normalized": "A sceptre that is right.",
+            "reading": "a sceptre that is right."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-045.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-045.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou lovest right, and hatest ill;",
+            "normalized": "Thou lovest right, and hatest ill;",
+            "reading": "Thou lovest right, and hatest ill;"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for God, thy God, most high,",
+            "normalized": "For God, thy God, most high,",
+            "reading": "for God, thy God, most high,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Above thy fellows hath with th’ oil",
+            "normalized": "Above thy fellows hath with th’ oil",
+            "reading": "Above thy fellows hath with th’ oil"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of joy anointed thee.",
+            "normalized": "Of joy anointed thee.",
+            "reading": "of joy anointed thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-045.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-045.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of aloes, myrrh, and cassia,",
+            "normalized": "Of aloes, myrrh, and cassia,",
+            "reading": "Of aloes, myrrh, and cassia,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a smell thy garments had,",
+            "normalized": "A smell thy garments had,",
+            "reading": "a smell thy garments had,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Out of the iv’ry palaces,",
+            "normalized": "Out of the iv’ry palaces,",
+            "reading": "Out of the iv’ry palaces,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "whereby they made thee glad.",
+            "normalized": "Whereby they made thee glad.",
+            "reading": "whereby they made thee glad."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-045.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-045.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Among thy women hon’rable",
+            "normalized": "Among thy women hon’rable",
+            "reading": "Among thy women hon’rable"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "kings’ daughters were at hand:",
+            "normalized": "Kings’ daughters were at hand:",
+            "reading": "kings’ daughters were at hand:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Upon thy right hand did the queen",
+            "normalized": "Upon thy right hand did the queen",
+            "reading": "Upon thy right hand did the queen"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in gold of Ophir stand.",
+            "normalized": "In gold of Ophir stand.",
+            "reading": "in gold of Ophir stand."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-045.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-045.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O daughter, hearken and regard,",
+            "normalized": "O daughter, hearken and regard,",
+            "reading": "O daughter, hearken and regard,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and do thine ear incline;",
+            "normalized": "And do thine ear incline;",
+            "reading": "and do thine ear incline;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Likewise forget thy father’s house,",
+            "normalized": "Likewise forget thy father’s house,",
+            "reading": "Likewise forget thy father’s house,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and people that are thine.",
+            "normalized": "And people that are thine.",
+            "reading": "and people that are thine."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-045.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-045.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then of the King desired shall be",
+            "normalized": "Then of the King desired shall be",
+            "reading": "Then of the King desired shall be"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy beauty veh’mently:",
+            "normalized": "Thy beauty veh’mently:",
+            "reading": "thy beauty veh’mently:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because he is thy Lord, do thou",
+            "normalized": "Because he is thy Lord, do thou",
+            "reading": "Because he is thy Lord, do thou"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "him worship rev’rently.",
+            "normalized": "Him worship rev’rently.",
+            "reading": "him worship rev’rently."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-045.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-045.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The daughter there of Tyre shall be",
+            "normalized": "The daughter there of Tyre shall be",
+            "reading": "The daughter there of Tyre shall be"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with gifts and off’rings great:",
+            "normalized": "With gifts and off’rings great:",
+            "reading": "with gifts and off’rings great:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Those of the people that are rich",
+            "normalized": "Those of the people that are rich",
+            "reading": "Those of the people that are rich"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy favour shall entreat.",
+            "normalized": "Thy favour shall entreat.",
+            "reading": "thy favour shall entreat."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-045.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-045.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Behold, the daughter of the King",
+            "normalized": "Behold, the daughter of the King",
+            "reading": "Behold, the daughter of the King"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all glorious is within;",
+            "normalized": "All glorious is within;",
+            "reading": "all glorious is within;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And with embroideries of gold",
+            "normalized": "And with embroideries of gold",
+            "reading": "And with embroideries of gold"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "her garments wrought have been.",
+            "normalized": "Her garments wrought have been.",
+            "reading": "her garments wrought have been."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-045.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-045.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "She shall be brought unto the King",
+            "normalized": "She shall be brought unto the King",
+            "reading": "She shall be brought unto the King"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in robes with needle wrought;",
+            "normalized": "In robes with needle wrought;",
+            "reading": "in robes with needle wrought;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Her fellow-virgins following",
+            "normalized": "Her fellow-virgins following",
+            "reading": "Her fellow-virgins following"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall unto thee be brought.",
+            "normalized": "Shall unto thee be brought.",
+            "reading": "shall unto thee be brought."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-045.primary.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-045.primary.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They shall be brought with gladness great,",
+            "normalized": "They shall be brought with gladness great,",
+            "reading": "They shall be brought with gladness great,"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and mirth on ev’ry side,",
+            "normalized": "And mirth on ev’ry side,",
+            "reading": "and mirth on ev’ry side,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Into the palace of the King,",
+            "normalized": "Into the palace of the King,",
+            "reading": "Into the palace of the King,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and there they shall abide.",
+            "normalized": "And there they shall abide.",
+            "reading": "and there they shall abide."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-045.primary.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-045.primary.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Instead of those thy fathers dear,",
+            "normalized": "Instead of those thy fathers dear,",
+            "reading": "Instead of those thy fathers dear,"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy children thou may’st take,",
+            "normalized": "Thy children thou may’st take,",
+            "reading": "thy children thou may’st take,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in all places of the earth",
+            "normalized": "And in all places of the earth",
+            "reading": "And in all places of the earth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "them noble princes make.",
+            "normalized": "Them noble princes make.",
+            "reading": "them noble princes make."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-045.primary.stanza-17",
+      "number": 17,
+      "biblical_verses": [
+        17
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-045.primary.stanza-17.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy name remembered I will make",
+            "normalized": "Thy name remembered I will make",
+            "reading": "Thy name remembered I will make"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-17.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "through ages all to be:",
+            "normalized": "Through ages all to be:",
+            "reading": "through ages all to be:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-17.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The people therefore evermore",
+            "normalized": "The people therefore evermore",
+            "reading": "The people therefore evermore"
+          }
+        },
+        {
+          "id": "ps1650.psalm-045.primary.stanza-17.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall praises give to thee.",
+            "normalized": "Shall praises give to thee.",
+            "reading": "shall praises give to thee."
+          }
+        }
+      ]
+    }
+  ]
+}

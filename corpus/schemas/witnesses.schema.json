@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://open1650.org/schemas/witnesses.schema.json",
+  "title": "Open 1650 Source Catalog",
+  "type": "object",
+  "required": ["schema_version", "sources"],
+  "properties": {
+    "schema_version": { "type": "string" },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "kind", "label", "date", "url", "use"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "kind": {
+            "enum": [
+              "received-edition",
+              "historic-witness",
+              "catalog-record"
+            ]
+          },
+          "label": { "type": "string", "minLength": 1 },
+          "date": { "type": "string", "minLength": 4 },
+          "url": { "type": "string", "format": "uri" },
+          "use": { "type": "string", "minLength": 1 }
+        }
+      }
+    }
+  }
+}

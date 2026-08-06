@@ -1,0 +1,195 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-133.primary",
+  "psalm_number": 133,
+  "title": "Psalm 133",
+  "version": "primary",
+  "opening_line": "Behold, how good a thing it is,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 133 · p. 190",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-133-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      190
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-133.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-133.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Behold, how good a thing it is,",
+            "normalized": "Behold, how good a thing it is,",
+            "reading": "Behold, how good a thing it is,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-133.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and how becoming well,",
+            "normalized": "And how becoming well,",
+            "reading": "and how becoming well,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-133.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Together such as brethren are",
+            "normalized": "Together such as brethren are",
+            "reading": "Together such as brethren are"
+          }
+        },
+        {
+          "id": "ps1650.psalm-133.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in unity to dwell!",
+            "normalized": "In unity to dwell!",
+            "reading": "in unity to dwell!"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-133.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-133.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Like precious ointment on the head,",
+            "normalized": "Like precious ointment on the head,",
+            "reading": "Like precious ointment on the head,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-133.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that down the beard did flow,",
+            "normalized": "That down the beard did flow,",
+            "reading": "that down the beard did flow,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-133.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n Aaron’s beard, and to the skirts",
+            "normalized": "Ev’n Aaron’s beard, and to the skirts",
+            "reading": "Ev’n Aaron’s beard, and to the skirts"
+          }
+        },
+        {
+          "id": "ps1650.psalm-133.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "did of his garments go.",
+            "normalized": "Did of his garments go.",
+            "reading": "did of his garments go."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-133.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-133.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "As Hermon’s dew, the dew that doth",
+            "normalized": "As Hermon’s dew, the dew that doth",
+            "reading": "As Hermon’s dew, the dew that doth"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-133.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "on Zion hills descend:",
+            "normalized": "On Zion hills descend:",
+            "reading": "on Zion hills descend:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-133.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For there the blessing GOD commands,",
+            "normalized": "For there the blessing GOD commands,",
+            "reading": "For there the blessing GOD commands,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-133.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "life that shall never end.",
+            "normalized": "Life that shall never end.",
+            "reading": "life that shall never end."
+          }
+        }
+      ]
+    }
+  ]
+}

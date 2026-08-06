@@ -1,0 +1,1721 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-107.primary",
+  "psalm_number": 107,
+  "title": "Psalm 107",
+  "version": "primary",
+  "opening_line": "Praise GOD, for he is good: for still",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 107 · p. 156–159",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-107-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      156,
+      157,
+      158,
+      159
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-107.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Praise GOD, for he is good: for still",
+            "normalized": "Praise GOD, for he is good: for still",
+            "reading": "Praise GOD, for he is good: for still"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his mercies lasting be.",
+            "normalized": "His mercies lasting be.",
+            "reading": "his mercies lasting be."
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let GOD’s redeemed say so, whom he",
+            "normalized": "Let GOD’s redeemed say so, whom he",
+            "reading": "Let GOD’s redeemed say so, whom he"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from th’ en’my’s hand did free;",
+            "normalized": "From th’ en’my’s hand did free;",
+            "reading": "from th’ en’my’s hand did free;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And gathered them out of the lands,",
+            "normalized": "And gathered them out of the lands,",
+            "reading": "And gathered them out of the lands,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from north, south, east, and west.",
+            "normalized": "From north, south, east, and west.",
+            "reading": "from north, south, east, and west."
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They strayed in desert’s pathless way,",
+            "normalized": "They strayed in desert’s pathless way,",
+            "reading": "They strayed in desert’s pathless way,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "no city found to rest.",
+            "normalized": "No city found to rest.",
+            "reading": "no city found to rest."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5,
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thirst and hunger in them faints",
+            "normalized": "For thirst and hunger in them faints",
+            "reading": "For thirst and hunger in them faints"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their soul. When straits them press,",
+            "normalized": "Their soul. When straits them press,",
+            "reading": "their soul. When straits them press,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They cry unto the LORD, and he",
+            "normalized": "They cry unto the LORD, and he",
+            "reading": "They cry unto the LORD, and he"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "them frees from their distress.",
+            "normalized": "Them frees from their distress.",
+            "reading": "them frees from their distress."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Them also in a way to walk",
+            "normalized": "Them also in a way to walk",
+            "reading": "Them also in a way to walk"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that right is he did guide,",
+            "normalized": "That right is he did guide,",
+            "reading": "that right is he did guide,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That they might to a city go,",
+            "normalized": "That they might to a city go,",
+            "reading": "That they might to a city go,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "wherein they might abide.",
+            "normalized": "Wherein they might abide.",
+            "reading": "wherein they might abide."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O that men to the LORD would give",
+            "normalized": "O that men to the LORD would give",
+            "reading": "O that men to the LORD would give"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "praise for his goodness then,",
+            "normalized": "Praise for his goodness then,",
+            "reading": "praise for his goodness then,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And for his works of wonder done",
+            "normalized": "And for his works of wonder done",
+            "reading": "And for his works of wonder done"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto the sons of men!",
+            "normalized": "Unto the sons of men!",
+            "reading": "unto the sons of men!"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For he the soul that longing is",
+            "normalized": "For he the soul that longing is",
+            "reading": "For he the soul that longing is"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth fully satisfy;",
+            "normalized": "Doth fully satisfy;",
+            "reading": "doth fully satisfy;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With goodness he the hungry soul",
+            "normalized": "With goodness he the hungry soul",
+            "reading": "With goodness he the hungry soul"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth fill abundantly.",
+            "normalized": "Doth fill abundantly.",
+            "reading": "doth fill abundantly."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Such as shut up in darkness deep,",
+            "normalized": "Such as shut up in darkness deep,",
+            "reading": "Such as shut up in darkness deep,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and in death’s shade abide,",
+            "normalized": "And in death’s shade abide,",
+            "reading": "and in death’s shade abide,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Whom strongly hath affliction bound,",
+            "normalized": "Whom strongly hath affliction bound,",
+            "reading": "Whom strongly hath affliction bound,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and irons fast have tied:",
+            "normalized": "And irons fast have tied:",
+            "reading": "and irons fast have tied:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because against the words of God",
+            "normalized": "Because against the words of God",
+            "reading": "Because against the words of God"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they wrought rebelliously,",
+            "normalized": "They wrought rebelliously,",
+            "reading": "they wrought rebelliously,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And they the counsel did contemn",
+            "normalized": "And they the counsel did contemn",
+            "reading": "And they the counsel did contemn"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of him that is Most High:",
+            "normalized": "Of him that is Most High:",
+            "reading": "of him that is Most High:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        12,
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their heart he did bring down with grief,",
+            "normalized": "Their heart he did bring down with grief,",
+            "reading": "Their heart he did bring down with grief,"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they fell, no help could have.",
+            "normalized": "They fell, no help could have.",
+            "reading": "they fell, no help could have."
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In trouble then they cried to GOD,",
+            "normalized": "In trouble then they cried to GOD,",
+            "reading": "In trouble then they cried to GOD,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he them from straits did save.",
+            "normalized": "He them from straits did save.",
+            "reading": "he them from straits did save."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He out of darkness did them bring,",
+            "normalized": "He out of darkness did them bring,",
+            "reading": "He out of darkness did them bring,"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and from death’s shade them take;",
+            "normalized": "And from death’s shade them take;",
+            "reading": "and from death’s shade them take;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "These bands, wherewith they had been bound,",
+            "normalized": "These bands, wherewith they had been bound,",
+            "reading": "These bands, wherewith they had been bound,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "asunder quite he brake.",
+            "normalized": "Asunder quite he brake.",
+            "reading": "asunder quite he brake."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O that men to the LORD would give",
+            "normalized": "O that men to the LORD would give",
+            "reading": "O that men to the LORD would give"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "praise for his goodness then,",
+            "normalized": "Praise for his goodness then,",
+            "reading": "praise for his goodness then,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And for his works of wonder done",
+            "normalized": "And for his works of wonder done",
+            "reading": "And for his works of wonder done"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto the sons of men!",
+            "normalized": "Unto the sons of men!",
+            "reading": "unto the sons of men!"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because the mighty gates of brass",
+            "normalized": "Because the mighty gates of brass",
+            "reading": "Because the mighty gates of brass"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in pieces he did tear,",
+            "normalized": "In pieces he did tear,",
+            "reading": "in pieces he did tear,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "By him in sunder also cut",
+            "normalized": "By him in sunder also cut",
+            "reading": "By him in sunder also cut"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the bars of iron were.",
+            "normalized": "The bars of iron were.",
+            "reading": "the bars of iron were."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        17,
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Fools, for their sin, and their offence,",
+            "normalized": "Fools, for their sin, and their offence,",
+            "reading": "Fools, for their sin, and their offence,"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do sore affliction bear;",
+            "normalized": "Do sore affliction bear;",
+            "reading": "do sore affliction bear;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All kind of meat their soul abhors;",
+            "normalized": "All kind of meat their soul abhors;",
+            "reading": "All kind of meat their soul abhors;"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they to death’s gates draw near.",
+            "normalized": "They to death’s gates draw near.",
+            "reading": "they to death’s gates draw near."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        19,
+        20
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In grief they cry to GOD; he saves",
+            "normalized": "In grief they cry to GOD; he saves",
+            "reading": "In grief they cry to GOD; he saves"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "them from their miseries.",
+            "normalized": "Them from their miseries.",
+            "reading": "them from their miseries."
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He sends his word, them heals, and them",
+            "normalized": "He sends his word, them heals, and them",
+            "reading": "He sends his word, them heals, and them"
+          },
+          "biblical_verse_start": 20
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from their destruction frees.",
+            "normalized": "From their destruction frees.",
+            "reading": "from their destruction frees."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        21
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O that men to the LORD would give",
+            "normalized": "O that men to the LORD would give",
+            "reading": "O that men to the LORD would give"
+          },
+          "biblical_verse_start": 21
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "praise for his goodness then,",
+            "normalized": "Praise for his goodness then,",
+            "reading": "praise for his goodness then,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And for his works of wonder done",
+            "normalized": "And for his works of wonder done",
+            "reading": "And for his works of wonder done"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto the sons of men!",
+            "normalized": "Unto the sons of men!",
+            "reading": "unto the sons of men!"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        22
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And let them sacrifice to him",
+            "normalized": "And let them sacrifice to him",
+            "reading": "And let them sacrifice to him"
+          },
+          "biblical_verse_start": 22
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "off’rings of thankfulness;",
+            "normalized": "Off’rings of thankfulness;",
+            "reading": "off’rings of thankfulness;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And let them show abroad his works",
+            "normalized": "And let them show abroad his works",
+            "reading": "And let them show abroad his works"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in songs of joyfulness.",
+            "normalized": "In songs of joyfulness.",
+            "reading": "in songs of joyfulness."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-17",
+      "number": 17,
+      "biblical_verses": [
+        23,
+        24
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-17.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who go to sea in ships, and in",
+            "normalized": "Who go to sea in ships, and in",
+            "reading": "Who go to sea in ships, and in"
+          },
+          "biblical_verse_start": 23
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-17.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "great waters trading be,",
+            "normalized": "Great waters trading be,",
+            "reading": "great waters trading be,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-17.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Within the deep these men GOD’s works",
+            "normalized": "Within the deep these men GOD’s works",
+            "reading": "Within the deep these men GOD’s works"
+          },
+          "biblical_verse_start": 24
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-17.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and his great wonders see.",
+            "normalized": "And his great wonders see.",
+            "reading": "and his great wonders see."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-18",
+      "number": 18,
+      "biblical_verses": [
+        25
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-18.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For he commands, and forth in haste",
+            "normalized": "For he commands, and forth in haste",
+            "reading": "For he commands, and forth in haste"
+          },
+          "biblical_verse_start": 25
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-18.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the stormy tempest flies,",
+            "normalized": "The stormy tempest flies,",
+            "reading": "the stormy tempest flies,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-18.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Which makes the sea with rolling waves",
+            "normalized": "Which makes the sea with rolling waves",
+            "reading": "Which makes the sea with rolling waves"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-18.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "aloft to swell and rise.",
+            "normalized": "Aloft to swell and rise.",
+            "reading": "aloft to swell and rise."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-19",
+      "number": 19,
+      "biblical_verses": [
+        26
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-19.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They mount to heav’n, then to the depths",
+            "normalized": "They mount to heav’n, then to the depths",
+            "reading": "They mount to heav’n, then to the depths"
+          },
+          "biblical_verse_start": 26
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-19.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they do go down again;",
+            "normalized": "They do go down again;",
+            "reading": "they do go down again;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-19.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their soul doth faint and melt away",
+            "normalized": "Their soul doth faint and melt away",
+            "reading": "Their soul doth faint and melt away"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-19.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with trouble and with pain.",
+            "normalized": "With trouble and with pain.",
+            "reading": "with trouble and with pain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-20",
+      "number": 20,
+      "biblical_verses": [
+        27,
+        28
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-20.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They reel and stagger like one drunk,",
+            "normalized": "They reel and stagger like one drunk,",
+            "reading": "They reel and stagger like one drunk,"
+          },
+          "biblical_verse_start": 27
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-20.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "at their wit’s end they be:",
+            "normalized": "At their wit’s end they be:",
+            "reading": "at their wit’s end they be:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-20.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then they to GOD in trouble cry,",
+            "normalized": "Then they to GOD in trouble cry,",
+            "reading": "Then they to GOD in trouble cry,"
+          },
+          "biblical_verse_start": 28
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-20.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who them from straits doth free.",
+            "normalized": "Who them from straits doth free.",
+            "reading": "who them from straits doth free."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-21",
+      "number": 21,
+      "biblical_verses": [
+        29
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-21.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The storm is changed into a calm",
+            "normalized": "The storm is changed into a calm",
+            "reading": "The storm is changed into a calm"
+          },
+          "biblical_verse_start": 29
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-21.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "at his command and will;",
+            "normalized": "At his command and will;",
+            "reading": "at his command and will;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-21.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "So that the waves, which raged before,",
+            "normalized": "So that the waves, which raged before,",
+            "reading": "So that the waves, which raged before,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-21.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "now quiet are and still.",
+            "normalized": "Now quiet are and still.",
+            "reading": "now quiet are and still."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-22",
+      "number": 22,
+      "biblical_verses": [
+        30
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-22.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then are they glad, because at rest",
+            "normalized": "Then are they glad, because at rest",
+            "reading": "Then are they glad, because at rest"
+          },
+          "biblical_verse_start": 30
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-22.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and quiet now they be:",
+            "normalized": "And quiet now they be:",
+            "reading": "and quiet now they be:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-22.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "So to the haven he them brings,",
+            "normalized": "So to the haven he them brings,",
+            "reading": "So to the haven he them brings,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-22.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "which they desired to see.",
+            "normalized": "Which they desired to see.",
+            "reading": "which they desired to see."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-23",
+      "number": 23,
+      "biblical_verses": [
+        31
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-23.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O that men to the LORD would give",
+            "normalized": "O that men to the LORD would give",
+            "reading": "O that men to the LORD would give"
+          },
+          "biblical_verse_start": 31
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-23.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "praise for his goodness then,",
+            "normalized": "Praise for his goodness then,",
+            "reading": "praise for his goodness then,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-23.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And for his works of wonder done",
+            "normalized": "And for his works of wonder done",
+            "reading": "And for his works of wonder done"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-23.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto the sons of men!",
+            "normalized": "Unto the sons of men!",
+            "reading": "unto the sons of men!"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-24",
+      "number": 24,
+      "biblical_verses": [
+        32
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-24.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Among the people gatherèd",
+            "normalized": "Among the people gatherèd",
+            "reading": "Among the people gatherèd"
+          },
+          "biblical_verse_start": 32
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-24.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let them exalt his name;",
+            "normalized": "Let them exalt his name;",
+            "reading": "let them exalt his name;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-24.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Among assembled elders spread",
+            "normalized": "Among assembled elders spread",
+            "reading": "Among assembled elders spread"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-24.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his most renownèd fame.",
+            "normalized": "His most renownèd fame.",
+            "reading": "his most renownèd fame."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-25",
+      "number": 25,
+      "biblical_verses": [
+        33,
+        34
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-25.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He to dry land turns water-springs,",
+            "normalized": "He to dry land turns water-springs,",
+            "reading": "He to dry land turns water-springs,"
+          },
+          "biblical_verse_start": 33
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-25.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and floods to wilderness;",
+            "normalized": "And floods to wilderness;",
+            "reading": "and floods to wilderness;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-25.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For sins of those that dwell therein,",
+            "normalized": "For sins of those that dwell therein,",
+            "reading": "For sins of those that dwell therein,"
+          },
+          "biblical_verse_start": 34
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-25.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "fat land to barrenness.",
+            "normalized": "Fat land to barrenness.",
+            "reading": "fat land to barrenness."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-26",
+      "number": 26,
+      "biblical_verses": [
+        35
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-26.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The burnt and parchèd wilderness",
+            "normalized": "The burnt and parchèd wilderness",
+            "reading": "The burnt and parchèd wilderness"
+          },
+          "biblical_verse_start": 35
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-26.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to water-pools he brings;",
+            "normalized": "To water-pools he brings;",
+            "reading": "to water-pools he brings;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-26.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The ground that was dried up before",
+            "normalized": "The ground that was dried up before",
+            "reading": "The ground that was dried up before"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-26.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he turns to water-springs:",
+            "normalized": "He turns to water-springs:",
+            "reading": "he turns to water-springs:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-27",
+      "number": 27,
+      "biblical_verses": [
+        36
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-27.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And there, for dwelling, he a place",
+            "normalized": "And there, for dwelling, he a place",
+            "reading": "And there, for dwelling, he a place"
+          },
+          "biblical_verse_start": 36
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-27.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth to the hungry give,",
+            "normalized": "Doth to the hungry give,",
+            "reading": "doth to the hungry give,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-27.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That they a city may prepare",
+            "normalized": "That they a city may prepare",
+            "reading": "That they a city may prepare"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-27.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "commodiously to live.",
+            "normalized": "Commodiously to live.",
+            "reading": "commodiously to live."
+          },
+          "source_underlining": [
+            "ious"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-28",
+      "number": 28,
+      "biblical_verses": [
+        37,
+        38
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-28.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "There sow they fields, and vineyards plant,",
+            "normalized": "There sow they fields, and vineyards plant,",
+            "reading": "There sow they fields, and vineyards plant,"
+          },
+          "biblical_verse_start": 37
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-28.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to yield fruits of increase.",
+            "normalized": "To yield fruits of increase.",
+            "reading": "to yield fruits of increase."
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-28.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His blessing makes them multiply,",
+            "normalized": "His blessing makes them multiply,",
+            "reading": "His blessing makes them multiply,"
+          },
+          "biblical_verse_start": 38
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-28.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "lets not their beasts decrease.",
+            "normalized": "Lets not their beasts decrease.",
+            "reading": "lets not their beasts decrease."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-29",
+      "number": 29,
+      "biblical_verses": [
+        39
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-29.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Again they are diminishèd,",
+            "normalized": "Again they are diminishèd,",
+            "reading": "Again they are diminishèd,"
+          },
+          "biblical_verse_start": 39
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-29.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and very low brought down,",
+            "normalized": "And very low brought down,",
+            "reading": "and very low brought down,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-29.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Through sorrow and afflïction,",
+            "normalized": "Through sorrow and afflïction,",
+            "reading": "Through sorrow and afflïction,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-29.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and great opprëssion.",
+            "normalized": "And great opprëssion.",
+            "reading": "and great opprëssion."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-30",
+      "number": 30,
+      "biblical_verses": [
+        40
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-30.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He upon princes pours contempt,",
+            "normalized": "He upon princes pours contempt,",
+            "reading": "He upon princes pours contempt,"
+          },
+          "biblical_verse_start": 40
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-30.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and causeth them to stray,",
+            "normalized": "And causeth them to stray,",
+            "reading": "and causeth them to stray,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-30.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And wander in a wilderness,",
+            "normalized": "And wander in a wilderness,",
+            "reading": "And wander in a wilderness,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-30.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "wherein there is no way.",
+            "normalized": "Wherein there is no way.",
+            "reading": "wherein there is no way."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-31",
+      "number": 31,
+      "biblical_verses": [
+        41
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-31.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yet setteth he the poor on high",
+            "normalized": "Yet setteth he the poor on high",
+            "reading": "Yet setteth he the poor on high"
+          },
+          "biblical_verse_start": 41
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-31.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from all his miseries,",
+            "normalized": "From all his miseries,",
+            "reading": "from all his miseries,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-31.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And he, much like unto a flock,",
+            "normalized": "And he, much like unto a flock,",
+            "reading": "And he, much like unto a flock,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-31.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth make him families.",
+            "normalized": "Doth make him families.",
+            "reading": "doth make him families."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-32",
+      "number": 32,
+      "biblical_verses": [
+        42
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-32.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They that are righteous shall rejoice,",
+            "normalized": "They that are righteous shall rejoice,",
+            "reading": "They that are righteous shall rejoice,"
+          },
+          "biblical_verse_start": 42
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-32.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when they the same shall see;",
+            "normalized": "When they the same shall see;",
+            "reading": "when they the same shall see;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-32.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And, as ashamèd, stop her mouth",
+            "normalized": "And, as ashamèd, stop her mouth",
+            "reading": "And, as ashamèd, stop her mouth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-32.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall all iniquity.",
+            "normalized": "Shall all iniquity.",
+            "reading": "shall all iniquity."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-107.primary.stanza-33",
+      "number": 33,
+      "biblical_verses": [
+        43
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-107.primary.stanza-33.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Whoso is wise, and will these things",
+            "normalized": "Whoso is wise, and will these things",
+            "reading": "Whoso is wise, and will these things"
+          },
+          "biblical_verse_start": 43
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-33.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "observe, and them record,",
+            "normalized": "Observe, and them record,",
+            "reading": "observe, and them record,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-33.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n they shall understand the love",
+            "normalized": "Ev’n they shall understand the love",
+            "reading": "Ev’n they shall understand the love"
+          }
+        },
+        {
+          "id": "ps1650.psalm-107.primary.stanza-33.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and kindness of the LORD.",
+            "normalized": "And kindness of the LORD.",
+            "reading": "and kindness of the LORD."
+          }
+        }
+      ]
+    }
+  ]
+}

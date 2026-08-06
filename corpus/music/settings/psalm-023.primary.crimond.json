@@ -1,0 +1,2376 @@
+{
+  "$schema": "../../schemas/setting.schema.json",
+  "schema_version": "0.4.0",
+  "id": "ps1650.psalm-023.primary.setting.crimond",
+  "psalm_id": "ps1650.psalm-023.primary",
+  "tune_id": "ps1650.tune.crimond",
+  "lead_in": "satb",
+  "inter_stanza_ticks": 960,
+  "stanzas": [
+    {
+      "stanza_id": "ps1650.psalm-023.primary.stanza-01",
+      "lines": [
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-01.line-01",
+          "phrase_id": "ps1650.tune.crimond.phrase-01",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-01.token-01",
+              "text": "The",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-01.token-01.syllable-01",
+                  "text": "The",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-01.token-02",
+              "text": "LORD’s",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-02"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-01.token-02.syllable-01",
+                  "text": "LORD’s",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-02"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-01.token-03",
+              "text": "my",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-03",
+                "ps1650.tune.crimond.phrase-01.note-04"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-01.token-03.syllable-01",
+                  "text": "my",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-03",
+                    "ps1650.tune.crimond.phrase-01.note-04"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-01.token-04",
+              "text": "shepherd,",
+              "syllables": 2,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-05",
+                "ps1650.tune.crimond.phrase-01.note-06",
+                "ps1650.tune.crimond.phrase-01.note-07"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-01.token-04.syllable-01",
+                  "text": "shep",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-05"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-01.token-04.syllable-02",
+                  "text": "herd,",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-06",
+                    "ps1650.tune.crimond.phrase-01.note-07"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-01.token-05",
+              "text": "I’ll",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-08"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-01.token-05.syllable-01",
+                  "text": "I’ll",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-08"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-01.token-06",
+              "text": "not",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-09"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-01.token-06.syllable-01",
+                  "text": "not",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-09"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-01.token-07",
+              "text": "want.",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-10"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-01.token-07.syllable-01",
+                  "text": "want.",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-10"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-01.line-02",
+          "phrase_id": "ps1650.tune.crimond.phrase-02",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-02.token-01",
+              "text": "He",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-02.token-01.syllable-01",
+                  "text": "He",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-02.token-02",
+              "text": "makes",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-02"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-02.token-02.syllable-01",
+                  "text": "makes",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-02"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-02.token-03",
+              "text": "me",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-03"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-02.token-03.syllable-01",
+                  "text": "me",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-03"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-02.token-04",
+              "text": "down",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-04",
+                "ps1650.tune.crimond.phrase-02.note-05"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-02.token-04.syllable-01",
+                  "text": "down",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-04",
+                    "ps1650.tune.crimond.phrase-02.note-05"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-02.token-05",
+              "text": "to",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-06",
+                "ps1650.tune.crimond.phrase-02.note-07"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-02.token-05.syllable-01",
+                  "text": "to",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-06",
+                    "ps1650.tune.crimond.phrase-02.note-07"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-02.token-06",
+              "text": "lie",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-08"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-02.token-06.syllable-01",
+                  "text": "lie",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-08"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-01.line-03",
+          "phrase_id": "ps1650.tune.crimond.phrase-03",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-03.token-01",
+              "text": "In",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-03.token-01.syllable-01",
+                  "text": "In",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-03.token-02",
+              "text": "pastures",
+              "syllables": 2,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-02",
+                "ps1650.tune.crimond.phrase-03.note-03"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-03.token-02.syllable-01",
+                  "text": "pas",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-02"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-03.token-02.syllable-02",
+                  "text": "tures",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-03"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-03.token-03",
+              "text": "green:",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-04"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-03.token-03.syllable-01",
+                  "text": "green:",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-04"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-03.token-04",
+              "text": "he",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-05"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-03.token-04.syllable-01",
+                  "text": "he",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-05"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-03.token-05",
+              "text": "leadeth",
+              "syllables": 2,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-06",
+                "ps1650.tune.crimond.phrase-03.note-07",
+                "ps1650.tune.crimond.phrase-03.note-08",
+                "ps1650.tune.crimond.phrase-03.note-09"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-03.token-05.syllable-01",
+                  "text": "lead",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-06",
+                    "ps1650.tune.crimond.phrase-03.note-07"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-03.token-05.syllable-02",
+                  "text": "eth",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-08",
+                    "ps1650.tune.crimond.phrase-03.note-09"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-03.token-06",
+              "text": "me",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-10"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-03.token-06.syllable-01",
+                  "text": "me",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-10"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-01.line-04",
+          "phrase_id": "ps1650.tune.crimond.phrase-04",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-04.token-01",
+              "text": "the",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-04.token-01.syllable-01",
+                  "text": "the",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-04.token-02",
+              "text": "quiet",
+              "syllables": 2,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-02",
+                "ps1650.tune.crimond.phrase-04.note-03",
+                "ps1650.tune.crimond.phrase-04.note-04"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-04.token-02.syllable-01",
+                  "text": "qui",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-02"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-04.token-02.syllable-02",
+                  "text": "et",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-03",
+                    "ps1650.tune.crimond.phrase-04.note-04"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-04.token-03",
+              "text": "waters",
+              "syllables": 2,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-05",
+                "ps1650.tune.crimond.phrase-04.note-06"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-04.token-03.syllable-01",
+                  "text": "wa",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-05"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-04.token-03.syllable-02",
+                  "text": "ters",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-06"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-01.line-04.token-04",
+              "text": "by.",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-07"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-01.line-04.token-04.syllable-01",
+                  "text": "by.",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-07"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stanza_id": "ps1650.psalm-023.primary.stanza-02",
+      "lines": [
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-02.line-01",
+          "phrase_id": "ps1650.tune.crimond.phrase-01",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-01.token-01",
+              "text": "My",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-01.token-01.syllable-01",
+                  "text": "My",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-01.token-02",
+              "text": "soul",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-02"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-01.token-02.syllable-01",
+                  "text": "soul",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-02"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-01.token-03",
+              "text": "he",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-03",
+                "ps1650.tune.crimond.phrase-01.note-04"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-01.token-03.syllable-01",
+                  "text": "he",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-03",
+                    "ps1650.tune.crimond.phrase-01.note-04"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-01.token-04",
+              "text": "doth",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-05"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-01.token-04.syllable-01",
+                  "text": "doth",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-05"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-01.token-05",
+              "text": "restore",
+              "syllables": 2,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-06",
+                "ps1650.tune.crimond.phrase-01.note-07",
+                "ps1650.tune.crimond.phrase-01.note-08"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-01.token-05.syllable-01",
+                  "text": "re",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-06",
+                    "ps1650.tune.crimond.phrase-01.note-07"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-01.token-05.syllable-02",
+                  "text": "store",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-08"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-01.token-06",
+              "text": "again;",
+              "syllables": 2,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-09",
+                "ps1650.tune.crimond.phrase-01.note-10"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-01.token-06.syllable-01",
+                  "text": "a",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-09"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-01.token-06.syllable-02",
+                  "text": "gain;",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-10"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-02.line-02",
+          "phrase_id": "ps1650.tune.crimond.phrase-02",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-02.token-01",
+              "text": "and",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-02.token-01.syllable-01",
+                  "text": "and",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-02.token-02",
+              "text": "me",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-02"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-02.token-02.syllable-01",
+                  "text": "me",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-02"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-02.token-03",
+              "text": "to",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-03"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-02.token-03.syllable-01",
+                  "text": "to",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-03"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-02.token-04",
+              "text": "walk",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-04",
+                "ps1650.tune.crimond.phrase-02.note-05"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-02.token-04.syllable-01",
+                  "text": "walk",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-04",
+                    "ps1650.tune.crimond.phrase-02.note-05"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-02.token-05",
+              "text": "doth",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-06",
+                "ps1650.tune.crimond.phrase-02.note-07"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-02.token-05.syllable-01",
+                  "text": "doth",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-06",
+                    "ps1650.tune.crimond.phrase-02.note-07"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-02.token-06",
+              "text": "make",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-08"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-02.token-06.syllable-01",
+                  "text": "make",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-08"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-02.line-03",
+          "phrase_id": "ps1650.tune.crimond.phrase-03",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-03.token-01",
+              "text": "Within",
+              "syllables": 2,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-01",
+                "ps1650.tune.crimond.phrase-03.note-02"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-03.token-01.syllable-01",
+                  "text": "With",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-01"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-03.token-01.syllable-02",
+                  "text": "in",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-02"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-03.token-02",
+              "text": "the",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-03"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-03.token-02.syllable-01",
+                  "text": "the",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-03"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-03.token-03",
+              "text": "paths",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-04"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-03.token-03.syllable-01",
+                  "text": "paths",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-04"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-03.token-04",
+              "text": "of",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-05"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-03.token-04.syllable-01",
+                  "text": "of",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-05"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-03.token-05",
+              "text": "righteousness,",
+              "syllables": 3,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-06",
+                "ps1650.tune.crimond.phrase-03.note-07",
+                "ps1650.tune.crimond.phrase-03.note-08",
+                "ps1650.tune.crimond.phrase-03.note-09",
+                "ps1650.tune.crimond.phrase-03.note-10"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-03.token-05.syllable-01",
+                  "text": "right",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-06",
+                    "ps1650.tune.crimond.phrase-03.note-07"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-03.token-05.syllable-02",
+                  "text": "eous",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-08",
+                    "ps1650.tune.crimond.phrase-03.note-09"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-03.token-05.syllable-03",
+                  "text": "ness,",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-10"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-02.line-04",
+          "phrase_id": "ps1650.tune.crimond.phrase-04",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-04.token-01",
+              "text": "ev’n",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-04.token-01.syllable-01",
+                  "text": "ev’n",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-04.token-02",
+              "text": "for",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-02"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-04.token-02.syllable-01",
+                  "text": "for",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-02"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-04.token-03",
+              "text": "his",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-03",
+                "ps1650.tune.crimond.phrase-04.note-04"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-04.token-03.syllable-01",
+                  "text": "his",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-03",
+                    "ps1650.tune.crimond.phrase-04.note-04"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-04.token-04",
+              "text": "own",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-05"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-04.token-04.syllable-01",
+                  "text": "own",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-05"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-04.token-05",
+              "text": "name’s",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-06"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-04.token-05.syllable-01",
+                  "text": "name’s",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-06"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-02.line-04.token-06",
+              "text": "sake.",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-07"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-02.line-04.token-06.syllable-01",
+                  "text": "sake.",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-07"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stanza_id": "ps1650.psalm-023.primary.stanza-03",
+      "lines": [
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-03.line-01",
+          "phrase_id": "ps1650.tune.crimond.phrase-01",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-01.token-01",
+              "text": "Yea,",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-01.token-01.syllable-01",
+                  "text": "Yea,",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-01.token-02",
+              "text": "though",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-02"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-01.token-02.syllable-01",
+                  "text": "though",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-02"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-01.token-03",
+              "text": "I",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-03",
+                "ps1650.tune.crimond.phrase-01.note-04"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-01.token-03.syllable-01",
+                  "text": "I",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-03",
+                    "ps1650.tune.crimond.phrase-01.note-04"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-01.token-04",
+              "text": "walk",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-05"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-01.token-04.syllable-01",
+                  "text": "walk",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-05"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-01.token-05",
+              "text": "in",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-06",
+                "ps1650.tune.crimond.phrase-01.note-07"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-01.token-05.syllable-01",
+                  "text": "in",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-06",
+                    "ps1650.tune.crimond.phrase-01.note-07"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-01.token-06",
+              "text": "death’s",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-08"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-01.token-06.syllable-01",
+                  "text": "death’s",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-08"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-01.token-07",
+              "text": "dark",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-09"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-01.token-07.syllable-01",
+                  "text": "dark",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-09"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-01.token-08",
+              "text": "vale,",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-10"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-01.token-08.syllable-01",
+                  "text": "vale,",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-10"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-03.line-02",
+          "phrase_id": "ps1650.tune.crimond.phrase-02",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-02.token-01",
+              "text": "yet",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-02.token-01.syllable-01",
+                  "text": "yet",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-02.token-02",
+              "text": "will",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-02"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-02.token-02.syllable-01",
+                  "text": "will",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-02"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-02.token-03",
+              "text": "I",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-03"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-02.token-03.syllable-01",
+                  "text": "I",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-03"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-02.token-04",
+              "text": "fear",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-04",
+                "ps1650.tune.crimond.phrase-02.note-05"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-02.token-04.syllable-01",
+                  "text": "fear",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-04",
+                    "ps1650.tune.crimond.phrase-02.note-05"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-02.token-05",
+              "text": "none",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-06",
+                "ps1650.tune.crimond.phrase-02.note-07"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-02.token-05.syllable-01",
+                  "text": "none",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-06",
+                    "ps1650.tune.crimond.phrase-02.note-07"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-02.token-06",
+              "text": "ill:",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-08"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-02.token-06.syllable-01",
+                  "text": "ill:",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-08"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-03.line-03",
+          "phrase_id": "ps1650.tune.crimond.phrase-03",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-03.token-01",
+              "text": "For",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-03.token-01.syllable-01",
+                  "text": "For",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-03.token-02",
+              "text": "thou",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-02"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-03.token-02.syllable-01",
+                  "text": "thou",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-02"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-03.token-03",
+              "text": "art",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-03"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-03.token-03.syllable-01",
+                  "text": "art",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-03"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-03.token-04",
+              "text": "with",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-04"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-03.token-04.syllable-01",
+                  "text": "with",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-04"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-03.token-05",
+              "text": "me;",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-05"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-03.token-05.syllable-01",
+                  "text": "me;",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-05"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-03.token-06",
+              "text": "and",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-06",
+                "ps1650.tune.crimond.phrase-03.note-07"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-03.token-06.syllable-01",
+                  "text": "and",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-06",
+                    "ps1650.tune.crimond.phrase-03.note-07"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-03.token-07",
+              "text": "thy",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-08",
+                "ps1650.tune.crimond.phrase-03.note-09"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-03.token-07.syllable-01",
+                  "text": "thy",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-08",
+                    "ps1650.tune.crimond.phrase-03.note-09"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-03.token-08",
+              "text": "rod",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-10"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-03.token-08.syllable-01",
+                  "text": "rod",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-10"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-03.line-04",
+          "phrase_id": "ps1650.tune.crimond.phrase-04",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-04.token-01",
+              "text": "and",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-04.token-01.syllable-01",
+                  "text": "and",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-04.token-02",
+              "text": "staff",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-02"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-04.token-02.syllable-01",
+                  "text": "staff",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-02"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-04.token-03",
+              "text": "me",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-03",
+                "ps1650.tune.crimond.phrase-04.note-04"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-04.token-03.syllable-01",
+                  "text": "me",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-03",
+                    "ps1650.tune.crimond.phrase-04.note-04"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-04.token-04",
+              "text": "comfort",
+              "syllables": 2,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-05",
+                "ps1650.tune.crimond.phrase-04.note-06"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-04.token-04.syllable-01",
+                  "text": "com",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-05"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-04.token-04.syllable-02",
+                  "text": "fort",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-06"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-03.line-04.token-05",
+              "text": "still.",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-07"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-03.line-04.token-05.syllable-01",
+                  "text": "still.",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-07"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stanza_id": "ps1650.psalm-023.primary.stanza-04",
+      "lines": [
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-04.line-01",
+          "phrase_id": "ps1650.tune.crimond.phrase-01",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-01.token-01",
+              "text": "My",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-01.token-01.syllable-01",
+                  "text": "My",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-01.token-02",
+              "text": "table",
+              "syllables": 2,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-02",
+                "ps1650.tune.crimond.phrase-01.note-03",
+                "ps1650.tune.crimond.phrase-01.note-04"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-01.token-02.syllable-01",
+                  "text": "tab",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-02"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-01.token-02.syllable-02",
+                  "text": "le",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-03",
+                    "ps1650.tune.crimond.phrase-01.note-04"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-01.token-03",
+              "text": "thou",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-05"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-01.token-03.syllable-01",
+                  "text": "thou",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-05"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-01.token-04",
+              "text": "hast",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-06",
+                "ps1650.tune.crimond.phrase-01.note-07"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-01.token-04.syllable-01",
+                  "text": "hast",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-06",
+                    "ps1650.tune.crimond.phrase-01.note-07"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-01.token-05",
+              "text": "furnishèd",
+              "syllables": 3,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-08",
+                "ps1650.tune.crimond.phrase-01.note-09",
+                "ps1650.tune.crimond.phrase-01.note-10"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-01.token-05.syllable-01",
+                  "text": "fur",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-08"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-01.token-05.syllable-02",
+                  "text": "nish",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-09"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-01.token-05.syllable-03",
+                  "text": "èd",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-10"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-04.line-02",
+          "phrase_id": "ps1650.tune.crimond.phrase-02",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-02.token-01",
+              "text": "in",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-02.token-01.syllable-01",
+                  "text": "in",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-02.token-02",
+              "text": "presence",
+              "syllables": 2,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-02",
+                "ps1650.tune.crimond.phrase-02.note-03"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-02.token-02.syllable-01",
+                  "text": "pres",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-02"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-02.token-02.syllable-02",
+                  "text": "ence",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-03"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-02.token-03",
+              "text": "of",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-04",
+                "ps1650.tune.crimond.phrase-02.note-05"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-02.token-03.syllable-01",
+                  "text": "of",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-04",
+                    "ps1650.tune.crimond.phrase-02.note-05"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-02.token-04",
+              "text": "my",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-06",
+                "ps1650.tune.crimond.phrase-02.note-07"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-02.token-04.syllable-01",
+                  "text": "my",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-06",
+                    "ps1650.tune.crimond.phrase-02.note-07"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-02.token-05",
+              "text": "foes;",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-08"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-02.token-05.syllable-01",
+                  "text": "foes;",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-08"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-04.line-03",
+          "phrase_id": "ps1650.tune.crimond.phrase-03",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-03.token-01",
+              "text": "My",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-03.token-01.syllable-01",
+                  "text": "My",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-03.token-02",
+              "text": "head",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-02"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-03.token-02.syllable-01",
+                  "text": "head",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-02"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-03.token-03",
+              "text": "thou",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-03"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-03.token-03.syllable-01",
+                  "text": "thou",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-03"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-03.token-04",
+              "text": "dost",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-04"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-03.token-04.syllable-01",
+                  "text": "dost",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-04"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-03.token-05",
+              "text": "with",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-05"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-03.token-05.syllable-01",
+                  "text": "with",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-05"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-03.token-06",
+              "text": "oil",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-06",
+                "ps1650.tune.crimond.phrase-03.note-07"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-03.token-06.syllable-01",
+                  "text": "oil",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-06",
+                    "ps1650.tune.crimond.phrase-03.note-07"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-03.token-07",
+              "text": "anoint,",
+              "syllables": 2,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-08",
+                "ps1650.tune.crimond.phrase-03.note-09",
+                "ps1650.tune.crimond.phrase-03.note-10"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-03.token-07.syllable-01",
+                  "text": "anoin",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-08",
+                    "ps1650.tune.crimond.phrase-03.note-09"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-03.token-07.syllable-02",
+                  "text": "t,",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-10"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-04.line-04",
+          "phrase_id": "ps1650.tune.crimond.phrase-04",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-04.token-01",
+              "text": "and",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-04.token-01.syllable-01",
+                  "text": "and",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-04.token-02",
+              "text": "my",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-02"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-04.token-02.syllable-01",
+                  "text": "my",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-02"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-04.token-03",
+              "text": "cup",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-03",
+                "ps1650.tune.crimond.phrase-04.note-04"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-04.token-03.syllable-01",
+                  "text": "cup",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-03",
+                    "ps1650.tune.crimond.phrase-04.note-04"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-04.line-04.token-04",
+              "text": "overflows.",
+              "syllables": 3,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-05",
+                "ps1650.tune.crimond.phrase-04.note-06",
+                "ps1650.tune.crimond.phrase-04.note-07"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-04.token-04.syllable-01",
+                  "text": "over",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-05"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-04.token-04.syllable-02",
+                  "text": "f",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-06"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-04.line-04.token-04.syllable-03",
+                  "text": "lows.",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-07"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stanza_id": "ps1650.psalm-023.primary.stanza-05",
+      "lines": [
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-05.line-01",
+          "phrase_id": "ps1650.tune.crimond.phrase-01",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-01.token-01",
+              "text": "Goodness",
+              "syllables": 2,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-01",
+                "ps1650.tune.crimond.phrase-01.note-02"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-01.token-01.syllable-01",
+                  "text": "Good",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-01"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-01.token-01.syllable-02",
+                  "text": "ness",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-02"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-01.token-02",
+              "text": "and",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-03",
+                "ps1650.tune.crimond.phrase-01.note-04"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-01.token-02.syllable-01",
+                  "text": "and",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-03",
+                    "ps1650.tune.crimond.phrase-01.note-04"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-01.token-03",
+              "text": "mercy",
+              "syllables": 2,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-05",
+                "ps1650.tune.crimond.phrase-01.note-06",
+                "ps1650.tune.crimond.phrase-01.note-07"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-01.token-03.syllable-01",
+                  "text": "mer",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-05"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-01.token-03.syllable-02",
+                  "text": "cy",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-06",
+                    "ps1650.tune.crimond.phrase-01.note-07"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-01.token-04",
+              "text": "all",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-08"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-01.token-04.syllable-01",
+                  "text": "all",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-08"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-01.token-05",
+              "text": "my",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-09"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-01.token-05.syllable-01",
+                  "text": "my",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-09"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-01.token-06",
+              "text": "life",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-01.note-10"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-01.token-06.syllable-01",
+                  "text": "life",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-01.note-10"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-05.line-02",
+          "phrase_id": "ps1650.tune.crimond.phrase-02",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-02.token-01",
+              "text": "shall",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-02.token-01.syllable-01",
+                  "text": "shall",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-02.token-02",
+              "text": "surely",
+              "syllables": 2,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-02",
+                "ps1650.tune.crimond.phrase-02.note-03"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-02.token-02.syllable-01",
+                  "text": "sure",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-02"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-02.token-02.syllable-02",
+                  "text": "ly",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-03"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-02.token-03",
+              "text": "follow",
+              "syllables": 2,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-04",
+                "ps1650.tune.crimond.phrase-02.note-05",
+                "ps1650.tune.crimond.phrase-02.note-06",
+                "ps1650.tune.crimond.phrase-02.note-07"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-02.token-03.syllable-01",
+                  "text": "fol",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-04",
+                    "ps1650.tune.crimond.phrase-02.note-05"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-02.token-03.syllable-02",
+                  "text": "low",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-06",
+                    "ps1650.tune.crimond.phrase-02.note-07"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-02.token-04",
+              "text": "me:",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-02.note-08"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-02.token-04.syllable-01",
+                  "text": "me:",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-02.note-08"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-05.line-03",
+          "phrase_id": "ps1650.tune.crimond.phrase-03",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-03.token-01",
+              "text": "And",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-03.token-01.syllable-01",
+                  "text": "And",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-03.token-02",
+              "text": "in",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-02"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-03.token-02.syllable-01",
+                  "text": "in",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-02"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-03.token-03",
+              "text": "GOD’s",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-03"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-03.token-03.syllable-01",
+                  "text": "GOD’s",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-03"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-03.token-04",
+              "text": "house",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-04"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-03.token-04.syllable-01",
+                  "text": "house",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-04"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-03.token-05",
+              "text": "for",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-05"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-03.token-05.syllable-01",
+                  "text": "for",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-05"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-03.token-06",
+              "text": "evermore",
+              "syllables": 3,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-03.note-06",
+                "ps1650.tune.crimond.phrase-03.note-07",
+                "ps1650.tune.crimond.phrase-03.note-08",
+                "ps1650.tune.crimond.phrase-03.note-09",
+                "ps1650.tune.crimond.phrase-03.note-10"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-03.token-06.syllable-01",
+                  "text": "ever",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-06",
+                    "ps1650.tune.crimond.phrase-03.note-07"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-03.token-06.syllable-02",
+                  "text": "mo",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-08",
+                    "ps1650.tune.crimond.phrase-03.note-09"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-03.token-06.syllable-03",
+                  "text": "re",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-03.note-10"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "line_id": "ps1650.psalm-023.primary.stanza-05.line-04",
+          "phrase_id": "ps1650.tune.crimond.phrase-04",
+          "tokens": [
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-04.token-01",
+              "text": "my",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-01"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-04.token-01.syllable-01",
+                  "text": "my",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-01"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-04.token-02",
+              "text": "dwelling-place",
+              "syllables": 3,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-02",
+                "ps1650.tune.crimond.phrase-04.note-03",
+                "ps1650.tune.crimond.phrase-04.note-04",
+                "ps1650.tune.crimond.phrase-04.note-05"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-04.token-02.syllable-01",
+                  "text": "dwell",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-02"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-04.token-02.syllable-02",
+                  "text": "ing-",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-03",
+                    "ps1650.tune.crimond.phrase-04.note-04"
+                  ]
+                },
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-04.token-02.syllable-03",
+                  "text": "place",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-05"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-04.token-03",
+              "text": "shall",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-06"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-04.token-03.syllable-01",
+                  "text": "shall",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-06"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ps1650.psalm-023.primary.stanza-05.line-04.token-04",
+              "text": "be.",
+              "syllables": 1,
+              "note_ids": [
+                "ps1650.tune.crimond.phrase-04.note-07"
+              ],
+              "syllable_map": [
+                {
+                  "id": "ps1650.psalm-023.primary.stanza-05.line-04.token-04.syllable-01",
+                  "text": "be.",
+                  "note_ids": [
+                    "ps1650.tune.crimond.phrase-04.note-07"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rights": {
+    "alignment": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  }
+}

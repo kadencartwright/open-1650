@@ -1,0 +1,297 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-023.primary",
+  "psalm_number": 23,
+  "title": "Psalm 23",
+  "version": "primary",
+  "opening_line": "The LORD’s my shepherd, I’ll not want.",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 23 · p. 31",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-023-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      31
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-023.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-023.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD’s my shepherd, I’ll not want.",
+            "normalized": "The LORD’s my shepherd, I’ll not want.",
+            "reading": "The LORD’s my shepherd, I’ll not want."
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-023.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "He makes me down to lie",
+            "normalized": "He makes me down to lie",
+            "reading": "He makes me down to lie"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-023.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In pastures green: he leadeth me",
+            "normalized": "In pastures green: he leadeth me",
+            "reading": "In pastures green: he leadeth me"
+          }
+        },
+        {
+          "id": "ps1650.psalm-023.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the quiet waters by.",
+            "normalized": "The quiet waters by.",
+            "reading": "the quiet waters by."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-023.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-023.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My soul he doth restore again;",
+            "normalized": "My soul he doth restore again;",
+            "reading": "My soul he doth restore again;"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-023.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and me to walk doth make",
+            "normalized": "And me to walk doth make",
+            "reading": "and me to walk doth make"
+          }
+        },
+        {
+          "id": "ps1650.psalm-023.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Within the paths of righteousness,",
+            "normalized": "Within the paths of righteousness,",
+            "reading": "Within the paths of righteousness,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-023.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ev’n for his own name’s sake.",
+            "normalized": "Ev’n for his own name’s sake.",
+            "reading": "ev’n for his own name’s sake."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-023.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-023.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, though I walk in death’s dark vale,",
+            "normalized": "Yea, though I walk in death’s dark vale,",
+            "reading": "Yea, though I walk in death’s dark vale,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-023.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "yet will I fear none ill:",
+            "normalized": "Yet will I fear none ill:",
+            "reading": "yet will I fear none ill:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-023.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thou art with me; and thy rod",
+            "normalized": "For thou art with me; and thy rod",
+            "reading": "For thou art with me; and thy rod"
+          }
+        },
+        {
+          "id": "ps1650.psalm-023.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and staff me comfort still.",
+            "normalized": "And staff me comfort still.",
+            "reading": "and staff me comfort still."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-023.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-023.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My table thou hast furnishèd",
+            "normalized": "My table thou hast furnishèd",
+            "reading": "My table thou hast furnishèd"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-023.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in presence of my foes;",
+            "normalized": "In presence of my foes;",
+            "reading": "in presence of my foes;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-023.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My head thou dost with oil anoint,",
+            "normalized": "My head thou dost with oil anoint,",
+            "reading": "My head thou dost with oil anoint,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-023.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and my cup overflows.",
+            "normalized": "And my cup overflows.",
+            "reading": "and my cup overflows."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-023.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-023.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Goodness and mercy all my life",
+            "normalized": "Goodness and mercy all my life",
+            "reading": "Goodness and mercy all my life"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-023.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall surely follow me:",
+            "normalized": "Shall surely follow me:",
+            "reading": "shall surely follow me:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-023.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in GOD’s house for evermore",
+            "normalized": "And in GOD’s house for evermore",
+            "reading": "And in GOD’s house for evermore"
+          }
+        },
+        {
+          "id": "ps1650.psalm-023.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my dwelling-place shall be.",
+            "normalized": "My dwelling-place shall be.",
+            "reading": "my dwelling-place shall be."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-126.primary",
+  "psalm_number": 126,
+  "title": "Psalm 126",
+  "version": "primary",
+  "opening_line": "When Zion’s bondage GOD turned back,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 126 · p. 186",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-126-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      186
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-126.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-126.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When Zion’s bondage GOD turned back,",
+            "normalized": "When Zion’s bondage GOD turned back,",
+            "reading": "When Zion’s bondage GOD turned back,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-126.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "as men that dreamed were we.",
+            "normalized": "As men that dreamed were we.",
+            "reading": "as men that dreamed were we."
+          }
+        },
+        {
+          "id": "ps1650.psalm-126.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then filled with laughter was our mouth,",
+            "normalized": "Then filled with laughter was our mouth,",
+            "reading": "Then filled with laughter was our mouth,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-126.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our tongue with melody:",
+            "normalized": "Our tongue with melody:",
+            "reading": "our tongue with melody:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-126.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-126.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They ’mong the heathen said, The LORD",
+            "normalized": "They ’mong the heathen said, The LORD",
+            "reading": "They ’mong the heathen said, The LORD"
+          }
+        },
+        {
+          "id": "ps1650.psalm-126.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "great things for them hath wrought.",
+            "normalized": "Great things for them hath wrought.",
+            "reading": "great things for them hath wrought."
+          }
+        },
+        {
+          "id": "ps1650.psalm-126.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD hath done great things for us,",
+            "normalized": "The LORD hath done great things for us,",
+            "reading": "The LORD hath done great things for us,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-126.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "whence joy to us is brought.",
+            "normalized": "Whence joy to us is brought.",
+            "reading": "whence joy to us is brought."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-126.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4,
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-126.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "As streams of water in the south,",
+            "normalized": "As streams of water in the south,",
+            "reading": "As streams of water in the south,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-126.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our bondage, LORD, recall.",
+            "normalized": "Our bondage, LORD, recall.",
+            "reading": "our bondage, LORD, recall."
+          }
+        },
+        {
+          "id": "ps1650.psalm-126.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who sow in tears, a reaping time",
+            "normalized": "Who sow in tears, a reaping time",
+            "reading": "Who sow in tears, a reaping time"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-126.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of joy enjoy they shall.",
+            "normalized": "Of joy enjoy they shall.",
+            "reading": "of joy enjoy they shall."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-126.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-126.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That man who, bearing precious seed,",
+            "normalized": "That man who, bearing precious seed,",
+            "reading": "That man who, bearing precious seed,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-126.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in going forth doth mourn,",
+            "normalized": "In going forth doth mourn,",
+            "reading": "in going forth doth mourn,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-126.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He doubtless, bringing back his sheaves,",
+            "normalized": "He doubtless, bringing back his sheaves,",
+            "reading": "He doubtless, bringing back his sheaves,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-126.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "rejoicing shall return.",
+            "normalized": "Rejoicing shall return.",
+            "reading": "rejoicing shall return."
+          }
+        }
+      ]
+    }
+  ]
+}

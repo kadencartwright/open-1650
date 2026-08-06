@@ -1,0 +1,896 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-090.primary",
+  "psalm_number": 90,
+  "title": "Psalm 90",
+  "version": "primary",
+  "opening_line": "Lord, thou hast been our dwelling-place",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 90 · p. 129–130",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-090-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      129,
+      130
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-090.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-090.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Lord, thou hast been our dwelling-place",
+            "normalized": "Lord, thou hast been our dwelling-place",
+            "reading": "Lord, thou hast been our dwelling-place"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in generations all.",
+            "normalized": "In generations all.",
+            "reading": "in generations all."
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Before thou ever hadst brought forth",
+            "normalized": "Before thou ever hadst brought forth",
+            "reading": "Before thou ever hadst brought forth"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the mountains great or small;",
+            "normalized": "The mountains great or small;",
+            "reading": "the mountains great or small;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-090.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-090.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ere ever thou hadst formed the earth,",
+            "normalized": "Ere ever thou hadst formed the earth,",
+            "reading": "Ere ever thou hadst formed the earth,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and all the world abroad;",
+            "normalized": "And all the world abroad;",
+            "reading": "and all the world abroad;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n thou from everlasting art",
+            "normalized": "Ev’n thou from everlasting art",
+            "reading": "Ev’n thou from everlasting art"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to everlasting God.",
+            "normalized": "To everlasting God.",
+            "reading": "to everlasting God."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-090.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-090.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou dost unto destrüction",
+            "normalized": "Thou dost unto destrüction",
+            "reading": "Thou dost unto destrüction"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "man that is mortal turn;",
+            "normalized": "Man that is mortal turn;",
+            "reading": "man that is mortal turn;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And unto them thou say’st, Again,",
+            "normalized": "And unto them thou say’st, Again,",
+            "reading": "And unto them thou say’st, Again,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ye sons of men, return.",
+            "normalized": "Ye sons of men, return.",
+            "reading": "ye sons of men, return."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-090.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-090.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because a thousand years appear",
+            "normalized": "Because a thousand years appear",
+            "reading": "Because a thousand years appear"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "no more before thy sight",
+            "normalized": "No more before thy sight",
+            "reading": "no more before thy sight"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Than yesterday, when it is past,",
+            "normalized": "Than yesterday, when it is past,",
+            "reading": "Than yesterday, when it is past,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "or than a watch by night.",
+            "normalized": "Or than a watch by night.",
+            "reading": "or than a watch by night."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-090.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-090.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "As with an overflowing flood",
+            "normalized": "As with an overflowing flood",
+            "reading": "As with an overflowing flood"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou carriest them away:",
+            "normalized": "Thou carriest them away:",
+            "reading": "thou carriest them away:"
+          },
+          "source_underlining": [
+            "iest"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They like a sleep are, like the grass",
+            "normalized": "They like a sleep are, like the grass",
+            "reading": "They like a sleep are, like the grass"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that grows at morn are they.",
+            "normalized": "That grows at morn are they.",
+            "reading": "that grows at morn are they."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-090.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6,
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-090.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "At morn it flourishes and grows,",
+            "normalized": "At morn it flourishes and grows,",
+            "reading": "At morn it flourishes and grows,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "cut down at ev’n doth fade.",
+            "normalized": "Cut down at ev’n doth fade.",
+            "reading": "cut down at ev’n doth fade."
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For by thine anger we’re consumed,",
+            "normalized": "For by thine anger we’re consumed,",
+            "reading": "For by thine anger we’re consumed,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy wrath makes us afraid.",
+            "normalized": "Thy wrath makes us afraid.",
+            "reading": "thy wrath makes us afraid."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-090.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-090.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Our sins thou and iniquities",
+            "normalized": "Our sins thou and iniquities",
+            "reading": "Our sins thou and iniquities"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "dost in thy presence place,",
+            "normalized": "Dost in thy presence place,",
+            "reading": "dost in thy presence place,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And sett’st our secret faults before",
+            "normalized": "And sett’st our secret faults before",
+            "reading": "And sett’st our secret faults before"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the brightness of thy face.",
+            "normalized": "The brightness of thy face.",
+            "reading": "the brightness of thy face."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-090.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-090.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For in thine anger all our days",
+            "normalized": "For in thine anger all our days",
+            "reading": "For in thine anger all our days"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "do pass on to an end;",
+            "normalized": "Do pass on to an end;",
+            "reading": "do pass on to an end;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And as a tale that hath been told,",
+            "normalized": "And as a tale that hath been told,",
+            "reading": "And as a tale that hath been told,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "so we our years do spend.",
+            "normalized": "So we our years do spend.",
+            "reading": "so we our years do spend."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-090.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-090.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Threescore and ten years do sum up",
+            "normalized": "Threescore and ten years do sum up",
+            "reading": "Threescore and ten years do sum up"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our days and years, we see;",
+            "normalized": "Our days and years, we see;",
+            "reading": "our days and years, we see;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Or if, by reason of more strength,",
+            "normalized": "Or if, by reason of more strength,",
+            "reading": "Or if, by reason of more strength,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in some fourscore they be:",
+            "normalized": "In some fourscore they be:",
+            "reading": "in some fourscore they be:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-090.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-090.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yet doth the strength of such old men",
+            "normalized": "Yet doth the strength of such old men",
+            "reading": "Yet doth the strength of such old men"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "but grief and labour prove;",
+            "normalized": "But grief and labour prove;",
+            "reading": "but grief and labour prove;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For it is soon cut off, and we",
+            "normalized": "For it is soon cut off, and we",
+            "reading": "For it is soon cut off, and we"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "fly hence, and soon remove.",
+            "normalized": "Fly hence, and soon remove.",
+            "reading": "fly hence, and soon remove."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-090.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        11,
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-090.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who knows the powèr of thy wrath?",
+            "normalized": "Who knows the powèr of thy wrath?",
+            "reading": "Who knows the powèr of thy wrath?"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "according to thy fear",
+            "normalized": "According to thy fear",
+            "reading": "according to thy fear"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "So is thy wrath: Lord, teach thou us",
+            "normalized": "So is thy wrath: Lord, teach thou us",
+            "reading": "So is thy wrath: Lord, teach thou us"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our end in mind to bear;",
+            "normalized": "Our end in mind to bear;",
+            "reading": "our end in mind to bear;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-090.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-090.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And so to count our days, that we",
+            "normalized": "And so to count our days, that we",
+            "reading": "And so to count our days, that we"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our hearts may still apply",
+            "normalized": "Our hearts may still apply",
+            "reading": "our hearts may still apply"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To learn thy wisdom and thy truth,",
+            "normalized": "To learn thy wisdom and thy truth,",
+            "reading": "To learn thy wisdom and thy truth,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that we may live thereby.",
+            "normalized": "That we may live thereby.",
+            "reading": "that we may live thereby."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-090.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-090.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Turn yet again to us, O LORD,",
+            "normalized": "Turn yet again to us, O LORD,",
+            "reading": "Turn yet again to us, O LORD,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "how long thus shall it be?",
+            "normalized": "How long thus shall it be?",
+            "reading": "how long thus shall it be?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let it repent thee now for those",
+            "normalized": "Let it repent thee now for those",
+            "reading": "Let it repent thee now for those"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that servants are to thee.",
+            "normalized": "That servants are to thee.",
+            "reading": "that servants are to thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-090.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-090.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O with thy tender mercies, Lord,",
+            "normalized": "O with thy tender mercies, Lord,",
+            "reading": "O with thy tender mercies, Lord,"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "us early satisfy;",
+            "normalized": "Us early satisfy;",
+            "reading": "us early satisfy;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "So we rejoice shall all our days,",
+            "normalized": "So we rejoice shall all our days,",
+            "reading": "So we rejoice shall all our days,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and still be glad in thee.",
+            "normalized": "And still be glad in thee.",
+            "reading": "and still be glad in thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-090.primary.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-090.primary.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "According as the days have been,",
+            "normalized": "According as the days have been,",
+            "reading": "According as the days have been,"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "wherein we grief have had,",
+            "normalized": "Wherein we grief have had,",
+            "reading": "wherein we grief have had,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And years wherein we ill have seen,",
+            "normalized": "And years wherein we ill have seen,",
+            "reading": "And years wherein we ill have seen,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "so do thou make us glad.",
+            "normalized": "So do thou make us glad.",
+            "reading": "so do thou make us glad."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-090.primary.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-090.primary.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O let thy work and pow’r appear",
+            "normalized": "O let thy work and pow’r appear",
+            "reading": "O let thy work and pow’r appear"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy servants’ face before;",
+            "normalized": "Thy servants’ face before;",
+            "reading": "thy servants’ face before;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And show unto their children dear",
+            "normalized": "And show unto their children dear",
+            "reading": "And show unto their children dear"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy glory evermore:",
+            "normalized": "Thy glory evermore:",
+            "reading": "thy glory evermore:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-090.primary.stanza-17",
+      "number": 17,
+      "biblical_verses": [
+        17
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-090.primary.stanza-17.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And let the beauty of the LORD",
+            "normalized": "And let the beauty of the LORD",
+            "reading": "And let the beauty of the LORD"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-17.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our God be us upon:",
+            "normalized": "Our God be us upon:",
+            "reading": "our God be us upon:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-17.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Our handiworks establish thou,",
+            "normalized": "Our handiworks establish thou,",
+            "reading": "Our handiworks establish thou,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-090.primary.stanza-17.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "establish them each one.",
+            "normalized": "Establish them each one.",
+            "reading": "establish them each one."
+          }
+        }
+      ]
+    }
+  ]
+}

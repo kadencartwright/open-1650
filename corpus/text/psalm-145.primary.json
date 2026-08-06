@@ -1,0 +1,862 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-145.primary",
+  "psalm_number": 145,
+  "title": "Psalm 145",
+  "version": "primary",
+  "opening_line": "I’ll thee extol, my God, O King;",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 145 · p. 205–206",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "first version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-145,-first-version-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      205,
+      206
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-145.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I’ll thee extol, my God, O King;",
+            "normalized": "I’ll thee extol, my God, O King;",
+            "reading": "I’ll thee extol, my God, O King;"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I’ll bless thy name always.",
+            "normalized": "I’ll bless thy name always.",
+            "reading": "I’ll bless thy name always."
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thee will I bless each day, and will",
+            "normalized": "Thee will I bless each day, and will",
+            "reading": "Thee will I bless each day, and will"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy name for ever praise.",
+            "normalized": "Thy name for ever praise.",
+            "reading": "thy name for ever praise."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Great is the LORD, much to be praised;",
+            "normalized": "Great is the LORD, much to be praised;",
+            "reading": "Great is the LORD, much to be praised;"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his greatness search exceeds.",
+            "normalized": "His greatness search exceeds.",
+            "reading": "his greatness search exceeds."
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Race unto race shall praise thy works,",
+            "normalized": "Race unto race shall praise thy works,",
+            "reading": "Race unto race shall praise thy works,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and show thy mighty deeds.",
+            "normalized": "And show thy mighty deeds.",
+            "reading": "and show thy mighty deeds."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I of thy glorious majesty",
+            "normalized": "I of thy glorious majesty",
+            "reading": "I of thy glorious majesty"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the honour will record;",
+            "normalized": "The honour will record;",
+            "reading": "the honour will record;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I’ll speak of all thy mighty works,",
+            "normalized": "I’ll speak of all thy mighty works,",
+            "reading": "I’ll speak of all thy mighty works,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "which wondrous are, O Lord.",
+            "normalized": "Which wondrous are, O Lord.",
+            "reading": "which wondrous are, O Lord."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Men of thine acts the might shall show,",
+            "normalized": "Men of thine acts the might shall show,",
+            "reading": "Men of thine acts the might shall show,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thine acts that dreadful are;",
+            "normalized": "Thine acts that dreadful are;",
+            "reading": "thine acts that dreadful are;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And I, thy glory to advance,",
+            "normalized": "And I, thy glory to advance,",
+            "reading": "And I, thy glory to advance,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy greatness will declare.",
+            "normalized": "Thy greatness will declare.",
+            "reading": "thy greatness will declare."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The mem’ry of thy goodness great",
+            "normalized": "The mem’ry of thy goodness great",
+            "reading": "The mem’ry of thy goodness great"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they largely shall express;",
+            "normalized": "They largely shall express;",
+            "reading": "they largely shall express;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With songs of praise they shall extol",
+            "normalized": "With songs of praise they shall extol",
+            "reading": "With songs of praise they shall extol"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy perfect righteousness.",
+            "normalized": "Thy perfect righteousness.",
+            "reading": "thy perfect righteousness."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD is very gräcious,",
+            "normalized": "The LORD is very gräcious,",
+            "reading": "The LORD is very gräcious,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in him compassions flow;",
+            "normalized": "In him compassions flow;",
+            "reading": "in him compassions flow;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In mercy he is very great,",
+            "normalized": "In mercy he is very great,",
+            "reading": "In mercy he is very great,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and is to anger slow.",
+            "normalized": "And is to anger slow.",
+            "reading": "and is to anger slow."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The Lord JEHOVAH unto all",
+            "normalized": "The Lord JEHOVAH unto all",
+            "reading": "The Lord JEHOVAH unto all"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his goodness doth declare;",
+            "normalized": "His goodness doth declare;",
+            "reading": "his goodness doth declare;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And over all his other works",
+            "normalized": "And over all his other works",
+            "reading": "And over all his other works"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his tender mercies are.",
+            "normalized": "His tender mercies are.",
+            "reading": "his tender mercies are."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        10,
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thee all thy works shall praise, O LORD,",
+            "normalized": "Thee all thy works shall praise, O LORD,",
+            "reading": "Thee all thy works shall praise, O LORD,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and thee thy saints shall bless;",
+            "normalized": "And thee thy saints shall bless;",
+            "reading": "and thee thy saints shall bless;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They shall thy kingdom’s glory show,",
+            "normalized": "They shall thy kingdom’s glory show,",
+            "reading": "They shall thy kingdom’s glory show,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy pow’r by speech express:",
+            "normalized": "Thy pow’r by speech express:",
+            "reading": "thy pow’r by speech express:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To make the sons of men to know",
+            "normalized": "To make the sons of men to know",
+            "reading": "To make the sons of men to know"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his acts done mightily,",
+            "normalized": "His acts done mightily,",
+            "reading": "his acts done mightily,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And of his kingdom th’ excellent",
+            "normalized": "And of his kingdom th’ excellent",
+            "reading": "And of his kingdom th’ excellent"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and glorious majesty.",
+            "normalized": "And glorious majesty.",
+            "reading": "and glorious majesty."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        13,
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy kingdom shall for ever stand,",
+            "normalized": "Thy kingdom shall for ever stand,",
+            "reading": "Thy kingdom shall for ever stand,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy reign through ages all.",
+            "normalized": "Thy reign through ages all.",
+            "reading": "thy reign through ages all."
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD raiseth all that are bowed down,",
+            "normalized": "GOD raiseth all that are bowed down,",
+            "reading": "GOD raiseth all that are bowed down,"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "upholdeth all that fall.",
+            "normalized": "Upholdeth all that fall.",
+            "reading": "upholdeth all that fall."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The eyes of all things wait on thee,",
+            "normalized": "The eyes of all things wait on thee,",
+            "reading": "The eyes of all things wait on thee,"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the giver of all good;",
+            "normalized": "The giver of all good;",
+            "reading": "the giver of all good;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And thou, in time convenient,",
+            "normalized": "And thou, in time convenient,",
+            "reading": "And thou, in time convenient,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "bestow’st on them their food:",
+            "normalized": "Bestow’st on them their food:",
+            "reading": "bestow’st on them their food:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thine hand thou open’st lib’rally,",
+            "normalized": "Thine hand thou open’st lib’rally,",
+            "reading": "Thine hand thou open’st lib’rally,"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and of thy bounty gives",
+            "normalized": "And of thy bounty gives",
+            "reading": "and of thy bounty gives"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Enough to satisfy the need",
+            "normalized": "Enough to satisfy the need",
+            "reading": "Enough to satisfy the need"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of everything that lives.",
+            "normalized": "Of everything that lives.",
+            "reading": "of everything that lives."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        17,
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD is just in all his ways,",
+            "normalized": "The LORD is just in all his ways,",
+            "reading": "The LORD is just in all his ways,"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "holy in his works all.",
+            "normalized": "Holy in his works all.",
+            "reading": "holy in his works all."
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD’s near to all that call on him,",
+            "normalized": "GOD’s near to all that call on him,",
+            "reading": "GOD’s near to all that call on him,"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in truth that on him call.",
+            "normalized": "In truth that on him call.",
+            "reading": "in truth that on him call."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        19
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He will accomplish the desire",
+            "normalized": "He will accomplish the desire",
+            "reading": "He will accomplish the desire"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of those that do him fear:",
+            "normalized": "Of those that do him fear:",
+            "reading": "of those that do him fear:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He also will deliver them,",
+            "normalized": "He also will deliver them,",
+            "reading": "He also will deliver them,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and he their cry will hear.",
+            "normalized": "And he their cry will hear.",
+            "reading": "and he their cry will hear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.primary.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        20
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.primary.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD preserves all who him love,",
+            "normalized": "The LORD preserves all who him love,",
+            "reading": "The LORD preserves all who him love,"
+          },
+          "biblical_verse_start": 20
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that nought can them annoy:",
+            "normalized": "That nought can them annoy:",
+            "reading": "that nought can them annoy:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But he all those that wicked are",
+            "normalized": "But he all those that wicked are",
+            "reading": "But he all those that wicked are"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "will utterly destroy.",
+            "normalized": "Will utterly destroy.",
+            "reading": "will utterly destroy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.primary.stanza-16",
+      "number": 16,
+      "biblical_verses": [
+        21
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.primary.stanza-16.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My mouth the praises of the LORD",
+            "normalized": "My mouth the praises of the LORD",
+            "reading": "My mouth the praises of the LORD"
+          },
+          "biblical_verse_start": 21
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-16.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to publish cease shall never:",
+            "normalized": "To publish cease shall never:",
+            "reading": "to publish cease shall never:"
+          },
+          "source_underlining": [
+            "never"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-16.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let all flesh bless his holy name",
+            "normalized": "Let all flesh bless his holy name",
+            "reading": "Let all flesh bless his holy name"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.primary.stanza-16.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for ever and for ever.",
+            "normalized": "For ever and for ever.",
+            "reading": "for ever and for ever."
+          },
+          "source_underlining": [
+            "ever"
+          ]
+        }
+      ]
+    }
+  ]
+}

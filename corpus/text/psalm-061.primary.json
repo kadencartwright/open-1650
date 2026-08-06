@@ -1,0 +1,448 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-061.primary",
+  "psalm_number": 61,
+  "title": "Psalm 61",
+  "version": "primary",
+  "opening_line": "O God, give ear unto my cry;",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 61 · p. 83–84",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-061-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      83,
+      84
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-061.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-061.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O God, give ear unto my cry;",
+            "normalized": "O God, give ear unto my cry;",
+            "reading": "O God, give ear unto my cry;"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "unto my pray’r attend.",
+            "normalized": "Unto my pray’r attend.",
+            "reading": "unto my pray’r attend."
+          }
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From th’ utmost corner of the land",
+            "normalized": "From th’ utmost corner of the land",
+            "reading": "From th’ utmost corner of the land"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my cry to thee I’ll send.",
+            "normalized": "My cry to thee I’ll send.",
+            "reading": "my cry to thee I’ll send."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-061.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-061.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "What time my heart is overwhelmed",
+            "normalized": "What time my heart is overwhelmed",
+            "reading": "What time my heart is overwhelmed"
+          }
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and in perplexity,",
+            "normalized": "And in perplexity,",
+            "reading": "and in perplexity,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Do thou me lead unto the Rock",
+            "normalized": "Do thou me lead unto the Rock",
+            "reading": "Do thou me lead unto the Rock"
+          }
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that higher is than I.",
+            "normalized": "That higher is than I.",
+            "reading": "that higher is than I."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-061.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-061.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thou hast for my refuge been",
+            "normalized": "For thou hast for my refuge been",
+            "reading": "For thou hast for my refuge been"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a shelter by thy pow’r;",
+            "normalized": "A shelter by thy pow’r;",
+            "reading": "a shelter by thy pow’r;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And for defence against my foes",
+            "normalized": "And for defence against my foes",
+            "reading": "And for defence against my foes"
+          }
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou hast been a strong tow’r.",
+            "normalized": "Thou hast been a strong tow’r.",
+            "reading": "thou hast been a strong tow’r."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-061.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-061.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Within thy tabernacle I",
+            "normalized": "Within thy tabernacle I",
+            "reading": "Within thy tabernacle I"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for ever will abide;",
+            "normalized": "For ever will abide;",
+            "reading": "for ever will abide;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And under covert of thy wings",
+            "normalized": "And under covert of thy wings",
+            "reading": "And under covert of thy wings"
+          }
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with confidence me hide.",
+            "normalized": "With confidence me hide.",
+            "reading": "with confidence me hide."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-061.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-061.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thou the vows that I did make,",
+            "normalized": "For thou the vows that I did make,",
+            "reading": "For thou the vows that I did make,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O Lord my God, didst hear:",
+            "normalized": "O Lord my God, didst hear:",
+            "reading": "O Lord my God, didst hear:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou hast giv’n me the heritage",
+            "normalized": "Thou hast giv’n me the heritage",
+            "reading": "Thou hast giv’n me the heritage"
+          }
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of those thy name that fear.",
+            "normalized": "Of those thy name that fear.",
+            "reading": "of those thy name that fear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-061.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-061.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A life prolonged for many days",
+            "normalized": "A life prolonged for many days",
+            "reading": "A life prolonged for many days"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou to the king shalt give;",
+            "normalized": "Thou to the king shalt give;",
+            "reading": "thou to the king shalt give;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Like many generations be",
+            "normalized": "Like many generations be",
+            "reading": "Like many generations be"
+          }
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the years which he shall live.",
+            "normalized": "The years which he shall live.",
+            "reading": "the years which he shall live."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-061.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-061.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He in God’s presence his abode",
+            "normalized": "He in God’s presence his abode",
+            "reading": "He in God’s presence his abode"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for evermore shall have:",
+            "normalized": "For evermore shall have:",
+            "reading": "for evermore shall have:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O do thou truth and mercy both",
+            "normalized": "O do thou truth and mercy both",
+            "reading": "O do thou truth and mercy both"
+          }
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "prepare, that may him save.",
+            "normalized": "Prepare, that may him save.",
+            "reading": "prepare, that may him save."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-061.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-061.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And so will I perpetually",
+            "normalized": "And so will I perpetually",
+            "reading": "And so will I perpetually"
+          },
+          "biblical_verse_start": 8,
+          "source_underlining": [
+            "ual"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "sing praise unto thy name;",
+            "normalized": "Sing praise unto thy name;",
+            "reading": "sing praise unto thy name;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That having made my vows, I may",
+            "normalized": "That having made my vows, I may",
+            "reading": "That having made my vows, I may"
+          }
+        },
+        {
+          "id": "ps1650.psalm-061.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "each day perform the same.",
+            "normalized": "Each day perform the same.",
+            "reading": "each day perform the same."
+          }
+        }
+      ]
+    }
+  ]
+}

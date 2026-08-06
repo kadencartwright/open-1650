@@ -1,0 +1,498 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-064.primary",
+  "psalm_number": 64,
+  "title": "Psalm 64",
+  "version": "primary",
+  "opening_line": "When I to thee my prayer make,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 64 · p. 86–87",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-064-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      86,
+      87
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-064.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-064.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When I to thee my prayer make,",
+            "normalized": "When I to thee my prayer make,",
+            "reading": "When I to thee my prayer make,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Lord, to my voice give ear;",
+            "normalized": "Lord, to my voice give ear;",
+            "reading": "Lord, to my voice give ear;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My life save from the enemy,",
+            "normalized": "My life save from the enemy,",
+            "reading": "My life save from the enemy,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of whom I stand in fear.",
+            "normalized": "Of whom I stand in fear.",
+            "reading": "of whom I stand in fear."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-064.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-064.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Me from their secret counsel hide",
+            "normalized": "Me from their secret counsel hide",
+            "reading": "Me from their secret counsel hide"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who do live wickedly;",
+            "normalized": "Who do live wickedly;",
+            "reading": "who do live wickedly;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From insurrection of those men",
+            "normalized": "From insurrection of those men",
+            "reading": "From insurrection of those men"
+          }
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that work iniquity:",
+            "normalized": "That work iniquity:",
+            "reading": "that work iniquity:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-064.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-064.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who do their tongues with malice whet,",
+            "normalized": "Who do their tongues with malice whet,",
+            "reading": "Who do their tongues with malice whet,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and make them cut like swords;",
+            "normalized": "And make them cut like swords;",
+            "reading": "and make them cut like swords;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In whose bent bows are arrows set,",
+            "normalized": "In whose bent bows are arrows set,",
+            "reading": "In whose bent bows are arrows set,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ev’n sharp and bitter words:",
+            "normalized": "Ev’n sharp and bitter words:",
+            "reading": "ev’n sharp and bitter words:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-064.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-064.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That they may at the perfect man",
+            "normalized": "That they may at the perfect man",
+            "reading": "That they may at the perfect man"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in secret aim their shot;",
+            "normalized": "In secret aim their shot;",
+            "reading": "in secret aim their shot;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, suddenly they dare at him",
+            "normalized": "Yea, suddenly they dare at him",
+            "reading": "Yea, suddenly they dare at him"
+          }
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to shoot, and fear it not.",
+            "normalized": "To shoot, and fear it not.",
+            "reading": "to shoot, and fear it not."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-064.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-064.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In ill encourage they themselves,",
+            "normalized": "In ill encourage they themselves,",
+            "reading": "In ill encourage they themselves,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and their snares close do lay:",
+            "normalized": "And their snares close do lay:",
+            "reading": "and their snares close do lay:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Together conference they have;",
+            "normalized": "Together conference they have;",
+            "reading": "Together conference they have;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Who shall them see? they say.",
+            "normalized": "Who shall them see? they say.",
+            "reading": "Who shall them see? they say."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-064.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-064.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They have searched out iniquities,",
+            "normalized": "They have searched out iniquities,",
+            "reading": "They have searched out iniquities,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "a perfect search they keep:",
+            "normalized": "A perfect search they keep:",
+            "reading": "a perfect search they keep:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of each of them the inward thought,",
+            "normalized": "Of each of them the inward thought,",
+            "reading": "Of each of them the inward thought,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and very heart, is deep.",
+            "normalized": "And very heart, is deep.",
+            "reading": "and very heart, is deep."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-064.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-064.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "God shall an arrow shoot at them,",
+            "normalized": "God shall an arrow shoot at them,",
+            "reading": "God shall an arrow shoot at them,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and wound them suddenly:",
+            "normalized": "And wound them suddenly:",
+            "reading": "and wound them suddenly:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "So their own tongue shall them confound;",
+            "normalized": "So their own tongue shall them confound;",
+            "reading": "So their own tongue shall them confound;"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all who them see shall fly.",
+            "normalized": "All who them see shall fly.",
+            "reading": "all who them see shall fly."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-064.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-064.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And on all men a fear shall fall,",
+            "normalized": "And on all men a fear shall fall,",
+            "reading": "And on all men a fear shall fall,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "God’s works they shall declare;",
+            "normalized": "God’s works they shall declare;",
+            "reading": "God’s works they shall declare;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For they shall wisely notice take",
+            "normalized": "For they shall wisely notice take",
+            "reading": "For they shall wisely notice take"
+          }
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "what these his doings are.",
+            "normalized": "What these his doings are.",
+            "reading": "what these his doings are."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-064.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-064.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In God the righteous shall rejoice,",
+            "normalized": "In God the righteous shall rejoice,",
+            "reading": "In God the righteous shall rejoice,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and trust upon his might;",
+            "normalized": "And trust upon his might;",
+            "reading": "and trust upon his might;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, they shall greatly glory all",
+            "normalized": "Yea, they shall greatly glory all",
+            "reading": "Yea, they shall greatly glory all"
+          }
+        },
+        {
+          "id": "ps1650.psalm-064.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in heart that are upright.",
+            "normalized": "In heart that are upright.",
+            "reading": "in heart that are upright."
+          }
+        }
+      ]
+    }
+  ]
+}

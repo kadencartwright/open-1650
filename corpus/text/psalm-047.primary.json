@@ -1,0 +1,399 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-047.primary",
+  "psalm_number": 47,
+  "title": "Psalm 47",
+  "version": "primary",
+  "opening_line": "All people, clap your hands; to God",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 47 · p. 66–67",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-047-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      66,
+      67
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-047.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-047.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "All people, clap your hands; to God",
+            "normalized": "All people, clap your hands; to God",
+            "reading": "All people, clap your hands; to God"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with voice of triumph shout:",
+            "normalized": "With voice of triumph shout:",
+            "reading": "with voice of triumph shout:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For dreadful is the LORD most high,",
+            "normalized": "For dreadful is the LORD most high,",
+            "reading": "For dreadful is the LORD most high,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "great King the earth throughout.",
+            "normalized": "Great King the earth throughout.",
+            "reading": "great King the earth throughout."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-047.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-047.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The heathen people under us",
+            "normalized": "The heathen people under us",
+            "reading": "The heathen people under us"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he surely shall subdue;",
+            "normalized": "He surely shall subdue;",
+            "reading": "he surely shall subdue;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And he shall make the nätions",
+            "normalized": "And he shall make the nätions",
+            "reading": "And he shall make the nätions"
+          }
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "under our feet to bow.",
+            "normalized": "Under our feet to bow.",
+            "reading": "under our feet to bow."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-047.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-047.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The lot of our inheritance",
+            "normalized": "The lot of our inheritance",
+            "reading": "The lot of our inheritance"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "choose out for us shall he,",
+            "normalized": "Choose out for us shall he,",
+            "reading": "choose out for us shall he,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of Jacob, whom he lovèd well,",
+            "normalized": "Of Jacob, whom he lovèd well,",
+            "reading": "Of Jacob, whom he lovèd well,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ev’n the excellency.",
+            "normalized": "Ev’n the excellency.",
+            "reading": "ev’n the excellency."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-047.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5,
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-047.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "God is with shouts gone up, the LORD",
+            "normalized": "God is with shouts gone up, the LORD",
+            "reading": "God is with shouts gone up, the LORD"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with trumpets sounding high.",
+            "normalized": "With trumpets sounding high.",
+            "reading": "with trumpets sounding high."
+          }
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Sing praise to God, sing praise, sing praise,",
+            "normalized": "Sing praise to God, sing praise, sing praise,",
+            "reading": "Sing praise to God, sing praise, sing praise,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "praise to our King sing ye.",
+            "normalized": "Praise to our King sing ye.",
+            "reading": "praise to our King sing ye."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-047.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-047.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For God is King of all the earth;",
+            "normalized": "For God is King of all the earth;",
+            "reading": "For God is King of all the earth;"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with knowledge praise express.",
+            "normalized": "With knowledge praise express.",
+            "reading": "with knowledge praise express."
+          }
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "God rules the nations: God sits on",
+            "normalized": "God rules the nations: God sits on",
+            "reading": "God rules the nations: God sits on"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his throne of holiness.",
+            "normalized": "His throne of holiness.",
+            "reading": "his throne of holiness."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-047.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-047.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The princes of the people are",
+            "normalized": "The princes of the people are",
+            "reading": "The princes of the people are"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "assembled willingly;",
+            "normalized": "Assembled willingly;",
+            "reading": "assembled willingly;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n of the God of Abraham",
+            "normalized": "Ev’n of the God of Abraham",
+            "reading": "Ev’n of the God of Abraham"
+          }
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they who the people be.",
+            "normalized": "They who the people be.",
+            "reading": "they who the people be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-047.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-047.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For why? the shields that do defend",
+            "normalized": "For why? the shields that do defend",
+            "reading": "For why? the shields that do defend"
+          }
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the earth are only his:",
+            "normalized": "The earth are only his:",
+            "reading": "the earth are only his:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They to the Lord belong; yea, he",
+            "normalized": "They to the Lord belong; yea, he",
+            "reading": "They to the Lord belong; yea, he"
+          }
+        },
+        {
+          "id": "ps1650.psalm-047.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "exalted greatly is.",
+            "normalized": "Exalted greatly is.",
+            "reading": "exalted greatly is."
+          }
+        }
+      ]
+    }
+  ]
+}

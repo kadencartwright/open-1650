@@ -1,0 +1,348 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-043.primary",
+  "psalm_number": 43,
+  "title": "Psalm 43",
+  "version": "primary",
+  "opening_line": "Judge me, O God, and plead my cause",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 43 · p. 60",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-043-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      60
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-043.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-043.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Judge me, O God, and plead my cause",
+            "normalized": "Judge me, O God, and plead my cause",
+            "reading": "Judge me, O God, and plead my cause"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "against th’ ungodly nation;",
+            "normalized": "Against th’ ungodly nation;",
+            "reading": "against th’ ungodly nation;"
+          },
+          "source_underlining": [
+            "nation"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "From the unjust and crafty man,",
+            "normalized": "From the unjust and crafty man,",
+            "reading": "From the unjust and crafty man,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O be thou my salvation.",
+            "normalized": "O be thou my salvation.",
+            "reading": "O be thou my salvation."
+          },
+          "source_underlining": [
+            "vation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-043.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-043.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thou the God art of my strength;",
+            "normalized": "For thou the God art of my strength;",
+            "reading": "For thou the God art of my strength;"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "why thrusts thou me thee fro’?",
+            "normalized": "Why thrusts thou me thee fro’?",
+            "reading": "why thrusts thou me thee fro’?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For th’ enemy’s opprëssion",
+            "normalized": "For th’ enemy’s opprëssion",
+            "reading": "For th’ enemy’s opprëssion"
+          }
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "why do I mourning go?",
+            "normalized": "Why do I mourning go?",
+            "reading": "why do I mourning go?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-043.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-043.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O send thy light forth and thy truth;",
+            "normalized": "O send thy light forth and thy truth;",
+            "reading": "O send thy light forth and thy truth;"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let them be guides to me,",
+            "normalized": "Let them be guides to me,",
+            "reading": "let them be guides to me,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And bring me to thine holy hill,",
+            "normalized": "And bring me to thine holy hill,",
+            "reading": "And bring me to thine holy hill,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ev’n where thy dwellings be.",
+            "normalized": "Ev’n where thy dwellings be.",
+            "reading": "ev’n where thy dwellings be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-043.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-043.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then will I to God’s altar go,",
+            "normalized": "Then will I to God’s altar go,",
+            "reading": "Then will I to God’s altar go,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to God my chiefest joy:",
+            "normalized": "To God my chiefest joy:",
+            "reading": "to God my chiefest joy:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, God, my God, thy name to praise",
+            "normalized": "Yea, God, my God, thy name to praise",
+            "reading": "Yea, God, my God, thy name to praise"
+          }
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my harp I will employ.",
+            "normalized": "My harp I will employ.",
+            "reading": "my harp I will employ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-043.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-043.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Why art thou then cast down, my soul?",
+            "normalized": "Why art thou then cast down, my soul?",
+            "reading": "Why art thou then cast down, my soul?"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "what should discourage thee?",
+            "normalized": "What should discourage thee?",
+            "reading": "what should discourage thee?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And why with vexing thoughts art thou",
+            "normalized": "And why with vexing thoughts art thou",
+            "reading": "And why with vexing thoughts art thou"
+          }
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "disquieted in me?",
+            "normalized": "Disquieted in me?",
+            "reading": "disquieted in me?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-043.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-043.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Still trust in God; for him to praise",
+            "normalized": "Still trust in God; for him to praise",
+            "reading": "Still trust in God; for him to praise"
+          }
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "good cause I yet shall have:",
+            "normalized": "Good cause I yet shall have:",
+            "reading": "good cause I yet shall have:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He of my count’nance is the health,",
+            "normalized": "He of my count’nance is the health,",
+            "reading": "He of my count’nance is the health,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-043.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my God that doth me save.",
+            "normalized": "My God that doth me save.",
+            "reading": "my God that doth me save."
+          }
+        }
+      ]
+    }
+  ]
+}

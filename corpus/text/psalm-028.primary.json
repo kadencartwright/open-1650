@@ -1,0 +1,495 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-028.primary",
+  "psalm_number": 28,
+  "title": "Psalm 28",
+  "version": "primary",
+  "opening_line": "To thee I’ll cry, O LORD, my rock;",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 28 · p. 38",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-028-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      38
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-028.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-028.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To thee I’ll cry, O LORD, my rock;",
+            "normalized": "To thee I’ll cry, O LORD, my rock;",
+            "reading": "To thee I’ll cry, O LORD, my rock;"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "hold not thy peace to me;",
+            "normalized": "Hold not thy peace to me;",
+            "reading": "hold not thy peace to me;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Lest like those that to pit descend",
+            "normalized": "Lest like those that to pit descend",
+            "reading": "Lest like those that to pit descend"
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I by thy silence be.",
+            "normalized": "I by thy silence be.",
+            "reading": "I by thy silence be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-028.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-028.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The voice hear of my humble pray’rs,",
+            "normalized": "The voice hear of my humble pray’rs,",
+            "reading": "The voice hear of my humble pray’rs,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when unto thee I cry;",
+            "normalized": "When unto thee I cry;",
+            "reading": "when unto thee I cry;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When to thine holy oracle",
+            "normalized": "When to thine holy oracle",
+            "reading": "When to thine holy oracle"
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I lift mine hands on high.",
+            "normalized": "I lift mine hands on high.",
+            "reading": "I lift mine hands on high."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-028.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-028.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "With ill men draw me not away",
+            "normalized": "With ill men draw me not away",
+            "reading": "With ill men draw me not away"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that work iniquity;",
+            "normalized": "That work iniquity;",
+            "reading": "that work iniquity;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That speak peace to their friends, while in",
+            "normalized": "That speak peace to their friends, while in",
+            "reading": "That speak peace to their friends, while in"
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their hearts doth mischief lie.",
+            "normalized": "Their hearts doth mischief lie.",
+            "reading": "their hearts doth mischief lie."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-028.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-028.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Give them according to their deeds",
+            "normalized": "Give them according to their deeds",
+            "reading": "Give them according to their deeds"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and ills endeavourèd:",
+            "normalized": "And ills endeavourèd:",
+            "reading": "and ills endeavourèd:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And as their handiworks deserve,",
+            "normalized": "And as their handiworks deserve,",
+            "reading": "And as their handiworks deserve,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to them be renderèd.",
+            "normalized": "To them be renderèd.",
+            "reading": "to them be renderèd."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-028.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-028.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "God shall not build, but them destroy,",
+            "normalized": "God shall not build, but them destroy,",
+            "reading": "God shall not build, but them destroy,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who would not understand",
+            "normalized": "Who would not understand",
+            "reading": "who would not understand"
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD’s own works, nor did regard",
+            "normalized": "The LORD’s own works, nor did regard",
+            "reading": "The LORD’s own works, nor did regard"
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the doing of his hand.",
+            "normalized": "The doing of his hand.",
+            "reading": "the doing of his hand."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-028.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-028.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For ever blessèd be the LORD,",
+            "normalized": "For ever blessèd be the LORD,",
+            "reading": "For ever blessèd be the LORD,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for graciously he heard",
+            "normalized": "For graciously he heard",
+            "reading": "for graciously he heard"
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The voice of my petïtions,",
+            "normalized": "The voice of my petïtions,",
+            "reading": "The voice of my petïtions,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and prayers did regard.",
+            "normalized": "And prayers did regard.",
+            "reading": "and prayers did regard."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-028.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-028.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD’s my strength and shield; my heart",
+            "normalized": "The LORD’s my strength and shield; my heart",
+            "reading": "The LORD’s my strength and shield; my heart"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "upon him did rely;",
+            "normalized": "Upon him did rely;",
+            "reading": "upon him did rely;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And I am helpèd: hence my heart",
+            "normalized": "And I am helpèd: hence my heart",
+            "reading": "And I am helpèd: hence my heart"
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth joy exceedingly.",
+            "normalized": "Doth joy exceedingly.",
+            "reading": "doth joy exceedingly."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-028.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-028.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And with my song I will him praise.",
+            "normalized": "And with my song I will him praise.",
+            "reading": "And with my song I will him praise."
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Their strength is GOD alone:",
+            "normalized": "Their strength is GOD alone:",
+            "reading": "Their strength is GOD alone:"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He also is the saving strength",
+            "normalized": "He also is the saving strength",
+            "reading": "He also is the saving strength"
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of his anointed one.",
+            "normalized": "Of his anointed one.",
+            "reading": "of his anointed one."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-028.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-028.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O thine own people do thou save,",
+            "normalized": "O thine own people do thou save,",
+            "reading": "O thine own people do thou save,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "bless thine inheritance;",
+            "normalized": "Bless thine inheritance;",
+            "reading": "bless thine inheritance;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Them also do thou feed, and them",
+            "normalized": "Them also do thou feed, and them",
+            "reading": "Them also do thou feed, and them"
+          }
+        },
+        {
+          "id": "ps1650.psalm-028.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for evermore advance.",
+            "normalized": "For evermore advance.",
+            "reading": "for evermore advance."
+          }
+        }
+      ]
+    }
+  ]
+}

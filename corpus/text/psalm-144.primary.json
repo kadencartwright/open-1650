@@ -1,0 +1,701 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-144.primary",
+  "psalm_number": 144,
+  "title": "Psalm 144",
+  "version": "primary",
+  "opening_line": "O blessèd ever be the LORD,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 144 · p. 203–205",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-144-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      203,
+      204,
+      205
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-144.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-144.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O blessèd ever be the LORD,",
+            "normalized": "O blessèd ever be the LORD,",
+            "reading": "O blessèd ever be the LORD,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who is my strength and might,",
+            "normalized": "Who is my strength and might,",
+            "reading": "who is my strength and might,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who doth instruct my hands to war,",
+            "normalized": "Who doth instruct my hands to war,",
+            "reading": "Who doth instruct my hands to war,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my fingers teach to fight.",
+            "normalized": "My fingers teach to fight.",
+            "reading": "my fingers teach to fight."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-144.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-144.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My goodness, fortress, my high tower,",
+            "normalized": "My goodness, fortress, my high tower,",
+            "reading": "My goodness, fortress, my high tower,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "deliverer, and shield,",
+            "normalized": "Deliverer, and shield,",
+            "reading": "deliverer, and shield,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In whom I trust: who under me",
+            "normalized": "In whom I trust: who under me",
+            "reading": "In whom I trust: who under me"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my people makes to yield.",
+            "normalized": "My people makes to yield.",
+            "reading": "my people makes to yield."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-144.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-144.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "LORD, what is man, that thou of him",
+            "normalized": "LORD, what is man, that thou of him",
+            "reading": "LORD, what is man, that thou of him"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "dost so much knowledge take?",
+            "normalized": "Dost so much knowledge take?",
+            "reading": "dost so much knowledge take?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Or son of man, that thou of him",
+            "normalized": "Or son of man, that thou of him",
+            "reading": "Or son of man, that thou of him"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "so great account dost make?",
+            "normalized": "So great account dost make?",
+            "reading": "so great account dost make?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-144.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4,
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-144.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Man is like vanity; his days,",
+            "normalized": "Man is like vanity; his days,",
+            "reading": "Man is like vanity; his days,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "as shadows, pass away.",
+            "normalized": "As shadows, pass away.",
+            "reading": "as shadows, pass away."
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "LORD, bow thy heav’ns, come down, touch thou",
+            "normalized": "LORD, bow thy heav’ns, come down, touch thou",
+            "reading": "LORD, bow thy heav’ns, come down, touch thou"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the hills, and smoke shall they.",
+            "normalized": "The hills, and smoke shall they.",
+            "reading": "the hills, and smoke shall they."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-144.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6,
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-144.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Cast forth thy lightning, scatter them;",
+            "normalized": "Cast forth thy lightning, scatter them;",
+            "reading": "Cast forth thy lightning, scatter them;"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thine arrows shoot, them rout.",
+            "normalized": "Thine arrows shoot, them rout.",
+            "reading": "thine arrows shoot, them rout."
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thine hand send from above, me save;",
+            "normalized": "Thine hand send from above, me save;",
+            "reading": "Thine hand send from above, me save;"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from great depths draw me out;",
+            "normalized": "From great depths draw me out;",
+            "reading": "from great depths draw me out;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-144.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-144.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And from the hand of children strange,",
+            "normalized": "And from the hand of children strange,",
+            "reading": "And from the hand of children strange,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Whose mouth speaks vanity;",
+            "normalized": "Whose mouth speaks vanity;",
+            "reading": "Whose mouth speaks vanity;"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And their right hand is a right hand",
+            "normalized": "And their right hand is a right hand",
+            "reading": "And their right hand is a right hand"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that works deceitfully.",
+            "normalized": "That works deceitfully.",
+            "reading": "that works deceitfully."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-144.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-144.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A new song I to thee will sing,",
+            "normalized": "A new song I to thee will sing,",
+            "reading": "A new song I to thee will sing,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Lord, on a psaltery;",
+            "normalized": "Lord, on a psaltery;",
+            "reading": "Lord, on a psaltery;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I on a ten-stringed instrument",
+            "normalized": "I on a ten-stringed instrument",
+            "reading": "I on a ten-stringed instrument"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "will praises sing to thee.",
+            "normalized": "Will praises sing to thee.",
+            "reading": "will praises sing to thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-144.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-144.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n he it is that unto kings",
+            "normalized": "Ev’n he it is that unto kings",
+            "reading": "Ev’n he it is that unto kings"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "salvätion doth send;",
+            "normalized": "Salvätion doth send;",
+            "reading": "salvätion doth send;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who his own servant David doth",
+            "normalized": "Who his own servant David doth",
+            "reading": "Who his own servant David doth"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from hurtful sword defend.",
+            "normalized": "From hurtful sword defend.",
+            "reading": "from hurtful sword defend."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-144.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-144.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O free me from strange children’s hand,",
+            "normalized": "O free me from strange children’s hand,",
+            "reading": "O free me from strange children’s hand,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "whose mouth speaks vanity;",
+            "normalized": "Whose mouth speaks vanity;",
+            "reading": "whose mouth speaks vanity;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And their right hand a right hand is",
+            "normalized": "And their right hand a right hand is",
+            "reading": "And their right hand a right hand is"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that works deceitfully.",
+            "normalized": "That works deceitfully.",
+            "reading": "that works deceitfully."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-144.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-144.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That, as the plants, our sons may be",
+            "normalized": "That, as the plants, our sons may be",
+            "reading": "That, as the plants, our sons may be"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in youth grown up that are;",
+            "normalized": "In youth grown up that are;",
+            "reading": "in youth grown up that are;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Our daughters like to corner-stones,",
+            "normalized": "Our daughters like to corner-stones,",
+            "reading": "Our daughters like to corner-stones,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "carved like a palace fair.",
+            "normalized": "Carved like a palace fair.",
+            "reading": "carved like a palace fair."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-144.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-144.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That to afford all kind of store",
+            "normalized": "That to afford all kind of store",
+            "reading": "That to afford all kind of store"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "our garners may be filled;",
+            "normalized": "Our garners may be filled;",
+            "reading": "our garners may be filled;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That our sheep thousands, in our streets",
+            "normalized": "That our sheep thousands, in our streets",
+            "reading": "That our sheep thousands, in our streets"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "ten thousands they may yield.",
+            "normalized": "Ten thousands they may yield.",
+            "reading": "ten thousands they may yield."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-144.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-144.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That strong our oxen be for work,",
+            "normalized": "That strong our oxen be for work,",
+            "reading": "That strong our oxen be for work,"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that no in-breaking be,",
+            "normalized": "That no in-breaking be,",
+            "reading": "that no in-breaking be,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor going out; and that our streets",
+            "normalized": "Nor going out; and that our streets",
+            "reading": "Nor going out; and that our streets"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "may from complaints be free.",
+            "normalized": "May from complaints be free.",
+            "reading": "may from complaints be free."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-144.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-144.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Those people blessèd are who be",
+            "normalized": "Those people blessèd are who be",
+            "reading": "Those people blessèd are who be"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in such a case as this;",
+            "normalized": "In such a case as this;",
+            "reading": "in such a case as this;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, blessèd all those people are,",
+            "normalized": "Yea, blessèd all those people are,",
+            "reading": "Yea, blessèd all those people are,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-144.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "whose God JEHOVAH is.",
+            "normalized": "Whose God JEHOVAH is.",
+            "reading": "whose God JEHOVAH is."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,914 @@
+{
+  "$schema": "../../schemas/tune.schema.json",
+  "schema_version": "0.2.0",
+  "id": "ps1650.tune.st-peter",
+  "title": "St. Peter",
+  "alternate_title": "Reinagle",
+  "meter": "8.6.8.6",
+  "ppq": 480,
+  "default_bpm": 86,
+  "time_signature": [
+    4,
+    4
+  ],
+  "key": "E-flat major",
+  "length_ticks": 15360,
+  "notes": [
+    {
+      "id": "ps1650.tune.st-peter.phrase-01.note-01",
+      "midi": 70,
+      "start_tick": 0,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-01.note-02",
+      "midi": 75,
+      "start_tick": 480,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-01.note-03",
+      "midi": 74,
+      "start_tick": 960,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-01.note-04",
+      "midi": 72,
+      "start_tick": 1440,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-01.note-05",
+      "midi": 70,
+      "start_tick": 1920,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-01.note-06",
+      "midi": 70,
+      "start_tick": 2400,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-01.note-07",
+      "midi": 68,
+      "start_tick": 2880,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-01.note-08",
+      "midi": 67,
+      "start_tick": 3360,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-02.note-01",
+      "midi": 67,
+      "start_tick": 3840,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-02.note-02",
+      "midi": 65,
+      "start_tick": 4320,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-02.note-03",
+      "midi": 63,
+      "start_tick": 4800,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-02.note-04",
+      "midi": 68,
+      "start_tick": 5280,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-02.note-05",
+      "midi": 67,
+      "start_tick": 5760,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-02.note-06",
+      "midi": 65,
+      "start_tick": 6240,
+      "duration_ticks": 1440,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-03.note-01",
+      "midi": 67,
+      "start_tick": 7680,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-03.note-02",
+      "midi": 68,
+      "start_tick": 8160,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-03.note-03",
+      "midi": 67,
+      "start_tick": 8640,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-03.note-04",
+      "midi": 72,
+      "start_tick": 9120,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-03.note-05",
+      "midi": 70,
+      "start_tick": 9600,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-03.note-06",
+      "midi": 70,
+      "start_tick": 10080,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-03.note-07",
+      "midi": 68,
+      "start_tick": 10560,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-03.note-08",
+      "midi": 67,
+      "start_tick": 11040,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-04.note-01",
+      "midi": 63,
+      "start_tick": 11520,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-04.note-02",
+      "midi": 67,
+      "start_tick": 12000,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-04.note-03",
+      "midi": 65,
+      "start_tick": 12480,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-04.note-04",
+      "midi": 63,
+      "start_tick": 12960,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-04.note-05",
+      "midi": 62,
+      "start_tick": 13440,
+      "duration_ticks": 480,
+      "velocity": 88
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-04.note-06",
+      "midi": 63,
+      "start_tick": 13920,
+      "duration_ticks": 1440,
+      "velocity": 88
+    }
+  ],
+  "phrases": [
+    {
+      "id": "ps1650.tune.st-peter.phrase-01",
+      "start_tick": 0,
+      "end_tick": 3840,
+      "note_ids": [
+        "ps1650.tune.st-peter.phrase-01.note-01",
+        "ps1650.tune.st-peter.phrase-01.note-02",
+        "ps1650.tune.st-peter.phrase-01.note-03",
+        "ps1650.tune.st-peter.phrase-01.note-04",
+        "ps1650.tune.st-peter.phrase-01.note-05",
+        "ps1650.tune.st-peter.phrase-01.note-06",
+        "ps1650.tune.st-peter.phrase-01.note-07",
+        "ps1650.tune.st-peter.phrase-01.note-08"
+      ]
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-02",
+      "start_tick": 3840,
+      "end_tick": 7680,
+      "note_ids": [
+        "ps1650.tune.st-peter.phrase-02.note-01",
+        "ps1650.tune.st-peter.phrase-02.note-02",
+        "ps1650.tune.st-peter.phrase-02.note-03",
+        "ps1650.tune.st-peter.phrase-02.note-04",
+        "ps1650.tune.st-peter.phrase-02.note-05",
+        "ps1650.tune.st-peter.phrase-02.note-06"
+      ]
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-03",
+      "start_tick": 7680,
+      "end_tick": 11520,
+      "note_ids": [
+        "ps1650.tune.st-peter.phrase-03.note-01",
+        "ps1650.tune.st-peter.phrase-03.note-02",
+        "ps1650.tune.st-peter.phrase-03.note-03",
+        "ps1650.tune.st-peter.phrase-03.note-04",
+        "ps1650.tune.st-peter.phrase-03.note-05",
+        "ps1650.tune.st-peter.phrase-03.note-06",
+        "ps1650.tune.st-peter.phrase-03.note-07",
+        "ps1650.tune.st-peter.phrase-03.note-08"
+      ]
+    },
+    {
+      "id": "ps1650.tune.st-peter.phrase-04",
+      "start_tick": 11520,
+      "end_tick": 15360,
+      "note_ids": [
+        "ps1650.tune.st-peter.phrase-04.note-01",
+        "ps1650.tune.st-peter.phrase-04.note-02",
+        "ps1650.tune.st-peter.phrase-04.note-03",
+        "ps1650.tune.st-peter.phrase-04.note-04",
+        "ps1650.tune.st-peter.phrase-04.note-05",
+        "ps1650.tune.st-peter.phrase-04.note-06"
+      ]
+    }
+  ],
+  "harmony": {
+    "voicing": "SATB",
+    "voices": {
+      "alto": [
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-01",
+          "midi": 63,
+          "start_tick": 0,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-02",
+          "midi": 67,
+          "start_tick": 480,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-03",
+          "midi": 67,
+          "start_tick": 960,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-04",
+          "midi": 63,
+          "start_tick": 1440,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-05",
+          "midi": 63,
+          "start_tick": 1920,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-06",
+          "midi": 65,
+          "start_tick": 2400,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-07",
+          "midi": 62,
+          "start_tick": 2880,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-08",
+          "midi": 63,
+          "start_tick": 3360,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-09",
+          "midi": 63,
+          "start_tick": 3840,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-10",
+          "midi": 60,
+          "start_tick": 4320,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-11",
+          "midi": 62,
+          "start_tick": 4560,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-12",
+          "midi": 63,
+          "start_tick": 4800,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-13",
+          "midi": 62,
+          "start_tick": 5280,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-14",
+          "midi": 63,
+          "start_tick": 5760,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-15",
+          "midi": 62,
+          "start_tick": 6240,
+          "duration_ticks": 1440,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-16",
+          "midi": 63,
+          "start_tick": 7680,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-17",
+          "midi": 63,
+          "start_tick": 8160,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-18",
+          "midi": 63,
+          "start_tick": 8640,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-19",
+          "midi": 63,
+          "start_tick": 9120,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-20",
+          "midi": 63,
+          "start_tick": 9600,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-21",
+          "midi": 60,
+          "start_tick": 10080,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-22",
+          "midi": 62,
+          "start_tick": 10560,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-23",
+          "midi": 63,
+          "start_tick": 11040,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-24",
+          "midi": 60,
+          "start_tick": 11520,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-25",
+          "midi": 63,
+          "start_tick": 12000,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-26",
+          "midi": 60,
+          "start_tick": 12480,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-27",
+          "midi": 58,
+          "start_tick": 12960,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-28",
+          "midi": 58,
+          "start_tick": 13440,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.alto.note-29",
+          "midi": 58,
+          "start_tick": 13920,
+          "duration_ticks": 1440,
+          "velocity": 88
+        }
+      ],
+      "tenor": [
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-01",
+          "midi": 55,
+          "start_tick": 0,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-02",
+          "midi": 58,
+          "start_tick": 480,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-03",
+          "midi": 58,
+          "start_tick": 960,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-04",
+          "midi": 56,
+          "start_tick": 1440,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-05",
+          "midi": 58,
+          "start_tick": 1920,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-06",
+          "midi": 58,
+          "start_tick": 2400,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-07",
+          "midi": 58,
+          "start_tick": 2880,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-08",
+          "midi": 58,
+          "start_tick": 3360,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-09",
+          "midi": 58,
+          "start_tick": 3840,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-10",
+          "midi": 60,
+          "start_tick": 4320,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-11",
+          "midi": 58,
+          "start_tick": 4800,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-12",
+          "midi": 56,
+          "start_tick": 5280,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-13",
+          "midi": 58,
+          "start_tick": 5760,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-14",
+          "midi": 58,
+          "start_tick": 6240,
+          "duration_ticks": 1440,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-15",
+          "midi": 58,
+          "start_tick": 7680,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-16",
+          "midi": 56,
+          "start_tick": 8160,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-17",
+          "midi": 58,
+          "start_tick": 8640,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-18",
+          "midi": 60,
+          "start_tick": 9120,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-19",
+          "midi": 51,
+          "start_tick": 9600,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-20",
+          "midi": 53,
+          "start_tick": 10080,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-21",
+          "midi": 53,
+          "start_tick": 10560,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-22",
+          "midi": 51,
+          "start_tick": 11040,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-23",
+          "midi": 55,
+          "start_tick": 11520,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-24",
+          "midi": 58,
+          "start_tick": 12000,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-25",
+          "midi": 56,
+          "start_tick": 12480,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-26",
+          "midi": 55,
+          "start_tick": 12960,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-27",
+          "midi": 53,
+          "start_tick": 13440,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-28",
+          "midi": 56,
+          "start_tick": 13680,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.tenor.note-29",
+          "midi": 55,
+          "start_tick": 13920,
+          "duration_ticks": 1440,
+          "velocity": 88
+        }
+      ],
+      "bass": [
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-01",
+          "midi": 51,
+          "start_tick": 0,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-02",
+          "midi": 51,
+          "start_tick": 480,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-03",
+          "midi": 55,
+          "start_tick": 960,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-04",
+          "midi": 56,
+          "start_tick": 1440,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-05",
+          "midi": 55,
+          "start_tick": 1920,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-06",
+          "midi": 50,
+          "start_tick": 2400,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-07",
+          "midi": 46,
+          "start_tick": 2880,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-08",
+          "midi": 51,
+          "start_tick": 3360,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-09",
+          "midi": 51,
+          "start_tick": 3840,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-10",
+          "midi": 56,
+          "start_tick": 4320,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-11",
+          "midi": 55,
+          "start_tick": 4800,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-12",
+          "midi": 53,
+          "start_tick": 5280,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-13",
+          "midi": 51,
+          "start_tick": 5760,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-14",
+          "midi": 46,
+          "start_tick": 6240,
+          "duration_ticks": 1440,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-15",
+          "midi": 51,
+          "start_tick": 7680,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-16",
+          "midi": 49,
+          "start_tick": 7920,
+          "duration_ticks": 240,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-17",
+          "midi": 48,
+          "start_tick": 8160,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-18",
+          "midi": 46,
+          "start_tick": 8640,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-19",
+          "midi": 44,
+          "start_tick": 9120,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-20",
+          "midi": 43,
+          "start_tick": 9600,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-21",
+          "midi": 41,
+          "start_tick": 10080,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-22",
+          "midi": 46,
+          "start_tick": 10560,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-23",
+          "midi": 48,
+          "start_tick": 11040,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-24",
+          "midi": 48,
+          "start_tick": 11520,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-25",
+          "midi": 43,
+          "start_tick": 12000,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-26",
+          "midi": 44,
+          "start_tick": 12480,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-27",
+          "midi": 46,
+          "start_tick": 12960,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-28",
+          "midi": 46,
+          "start_tick": 13440,
+          "duration_ticks": 480,
+          "velocity": 88
+        },
+        {
+          "id": "ps1650.tune.st-peter.harmony.bass.note-29",
+          "midi": 51,
+          "start_tick": 13920,
+          "duration_ticks": 1440,
+          "velocity": 88
+        }
+      ]
+    },
+    "editorial_transformation": "Alto, tenor, and bass follow the cited full score; the 4/2 notation is proportionally diminished to 4/4, with the full-score alto passing tone retained.",
+    "rights": {
+      "arrangement": "PDM-1.0",
+      "event_transcription": "PDM-1.0"
+    }
+  },
+  "source": {
+    "id": "cceh.000249",
+    "label": "ST. PETER",
+    "provider": "Christian Classics Ethereal Library",
+    "source_work": "Christian Classics Ethereal Hymnary #249",
+    "date": "1836",
+    "record_url": "https://www.ccel.org/cceh/0002/x000249.htm",
+    "editable_score_url": "https://www.ccel.org/cceh/0002/000249a.nwc",
+    "rights_statement_url": "https://www.ccel.org/cceh/cceh_cpr.htm",
+    "attribution": "Alexander Robert Reinagle (1799-1877); first published circa 1836.",
+    "editorial_transformation": "Public-domain SATB score proportionally diminished from 4/2 to 4/4; pitches and rhythmic proportions are unchanged."
+  },
+  "rights": {
+    "composition": "PDM-1.0",
+    "source_transcription": "PDM-1.0",
+    "metadata": "CC0-1.0"
+  }
+}

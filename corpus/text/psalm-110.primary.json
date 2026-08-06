@@ -1,0 +1,402 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-110.primary",
+  "psalm_number": 110,
+  "title": "Psalm 110",
+  "version": "primary",
+  "opening_line": "The LORD did say unto my Lord,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 110 · p. 162–163",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-110-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      162,
+      163
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-110.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-110.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD did say unto my Lord,",
+            "normalized": "The LORD did say unto my Lord,",
+            "reading": "The LORD did say unto my Lord,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Sit thou at my right hand,",
+            "normalized": "Sit thou at my right hand,",
+            "reading": "Sit thou at my right hand,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Until I make thy foes a stool,",
+            "normalized": "Until I make thy foes a stool,",
+            "reading": "Until I make thy foes a stool,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "whereon thy feet may stand.",
+            "normalized": "Whereon thy feet may stand.",
+            "reading": "whereon thy feet may stand."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-110.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-110.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD shall out of Zion send",
+            "normalized": "The LORD shall out of Zion send",
+            "reading": "The LORD shall out of Zion send"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the rod of thy great pow’r:",
+            "normalized": "The rod of thy great pow’r:",
+            "reading": "the rod of thy great pow’r:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In midst of all thine enemies",
+            "normalized": "In midst of all thine enemies",
+            "reading": "In midst of all thine enemies"
+          }
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "be thou the governor.",
+            "normalized": "Be thou the governor.",
+            "reading": "be thou the governor."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-110.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-110.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A willing people in thy day",
+            "normalized": "A willing people in thy day",
+            "reading": "A willing people in thy day"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of pow’r shall come to thee,",
+            "normalized": "Of pow’r shall come to thee,",
+            "reading": "of pow’r shall come to thee,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In holy beauties from morn’s womb;",
+            "normalized": "In holy beauties from morn’s womb;",
+            "reading": "In holy beauties from morn’s womb;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy youth like dew shall be.",
+            "normalized": "Thy youth like dew shall be.",
+            "reading": "thy youth like dew shall be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-110.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-110.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD himself hath made an oath,",
+            "normalized": "The LORD himself hath made an oath,",
+            "reading": "The LORD himself hath made an oath,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and will repent him never,",
+            "normalized": "And will repent him never,",
+            "reading": "and will repent him never,"
+          },
+          "source_underlining": [
+            "never"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of th’ order of Melchizedek",
+            "normalized": "Of th’ order of Melchizedek",
+            "reading": "Of th’ order of Melchizedek"
+          }
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou art a priest for ever.",
+            "normalized": "Thou art a priest for ever.",
+            "reading": "thou art a priest for ever."
+          },
+          "source_underlining": [
+            "ever"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-110.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-110.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The glorious and mighty Lord,",
+            "normalized": "The glorious and mighty Lord,",
+            "reading": "The glorious and mighty Lord,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that sits at thy right hand,",
+            "normalized": "That sits at thy right hand,",
+            "reading": "that sits at thy right hand,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Shall, in his day of wrath, strike through",
+            "normalized": "Shall, in his day of wrath, strike through",
+            "reading": "Shall, in his day of wrath, strike through"
+          }
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "kings that do him withstand.",
+            "normalized": "Kings that do him withstand.",
+            "reading": "kings that do him withstand."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-110.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-110.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He shall among the heathen judge,",
+            "normalized": "He shall among the heathen judge,",
+            "reading": "He shall among the heathen judge,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he shall with bodies dead",
+            "normalized": "He shall with bodies dead",
+            "reading": "he shall with bodies dead"
+          }
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The places fill: o’er many lands",
+            "normalized": "The places fill: o’er many lands",
+            "reading": "The places fill: o’er many lands"
+          }
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he wound shall ev’ry head.",
+            "normalized": "He wound shall ev’ry head.",
+            "reading": "he wound shall ev’ry head."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-110.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-110.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The brook that runneth in the way",
+            "normalized": "The brook that runneth in the way",
+            "reading": "The brook that runneth in the way"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with drink shall him supply;",
+            "normalized": "With drink shall him supply;",
+            "reading": "with drink shall him supply;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And, for this cause, in triumph he",
+            "normalized": "And, for this cause, in triumph he",
+            "reading": "And, for this cause, in triumph he"
+          }
+        },
+        {
+          "id": "ps1650.psalm-110.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall lift his head on high.",
+            "normalized": "Shall lift his head on high.",
+            "reading": "shall lift his head on high."
+          }
+        }
+      ]
+    }
+  ]
+}

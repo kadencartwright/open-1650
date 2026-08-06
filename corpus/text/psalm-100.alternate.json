@@ -1,0 +1,259 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-100.alternate",
+  "psalm_number": 100,
+  "title": "Psalm 100 · second version",
+  "version": "alternate",
+  "opening_line": "O all ye lands, unto the LORD",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 100 · p. 140",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "second version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-100,-second-version-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      140
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-100.alternate.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-100.alternate.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O all ye lands, unto the LORD",
+            "normalized": "O all ye lands, unto the LORD",
+            "reading": "O all ye lands, unto the LORD"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-100.alternate.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "make ye a joyful noise.",
+            "normalized": "Make ye a joyful noise.",
+            "reading": "make ye a joyful noise."
+          }
+        },
+        {
+          "id": "ps1650.psalm-100.alternate.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Serve GOD with gladness, him before",
+            "normalized": "Serve GOD with gladness, him before",
+            "reading": "Serve GOD with gladness, him before"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-100.alternate.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "come with a singing voice.",
+            "normalized": "Come with a singing voice.",
+            "reading": "come with a singing voice."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-100.alternate.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-100.alternate.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Know ye the LORD that he is God;",
+            "normalized": "Know ye the LORD that he is God;",
+            "reading": "Know ye the LORD that he is God;"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-100.alternate.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "not we, but he us made:",
+            "normalized": "Not we, but he us made:",
+            "reading": "not we, but he us made:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-100.alternate.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "We are his people, and the sheep",
+            "normalized": "We are his people, and the sheep",
+            "reading": "We are his people, and the sheep"
+          }
+        },
+        {
+          "id": "ps1650.psalm-100.alternate.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "within his pasture fed.",
+            "normalized": "Within his pasture fed.",
+            "reading": "within his pasture fed."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-100.alternate.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-100.alternate.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Enter his gates and courts with praise,",
+            "normalized": "Enter his gates and courts with praise,",
+            "reading": "Enter his gates and courts with praise,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-100.alternate.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to thank him go ye thither:",
+            "normalized": "To thank him go ye thither:",
+            "reading": "to thank him go ye thither:"
+          },
+          "source_underlining": [
+            "thither"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-100.alternate.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To him express your thankfulness,",
+            "normalized": "To him express your thankfulness,",
+            "reading": "To him express your thankfulness,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-100.alternate.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and bless his name together.",
+            "normalized": "And bless his name together.",
+            "reading": "and bless his name together."
+          },
+          "source_underlining": [
+            "gether"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-100.alternate.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-100.alternate.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because the LORD our God is good,",
+            "normalized": "Because the LORD our God is good,",
+            "reading": "Because the LORD our God is good,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-100.alternate.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his mercy faileth never;",
+            "normalized": "His mercy faileth never;",
+            "reading": "his mercy faileth never;"
+          },
+          "source_underlining": [
+            "never"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-100.alternate.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And to all generätions",
+            "normalized": "And to all generätions",
+            "reading": "And to all generätions"
+          }
+        },
+        {
+          "id": "ps1650.psalm-100.alternate.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his truth endureth ever.",
+            "normalized": "His truth endureth ever.",
+            "reading": "his truth endureth ever."
+          },
+          "source_underlining": [
+            "ever"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-063.primary",
+  "psalm_number": 63,
+  "title": "Psalm 63",
+  "version": "primary",
+  "opening_line": "Lord, thee my God, I’ll early seek:",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 63 · p. 85–86",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-063-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      85,
+      86
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-063.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-063.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Lord, thee my God, I’ll early seek:",
+            "normalized": "Lord, thee my God, I’ll early seek:",
+            "reading": "Lord, thee my God, I’ll early seek:"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my soul doth thirst for thee;",
+            "normalized": "My soul doth thirst for thee;",
+            "reading": "my soul doth thirst for thee;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My flesh longs in a dry parched land,",
+            "normalized": "My flesh longs in a dry parched land,",
+            "reading": "My flesh longs in a dry parched land,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "wherein no waters be:",
+            "normalized": "Wherein no waters be:",
+            "reading": "wherein no waters be:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-063.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-063.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That I thy powèr may behold,",
+            "normalized": "That I thy powèr may behold,",
+            "reading": "That I thy powèr may behold,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and brightness of thy face,",
+            "normalized": "And brightness of thy face,",
+            "reading": "and brightness of thy face,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "As I have seen thee heretofore",
+            "normalized": "As I have seen thee heretofore",
+            "reading": "As I have seen thee heretofore"
+          }
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "within thy holy place.",
+            "normalized": "Within thy holy place.",
+            "reading": "within thy holy place."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-063.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-063.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Since better is thy love than life,",
+            "normalized": "Since better is thy love than life,",
+            "reading": "Since better is thy love than life,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my lips thee praise shall give.",
+            "normalized": "My lips thee praise shall give.",
+            "reading": "my lips thee praise shall give."
+          }
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I in thy name will lift my hands,",
+            "normalized": "I in thy name will lift my hands,",
+            "reading": "I in thy name will lift my hands,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and bless thee while I live.",
+            "normalized": "And bless thee while I live.",
+            "reading": "and bless thee while I live."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-063.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-063.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n as with marrow and with fat",
+            "normalized": "Ev’n as with marrow and with fat",
+            "reading": "Ev’n as with marrow and with fat"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my soul shall fillèd be;",
+            "normalized": "My soul shall fillèd be;",
+            "reading": "my soul shall fillèd be;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Then shall my mouth with joyful lips",
+            "normalized": "Then shall my mouth with joyful lips",
+            "reading": "Then shall my mouth with joyful lips"
+          }
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "sing praises unto thee:",
+            "normalized": "Sing praises unto thee:",
+            "reading": "sing praises unto thee:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-063.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-063.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When I do thee upon my bed",
+            "normalized": "When I do thee upon my bed",
+            "reading": "When I do thee upon my bed"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "remember with delight,",
+            "normalized": "Remember with delight,",
+            "reading": "remember with delight,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And when on thee I meditate",
+            "normalized": "And when on thee I meditate",
+            "reading": "And when on thee I meditate"
+          }
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in watches of the night.",
+            "normalized": "In watches of the night.",
+            "reading": "in watches of the night."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-063.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-063.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In shadow of thy wings I’ll joy,",
+            "normalized": "In shadow of thy wings I’ll joy,",
+            "reading": "In shadow of thy wings I’ll joy,"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for thou mine help hast been.",
+            "normalized": "For thou mine help hast been.",
+            "reading": "for thou mine help hast been."
+          }
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "My soul thee follows hard; and me",
+            "normalized": "My soul thee follows hard; and me",
+            "reading": "My soul thee follows hard; and me"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy right hand doth sustain.",
+            "normalized": "Thy right hand doth sustain.",
+            "reading": "thy right hand doth sustain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-063.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9,
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-063.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who seek my soul to spill shall sink",
+            "normalized": "Who seek my soul to spill shall sink",
+            "reading": "Who seek my soul to spill shall sink"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "down to earth’s lowest room.",
+            "normalized": "Down to earth’s lowest room.",
+            "reading": "down to earth’s lowest room."
+          }
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They by the sword shall be cut off,",
+            "normalized": "They by the sword shall be cut off,",
+            "reading": "They by the sword shall be cut off,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and foxes’ prey become.",
+            "normalized": "And foxes’ prey become.",
+            "reading": "and foxes’ prey become."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-063.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-063.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yet shall the king in God rejoice,",
+            "normalized": "Yet shall the king in God rejoice,",
+            "reading": "Yet shall the king in God rejoice,"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and each one glory shall",
+            "normalized": "And each one glory shall",
+            "reading": "and each one glory shall"
+          }
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That swear by him; but stopped shall be",
+            "normalized": "That swear by him; but stopped shall be",
+            "reading": "That swear by him; but stopped shall be"
+          }
+        },
+        {
+          "id": "ps1650.psalm-063.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the mouth of liars all.",
+            "normalized": "The mouth of liars all.",
+            "reading": "the mouth of liars all."
+          }
+        }
+      ]
+    }
+  ]
+}

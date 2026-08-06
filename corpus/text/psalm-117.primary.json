@@ -1,0 +1,145 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-117.primary",
+  "psalm_number": 117,
+  "title": "Psalm 117",
+  "version": "primary",
+  "opening_line": "O give ye praise unto the LORD,",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 117 · p. 168",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-117-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      168
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-117.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-117.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O give ye praise unto the LORD,",
+            "normalized": "O give ye praise unto the LORD,",
+            "reading": "O give ye praise unto the LORD,"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-117.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "all nätions that be;",
+            "normalized": "All nätions that be;",
+            "reading": "all nätions that be;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-117.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Likewise, ye people all, accord",
+            "normalized": "Likewise, ye people all, accord",
+            "reading": "Likewise, ye people all, accord"
+          }
+        },
+        {
+          "id": "ps1650.psalm-117.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his name to magnify.",
+            "normalized": "His name to magnify.",
+            "reading": "his name to magnify."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-117.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-117.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For great to us-ward ever are",
+            "normalized": "For great to us-ward ever are",
+            "reading": "For great to us-ward ever are"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-117.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his loving-kindnesses:",
+            "normalized": "His loving-kindnesses:",
+            "reading": "his loving-kindnesses:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-117.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His truth endures for evermore.",
+            "normalized": "His truth endures for evermore.",
+            "reading": "His truth endures for evermore."
+          }
+        },
+        {
+          "id": "ps1650.psalm-117.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "The LORD O do ye bless.",
+            "normalized": "The LORD O do ye bless.",
+            "reading": "The LORD O do ye bless."
+          }
+        }
+      ]
+    }
+  ]
+}

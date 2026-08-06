@@ -1,0 +1,117 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://open1650.org/schemas/setting.schema.json",
+  "title": "Open 1650 Psalm Tune Setting",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "id",
+    "psalm_id",
+    "tune_id",
+    "lead_in",
+    "inter_stanza_ticks",
+    "stanzas",
+    "rights"
+  ],
+  "properties": {
+    "schema_version": { "const": "0.4.0" },
+    "id": {
+      "type": "string",
+      "pattern": "^ps1650\\.psalm-[0-9]{3}\\.(primary|alternate)\\.setting\\.[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "psalm_id": {
+      "type": "string",
+      "pattern": "^ps1650\\.psalm-[0-9]{3}\\.(primary|alternate)$"
+    },
+    "tune_id": {
+      "type": "string",
+      "pattern": "^ps1650\\.tune\\.[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "lead_in": { "const": "satb" },
+    "inter_stanza_ticks": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Two notated beats in the selected tune; exact tune-relative equality is enforced by corpus validation."
+    },
+    "stanzas": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["stanza_id", "lines"],
+        "properties": {
+          "stanza_id": { "type": "string", "minLength": 1 },
+          "lines": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": ["line_id", "phrase_id", "tokens"],
+              "properties": {
+                "line_id": { "type": "string", "minLength": 1 },
+                "phrase_id": { "type": "string", "minLength": 1 },
+                "tokens": {
+                  "type": "array",
+                  "minItems": 1,
+                  "items": {
+                    "type": "object",
+                    "required": [
+                      "id",
+                      "text",
+                      "syllables",
+                      "note_ids",
+                      "syllable_map"
+                    ],
+                    "properties": {
+                      "id": { "type": "string", "minLength": 1 },
+                      "text": { "type": "string", "minLength": 1 },
+                      "syllables": { "type": "integer", "minimum": 1 },
+                      "note_ids": {
+                        "type": "array",
+                        "minItems": 1,
+                        "items": { "type": "string", "minLength": 1 }
+                      },
+                      "syllable_map": {
+                        "type": "array",
+                        "minItems": 1,
+                        "items": {
+                          "type": "object",
+                          "required": ["id", "text", "note_ids"],
+                          "properties": {
+                            "id": { "type": "string", "minLength": 1 },
+                            "text": { "type": "string", "minLength": 1 },
+                            "note_ids": {
+                              "type": "array",
+                              "minItems": 1,
+                              "items": {
+                                "type": "string",
+                                "minLength": 1
+                              }
+                            }
+                          },
+                          "additionalProperties": false
+                        }
+                      }
+                    },
+                    "additionalProperties": false
+                  }
+                }
+              },
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "rights": {
+      "type": "object",
+      "required": ["alignment", "metadata"],
+      "properties": {
+        "alignment": { "const": "CC0-1.0" },
+        "metadata": { "const": "CC0-1.0" }
+      },
+      "additionalProperties": false
+    }
+  }
+}

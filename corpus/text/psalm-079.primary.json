@@ -1,0 +1,696 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-079.primary",
+  "psalm_number": 79,
+  "title": "Psalm 79",
+  "version": "primary",
+  "opening_line": "O God, the heathen entered have",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 79 · p. 114–115",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-079-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      114,
+      115
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-079.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-079.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O God, the heathen entered have",
+            "normalized": "O God, the heathen entered have",
+            "reading": "O God, the heathen entered have"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thine heritage; by them",
+            "normalized": "Thine heritage; by them",
+            "reading": "thine heritage; by them"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Defilèd is thy house: on heaps",
+            "normalized": "Defilèd is thy house: on heaps",
+            "reading": "Defilèd is thy house: on heaps"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they laid Jerusalem.",
+            "normalized": "They laid Jerusalem.",
+            "reading": "they laid Jerusalem."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-079.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-079.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The bodies of thy servants they",
+            "normalized": "The bodies of thy servants they",
+            "reading": "The bodies of thy servants they"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "have cast forth to be meat",
+            "normalized": "Have cast forth to be meat",
+            "reading": "have cast forth to be meat"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To rav’nous fowls; thy dear saints’ flesh",
+            "normalized": "To rav’nous fowls; thy dear saints’ flesh",
+            "reading": "To rav’nous fowls; thy dear saints’ flesh"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they gave to beasts to eat.",
+            "normalized": "They gave to beasts to eat.",
+            "reading": "they gave to beasts to eat."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-079.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-079.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their blood about Jerusalem",
+            "normalized": "Their blood about Jerusalem",
+            "reading": "Their blood about Jerusalem"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "like water they have shed;",
+            "normalized": "Like water they have shed;",
+            "reading": "like water they have shed;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And there was none to bury them",
+            "normalized": "And there was none to bury them",
+            "reading": "And there was none to bury them"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "when they were slain and dead.",
+            "normalized": "When they were slain and dead.",
+            "reading": "when they were slain and dead."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-079.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-079.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto our neighbours a reproach",
+            "normalized": "Unto our neighbours a reproach",
+            "reading": "Unto our neighbours a reproach"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "most base become are we;",
+            "normalized": "Most base become are we;",
+            "reading": "most base become are we;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A scorn and laughingstock to them",
+            "normalized": "A scorn and laughingstock to them",
+            "reading": "A scorn and laughingstock to them"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that round about us be.",
+            "normalized": "That round about us be.",
+            "reading": "that round about us be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-079.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-079.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "How long, LORD, shall thine anger last?",
+            "normalized": "How long, LORD, shall thine anger last?",
+            "reading": "How long, LORD, shall thine anger last?"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "wilt thou still keep the same?",
+            "normalized": "Wilt thou still keep the same?",
+            "reading": "wilt thou still keep the same?"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And shall thy fervent jealousy",
+            "normalized": "And shall thy fervent jealousy",
+            "reading": "And shall thy fervent jealousy"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "burn like unto a flame?",
+            "normalized": "Burn like unto a flame?",
+            "reading": "burn like unto a flame?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-079.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-079.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "On heathen pour thy fury forth,",
+            "normalized": "On heathen pour thy fury forth,",
+            "reading": "On heathen pour thy fury forth,"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that have thee never known,",
+            "normalized": "That have thee never known,",
+            "reading": "that have thee never known,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And on those kingdoms which thy name",
+            "normalized": "And on those kingdoms which thy name",
+            "reading": "And on those kingdoms which thy name"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "have never called upon.",
+            "normalized": "Have never called upon.",
+            "reading": "have never called upon."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-079.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-079.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For these are they who Jacob have",
+            "normalized": "For these are they who Jacob have",
+            "reading": "For these are they who Jacob have"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "devourèd cruelly;",
+            "normalized": "Devourèd cruelly;",
+            "reading": "devourèd cruelly;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And they his habitätion",
+            "normalized": "And they his habitätion",
+            "reading": "And they his habitätion"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "have causèd waste to lie.",
+            "normalized": "Have causèd waste to lie.",
+            "reading": "have causèd waste to lie."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-079.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-079.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Against us mind not former sins;",
+            "normalized": "Against us mind not former sins;",
+            "reading": "Against us mind not former sins;"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy tender mercies show;",
+            "normalized": "Thy tender mercies show;",
+            "reading": "thy tender mercies show;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let them prevent us speedily,",
+            "normalized": "Let them prevent us speedily,",
+            "reading": "Let them prevent us speedily,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for we’re brought very low.",
+            "normalized": "For we’re brought very low.",
+            "reading": "for we’re brought very low."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-079.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-079.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thy name’s glory help us, Lord,",
+            "normalized": "For thy name’s glory help us, Lord,",
+            "reading": "For thy name’s glory help us, Lord,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who hast our Saviour been:",
+            "normalized": "Who hast our Saviour been:",
+            "reading": "who hast our Saviour been:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Deliver us; for thy name’s sake,",
+            "normalized": "Deliver us; for thy name’s sake,",
+            "reading": "Deliver us; for thy name’s sake,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O purge away our sin.",
+            "normalized": "O purge away our sin.",
+            "reading": "O purge away our sin."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-079.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-079.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Why say the heathen, Where’s their God?",
+            "normalized": "Why say the heathen, Where’s their God?",
+            "reading": "Why say the heathen, Where’s their God?"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let him to them be known;",
+            "normalized": "Let him to them be known;",
+            "reading": "let him to them be known;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "When those who shed thy servants’ blood",
+            "normalized": "When those who shed thy servants’ blood",
+            "reading": "When those who shed thy servants’ blood"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "are in our sight o’erthrown.",
+            "normalized": "Are in our sight o’erthrown.",
+            "reading": "are in our sight o’erthrown."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-079.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-079.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O let the pris’ner’s sighs ascend",
+            "normalized": "O let the pris’ner’s sighs ascend",
+            "reading": "O let the pris’ner’s sighs ascend"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "before thy sight on high;",
+            "normalized": "Before thy sight on high;",
+            "reading": "before thy sight on high;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Preserve those in thy mighty pow’r",
+            "normalized": "Preserve those in thy mighty pow’r",
+            "reading": "Preserve those in thy mighty pow’r"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that are designed to die.",
+            "normalized": "That are designed to die.",
+            "reading": "that are designed to die."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-079.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-079.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And to our neighbours’ bosom cause",
+            "normalized": "And to our neighbours’ bosom cause",
+            "reading": "And to our neighbours’ bosom cause"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "it sev’n-fold rendered be,",
+            "normalized": "It sev’n-fold rendered be,",
+            "reading": "it sev’n-fold rendered be,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n the reproach wherewith they have,",
+            "normalized": "Ev’n the reproach wherewith they have,",
+            "reading": "Ev’n the reproach wherewith they have,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O Lord, reproachèd thee.",
+            "normalized": "O Lord, reproachèd thee.",
+            "reading": "O Lord, reproachèd thee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-079.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-079.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "So we thy folk, and pasture-sheep,",
+            "normalized": "So we thy folk, and pasture-sheep,",
+            "reading": "So we thy folk, and pasture-sheep,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall give thee thanks always;",
+            "normalized": "Shall give thee thanks always;",
+            "reading": "shall give thee thanks always;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And unto generations all",
+            "normalized": "And unto generations all",
+            "reading": "And unto generations all"
+          }
+        },
+        {
+          "id": "ps1650.psalm-079.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "we will show forth thy praise.",
+            "normalized": "We will show forth thy praise.",
+            "reading": "we will show forth thy praise."
+          }
+        }
+      ]
+    }
+  ]
+}

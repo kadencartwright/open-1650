@@ -1,0 +1,350 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-012.primary",
+  "psalm_number": 12,
+  "title": "Psalm 12",
+  "version": "primary",
+  "opening_line": "Help, LORD, because the godly man",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 12 · p. 17–18",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-012-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      17,
+      18
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-012.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-012.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Help, LORD, because the godly man",
+            "normalized": "Help, LORD, because the godly man",
+            "reading": "Help, LORD, because the godly man"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth daily fade away;",
+            "normalized": "Doth daily fade away;",
+            "reading": "doth daily fade away;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And from among the sons of men",
+            "normalized": "And from among the sons of men",
+            "reading": "And from among the sons of men"
+          }
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the faithful do decay.",
+            "normalized": "The faithful do decay.",
+            "reading": "the faithful do decay."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-012.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-012.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto his neighbour everyone",
+            "normalized": "Unto his neighbour everyone",
+            "reading": "Unto his neighbour everyone"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth utter vanity:",
+            "normalized": "Doth utter vanity:",
+            "reading": "doth utter vanity:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They with a double heart do speak,",
+            "normalized": "They with a double heart do speak,",
+            "reading": "They with a double heart do speak,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and lips of flattery.",
+            "normalized": "And lips of flattery.",
+            "reading": "and lips of flattery."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-012.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-012.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD shall cut off all flatt’ring lips,",
+            "normalized": "GOD shall cut off all flatt’ring lips,",
+            "reading": "GOD shall cut off all flatt’ring lips,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "tongues that speak proudly thus,",
+            "normalized": "Tongues that speak proudly thus,",
+            "reading": "tongues that speak proudly thus,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "We’ll with our tongue prevail, our lips",
+            "normalized": "We’ll with our tongue prevail, our lips",
+            "reading": "We’ll with our tongue prevail, our lips"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "are ours: who’s lord o’er us?",
+            "normalized": "Are ours: who’s lord o’er us?",
+            "reading": "are ours: who’s lord o’er us?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-012.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-012.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For poor oppressed, and for the sighs",
+            "normalized": "For poor oppressed, and for the sighs",
+            "reading": "For poor oppressed, and for the sighs"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of needy, rise will I,",
+            "normalized": "Of needy, rise will I,",
+            "reading": "of needy, rise will I,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Saith GOD, and him in safety set",
+            "normalized": "Saith GOD, and him in safety set",
+            "reading": "Saith GOD, and him in safety set"
+          }
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from such as him defy.",
+            "normalized": "From such as him defy.",
+            "reading": "from such as him defy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-012.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-012.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The words of GOD are words most pure;",
+            "normalized": "The words of GOD are words most pure;",
+            "reading": "The words of GOD are words most pure;"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they be like silver tried",
+            "normalized": "They be like silver tried",
+            "reading": "they be like silver tried"
+          }
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In earthen furnace, seven times",
+            "normalized": "In earthen furnace, seven times",
+            "reading": "In earthen furnace, seven times"
+          }
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "that hath been purified.",
+            "normalized": "That hath been purified.",
+            "reading": "that hath been purified."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-012.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7,
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-012.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "LORD, thou shalt them preserve and keep",
+            "normalized": "LORD, thou shalt them preserve and keep",
+            "reading": "LORD, thou shalt them preserve and keep"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "for ever from this race.",
+            "normalized": "For ever from this race.",
+            "reading": "for ever from this race."
+          }
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "On each side walk the wicked, when",
+            "normalized": "On each side walk the wicked, when",
+            "reading": "On each side walk the wicked, when"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-012.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "vile men are high in place.",
+            "normalized": "Vile men are high in place.",
+            "reading": "vile men are high in place."
+          }
+        }
+      ]
+    }
+  ]
+}

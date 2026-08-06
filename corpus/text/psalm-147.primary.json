@@ -1,0 +1,758 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-147.primary",
+  "psalm_number": 147,
+  "title": "Psalm 147",
+  "version": "primary",
+  "opening_line": "Praise ye the LORD; for it is good",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 147 · p. 208–209",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-147-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      208,
+      209
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-147.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-147.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Praise ye the LORD; for it is good",
+            "normalized": "Praise ye the LORD; for it is good",
+            "reading": "Praise ye the LORD; for it is good"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "praise to our God to sing:",
+            "normalized": "Praise to our God to sing:",
+            "reading": "praise to our God to sing:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For it is pleasant, and to praise",
+            "normalized": "For it is pleasant, and to praise",
+            "reading": "For it is pleasant, and to praise"
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "it is a comely thing.",
+            "normalized": "It is a comely thing.",
+            "reading": "it is a comely thing."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-147.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-147.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD doth build up Jerusalem;",
+            "normalized": "GOD doth build up Jerusalem;",
+            "reading": "GOD doth build up Jerusalem;"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and he it is alone",
+            "normalized": "And he it is alone",
+            "reading": "and he it is alone"
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That the dispersed of Israel",
+            "normalized": "That the dispersed of Israel",
+            "reading": "That the dispersed of Israel"
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "doth gather into one.",
+            "normalized": "Doth gather into one.",
+            "reading": "doth gather into one."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-147.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-147.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Those that are broken in their heart,",
+            "normalized": "Those that are broken in their heart,",
+            "reading": "Those that are broken in their heart,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and grievèd in their minds,",
+            "normalized": "And grievèd in their minds,",
+            "reading": "and grievèd in their minds,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He healeth, and their painful wounds",
+            "normalized": "He healeth, and their painful wounds",
+            "reading": "He healeth, and their painful wounds"
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he tenderly up-binds.",
+            "normalized": "He tenderly up-binds.",
+            "reading": "he tenderly up-binds."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-147.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4,
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-147.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He counts the number of the stars;",
+            "normalized": "He counts the number of the stars;",
+            "reading": "He counts the number of the stars;"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "he names them ev’ry one.",
+            "normalized": "He names them ev’ry one.",
+            "reading": "he names them ev’ry one."
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Great is our Lord, and of great pow’r;",
+            "normalized": "Great is our Lord, and of great pow’r;",
+            "reading": "Great is our Lord, and of great pow’r;"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his wisdom search can none.",
+            "normalized": "His wisdom search can none.",
+            "reading": "his wisdom search can none."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-147.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6,
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-147.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD lifts up the meek; and casts",
+            "normalized": "The LORD lifts up the meek; and casts",
+            "reading": "The LORD lifts up the meek; and casts"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the wicked to the ground.",
+            "normalized": "The wicked to the ground.",
+            "reading": "the wicked to the ground."
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Sing to the LORD, and give him thanks;",
+            "normalized": "Sing to the LORD, and give him thanks;",
+            "reading": "Sing to the LORD, and give him thanks;"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "on harp his praises sound;",
+            "normalized": "On harp his praises sound;",
+            "reading": "on harp his praises sound;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-147.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-147.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who covereth the heav’n with clouds,",
+            "normalized": "Who covereth the heav’n with clouds,",
+            "reading": "Who covereth the heav’n with clouds,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who for the earth below",
+            "normalized": "Who for the earth below",
+            "reading": "who for the earth below"
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Prepareth rain, who maketh grass",
+            "normalized": "Prepareth rain, who maketh grass",
+            "reading": "Prepareth rain, who maketh grass"
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "upon the mountains grow.",
+            "normalized": "Upon the mountains grow.",
+            "reading": "upon the mountains grow."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-147.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9,
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-147.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He gives the beast his food, he feeds",
+            "normalized": "He gives the beast his food, he feeds",
+            "reading": "He gives the beast his food, he feeds"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the ravens young that cry.",
+            "normalized": "The ravens young that cry.",
+            "reading": "the ravens young that cry."
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His pleasure not in horses’ strength,",
+            "normalized": "His pleasure not in horses’ strength,",
+            "reading": "His pleasure not in horses’ strength,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "nor in man’s legs, doth lie.",
+            "normalized": "Nor in man’s legs, doth lie.",
+            "reading": "nor in man’s legs, doth lie."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-147.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-147.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But in all those that do him fear",
+            "normalized": "But in all those that do him fear",
+            "reading": "But in all those that do him fear"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the LORD doth pleasure take;",
+            "normalized": "The LORD doth pleasure take;",
+            "reading": "the LORD doth pleasure take;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In those that to his mercy do",
+            "normalized": "In those that to his mercy do",
+            "reading": "In those that to his mercy do"
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "by hope themselves betake.",
+            "normalized": "By hope themselves betake.",
+            "reading": "by hope themselves betake."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-147.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        12,
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-147.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD praise, O Jerusalem;",
+            "normalized": "The LORD praise, O Jerusalem;",
+            "reading": "The LORD praise, O Jerusalem;"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "Zion, thy God confess:",
+            "normalized": "Zion, thy God confess:",
+            "reading": "Zion, thy God confess:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For thy gates’ bars he maketh strong;",
+            "normalized": "For thy gates’ bars he maketh strong;",
+            "reading": "For thy gates’ bars he maketh strong;"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thy sons in thee doth bless.",
+            "normalized": "Thy sons in thee doth bless.",
+            "reading": "thy sons in thee doth bless."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-147.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        14,
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-147.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He in thy borders maketh peace;",
+            "normalized": "He in thy borders maketh peace;",
+            "reading": "He in thy borders maketh peace;"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "with fine wheat filleth thee.",
+            "normalized": "With fine wheat filleth thee.",
+            "reading": "with fine wheat filleth thee."
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He sends forth his command on earth,",
+            "normalized": "He sends forth his command on earth,",
+            "reading": "He sends forth his command on earth,"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his word runs speedily.",
+            "normalized": "His word runs speedily.",
+            "reading": "his word runs speedily."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-147.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        16,
+        17
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-147.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Hoar-frost, like ashes, scatt’reth he;",
+            "normalized": "Hoar-frost, like ashes, scatt’reth he;",
+            "reading": "Hoar-frost, like ashes, scatt’reth he;"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "like wool he snow doth give:",
+            "normalized": "Like wool he snow doth give:",
+            "reading": "like wool he snow doth give:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Like morsels casteth forth his ice;",
+            "normalized": "Like morsels casteth forth his ice;",
+            "reading": "Like morsels casteth forth his ice;"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "who in its cold can live?",
+            "normalized": "Who in its cold can live?",
+            "reading": "who in its cold can live?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-147.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-147.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He sendeth forth his mighty word,",
+            "normalized": "He sendeth forth his mighty word,",
+            "reading": "He sendeth forth his mighty word,"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and melteth them again;",
+            "normalized": "And melteth them again;",
+            "reading": "and melteth them again;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His wind he makes to blow, and then",
+            "normalized": "His wind he makes to blow, and then",
+            "reading": "His wind he makes to blow, and then"
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the waters flow amain.",
+            "normalized": "The waters flow amain.",
+            "reading": "the waters flow amain."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-147.primary.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        19
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-147.primary.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The doctrine of his holy word",
+            "normalized": "The doctrine of his holy word",
+            "reading": "The doctrine of his holy word"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to Jacob he doth show;",
+            "normalized": "To Jacob he doth show;",
+            "reading": "to Jacob he doth show;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His statutes and his judgments he",
+            "normalized": "His statutes and his judgments he",
+            "reading": "His statutes and his judgments he"
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "gives Israèl to know.",
+            "normalized": "Gives Israèl to know.",
+            "reading": "gives Israèl to know."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-147.primary.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        20
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-147.primary.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To any nation never he",
+            "normalized": "To any nation never he",
+            "reading": "To any nation never he"
+          },
+          "biblical_verse_start": 20
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "such favour did afford;",
+            "normalized": "Such favour did afford;",
+            "reading": "such favour did afford;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For they his judgments have not known.",
+            "normalized": "For they his judgments have not known.",
+            "reading": "For they his judgments have not known."
+          }
+        },
+        {
+          "id": "ps1650.psalm-147.primary.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "O do ye praise the LORD.",
+            "normalized": "O do ye praise the LORD.",
+            "reading": "O do ye praise the LORD."
+          }
+        }
+      ]
+    }
+  ]
+}

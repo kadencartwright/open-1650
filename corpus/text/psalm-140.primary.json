@@ -1,0 +1,655 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-140.primary",
+  "psalm_number": 140,
+  "title": "Psalm 140",
+  "version": "primary",
+  "opening_line": "LORD, from the ill and froward man",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 140 · p. 198–199",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-140-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      198,
+      199
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-140.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-140.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "LORD, from the ill and froward man",
+            "normalized": "LORD, from the ill and froward man",
+            "reading": "LORD, from the ill and froward man"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "give me deliverance,",
+            "normalized": "Give me deliverance,",
+            "reading": "give me deliverance,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And do thou safe preserve me from",
+            "normalized": "And do thou safe preserve me from",
+            "reading": "And do thou safe preserve me from"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the man of violence:",
+            "normalized": "The man of violence:",
+            "reading": "the man of violence:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-140.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-140.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who in their heart mischievous things",
+            "normalized": "Who in their heart mischievous things",
+            "reading": "Who in their heart mischievous things"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "are meditating ever;",
+            "normalized": "Are meditating ever;",
+            "reading": "are meditating ever;"
+          },
+          "source_underlining": [
+            "ever"
+          ]
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And they for war assembled are",
+            "normalized": "And they for war assembled are",
+            "reading": "And they for war assembled are"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "continually together.",
+            "normalized": "Continually together.",
+            "reading": "continually together."
+          },
+          "source_underlining": [
+            "ual",
+            "gether"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-140.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-140.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Much like unto a serpent’s tongue",
+            "normalized": "Much like unto a serpent’s tongue",
+            "reading": "Much like unto a serpent’s tongue"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "their tongues they sharp do make;",
+            "normalized": "Their tongues they sharp do make;",
+            "reading": "their tongues they sharp do make;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And underneath their lips there lies",
+            "normalized": "And underneath their lips there lies",
+            "reading": "And underneath their lips there lies"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "the poison of a snake.",
+            "normalized": "The poison of a snake.",
+            "reading": "the poison of a snake."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-140.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-140.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "LORD, keep me from the wicked’s hands,",
+            "normalized": "LORD, keep me from the wicked’s hands,",
+            "reading": "LORD, keep me from the wicked’s hands,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "from vi’lent men me save;",
+            "normalized": "From vi’lent men me save;",
+            "reading": "from vi’lent men me save;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who utterly to overthrow",
+            "normalized": "Who utterly to overthrow",
+            "reading": "Who utterly to overthrow"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my goings purposed have.",
+            "normalized": "My goings purposed have.",
+            "reading": "my goings purposed have."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-140.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-140.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The proud for me a snare have hid,",
+            "normalized": "The proud for me a snare have hid,",
+            "reading": "The proud for me a snare have hid,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and cords; yea, they a net",
+            "normalized": "And cords; yea, they a net",
+            "reading": "and cords; yea, they a net"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Have by the wayside for me spread;",
+            "normalized": "Have by the wayside for me spread;",
+            "reading": "Have by the wayside for me spread;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "they gins for me have set.",
+            "normalized": "They gins for me have set.",
+            "reading": "they gins for me have set."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-140.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-140.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I said unto the LORD, Thou art",
+            "normalized": "I said unto the LORD, Thou art",
+            "reading": "I said unto the LORD, Thou art"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my God: unto the cry",
+            "normalized": "My God: unto the cry",
+            "reading": "my God: unto the cry"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of all my supplicätions,",
+            "normalized": "Of all my supplicätions,",
+            "reading": "Of all my supplicätions,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "LORD, do thine ear apply.",
+            "normalized": "LORD, do thine ear apply.",
+            "reading": "LORD, do thine ear apply."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-140.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-140.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O GOD the Lord, who art the strength",
+            "normalized": "O GOD the Lord, who art the strength",
+            "reading": "O GOD the Lord, who art the strength"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of my salvätion:",
+            "normalized": "Of my salvätion:",
+            "reading": "of my salvätion:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "A cov’ring in the day of war",
+            "normalized": "A cov’ring in the day of war",
+            "reading": "A cov’ring in the day of war"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my head thou hast put on.",
+            "normalized": "My head thou hast put on.",
+            "reading": "my head thou hast put on."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-140.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-140.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto the wicked man, O LORD,",
+            "normalized": "Unto the wicked man, O LORD,",
+            "reading": "Unto the wicked man, O LORD,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "his wishes do not grant;",
+            "normalized": "His wishes do not grant;",
+            "reading": "his wishes do not grant;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor further thou his ill device,",
+            "normalized": "Nor further thou his ill device,",
+            "reading": "Nor further thou his ill device,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "lest they themselves should vaunt.",
+            "normalized": "Lest they themselves should vaunt.",
+            "reading": "lest they themselves should vaunt."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-140.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-140.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "As for the head and chief of those",
+            "normalized": "As for the head and chief of those",
+            "reading": "As for the head and chief of those"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "about that compass me,",
+            "normalized": "About that compass me,",
+            "reading": "about that compass me,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n by the mischief of the lips",
+            "normalized": "Ev’n by the mischief of the lips",
+            "reading": "Ev’n by the mischief of the lips"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "let thou them covered be.",
+            "normalized": "Let thou them covered be.",
+            "reading": "let thou them covered be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-140.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-140.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let burning coals upon them fall,",
+            "normalized": "Let burning coals upon them fall,",
+            "reading": "Let burning coals upon them fall,"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "them throw in fiery flame,",
+            "normalized": "Them throw in fiery flame,",
+            "reading": "them throw in fiery flame,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in deep pits, that they no more",
+            "normalized": "And in deep pits, that they no more",
+            "reading": "And in deep pits, that they no more"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "may rise out of the same.",
+            "normalized": "May rise out of the same.",
+            "reading": "may rise out of the same."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-140.primary.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-140.primary.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Let not an evil speaker be",
+            "normalized": "Let not an evil speaker be",
+            "reading": "Let not an evil speaker be"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "on earth establishèd:",
+            "normalized": "On earth establishèd:",
+            "reading": "on earth establishèd:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Mischief shall hunt the vi’lent man,",
+            "normalized": "Mischief shall hunt the vi’lent man,",
+            "reading": "Mischief shall hunt the vi’lent man,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "till he be ruinèd.",
+            "normalized": "Till he be ruinèd.",
+            "reading": "till he be ruinèd."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-140.primary.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        12,
+        13
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-140.primary.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I know GOD will th’ afflicted’s cause",
+            "normalized": "I know GOD will th’ afflicted’s cause",
+            "reading": "I know GOD will th’ afflicted’s cause"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "maintain, and poor men’s right.",
+            "normalized": "Maintain, and poor men’s right.",
+            "reading": "maintain, and poor men’s right."
+          }
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Surely the just shall praise thy name;",
+            "normalized": "Surely the just shall praise thy name;",
+            "reading": "Surely the just shall praise thy name;"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-140.primary.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "th’ upright dwell in thy sight.",
+            "normalized": "Th’ upright dwell in thy sight.",
+            "reading": "th’ upright dwell in thy sight."
+          }
+        }
+      ]
+    }
+  ]
+}

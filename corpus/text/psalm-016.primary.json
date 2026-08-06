@@ -1,0 +1,547 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-016.primary",
+  "psalm_number": 16,
+  "title": "Psalm 16",
+  "version": "primary",
+  "opening_line": "Lord, keep me; for I trust in thee.",
+  "meter": {
+    "pattern": "8.6.8.6",
+    "name": "Common Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 16 · p. 19–20",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "single version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-016-(T) [C.M.].txt"
+    ],
+    "pdf_pages": [
+      19,
+      20
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-016.primary.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1,
+        2
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-016.primary.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Lord, keep me; for I trust in thee.",
+            "normalized": "Lord, keep me; for I trust in thee.",
+            "reading": "Lord, keep me; for I trust in thee."
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "To GOD thus was my speech,",
+            "normalized": "To GOD thus was my speech,",
+            "reading": "To GOD thus was my speech,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou art my Lord; and unto thee",
+            "normalized": "Thou art my Lord; and unto thee",
+            "reading": "Thou art my Lord; and unto thee"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my goodness doth not reach:",
+            "normalized": "My goodness doth not reach:",
+            "reading": "my goodness doth not reach:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-016.primary.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        3,
+        4
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-016.primary.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To saints on earth, to th’ excellent,",
+            "normalized": "To saints on earth, to th’ excellent,",
+            "reading": "To saints on earth, to th’ excellent,"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "where my delight’s all placed.",
+            "normalized": "Where my delight’s all placed.",
+            "reading": "where my delight’s all placed."
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their sorrows shall be multiplied",
+            "normalized": "Their sorrows shall be multiplied",
+            "reading": "Their sorrows shall be multiplied"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "to other gods that haste:",
+            "normalized": "To other gods that haste:",
+            "reading": "to other gods that haste:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-016.primary.stanza-03",
+      "number": 3,
+      "biblical_verses": [],
+      "lines": [
+        {
+          "id": "ps1650.psalm-016.primary.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of their drink-offerings of blood",
+            "normalized": "Of their drink-offerings of blood",
+            "reading": "Of their drink-offerings of blood"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I will no off’ring make;",
+            "normalized": "I will no off’ring make;",
+            "reading": "I will no off’ring make;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, neither I their very names",
+            "normalized": "Yea, neither I their very names",
+            "reading": "Yea, neither I their very names"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "up in my lips will take.",
+            "normalized": "Up in my lips will take.",
+            "reading": "up in my lips will take."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-016.primary.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-016.primary.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "GOD is of mine inheritance",
+            "normalized": "GOD is of mine inheritance",
+            "reading": "GOD is of mine inheritance"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and cup the pörtion;",
+            "normalized": "And cup the pörtion;",
+            "reading": "and cup the pörtion;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The lot that fallen is to me",
+            "normalized": "The lot that fallen is to me",
+            "reading": "The lot that fallen is to me"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "thou dost maintain alone.",
+            "normalized": "Thou dost maintain alone.",
+            "reading": "thou dost maintain alone."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-016.primary.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-016.primary.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto me happily the lines",
+            "normalized": "Unto me happily the lines",
+            "reading": "Unto me happily the lines"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in pleasant places fell;",
+            "normalized": "In pleasant places fell;",
+            "reading": "in pleasant places fell;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, the inheritance I got",
+            "normalized": "Yea, the inheritance I got",
+            "reading": "Yea, the inheritance I got"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in beauty doth excel.",
+            "normalized": "In beauty doth excel.",
+            "reading": "in beauty doth excel."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-016.primary.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-016.primary.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I bless the LORD, because he doth",
+            "normalized": "I bless the LORD, because he doth",
+            "reading": "I bless the LORD, because he doth"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "by counsel me conduct;",
+            "normalized": "By counsel me conduct;",
+            "reading": "by counsel me conduct;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And in the seasons of the night",
+            "normalized": "And in the seasons of the night",
+            "reading": "And in the seasons of the night"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "my reins do me instruct.",
+            "normalized": "My reins do me instruct.",
+            "reading": "my reins do me instruct."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-016.primary.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-016.primary.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Before me still the LORD I set:",
+            "normalized": "Before me still the LORD I set:",
+            "reading": "Before me still the LORD I set:"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "sith it is so that he",
+            "normalized": "Sith it is so that he",
+            "reading": "sith it is so that he"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Doth ever stand at my right hand,",
+            "normalized": "Doth ever stand at my right hand,",
+            "reading": "Doth ever stand at my right hand,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "I shall not movèd be.",
+            "normalized": "I shall not movèd be.",
+            "reading": "I shall not movèd be."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-016.primary.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        9
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-016.primary.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because of this my heart is glad,",
+            "normalized": "Because of this my heart is glad,",
+            "reading": "Because of this my heart is glad,"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "and joy shall be expressed",
+            "normalized": "And joy shall be expressed",
+            "reading": "and joy shall be expressed"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Ev’n by my glory; and my flesh",
+            "normalized": "Ev’n by my glory; and my flesh",
+            "reading": "Ev’n by my glory; and my flesh"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "in confidence shall rest.",
+            "normalized": "In confidence shall rest.",
+            "reading": "in confidence shall rest."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-016.primary.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-016.primary.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Because my soul in grave to dwell",
+            "normalized": "Because my soul in grave to dwell",
+            "reading": "Because my soul in grave to dwell"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "shall not be left by thee;",
+            "normalized": "Shall not be left by thee;",
+            "reading": "shall not be left by thee;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Nor wilt thou give thine Holy One",
+            "normalized": "Nor wilt thou give thine Holy One",
+            "reading": "Nor wilt thou give thine Holy One"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "corrüption to see.",
+            "normalized": "Corrüption to see.",
+            "reading": "corrüption to see."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-016.primary.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        11
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-016.primary.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thou wilt me show the path of life:",
+            "normalized": "Thou wilt me show the path of life:",
+            "reading": "Thou wilt me show the path of life:"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "of joys there is full store",
+            "normalized": "Of joys there is full store",
+            "reading": "of joys there is full store"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Before thy face; at thy right hand",
+            "normalized": "Before thy face; at thy right hand",
+            "reading": "Before thy face; at thy right hand"
+          }
+        },
+        {
+          "id": "ps1650.psalm-016.primary.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 6,
+          "text": {
+            "diplomatic": "are pleasures evermore.",
+            "normalized": "Are pleasures evermore.",
+            "reading": "are pleasures evermore."
+          }
+        }
+      ]
+    }
+  ]
+}

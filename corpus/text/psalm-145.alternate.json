@@ -1,0 +1,808 @@
+{
+  "$schema": "../schemas/psalm.schema.json",
+  "schema_version": "0.1.0",
+  "id": "ps1650.psalm-145.alternate",
+  "psalm_number": 145,
+  "title": "Psalm 145 · second version",
+  "version": "alternate",
+  "opening_line": "O Lord, thou art my God and King;",
+  "meter": {
+    "pattern": "8.8.8.8",
+    "name": "Long Meter"
+  },
+  "editorial_status": "prototype",
+  "edition_status": {
+    "diplomatic": "uncollated",
+    "normalized": "provisional",
+    "reading": "generated-preview"
+  },
+  "source": {
+    "witness_id": "fcos.received-text-2026",
+    "page_label": "Psalm 145 · p. 206–207",
+    "facsimile_url": "https://freechurch.org/wp-content/uploads/2026/05/Scottish-Psalter-Words-Only-Digital-Edition.pdf",
+    "received_text_url": "https://freechurch.org/wp-content/uploads/2025/10/PlainText.zip",
+    "printed_version": "second version",
+    "archive_members": [
+      "Scottish Psalter/Scottish-Psalter-145,-second-version-(T) [L.M.].txt"
+    ],
+    "pdf_pages": [
+      206,
+      207
+    ],
+    "note": "Received text from the official Free Church digital edition and plain-text archive."
+  },
+  "verification": {
+    "required_reviews": 2,
+    "completed_reviews": 0,
+    "state": "awaiting-verification"
+  },
+  "rights": {
+    "historic_text": "PDM-1.0",
+    "transcription": "CC0-1.0",
+    "metadata": "CC0-1.0"
+  },
+  "stanzas": [
+    {
+      "id": "ps1650.psalm-145.alternate.stanza-01",
+      "number": 1,
+      "biblical_verses": [
+        1
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-01.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O Lord, thou art my God and King;",
+            "normalized": "O Lord, thou art my God and King;",
+            "reading": "O Lord, thou art my God and King;"
+          },
+          "biblical_verse_start": 1
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-01.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thee will I magnify and praise:",
+            "normalized": "Thee will I magnify and praise:",
+            "reading": "Thee will I magnify and praise:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-01.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I will thee bless, and gladly sing",
+            "normalized": "I will thee bless, and gladly sing",
+            "reading": "I will thee bless, and gladly sing"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-01.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Unto thy holy name always.",
+            "normalized": "Unto thy holy name always.",
+            "reading": "Unto thy holy name always."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.alternate.stanza-02",
+      "number": 2,
+      "biblical_verses": [
+        2,
+        3
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-02.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Each day I rise I will thee bless,",
+            "normalized": "Each day I rise I will thee bless,",
+            "reading": "Each day I rise I will thee bless,"
+          },
+          "biblical_verse_start": 2
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-02.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And praise thy name time without end.",
+            "normalized": "And praise thy name time without end.",
+            "reading": "And praise thy name time without end."
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-02.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Much to be praised, and great God is;",
+            "normalized": "Much to be praised, and great God is;",
+            "reading": "Much to be praised, and great God is;"
+          },
+          "biblical_verse_start": 3
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-02.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His greatness none can comprehend.",
+            "normalized": "His greatness none can comprehend.",
+            "reading": "His greatness none can comprehend."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.alternate.stanza-03",
+      "number": 3,
+      "biblical_verses": [
+        4,
+        5
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-03.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Race shall thy works praise unto race,",
+            "normalized": "Race shall thy works praise unto race,",
+            "reading": "Race shall thy works praise unto race,"
+          },
+          "biblical_verse_start": 4
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-03.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The mighty acts show done by thee.",
+            "normalized": "The mighty acts show done by thee.",
+            "reading": "The mighty acts show done by thee."
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-03.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "I will speak of the glorious grace,",
+            "normalized": "I will speak of the glorious grace,",
+            "reading": "I will speak of the glorious grace,"
+          },
+          "biblical_verse_start": 5
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-03.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And honour of thy majesty;",
+            "normalized": "And honour of thy majesty;",
+            "reading": "And honour of thy majesty;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.alternate.stanza-04",
+      "number": 4,
+      "biblical_verses": [
+        6
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-04.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy wondrous works I will record.",
+            "normalized": "Thy wondrous works I will record.",
+            "reading": "Thy wondrous works I will record."
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-04.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "By men the might shall be extolled",
+            "normalized": "By men the might shall be extolled",
+            "reading": "By men the might shall be extolled"
+          },
+          "biblical_verse_start": 6
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-04.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of all thy dreadful acts, O LORD:",
+            "normalized": "Of all thy dreadful acts, O LORD:",
+            "reading": "Of all thy dreadful acts, O LORD:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-04.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And I thy greatness will unfold.",
+            "normalized": "And I thy greatness will unfold.",
+            "reading": "And I thy greatness will unfold."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.alternate.stanza-05",
+      "number": 5,
+      "biblical_verses": [
+        7
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-05.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "They utter shall abundantly",
+            "normalized": "They utter shall abundantly",
+            "reading": "They utter shall abundantly"
+          },
+          "biblical_verse_start": 7
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-05.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The mem’ry of thy goodness great;",
+            "normalized": "The mem’ry of thy goodness great;",
+            "reading": "The mem’ry of thy goodness great;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-05.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And shall sing praises cheerfully,",
+            "normalized": "And shall sing praises cheerfully,",
+            "reading": "And shall sing praises cheerfully,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-05.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Whilst they thy righteousness relate.",
+            "normalized": "Whilst they thy righteousness relate.",
+            "reading": "Whilst they thy righteousness relate."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.alternate.stanza-06",
+      "number": 6,
+      "biblical_verses": [
+        8
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-06.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD our God is gräcious,",
+            "normalized": "The LORD our God is gräcious,",
+            "reading": "The LORD our God is gräcious,"
+          },
+          "biblical_verse_start": 8
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-06.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Compassionate is he also;",
+            "normalized": "Compassionate is he also;",
+            "reading": "Compassionate is he also;"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-06.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "In mercy he is plenteous,",
+            "normalized": "In mercy he is plenteous,",
+            "reading": "In mercy he is plenteous,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-06.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But unto wrath and anger slow.",
+            "normalized": "But unto wrath and anger slow.",
+            "reading": "But unto wrath and anger slow."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.alternate.stanza-07",
+      "number": 7,
+      "biblical_verses": [
+        9,
+        10
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-07.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Good unto all men is the LORD:",
+            "normalized": "Good unto all men is the LORD:",
+            "reading": "Good unto all men is the LORD:"
+          },
+          "biblical_verse_start": 9
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-07.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "O’er all his works his mercy is.",
+            "normalized": "O’er all his works his mercy is.",
+            "reading": "O’er all his works his mercy is."
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-07.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy works all praise to thee afford:",
+            "normalized": "Thy works all praise to thee afford:",
+            "reading": "Thy works all praise to thee afford:"
+          },
+          "biblical_verse_start": 10
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-07.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy saints, O LORD, thy name shall bless.",
+            "normalized": "Thy saints, O LORD, thy name shall bless.",
+            "reading": "Thy saints, O LORD, thy name shall bless."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.alternate.stanza-08",
+      "number": 8,
+      "biblical_verses": [
+        11,
+        12
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-08.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The glory of thy kingdom show",
+            "normalized": "The glory of thy kingdom show",
+            "reading": "The glory of thy kingdom show"
+          },
+          "biblical_verse_start": 11
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-08.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Shall they, and of thy power tell:",
+            "normalized": "Shall they, and of thy power tell:",
+            "reading": "Shall they, and of thy power tell:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-08.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That so men’s sons his deeds may know,",
+            "normalized": "That so men’s sons his deeds may know,",
+            "reading": "That so men’s sons his deeds may know,"
+          },
+          "biblical_verse_start": 12
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-08.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "His kingdom’s grace that doth excel.",
+            "normalized": "His kingdom’s grace that doth excel.",
+            "reading": "His kingdom’s grace that doth excel."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.alternate.stanza-09",
+      "number": 9,
+      "biblical_verses": [
+        13,
+        14
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-09.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Thy kingdom hath none end at all,",
+            "normalized": "Thy kingdom hath none end at all,",
+            "reading": "Thy kingdom hath none end at all,"
+          },
+          "biblical_verse_start": 13
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-09.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "It doth through ages all remain.",
+            "normalized": "It doth through ages all remain.",
+            "reading": "It doth through ages all remain."
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-09.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD upholdeth all that fall,",
+            "normalized": "The LORD upholdeth all that fall,",
+            "reading": "The LORD upholdeth all that fall,"
+          },
+          "biblical_verse_start": 14
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-09.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The cast-down raiseth up again.",
+            "normalized": "The cast-down raiseth up again.",
+            "reading": "The cast-down raiseth up again."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.alternate.stanza-10",
+      "number": 10,
+      "biblical_verses": [
+        15
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-10.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The eyes of all things, Lord, attend,",
+            "normalized": "The eyes of all things, Lord, attend,",
+            "reading": "The eyes of all things, Lord, attend,"
+          },
+          "biblical_verse_start": 15
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-10.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And on thee wait that here do live,",
+            "normalized": "And on thee wait that here do live,",
+            "reading": "And on thee wait that here do live,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-10.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And thou, in season due, dost send",
+            "normalized": "And thou, in season due, dost send",
+            "reading": "And thou, in season due, dost send"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-10.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Sufficient food them to relieve.",
+            "normalized": "Sufficient food them to relieve.",
+            "reading": "Sufficient food them to relieve."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.alternate.stanza-11",
+      "number": 11,
+      "biblical_verses": [
+        16
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-11.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Yea, thou thine hand dost open wide,",
+            "normalized": "Yea, thou thine hand dost open wide,",
+            "reading": "Yea, thou thine hand dost open wide,"
+          },
+          "biblical_verse_start": 16
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-11.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And ev’rything dost satisfy",
+            "normalized": "And ev’rything dost satisfy",
+            "reading": "And ev’rything dost satisfy"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-11.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That lives, and doth on earth abide,",
+            "normalized": "That lives, and doth on earth abide,",
+            "reading": "That lives, and doth on earth abide,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-11.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of thy great liberality.",
+            "normalized": "Of thy great liberality.",
+            "reading": "Of thy great liberality."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.alternate.stanza-12",
+      "number": 12,
+      "biblical_verses": [
+        17,
+        18
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-12.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD is just in his ways all,",
+            "normalized": "The LORD is just in his ways all,",
+            "reading": "The LORD is just in his ways all,"
+          },
+          "biblical_verse_start": 17
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-12.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And holy in his works each one.",
+            "normalized": "And holy in his works each one.",
+            "reading": "And holy in his works each one."
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-12.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "He’s near to all that on him call,",
+            "normalized": "He’s near to all that on him call,",
+            "reading": "He’s near to all that on him call,"
+          },
+          "biblical_verse_start": 18
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-12.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Who call in truth on him alone.",
+            "normalized": "Who call in truth on him alone.",
+            "reading": "Who call in truth on him alone."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.alternate.stanza-13",
+      "number": 13,
+      "biblical_verses": [
+        19
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-13.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "God will the just desire fulfil",
+            "normalized": "God will the just desire fulfil",
+            "reading": "God will the just desire fulfil"
+          },
+          "biblical_verse_start": 19
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-13.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Of such as do him fear and dread:",
+            "normalized": "Of such as do him fear and dread:",
+            "reading": "Of such as do him fear and dread:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-13.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Their cry regard, and hear he will,",
+            "normalized": "Their cry regard, and hear he will,",
+            "reading": "Their cry regard, and hear he will,"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-13.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "And save them in the time of need.",
+            "normalized": "And save them in the time of need.",
+            "reading": "And save them in the time of need."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.alternate.stanza-14",
+      "number": 14,
+      "biblical_verses": [
+        20
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-14.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "The LORD preserves all, more and less,",
+            "normalized": "The LORD preserves all, more and less,",
+            "reading": "The LORD preserves all, more and less,"
+          },
+          "biblical_verse_start": 20
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-14.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "That bear to him a loving heart:",
+            "normalized": "That bear to him a loving heart:",
+            "reading": "That bear to him a loving heart:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-14.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "But workers all of wickedness",
+            "normalized": "But workers all of wickedness",
+            "reading": "But workers all of wickedness"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-14.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Destroy will he, and clean subvert.",
+            "normalized": "Destroy will he, and clean subvert.",
+            "reading": "Destroy will he, and clean subvert."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ps1650.psalm-145.alternate.stanza-15",
+      "number": 15,
+      "biblical_verses": [
+        21
+      ],
+      "lines": [
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-15.line-01",
+          "number": 1,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "Therefore my mouth and lips I’ll frame",
+            "normalized": "Therefore my mouth and lips I’ll frame",
+            "reading": "Therefore my mouth and lips I’ll frame"
+          },
+          "biblical_verse_start": 21
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-15.line-02",
+          "number": 2,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To speak the praises of the LORD:",
+            "normalized": "To speak the praises of the LORD:",
+            "reading": "To speak the praises of the LORD:"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-15.line-03",
+          "number": 3,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "To magnify his holy name",
+            "normalized": "To magnify his holy name",
+            "reading": "To magnify his holy name"
+          }
+        },
+        {
+          "id": "ps1650.psalm-145.alternate.stanza-15.line-04",
+          "number": 4,
+          "syllable_count": 8,
+          "text": {
+            "diplomatic": "For ever let all flesh accord.",
+            "normalized": "For ever let all flesh accord.",
+            "reading": "For ever let all flesh accord."
+          }
+        }
+      ]
+    }
+  ]
+}
