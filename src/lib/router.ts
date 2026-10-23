@@ -35,6 +35,7 @@ export function parseRoute(location: Location = window.location): AppRoute {
       segments[2] === "alternate" ? "alternate" : "primary";
     const requestedEdition = search.get("edition") as EditionKey | null;
     const requestedTune = search.get("tune");
+    const transpose = Number(search.get("transpose") ?? 0);
 
     return {
       view: "reader",
@@ -50,6 +51,8 @@ export function parseRoute(location: Location = window.location): AppRoute {
       ...(requestedTune && tuneSlugPattern.test(requestedTune)
         ? { tuneSlug: requestedTune }
         : {}),
+      ...(Number.isInteger(transpose) && transpose >= -12 && transpose <= 12 && transpose !== 0
+        ? { transpose } : {}),
     };
   }
 
@@ -62,8 +65,8 @@ export function routeToUrl(route: AppRoute): string {
   }
 
   const pathname = `/psalms/${padPsalm(route.psalmNumber)}/${route.version}`;
-  if (!route.tuneSlug) return pathname;
-
-  const search = new URLSearchParams({ tune: route.tuneSlug });
-  return `${pathname}?${search}`;
+  const search = new URLSearchParams();
+  if (route.tuneSlug) search.set("tune", route.tuneSlug);
+  if (route.transpose) search.set("transpose", String(route.transpose));
+  return search.size ? `${pathname}?${search}` : pathname;
 }

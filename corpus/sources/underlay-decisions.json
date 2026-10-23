@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0.0",
+  "decisions": [
+    {
+      "id": "psalm-002-primary-verse-6-compressed-endings",
+      "status": "awaiting-verification",
+      "psalm_id": "ps1650.psalm-002.primary",
+      "line_ids": [
+        "ps1650.psalm-002.primary.stanza-04.line-02",
+        "ps1650.psalm-002.primary.stanza-04.line-04"
+      ],
+      "source_wording_preserved": true,
+      "note_positions_per_word": 2,
+      "groups": {
+        "appointed;": [
+          "a",
+          "ppointed;"
+        ],
+        "anointed.": [
+          "a",
+          "nointed."
+        ]
+      },
+      "interpretation": "The initial unstressed a occupies the first note position. The remaining part of the word occupies the final note position, retaining the received spelling. These are compressed note groups, not a claim that the words have only two spoken syllables. No pitches, note timings, or diplomatic text were changed.",
+      "evidence": [
+        {
+          "url": "https://freechurch.org/wp-content/uploads/2021/06/Sing-Psalms-Combined-Words-Edition-incl.-Scottish-Psalter-with-bookmarks-Tune-Reccomendations.pdf#page=201",
+          "sha256": "b5f8110fd234de1fdd2a57709c6565bdf83295f09e580d7f39b87e908d697208",
+          "pdf_page": 201,
+          "observation": "Psalm 2:6 prints both appointed and anointed underlined. This supports special compression, but does not print the exact note-by-note division used here."
+        },
+        {
+          "url": "https://www.ccel.org/cceh/0004/000439a.pdf",
+          "sha256": "e02eac001b491ecc288b4139bebd8876003cb4c821deae29251e89694cba5da4",
+          "observation": "The referenced Dundee score, attributed to the Scottish Psalter of 1615, contains notes but no lyrics. It cannot directly verify this Psalm 2 word underlay."
+        },
+        {
+          "url": "https://raw.githubusercontent.com/textcreationpartnership/A76561/master/A76561.xml",
+          "sha256": "99b108dbe3ab40f87ed32cf7db03fb3db22980f9ca10f7f62f55f040c4fe16db",
+          "observation": "The TCP transcription of the named 1650 witness preserves appointed and anointed in Psalm II without an explicit musical underlay."
+        }
+      ],
+      "rationale": "The two existing note positions must not group the beginning and stressed stem together and then isolate the unstressed ed ending on the cadence. Separating the initial a better follows the words’ stress. The precise division remains an editorial interpretation rather than a verified historic score transcription."
+    }
+  ]
+}

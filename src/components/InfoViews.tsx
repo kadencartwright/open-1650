@@ -19,6 +19,7 @@ import type {
   TuneRecord,
 } from "../data/types";
 import { downloadExport, type ExportFormat } from "../lib/exports";
+import { tempoReference } from "../audio/performanceOptions";
 
 interface InfoViewProps {
   psalm: PsalmRecord;
@@ -37,6 +38,7 @@ export function SourcesView({
 }: SourcesViewProps) {
   const setting = findSetting(psalm.id);
   const tune = selectedTune ?? (setting ? findTune(setting.tune_id) : undefined);
+  const tempo = tune ? tempoReference(tune.id, psalm.id) : undefined;
 
   return (
     <main
@@ -164,6 +166,12 @@ export function SourcesView({
             </div>
           </section>
         )}
+        {tempo && <section className="border-t border-[#dcd5c8] py-8">
+          <h2 className="font-serif text-3xl">Tempo reference</h2>
+          <p className="text-sm leading-relaxed">{tune?.title}: quarter note = {tempo.bpm}. {tempo.note}</p>
+          <a href={tempo.url} target="_blank" rel="noreferrer" className="text-sm text-[#7f352d] underline">{tempo.label}</a>
+          <p className="text-sm leading-relaxed text-[#777268]">These are reference playback paces, not historical prescriptions. No implicit MIDI tempo is treated as an explicit marking. Your tempo is remembered separately for each Psalm version and tune.</p>
+        </section>}
       </article>
     </main>
   );

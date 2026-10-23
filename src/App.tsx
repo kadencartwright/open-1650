@@ -31,6 +31,8 @@ import type {
 import { defaultRoute, parseRoute, routeToUrl } from "./lib/router";
 import type { TogetherSelection } from "./sync/protocol";
 import { useTogetherSession } from "./sync/useTogetherSession";
+import { postNativeMessage } from "./lib/nativeBridge";
+import { nextPsalmNumber, readPlaybackPreference, savePlaybackPreference, transposedPerformanceId } from "./audio/performanceOptions";
 
 interface RouteData {
   psalm?: PsalmRecord;
@@ -125,6 +127,8 @@ function writeRoute(route: AppRoute, replace = false) {
 export default function App() {
   const [route, setRoute] = useState<AppRoute>(() => parseRoute());
   const [libraryOpen, setLibraryOpen] = useState(false);
+  const [autoplay, setAutoplay] = useState(() => readPlaybackPreference<boolean>("autoplay", false) === true);
+  const [autoplayTarget, setAutoplayTarget] = useState<number | null>(null);
   const [routeLoad, setRouteLoad] = useState<RouteLoadState>(() => {
     const initialRoute = parseRoute();
     const initial = cachedRouteData(initialRoute);
@@ -152,10 +156,11 @@ export default function App() {
             psalmNumber: psalm.psalm_number,
             version: psalm.version,
             tuneSlug: tune.id.replace(/^ps1650\.tune\./, ""),
-            performanceId: setting.id,
+            performanceId: transposedPerformanceId(setting.id, route.transpose ?? 0),
+            ...(route.transpose ? { transpose: route.transpose } : {}),
           }
         : null,
-    [psalm, setting, tune],
+    [psalm, setting, tune, route.transpose],
   );
   const applyTogetherSelection = useCallback(
     (nextSelection: TogetherSelection) => {
@@ -165,6 +170,7 @@ export default function App() {
         version: nextSelection.version,
         edition: "reading",
         tuneSlug: nextSelection.tuneSlug,
+        transpose: nextSelection.transpose,
       };
       setRoute(nextRoute);
       writeRoute(nextRoute, true);
@@ -182,7 +188,7 @@ export default function App() {
       writeRoute(defaultRoute, true);
     }
 
-    const onPopState = () => setRoute(parseRoute());
+    const onPopState = () => { setAutoplayTarget(null); setRoute(parseRoute()); };
     window.addEventListener("popstate", onPopState);
     return () => window.removeEventListener("popstate", onPopState);
   }, []);
@@ -239,6 +245,7 @@ export default function App() {
 
   const navigate = (nextRoute: AppRoute, options?: { replace?: boolean }) => {
     if (together.snapshot.mode === "guest") return;
+    setAutoplayTarget(null);
     setRoute(nextRoute);
     writeRoute(nextRoute, options?.replace);
     setLibraryOpen(false);
@@ -254,6 +261,7 @@ export default function App() {
       psalmNumber,
       version: "primary",
       edition: "reading",
+      transpose: route.transpose,
     });
   };
 
@@ -278,6 +286,41 @@ export default function App() {
 
   const readerMode = route.view === "reader";
 
+  const advancePsalm = useCallback(() => {
+    const next = nextPsalmNumber(route.psalmNumber);
+    if (!next || together.snapshot.mode !== "idle") return;
+    const nextRoute: AppRoute = { view: "reader", psalmNumber: next, version: "primary", edition: "reading", transpose: route.transpose };
+    setAutoplayTarget(next);
+    setRoute(nextRoute);
+    writeRoute(nextRoute);
+  }, [route.psalmNumber, route.transpose, together.snapshot.mode]);
+
+  useEffect(() => {
+    postNativeMessage({ type: "route", route, guest: together.snapshot.mode === "guest" });
+    const announce = () => postNativeMessage({ type: "route", route, guest: together.snapshot.mode === "guest" });
+    window.addEventListener("open1650:host-ready", announce);
+    return () => window.removeEventListener("open1650:host-ready", announce);
+  }, [route, together.snapshot.mode]);
+
+  useEffect(() => {
+    const onNavigate = (event: Event) => {
+      const next = (event as CustomEvent<Partial<AppRoute>>).detail;
+      if (together.snapshot.mode === "guest" || !next) return;
+      const nextRoute = {
+        ...route,
+        ...next,
+        psalmNumber: Math.max(1, Math.min(150, next.psalmNumber ?? route.psalmNumber)),
+        tuneSlug: next.psalmNumber !== undefined ? next.tuneSlug : (next.tuneSlug ?? route.tuneSlug),
+      };
+      setAutoplayTarget(null);
+      setRoute(nextRoute);
+      writeRoute(nextRoute);
+      setLibraryOpen(false);
+    };
+    window.addEventListener("open1650:navigate", onNavigate);
+    return () => window.removeEventListener("open1650:navigate", onNavigate);
+  }, [route, together.snapshot.mode]);
+
   return (
     <div className="flex h-full min-w-0 flex-col font-sans text-[#26251f] selection:bg-[#7f352d] selection:text-white [&_:focus-visible]:outline-2 [&_:focus-visible]:outline-offset-[3px] [&_:focus-visible]:outline-[#7f352d] motion-reduce:[&_*]:scroll-auto motion-reduce:[&_*]:duration-[0.01ms] print:h-auto">
       <Header
@@ -291,6 +334,7 @@ export default function App() {
       <div
         className="grid min-h-0 min-w-0 flex-1 grid-cols-[254px_minmax(0,1fr)] overflow-hidden max-[1240px]:grid-cols-[230px_minmax(0,1fr)] max-[980px]:block max-[980px]:overflow-y-auto print:block print:overflow-visible"
         data-reader={readerMode}
+        data-reader-frame
       >
         <PsalterNav
           selectedPsalm={route.psalmNumber}
@@ -316,7 +360,7 @@ export default function App() {
 
         {readerMode && !loading && psalm && setting && tune && (
           <SingAlong
-            key={setting.id}
+            key={`${setting.id}:${route.transpose ?? 0}`}
             psalm={psalm}
             tune={tune}
             setting={setting}
@@ -326,6 +370,12 @@ export default function App() {
             together={together}
             togetherSelection={togetherSelection!}
             onSelectTune={selectTune}
+            transpose={route.transpose ?? 0}
+            onTranspose={(transpose) => navigate({ ...route, transpose: transpose || undefined }, { replace: true })}
+            autoplay={autoplay}
+            onAutoplayChange={(enabled) => { setAutoplay(enabled); savePlaybackPreference("autoplay", enabled); }}
+            autoStart={autoplayTarget === route.psalmNumber}
+            onAdvance={advancePsalm}
             onViewSources={() => navigateView("sources")}
           />
         )}

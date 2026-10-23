@@ -168,6 +168,7 @@ function installFakeAudioContext() {
 
 describe("sing-along application", () => {
   beforeEach(() => {
+    localStorage.clear();
     window.history.replaceState({}, "", "/psalms/100/primary");
   });
 
@@ -197,7 +198,7 @@ describe("sing-along application", () => {
       number: 1,
       tune: "St. Peter",
       lines: 24,
-      tempo: 86,
+      tempo: 64,
       key: "E-flat major",
       meter: "8.6.8.6",
       time: "4/4",
@@ -206,7 +207,7 @@ describe("sing-along application", () => {
       number: 23,
       tune: "Crimond",
       lines: 20,
-      tempo: 80,
+      tempo: 68,
       key: "F major",
       meter: "8.6.8.6",
       time: "3/4",
@@ -215,7 +216,7 @@ describe("sing-along application", () => {
       number: 100,
       tune: "Old Hundredth",
       lines: 16,
-      tempo: 84,
+      tempo: 120,
       key: "G major",
       meter: "8.8.8.8",
       time: "4/4",
@@ -340,7 +341,7 @@ describe("sing-along application", () => {
       expect(
         newOptions.getByRole("button", { name: "Loop verse" }),
       ).toHaveAttribute("aria-pressed", "false");
-      await waitFor(() => expect(audio.instances[0]?.closeCalls).toBe(1));
+      expect(audio.instances[0]?.closeCalls).toBe(0);
     } finally {
       audio.restore();
     }
@@ -659,7 +660,7 @@ describe("sing-along application", () => {
     }
   });
 
-  it("resets playback and closes the old audio context when selecting another song", async () => {
+  it("resets playback while retaining the unlocked audio context when selecting another song", async () => {
     const audio = installFakeAudioContext();
     const user = userEvent.setup();
     try {
@@ -714,7 +715,7 @@ describe("sing-along application", () => {
       );
       expect(
         newOptions.getByRole("slider", { name: "Tempo" }),
-      ).toHaveValue("80");
+      ).toHaveValue("68");
       expect(
         newOptions.getByRole("slider", { name: "Volume" }),
       ).toHaveValue("0.7");
@@ -725,7 +726,7 @@ describe("sing-along application", () => {
         screen.queryByRole("button", { name: /^Follow(?:ing)?$/ }),
       ).not.toBeInTheDocument();
       expect(screen.getByRole("button", { name: "Play tune" })).toBeVisible();
-      await waitFor(() => expect(audio.instances[0]?.closeCalls).toBe(1));
+      expect(audio.instances[0]?.closeCalls).toBe(0);
     } finally {
       audio.restore();
     }

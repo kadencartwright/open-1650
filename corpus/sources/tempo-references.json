@@ -1,0 +1,335 @@
+{
+  "schema_version": "1.0.0",
+  "checked_on": "2026-10-23",
+  "beat_unit": "quarter-note",
+  "policy": "Reference playback paces, not historical prescriptions. Prefer explicit tempo metadata from the bundled source score; otherwise use a matched church-published tune MIDI. Do not treat MIDI's implicit 120 BPM as an explicit marking. Psalm text can alter phrasing; save personal tempos per Psalm version and tune.",
+  "profiles": {
+    "abbey": {
+      "bpm": 84,
+      "basis": "church-midi",
+      "label": "Christ Covenant Psalter MIDI",
+      "url": "https://www.christcovenantrpc.org/audio/psalm-singing/",
+      "archive_url": "https://ccrpcorg.s3.amazonaws.com/Psalms/MIDI_Tunes.zip",
+      "archive_member": "MIDI_Tunes/Abbey.mid",
+      "sha256": "5d8f45768226f9e9eb7cfb2a904aafa6e9bfbb48a485fb6b5087ab20f530d33d",
+      "source_bpm": 84,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening tempo in the church-published tune MIDI; a reference pace rather than a historical metronome marking."
+    },
+    "auld-lang-syne": {
+      "bpm": 84,
+      "basis": "church-midi",
+      "label": "Christ Covenant Psalter MIDI",
+      "url": "https://www.christcovenantrpc.org/audio/psalm-singing/",
+      "archive_url": "https://ccrpcorg.s3.amazonaws.com/Psalms/MIDI_Tunes.zip",
+      "archive_member": "MIDI_Tunes/Auld Lang Syne.mid",
+      "sha256": "3b9a25293b0d1790ce591dd53a9ed58cbdcba90f3b044480c066e5f5c0437f1e",
+      "source_bpm": 84,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening tempo in the church-published tune MIDI; a reference pace rather than a historical metronome marking."
+    },
+    "bangor": {
+      "bpm": 105,
+      "basis": "source-midi",
+      "label": "CCEH source MIDI",
+      "url": "https://www.ccel.org/cceh/0010/001067a.mid",
+      "sha256": "83ac863ccc2b31349ede2d1c3afb8d8592bc983741c606117cd0b4dba80393c5",
+      "source_bpm": 105,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening MIDI tempo, converted to the quarter-note units of the bundled score."
+    },
+    "bishopgarth": {
+      "bpm": 84,
+      "basis": "editorial",
+      "label": "Editorial rehearsal pace",
+      "url": "https://www.ccel.org/cceh/0005/x000555.htm",
+      "note": "No explicit, matched tempo reference found. This provisional starting pace remains adjustable."
+    },
+    "caithness": {
+      "bpm": 105,
+      "basis": "source-midi",
+      "label": "CCEH source MIDI",
+      "url": "https://www.ccel.org/cceh/0005/000556a.mid",
+      "sha256": "36e9ec410738da391b24ff795b0d5218f785202106f66eda64c31e5e0a1ac1a6",
+      "source_bpm": 105,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening MIDI tempo, converted to the quarter-note units of the bundled score."
+    },
+    "coleshill": {
+      "bpm": 84,
+      "basis": "church-midi",
+      "label": "Christ Covenant Psalter MIDI",
+      "url": "https://www.christcovenantrpc.org/audio/psalm-singing/",
+      "archive_url": "https://ccrpcorg.s3.amazonaws.com/Psalms/MIDI_Tunes.zip",
+      "archive_member": "MIDI_Tunes/Coleshill.mid",
+      "sha256": "95ea440d66d35ec837ebdc8e41379f544ec89dd0d48286cce748462f05119763",
+      "source_bpm": 84,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening tempo in the church-published tune MIDI; a reference pace rather than a historical metronome marking."
+    },
+    "crimond": {
+      "bpm": 90,
+      "basis": "church-midi",
+      "label": "Christ Covenant Psalter MIDI",
+      "url": "https://www.christcovenantrpc.org/audio/psalm-singing/",
+      "archive_url": "https://ccrpcorg.s3.amazonaws.com/Psalms/MIDI_Tunes.zip",
+      "archive_member": "MIDI_Tunes/Crimond.mid",
+      "sha256": "1c041e0d021d2cc4f2b1d5b73d1f6a86b30dc1e4ad16c6a9f02986f33dad993e",
+      "source_bpm": 90,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening tempo in the church-published tune MIDI; a reference pace rather than a historical metronome marking."
+    },
+    "crofts-hundred-thirty-sixth": {
+      "bpm": 84,
+      "basis": "editorial",
+      "label": "Editorial rehearsal pace",
+      "url": "https://www.ccel.org/cceh/0012/x001261.htm",
+      "note": "No explicit, matched tempo reference found. This provisional starting pace remains adjustable."
+    },
+    "culross": {
+      "bpm": 84,
+      "basis": "church-midi",
+      "label": "Christ Covenant Psalter MIDI",
+      "url": "https://www.christcovenantrpc.org/audio/psalm-singing/",
+      "archive_url": "https://ccrpcorg.s3.amazonaws.com/Psalms/MIDI_Tunes.zip",
+      "archive_member": "MIDI_Tunes/Culross.mid",
+      "sha256": "e97df8b9d92b5ab92b6f1afa88950633454b742dfc6b3acb7496e7ef20a01a82",
+      "source_bpm": 84,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening tempo in the church-published tune MIDI; a reference pace rather than a historical metronome marking."
+    },
+    "dundee": {
+      "bpm": 100,
+      "basis": "source-midi",
+      "label": "CCEH source MIDI",
+      "url": "https://www.ccel.org/cceh/0004/000439b.mid",
+      "sha256": "81bc8f5d93075094b340c1f9fa786356db5180c11c9ce4a9d3f123363ba2c70d",
+      "source_bpm": 200,
+      "rhythmic_scale": 0.5,
+      "note": "Explicit opening MIDI tempo, converted to the quarter-note units of the bundled score."
+    },
+    "kilmarnock": {
+      "bpm": 84,
+      "basis": "church-midi",
+      "label": "Christ Covenant Psalter MIDI",
+      "url": "https://www.christcovenantrpc.org/audio/psalm-singing/",
+      "archive_url": "https://ccrpcorg.s3.amazonaws.com/Psalms/MIDI_Tunes.zip",
+      "archive_member": "MIDI_Tunes/Kilmarnock.mid",
+      "sha256": "707cd9b27894ba042fb75f065c66b5bb20d8611d4f6fe928575177373a3e935c",
+      "source_bpm": 84,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening tempo in the church-published tune MIDI; a reference pace rather than a historical metronome marking."
+    },
+    "martyrdom": {
+      "bpm": 90,
+      "basis": "church-midi",
+      "label": "Christ Covenant Psalter MIDI",
+      "url": "https://www.christcovenantrpc.org/audio/psalm-singing/",
+      "archive_url": "https://ccrpcorg.s3.amazonaws.com/Psalms/MIDI_Tunes.zip",
+      "archive_member": "MIDI_Tunes/Martyrdom.mid",
+      "sha256": "426c210b16e988c07d6ba7fcd2d0b5906d42a99c1b1b7edfeb4df322e4dc58e0",
+      "source_bpm": 90,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening tempo in the church-published tune MIDI; a reference pace rather than a historical metronome marking."
+    },
+    "old-hundred-thirty-fourth": {
+      "bpm": 84,
+      "basis": "editorial",
+      "label": "Editorial rehearsal pace",
+      "url": "https://www.ccel.org/cceh/0000/x000026.htm",
+      "note": "No explicit, matched tempo reference found. This provisional starting pace remains adjustable."
+    },
+    "old-hundred-twenty-fourth": {
+      "bpm": 120,
+      "basis": "church-midi",
+      "label": "Christ Covenant Psalter MIDI",
+      "url": "https://www.christcovenantrpc.org/audio/psalm-singing/",
+      "archive_url": "https://ccrpcorg.s3.amazonaws.com/Psalms/MIDI_Tunes.zip",
+      "archive_member": "MIDI_Tunes/Old 124th.mid",
+      "sha256": "7cfc0b636a9088ee226ad0904444c5743cff6ad0968f6140dbcc37731439bd92",
+      "source_bpm": 120,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening tempo in the church-published tune MIDI; a reference pace rather than a historical metronome marking."
+    },
+    "old-hundredth": {
+      "bpm": 120,
+      "basis": "source-score",
+      "label": "Mutopia source score",
+      "url": "https://www.mutopiaproject.org/ftp/Anonymous/Old100-orig/Old100-orig.ly",
+      "sha256": "439d4597a70d553188e90daf78b9cce53c2399fc583ca2da8a01af3e259f029c",
+      "source_bpm": 240,
+      "rhythmic_scale": 0.5,
+      "note": "The LilyPond source sets tempoWholesPerMinute to 120/2 (half note = 120, quarter note = 240). The bundled score diminishes every duration by one half, so its quarter-note tempo is 120."
+    },
+    "selma": {
+      "bpm": 84,
+      "basis": "church-midi",
+      "label": "Christ Covenant Psalter MIDI",
+      "url": "https://www.christcovenantrpc.org/audio/psalm-singing/",
+      "archive_url": "https://ccrpcorg.s3.amazonaws.com/Psalms/MIDI_Tunes.zip",
+      "archive_member": "MIDI_Tunes/Selma.mid",
+      "sha256": "bc8181a33dbf8b6cd356c10a5e991afa1dcd091d45ae6adab7413901f89046f2",
+      "source_bpm": 84,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening tempo in the church-published tune MIDI; a reference pace rather than a historical metronome marking."
+    },
+    "st-anne": {
+      "bpm": 92,
+      "basis": "source-midi",
+      "label": "CCEH source MIDI",
+      "url": "https://www.ccel.org/cceh/0002/000223b.mid",
+      "sha256": "6501b90d81a83f9d7ba07c1735ff8ef9ba74ad574144dbf139b58bd0b61c07ee",
+      "source_bpm": 92,
+      "rhythmic_scale": 1,
+      "note": "Opening tempo; the source also contains local tempo changes. Playback uses a steady reference pace."
+    },
+    "st-cecilia": {
+      "bpm": 110,
+      "basis": "source-midi",
+      "label": "CCEH source MIDI",
+      "url": "https://www.ccel.org/cceh/0009/000981a.mid",
+      "sha256": "afe5c40a398687afaee7fc08391268b9104cf85bb55486fe66b795f80ee6eed5",
+      "source_bpm": 110,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening MIDI tempo, converted to the quarter-note units of the bundled score."
+    },
+    "st-flavian": {
+      "bpm": 100,
+      "basis": "source-midi",
+      "label": "CCEH source MIDI",
+      "url": "https://www.ccel.org/cceh/0006/000637b.mid",
+      "sha256": "3e24a9be38af5fb7e7a986af2785e1e7d87dead018a5088c750fa59bccc4de6d",
+      "source_bpm": 200,
+      "rhythmic_scale": 0.5,
+      "note": "Explicit opening MIDI tempo, converted to the quarter-note units of the bundled score."
+    },
+    "st-john": {
+      "bpm": 84,
+      "basis": "church-midi",
+      "label": "Christ Covenant Psalter MIDI",
+      "url": "https://www.christcovenantrpc.org/audio/psalm-singing/",
+      "archive_url": "https://ccrpcorg.s3.amazonaws.com/Psalms/MIDI_Tunes.zip",
+      "archive_member": "MIDI_Tunes/St. John.mid",
+      "sha256": "5a4378a64f95ad3a2112fb2a25f0f9376ecd511f48959452dad23ce3b205b962",
+      "source_bpm": 84,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening tempo in the church-published tune MIDI; a reference pace rather than a historical metronome marking."
+    },
+    "st-peter": {
+      "bpm": 84,
+      "basis": "church-midi",
+      "label": "Christ Covenant Psalter MIDI",
+      "url": "https://www.christcovenantrpc.org/audio/psalm-singing/",
+      "archive_url": "https://ccrpcorg.s3.amazonaws.com/Psalms/MIDI_Tunes.zip",
+      "archive_member": "MIDI_Tunes/St. Peter.mid",
+      "sha256": "3a3082272f12d2fde92ac4d84235fe1bfe3b80be32580da4a14d3309fe66eee4",
+      "source_bpm": 84,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening tempo in the church-published tune MIDI; a reference pace rather than a historical metronome marking."
+    },
+    "tallis-canon": {
+      "bpm": 84,
+      "basis": "editorial",
+      "label": "Editorial rehearsal pace",
+      "url": "https://www.ccel.org/cceh/0004/x000443.htm",
+      "note": "No explicit, matched tempo reference found. This provisional starting pace remains adjustable."
+    },
+    "tallis-ordinal": {
+      "bpm": 100,
+      "basis": "source-midi",
+      "label": "CCEH source MIDI",
+      "url": "https://www.ccel.org/cceh/0004/000402a.mid",
+      "sha256": "ec4381ea999939e97d12e3023c001a2214d94dc0f7f45d09a31160fda347e596",
+      "source_bpm": 100,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening MIDI tempo, converted to the quarter-note units of the bundled score."
+    },
+    "warrington": {
+      "bpm": 90,
+      "basis": "church-midi",
+      "label": "Christ Covenant Psalter MIDI",
+      "url": "https://www.christcovenantrpc.org/audio/psalm-singing/",
+      "archive_url": "https://ccrpcorg.s3.amazonaws.com/Psalms/MIDI_Tunes.zip",
+      "archive_member": "MIDI_Tunes/Warrington.mid",
+      "sha256": "c70852e5ed45ac84d597ae3f44a488d310889206a76f35596e8aa7c8c8c12f46",
+      "source_bpm": 90,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening tempo in the church-published tune MIDI; a reference pace rather than a historical metronome marking."
+    },
+    "wigtown": {
+      "bpm": 84,
+      "basis": "church-midi",
+      "label": "Christ Covenant Psalter MIDI",
+      "url": "https://www.christcovenantrpc.org/audio/psalm-singing/",
+      "archive_url": "https://ccrpcorg.s3.amazonaws.com/Psalms/MIDI_Tunes.zip",
+      "archive_member": "MIDI_Tunes/Wigton.mid",
+      "sha256": "851e3e295a54cb06b429027d9518b23a3158725a90d46b183cb0b914f2430836",
+      "source_bpm": 84,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening tempo in the church-published tune MIDI; a reference pace rather than a historical metronome marking."
+    },
+    "winchester-old": {
+      "bpm": 84,
+      "basis": "church-midi",
+      "label": "Christ Covenant Psalter MIDI",
+      "url": "https://www.christcovenantrpc.org/audio/psalm-singing/",
+      "archive_url": "https://ccrpcorg.s3.amazonaws.com/Psalms/MIDI_Tunes.zip",
+      "archive_member": "MIDI_Tunes/Winchester.mid",
+      "sha256": "3d653ff0d4c8d8d9c10dafa59f3f22c83491662b0fbbf8a3eed45ee1fb9cd9af",
+      "source_bpm": 84,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening tempo in the church-published tune MIDI; a reference pace rather than a historical metronome marking."
+    },
+    "york": {
+      "bpm": 110,
+      "basis": "source-midi",
+      "label": "CCEH source MIDI",
+      "url": "https://www.ccel.org/cceh/0012/001231a.mid",
+      "sha256": "a28727a6be4b4224cb0194a18d51ab73bb3cd860d3593524b414e01b14d904f7",
+      "source_bpm": 110,
+      "rhythmic_scale": 1,
+      "note": "Explicit opening MIDI tempo, converted to the quarter-note units of the bundled score."
+    }
+  },
+  "psalm_profiles": {
+    "ps1650.psalm-001.primary:ps1650.tune.st-peter": {
+      "bpm": 64,
+      "basis": "recording-estimate",
+      "label": "Psalm 1 congregational recording (estimate)",
+      "url": "https://ccrpcorg.s3.amazonaws.com/Psalms/Psalm1.mp3",
+      "landing_url": "https://www.christcovenantrpc.org/audio/psalm-singing/",
+      "tune_index_url": "https://ccrpcorg.s3.amazonaws.com/Psalms/Index%20of%20Psalter%20Tunes.pdf",
+      "sha256": "768712c857a0d829e094f64d8f239026f6e1132517b525317f47f35a6bbaff39",
+      "quarter_beats_per_stanza": 32,
+      "matched_stanza_onsets_seconds": [
+        5,
+        32.7,
+        62.1,
+        92.6,
+        123.8,
+        155.9
+      ],
+      "measurement": "Repeated five-second chroma windows locate corresponding positions in successive stanzas. BPM = score quarter beats per stanza × 60 × number of intervals / elapsed seconds. The mean includes stanza breaths and rubato; this is an approximate steady rehearsal pace, not a measured beat-by-beat metronome marking.",
+      "note": "Estimated mean pace from the published Psalm 1 recording and its indexed tune. Congregational rubato and stanza breaths are averaged; individual phrases vary."
+    },
+    "ps1650.psalm-023.primary:ps1650.tune.crimond": {
+      "bpm": 68,
+      "basis": "recording-estimate",
+      "label": "Psalm 23 congregational recording (estimate)",
+      "url": "https://ccrpcorg.s3.amazonaws.com/Psalms/Psalm23_1-6.mp3",
+      "landing_url": "https://www.christcovenantrpc.org/audio/psalm-singing/",
+      "tune_index_url": "https://ccrpcorg.s3.amazonaws.com/Psalms/Index%20of%20Psalter%20Tunes.pdf",
+      "sha256": "b8e554abf4faa02636ce8dfa465efdddffad6f0811967860d0ee3126ee61f269",
+      "quarter_beats_per_stanza": 42,
+      "matched_stanza_onsets_seconds": [
+        1,
+        35.9,
+        72.6,
+        110.4,
+        148.7
+      ],
+      "measurement": "Repeated five-second chroma windows locate corresponding positions in successive stanzas. BPM = score quarter beats per stanza × 60 × number of intervals / elapsed seconds. The mean includes stanza breaths and rubato; this is an approximate steady rehearsal pace, not a measured beat-by-beat metronome marking.",
+      "note": "Estimated mean pace from the published Psalm 23 recording and its indexed tune. Congregational rubato and stanza breaths are averaged; individual phrases vary."
+    }
+  }
+}

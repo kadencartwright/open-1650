@@ -385,6 +385,14 @@ export function splitMetricalWord(word, desiredCount) {
   }
 
   const plain = bareWord(word);
+  // In Psalm 2:6 the received edition underlines these three-spoken-syllable
+  // words to compress them into two metrical note positions. Keep the initial
+  // unstressed vowel separate; the remaining syllables share the final note.
+  // This is an editorial underlay interpretation, not a lyric division printed
+  // in the wordless CCEH tune score. See underlay-decisions.json.
+  if (desiredCount === 2 && (plain === "appointed" || plain === "anointed")) {
+    return splitAtNormalizedBoundaries(word, [1]);
+  }
   const markedKey = word
     .replace(/[.,;:!?()[\]]+$/gu, "")
     .toLocaleLowerCase();

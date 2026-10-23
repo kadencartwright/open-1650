@@ -1,1 +1,16 @@
 @import "tailwindcss";
+
+/* The React Native host supplies its own accessible app navigation. */
+html[data-native="true"] #root > div > header { display: none; }
+html[data-native="true"] input[type="range"] { min-height: 36px; }
+html[data-native="true"] button { touch-action: manipulation; }
+/* A single, bounded DOM scroller lets Android follow lyrics reliably without
+   moving the WebView, fixed player, or native navigation. */
+html[data-native="true"] [data-reader-frame] { overflow: hidden; }
+html[data-native="true"] #main-content {
+  height: 100%;
+  min-height: 0;
+  overflow-y: auto;
+  overflow-anchor: none;
+  scroll-behavior: auto;
+}

@@ -82,6 +82,7 @@ function createRoomImpulse(context: AudioContext): AudioBuffer {
 
 export class WebAudioBackend implements AudioBackend {
   readonly #context: AudioContext;
+  readonly #ownsContext: boolean;
   readonly #principalWave: PeriodicWave;
   readonly #fluteWave: PeriodicWave;
   readonly #voiceBus: GainNode;
@@ -93,7 +94,7 @@ export class WebAudioBackend implements AudioBackend {
   readonly #outputGate: GainNode;
   readonly #voices = new Set<VoiceHandle>();
 
-  constructor() {
+  constructor(context?: AudioContext) {
     const audioGlobal = globalThis as AudioContextWithWebkit;
     const AudioContextConstructor =
       audioGlobal.AudioContext ?? audioGlobal.webkitAudioContext;
@@ -102,7 +103,8 @@ export class WebAudioBackend implements AudioBackend {
       throw new Error("This browser does not provide the Web Audio API.");
     }
 
-    this.#context = new AudioContextConstructor({
+    this.#ownsContext = !context;
+    this.#context = context ?? new AudioContextConstructor({
       latencyHint: "interactive",
     });
     this.#principalWave = createOrganWave(this.#context, [
@@ -344,12 +346,24 @@ export class WebAudioBackend implements AudioBackend {
     this.#wet.disconnect();
     this.#master.disconnect();
     this.#outputGate.disconnect();
-    if (this.#context.state !== "closed") {
+    if (this.#ownsContext && this.#context.state !== "closed") {
       await this.#context.close();
     }
   }
 }
 
+let playbackContext: AudioContext | undefined;
+let playbackConstructor: typeof AudioContext | undefined;
+
 export function createWebAudioBackend(): AudioBackend {
-  return new WebAudioBackend();
+  // Retain the gesture-unlocked context between Psalms in a continuous queue.
+  // Each player still disposes its own notes, buses, reverb and listeners.
+  const audioGlobal = globalThis as AudioContextWithWebkit;
+  const Constructor = audioGlobal.AudioContext ?? audioGlobal.webkitAudioContext;
+  if (!Constructor) throw new Error("This browser does not provide the Web Audio API.");
+  if (!playbackContext || playbackContext.state === "closed" || playbackConstructor !== Constructor) {
+    playbackContext = new Constructor({ latencyHint: "interactive" });
+    playbackConstructor = Constructor;
+  }
+  return new WebAudioBackend(playbackContext);
 }

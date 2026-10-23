@@ -216,7 +216,9 @@ export class WebSocketSignaling implements SignalingTransport {
 }
 
 function createWebSocketUrl(options: SignalingOptions): string {
-  const base = options.websocketUrl ?? "/api/sync";
+  const base = options.websocketUrl ?? (typeof window !== "undefined" && window.ReactNativeWebView
+    ? "wss://1650.kdn.dev/api/sync"
+    : "/api/sync");
   const fallbackOrigin =
     typeof location === "undefined" ? "http://localhost" : location.href;
   const url = new URL(base, fallbackOrigin);

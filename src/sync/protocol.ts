@@ -8,6 +8,7 @@ export interface TogetherSelection {
   tuneSlug: string;
   /** Guards against applying ticks to a performance with a different shape. */
   performanceId: string;
+  transpose?: number;
 }
 
 export interface TogetherTransportMessage {
@@ -64,6 +65,8 @@ export function isTogetherSelection(
     typeof value.performanceId === "string" &&
     value.performanceId.length > 0 &&
     value.performanceId.length <= 240
+    && (value.transpose === undefined ||
+      (Number.isInteger(value.transpose) && (value.transpose as number) >= -12 && (value.transpose as number) <= 12))
   );
 }
 
@@ -115,7 +118,8 @@ export function sameTogetherSelection(
       left.psalmNumber === right.psalmNumber &&
       left.version === right.version &&
       left.tuneSlug === right.tuneSlug &&
-      left.performanceId === right.performanceId)
+      left.performanceId === right.performanceId &&
+      (left.transpose ?? 0) === (right.transpose ?? 0))
   );
 }
 

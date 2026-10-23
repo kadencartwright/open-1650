@@ -1,6 +1,7 @@
 import type { EditionKey, PsalmRecord } from "../data/types";
 import { getCleanText } from "../data/corpus";
 import { padPsalm } from "./format";
+import { downloadBlob } from "./nativeBridge";
 
 export type ExportFormat = "json" | "txt" | "tei";
 
@@ -137,12 +138,5 @@ export function downloadExport(
   format: ExportFormat,
 ): void {
   const payload = getExport(psalm, edition, format);
-  const url = URL.createObjectURL(
-    new Blob([payload.content], { type: payload.mime }),
-  );
-  const anchor = document.createElement("a");
-  anchor.href = url;
-  anchor.download = payload.filename;
-  anchor.click();
-  queueMicrotask(() => URL.revokeObjectURL(url));
+  downloadBlob(new Blob([payload.content], { type: payload.mime }), payload.filename);
 }

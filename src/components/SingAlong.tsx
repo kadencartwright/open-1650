@@ -21,6 +21,9 @@ import {
   ticksToSeconds,
 } from "../audio/compilePerformance";
 import { downloadMidiFile } from "../audio/midiFile";
+import { postNativeMessage } from "../lib/nativeBridge";
+import { followLyric } from "../lib/lyricScroll";
+import { readPlaybackPreference, savePlaybackPreference, tempoReference, transposePerformance } from "../audio/performanceOptions";
 import { useSingAlong } from "../audio/useSingAlong";
 import type {
   PsalmRecord,
@@ -47,6 +50,12 @@ interface SingAlongProps {
   togetherSelection: TogetherSelection;
   onSelectTune: (tuneId: string) => void;
   onViewSources: () => void;
+  transpose: number;
+  onTranspose: (semitones: number) => void;
+  autoplay: boolean;
+  onAutoplayChange: (enabled: boolean) => void;
+  autoStart: boolean;
+  onAdvance: () => void;
 }
 
 function formatTime(seconds: number): string {
@@ -65,10 +74,16 @@ export function SingAlong({
   togetherSelection,
   onSelectTune,
   onViewSources,
+  transpose,
+  onTranspose,
+  autoplay,
+  onAutoplayChange,
+  autoStart,
+  onAdvance,
 }: SingAlongProps) {
   const performance = useMemo(
-    () => compilePerformance(tune, setting),
-    [setting, tune],
+    () => transposePerformance(compilePerformance(tune, setting), transpose),
+    [setting, tune, transpose],
   );
   const syllableCueById = useMemo(
     () =>
@@ -103,6 +118,8 @@ export function SingAlong({
   );
   const player = useSingAlong(performance);
   const lineElements = useRef(new Map<string, HTMLButtonElement>());
+  const readerElement = useRef<HTMLElement>(null);
+  const playerElement = useRef<HTMLElement>(null);
   const playerRef = useRef(player);
   playerRef.current = player;
   const togetherPlayer = useMemo<TogetherPlayer>(
@@ -138,6 +155,34 @@ export function SingAlong({
   );
   const togetherActive = together.snapshot.mode !== "idle";
   const controlsLocked = together.snapshot.mode === "guest";
+  const reference = tempoReference(tune.id, psalm.id);
+  const tempoPreferenceKey = `tempo:${psalm.id}:${tune.id}`;
+  const initialized = useRef(false);
+  const autoStarted = useRef(false);
+
+  useEffect(() => {
+    if (initialized.current) return;
+    initialized.current = true;
+    const saved = readPlaybackPreference(tempoPreferenceKey, performance.defaultBpm);
+    if (Number.isInteger(saved) && saved >= 30 && saved <= 180) playerRef.current.setBpm(saved);
+  }, [tempoPreferenceKey, performance.defaultBpm]);
+
+  useEffect(() => {
+    if (!autoStart || autoStarted.current || together.snapshot.mode !== "idle") return;
+    // Defer past StrictMode's setup/cleanup replay so it cannot dispose the
+    // new audio backend while its first resume promise is still resolving.
+    const timer = window.setTimeout(() => {
+      autoStarted.current = true;
+      void playerRef.current.play();
+    }, 0);
+    return () => window.clearTimeout(timer);
+  }, [autoStart, together.snapshot.mode]);
+
+  useEffect(() => {
+    if (player.status !== "ended" || !autoplay || player.loopStanza || togetherActive || psalm.psalm_number === 150) return;
+    const timer = window.setTimeout(onAdvance, 1500);
+    return () => window.clearTimeout(timer);
+  }, [player.status, autoplay, player.loopStanza, togetherActive, psalm.psalm_number, onAdvance]);
 
   const firstStanza = performance.stanzas[0];
   const firstLine = performance.lines[0];
@@ -154,6 +199,16 @@ export function SingAlong({
         (player.status === "idle" ? firstLine : undefined);
   const activeSyllableId = player.activeSyllable?.syllableId;
   const isPlaying = player.status === "playing";
+  useEffect(() => {
+    postNativeMessage({ type: "playback", playing: isPlaying });
+    return () => postNativeMessage({ type: "playback", playing: false });
+  }, [isPlaying]);
+
+  useEffect(() => {
+    const pause = () => playerRef.current.pause();
+    window.addEventListener("open1650:background", pause);
+    return () => window.removeEventListener("open1650:background", pause);
+  }, []);
   const isUnlocking = player.status === "unlocking";
   const playControlActive =
     togetherActive && together.snapshot.playback
@@ -196,6 +251,17 @@ export function SingAlong({
     performance.timeSignature[0];
 
   useEffect(() => {
+    if (window.ReactNativeWebView && readerElement.current) {
+      const reader = readerElement.current;
+      // New Psalms and restart must also return to the opening text while paused.
+      if (player.currentTick === 0) {
+        reader.scrollTop = 0;
+        return;
+      }
+      const target = visualLine ? lineElements.current.get(visualLine.lineId) : null;
+      return followLyric(reader, target ?? null, playerElement.current,
+        window.matchMedia("(prefers-reduced-motion: reduce)").matches);
+    }
     if (!isPlaying || !visualLine) return;
     const target = lineElements.current.get(visualLine.lineId);
     if (!target || typeof target.scrollIntoView !== "function") return;
@@ -207,7 +273,7 @@ export function SingAlong({
       block: "center",
       behavior: reducedMotion ? "auto" : "smooth",
     });
-  }, [isPlaying, visualLine?.lineId]);
+  }, [isPlaying, visualLine?.lineId, player.currentTick === 0, introActive]);
 
   useEffect(() => {
     const onKeyDown = (event: KeyboardEvent) => {
@@ -281,6 +347,7 @@ export function SingAlong({
     <>
       <main
         id="main-content"
+        ref={readerElement}
         className="col-start-2 row-start-1 min-h-0 min-w-0 overflow-auto overscroll-contain bg-[#fbfaf6] bg-[radial-gradient(circle_at_50%_-10%,rgba(167,136,86,0.11),transparent_32%),linear-gradient(90deg,rgba(215,205,187,0.08)_1px,transparent_1px)] [background-position:0_0,0_0] [background-size:auto,41px_41px] [scrollbar-color:#dcd5c8_transparent] [scrollbar-width:thin] max-[980px]:overflow-visible print:h-auto print:overflow-visible"
         tabIndex={-1}
       >
@@ -338,7 +405,7 @@ export function SingAlong({
                         Key
                       </dt>
                       <dd className="m-0 truncate font-mono text-[9px] text-[#4f4d45]">
-                        {tune.key}
+                        {performance.key}
                       </dd>
                     </div>
                     <div className="flex min-w-0 flex-col gap-[3px]">
@@ -491,6 +558,7 @@ export function SingAlong({
       </main>
 
       <aside
+        ref={playerElement}
         className="pointer-events-none fixed right-0 bottom-0 left-[254px] z-28 px-6 pb-[18px] max-[1240px]:left-[230px] max-[980px]:left-0 max-[780px]:px-[9px] max-[780px]:pb-[max(9px,env(safe-area-inset-bottom))] print:hidden"
         aria-label="Tune player"
       >
@@ -529,7 +597,10 @@ export function SingAlong({
                 aria-label="Restart Psalm"
                 title="Restart (Home)"
                 disabled={controlsLocked}
-                onClick={together.restart}
+                onClick={() => {
+                  together.restart();
+                  if (window.ReactNativeWebView && readerElement.current) readerElement.current.scrollTop = 0;
+                }}
               >
                 <RotateCcw size={18} aria-hidden="true" />
               </button>
@@ -628,17 +699,39 @@ export function SingAlong({
                     <input
                       className="w-full cursor-pointer accent-[#a78856]"
                       type="range"
-                      min={60}
-                      max={112}
+                      min={30}
+                      max={180}
                       step={1}
                       value={player.bpm}
                       aria-label="Tempo"
                       disabled={controlsLocked}
-                      onChange={(event) =>
-                        together.setBpm(Number(event.target.value))
-                      }
+                      onChange={(event) => {
+                        const bpm = Number(event.target.value);
+                        together.setBpm(bpm);
+                        savePlaybackPreference(tempoPreferenceKey, bpm);
+                      }}
                     />
                   </label>
+                  <div className="text-[11px] leading-normal text-[#d7d0c4]">
+                    <button type="button" disabled={controlsLocked} className="cursor-pointer text-[#f1ece3] underline" onClick={() => {
+                      together.setBpm(performance.defaultBpm);
+                      savePlaybackPreference(tempoPreferenceKey, performance.defaultBpm);
+                    }}>Reset to reference: ♩ = {performance.defaultBpm}</button>
+                    {reference && <p className="mt-1 mb-0"><a href={reference.url} target="_blank" rel="noreferrer" className="text-[#d7d0c4] underline">{reference.label}</a>{reference.basis === "editorial" ? " · provisional" : reference.basis === "recording-estimate" ? " · approximate mean pace" : " · reference playback pace"}</p>}
+                    <p className="mt-1 mb-0">Tempo is remembered for this Psalm version and tune.</p>
+                  </div>
+                  <label className="flex flex-col gap-2 text-xs">
+                    <span>Transpose SATB · {performance.key}</span>
+                    <select aria-label="Transpose SATB" className="min-h-10 rounded border border-white/20 bg-[#282721] px-2 text-[#f8f5ef]" value={transpose} disabled={controlsLocked} onChange={event => onTranspose(Number(event.target.value))}>
+                      {Array.from({length: 25}, (_, index) => index - 12).map(shift => <option key={shift} value={shift}>{shift === 0 ? "Original pitch" : `${shift > 0 ? "+" : ""}${shift} semitone${Math.abs(shift) === 1 ? "" : "s"}${Math.abs(shift) === 12 ? " (one octave)" : ""}`}</option>)}
+                    </select>
+                    <span className="text-[10px] text-[#bdb5a7]">Changes all four parts and MIDI export. Changing pitch restarts the Psalm.</span>
+                  </label>
+                  <label className="flex min-h-10 cursor-pointer items-center gap-2 text-xs">
+                    <input type="checkbox" aria-label="Autoplay next Psalm" checked={autoplay} disabled={togetherActive} onChange={event => onAutoplayChange(event.target.checked)} />
+                    Autoplay next Psalm
+                  </label>
+                  <p className="m-0 text-[10px] leading-normal text-[#bdb5a7]">{togetherActive ? "Leave the group to use autoplay." : psalm.psalm_number === 150 ? "Psalm 150 is the end of the Psalter." : `Next: Psalm ${psalm.psalm_number + 1}. Continues through the primary versions to Psalm 150. Keep the app open; verse looping takes priority.`}</p>
                   <button
                     type="button"
                     className="inline-flex min-h-[38px] cursor-pointer items-center gap-[7px] rounded-[5px] border border-white/13 bg-transparent px-2.5 text-[8px] font-bold text-[#c9c1b5] data-[active=true]:border-[rgba(167,136,86,0.72)] data-[active=true]:bg-[rgba(167,136,86,0.17)] data-[active=true]:text-white max-[780px]:min-h-[34px] max-[780px]:justify-center"

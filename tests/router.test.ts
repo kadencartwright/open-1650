@@ -10,6 +10,13 @@ function locationFor(path: string): Location {
 }
 
 describe("stable reader routes", () => {
+  it("round-trips transposition and rejects values beyond one octave", () => {
+    const route = {...defaultRoute, transpose: -12};
+    expect(routeToUrl(route)).toBe("/psalms/100/primary?transpose=-12");
+    expect(parseRoute(locationFor(routeToUrl(route)))).toEqual(route);
+    expect(parseRoute(locationFor("/psalms/100/primary?transpose=13"))).toEqual(defaultRoute);
+    expect(parseRoute(locationFor("/psalms/100/primary?transpose=2.5"))).toEqual(defaultRoute);
+  });
   it("parses a Psalm, version, and edition", () => {
     expect(
       parseRoute(locationFor("/psalms/023/alternate?edition=diplomatic")),

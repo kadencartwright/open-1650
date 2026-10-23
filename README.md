@@ -177,7 +177,7 @@ timeline.
 ## Scope
 
 Open 1650 is a focused singing and rehearsal surface. Text collation and
-generated underlays remain provisional. Transposition, notation editing,
+generated underlays remain provisional. Notation editing,
 recordings, accounts, voting, and generated harmonizations are outside this
 release.
 
@@ -189,3 +189,34 @@ Open 1650's platform software and original software tooling are licensed under
 the [MIT License](./LICENSE). The Psalter text, tune data, transcriptions,
 metadata, and generated lyric underlays have separate public-domain, PDM, or
 CC0 declarations documented in [RIGHTS.md](./RIGHTS.md).
+
+## Android app and playback options
+
+The React Native Android app in [`mobile/`](./mobile/README.md) bundles this
+same singing interface and corpus for offline use, with native Psalm search,
+Android navigation, Downloads exports, and sharing. Build a signed APK using
+`cd mobile && npm ci && npm run apk` after installing the Android prerequisites
+in the mobile README.
+
+In **More playback options**, transpose the entire SATB performance by up to
+one octave in either direction, adjust tempo (30–180 quarter notes/minute), or
+turn on **Autoplay next Psalm**. Start Psalm 1 with autoplay enabled to continue
+through every primary Psalm to 150; the queue stops there. Verse looping takes
+priority. Continuous playback runs while the app/page stays open. Autoplay is
+not available during a singing group; pitch changes follow the group leader.
+Transposition also applies to the MIDI export and restarts the current Psalm.
+
+Tempo defaults now resolve from the checked-in
+[`tempo references`](./corpus/sources/tempo-references.json): 22 tunes have
+explicit MIDI or score reference paces; five retain labeled provisional
+rehearsal defaults. Psalm 1 / St. Peter and Psalm 23 / Crimond additionally use
+approximate mean paces derived from Christ Covenant's published congregational
+recordings. These estimates include breaths and rubato; none is presented as
+an authoritative historic tempo. Source links appear in the player and Sources
+view. Personal tempos persist separately for each Psalm version and tune.
+
+`npm run audit:tempos` validates the reference inventory and arithmetic offline.
+`node scripts/audit-tempo-references.mjs --fetch` rechecks live source hashes
+and explicit MIDI events. `python3 scripts/music/measure-recording-tempos.py`
+rechecks the recording fingerprints and estimates (requires NumPy and FFmpeg).
+No third-party recordings or reference MIDI files are bundled in either app.

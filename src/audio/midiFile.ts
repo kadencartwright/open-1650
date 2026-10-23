@@ -1,4 +1,5 @@
 import type { CompiledPerformance } from "./compilePerformance";
+import { downloadBlob } from "../lib/nativeBridge";
 import {
   PERFORMANCE_VOICES,
   VOICE_CHANNELS,
@@ -219,16 +220,9 @@ export function downloadMidiFile(
   const payload = new ArrayBuffer(bytes.byteLength);
   new Uint8Array(payload).set(bytes);
   const blob = new Blob([payload], { type: "audio/midi" });
-  const url = URL.createObjectURL(blob);
-  const anchor = document.createElement("a");
-  anchor.href = url;
   const number = psalmNumber(performance);
   const numberSlug = number
     ? String(number).padStart(3, "0")
     : "unknown";
-  anchor.download = `psalm-${numberSlug}-${tuneSlug(performance)}.mid`;
-  document.body.append(anchor);
-  anchor.click();
-  anchor.remove();
-  URL.revokeObjectURL(url);
+  downloadBlob(blob, `psalm-${numberSlug}-${tuneSlug(performance)}.mid`);
 }

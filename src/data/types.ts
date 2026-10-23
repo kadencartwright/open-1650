@@ -110,6 +110,7 @@ export interface AppRoute {
   version: VersionKey;
   edition: EditionKey;
   tuneSlug?: string;
+  transpose?: number;
 }
 
 export interface TuneNote {

@@ -24,12 +24,13 @@
     "import:tune-recommendations": "node scripts/import-tune-recommendations.mjs",
     "audit:syllables": "node scripts/audit-full-syllables.mjs",
     "validate:corpus": "node scripts/validate-corpus.mjs",
-    "check": "npm run validate:corpus && npm run audit:syllables && npm run test && npm run build",
+    "check": "npm run validate:corpus && npm run audit:syllables && npm run audit:tempos && npm run test && npm run build",
     "deploy:login": "ALCHEMY_PROFILE=patristic-personal alchemy login --profile patristic-personal --configure",
     "deploy:bootstrap": "ALCHEMY_PROFILE=patristic-personal alchemy cloudflare bootstrap --profile patristic-personal",
     "deploy:plan": "ALCHEMY_PROFILE=patristic-personal alchemy plan --profile patristic-personal --stage dev_k",
     "deploy": "ALCHEMY_PROFILE=patristic-personal alchemy deploy --profile patristic-personal --stage dev_k",
-    "destroy": "ALCHEMY_PROFILE=patristic-personal alchemy destroy --profile patristic-personal --stage dev_k"
+    "destroy": "ALCHEMY_PROFILE=patristic-personal alchemy destroy --profile patristic-personal --stage dev_k",
+    "audit:tempos": "node scripts/audit-tempo-references.mjs"
   },
   "dependencies": {
     "@effect/platform-node": "4.0.0-beta.93",

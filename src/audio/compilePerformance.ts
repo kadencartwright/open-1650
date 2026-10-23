@@ -9,6 +9,7 @@ import {
   PERFORMANCE_VOICES,
   type PerformanceVoice,
 } from "./voices";
+import { tempoReference } from "./performanceOptions";
 
 export interface ScheduledNote {
   id: string;
@@ -450,7 +451,7 @@ export function compilePerformance(
     meter: tune.meter,
     key: tune.key,
     ppq: tune.ppq,
-    defaultBpm: tune.default_bpm,
+    defaultBpm: tempoReference(tune.id, setting.psalm_id)?.bpm ?? tune.default_bpm,
     timeSignature: tune.time_signature,
     introTicks,
     interStanzaTicks: setting.inter_stanza_ticks,
